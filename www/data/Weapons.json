@@ -18,7 +18,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "剣",
+        "name": "Sword",
         "note": "",
         "params": [
             0,
@@ -51,7 +51,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "斧",
+        "name": "Axe",
         "note": "",
         "params": [
             0,
@@ -84,7 +84,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "杖",
+        "name": "Staff",
         "note": "",
         "params": [
             0,
@@ -117,7 +117,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "弓",
+        "name": "Bow",
         "note": "",
         "params": [
             0,
@@ -135,7 +135,7 @@
     {
         "id": 5,
         "animationId": 0,
-        "description": "太古の昔、魔物の脅威を討ち掃った勇者の剣。\nその血筋の者しか装備ができない。",
+        "description": "In ancient times, a sword of a hero who defeated the threat of monsters. Only\nthose of that bloodline can equip it.",
         "etypeId": 1,
         "traits": [
             {
@@ -150,7 +150,7 @@
             }
         ],
         "iconIndex": 119,
-        "name": "聖剣",
+        "name": "Holy Sword",
         "note": "",
         "params": [
             0,

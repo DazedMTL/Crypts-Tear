@@ -13,7 +13,7 @@
             }
         ],
         "iconIndex": 128,
-        "name": "盾",
+        "name": "Shield",
         "note": "",
         "params": [
             0,
@@ -40,7 +40,7 @@
             }
         ],
         "iconIndex": 130,
-        "name": "帽子",
+        "name": "Hat",
         "note": "",
         "params": [
             0,
@@ -67,7 +67,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "服",
+        "name": "Clothes",
         "note": "",
         "params": [
             0,
@@ -94,7 +94,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "指輪",
+        "name": "Ring",
         "note": "",
         "params": [
             0,

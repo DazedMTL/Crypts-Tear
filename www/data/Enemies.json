@@ -49,7 +49,7 @@
             }
         ],
         "gold": 0,
-        "name": "こうもり",
+        "name": "Bat",
         "note": "",
         "params": [
             200,
@@ -111,7 +111,7 @@
             }
         ],
         "gold": 0,
-        "name": "スライム",
+        "name": "Slime",
         "note": "",
         "params": [
             250,
@@ -173,7 +173,7 @@
             }
         ],
         "gold": 0,
-        "name": "オーク",
+        "name": "Orc",
         "note": "",
         "params": [
             300,
@@ -235,7 +235,7 @@
             }
         ],
         "gold": 0,
-        "name": "ミノタウロス",
+        "name": "Minotaur",
         "note": "",
         "params": [
             500,

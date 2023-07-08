@@ -72,7 +72,7 @@
                 "skillId": 9
             }
         ],
-        "name": "お転婆娘",
+        "name": "Tomboy",
         "note": "",
         "params": [
             [
@@ -980,7 +980,7 @@
                 "skillId": 22
             }
         ],
-        "name": "魔法騎士",
+        "name": "Magic Knight",
         "note": "",
         "params": [
             [
@@ -1858,7 +1858,7 @@
                 "skillId": 9
             }
         ],
-        "name": "魔術師",
+        "name": "Magician",
         "note": "",
         "params": [
             [
@@ -2736,7 +2736,7 @@
                 "skillId": 8
             }
         ],
-        "name": "僧侶",
+        "name": "Monk",
         "note": "",
         "params": [
             [
