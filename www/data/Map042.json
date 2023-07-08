@@ -1551,7 +1551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -1989,8 +1989,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "\\c[27]メリル後日談を見る？",
-                                    "そのまま回想へ"
+                                    "\\c[27]Do you want to see Merrill's epilogue?",
+                                    "Proceed to the flashback"
                                 ],
                                 1,
                                 0,

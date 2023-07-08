@@ -9659,8 +9659,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\c[27]メリルを抱く",
-                                    "耐える"
+                                    "\\c[27]Embrace Merill",
+                                    "Endure"
                                 ],
                                 1,
                                 0,
@@ -11229,7 +11229,7 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "\\c[27]する！！！"
+                                    "\\c[27]Let's do it!!!"
                                 ],
                                 1,
                                 0,
@@ -11830,8 +11830,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "\\c[27]やっぱり抱く",
-                                    "我慢"
+                                    "\\c[27]I'm going to hug you after all",
+                                    "Patience"
                                 ],
                                 -1,
                                 0,
@@ -12677,8 +12677,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\c[27]スる",
-                                    "ちょっと待って..."
+                                    "\\c[27]Do it",
+                                    "Wait a minute..."
                                 ],
                                 1,
                                 0,
@@ -13628,8 +13628,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "セリアへスイッチ",
-                                    "何もしない"
+                                    "Switch to Seria",
+                                    "Do nothing"
                                 ],
                                 1,
                                 0,
@@ -15228,8 +15228,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "キスする",
-                                    "我慢する"
+                                    "Kiss her",
+                                    "Endure"
                                 ],
                                 1,
                                 0,
@@ -15479,7 +15479,7 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "キスする"
+                                    "Kiss"
                                 ],
                                 1,
                                 0,
@@ -17416,8 +17416,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "\\c[27]吸う\\c",
-                                    "我慢する"
+                                    "\\c[27]Suck\\c",
+                                    "Endure it"
                                 ],
                                 1,
                                 0,
@@ -17537,7 +17537,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -17734,7 +17734,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -17782,7 +17782,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -17861,7 +17861,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -18904,7 +18904,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -18928,7 +18928,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -18976,7 +18976,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -19061,7 +19061,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -19085,7 +19085,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -19126,7 +19126,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -19150,7 +19150,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -19208,7 +19208,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -20592,11 +20592,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\c[14]セリアとサディのルール...ん？",
-                                    "ハヤトとメリルのルール",
-                                    "「クリプトの引き裂き」特徴",
-                                    "判明した暗証番号",
-                                    "やめる"
+                                    "\\c[14]The rules of Seria and Sadihuh?",
+                                    "Hayato and Merill's Rules",
+                                    "「Ripping of the Crypt feature",
+                                    "The confirmed password",
+                                    "Quit"
                                 ],
                                 4,
                                 0,
@@ -26073,7 +26073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -26902,7 +26902,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -26950,7 +26950,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -27007,7 +27007,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -27055,7 +27055,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -27634,7 +27634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -27722,7 +27722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -27781,7 +27781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -27887,7 +27887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -27978,7 +27978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -28002,7 +28002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -28074,7 +28074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -28155,7 +28155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -28252,7 +28252,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\c[27]クレアボヤンス（千里眼）を唱える"
+                                    "\\c[27]Invoke Clairvoyance (Remote Viewing)"
                                 ],
                                 1,
                                 0,
@@ -28294,7 +28294,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -28323,7 +28323,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -28405,7 +28405,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -28522,7 +28522,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -28570,7 +28570,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -28846,7 +28846,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -28937,7 +28937,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -29180,7 +29180,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -29204,7 +29204,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -29228,7 +29228,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -29252,7 +29252,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -29307,7 +29307,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -29452,7 +29452,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -29551,7 +29551,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -29657,7 +29657,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -29900,8 +29900,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -30060,7 +30060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -30282,7 +30282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -30366,7 +30366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -30414,7 +30414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -30510,7 +30510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -30579,7 +30579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -30702,7 +30702,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -31018,7 +31018,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -31042,7 +31042,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -31187,7 +31187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
@@ -31220,7 +31220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {

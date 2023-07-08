@@ -13183,11 +13183,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\c[14]セリアとサディのルール...ん？",
-                                    "ハヤトとメリルのルール",
-                                    "「クリプトの引き裂き」特徴",
-                                    "判明した暗証番号",
-                                    "やめる"
+                                    "\\c[14]The rules of Seria and Sadihuh?",
+                                    "Hayato and Merill's Rules",
+                                    "Crypt's Tearing feature",
+                                    "Confirmed password",
+                                    "Quit"
                                 ],
                                 4,
                                 0,
@@ -14226,7 +14226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
+                                "　Seria"
                             ]
                         },
                         {
