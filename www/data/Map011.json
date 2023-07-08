@@ -2725,7 +2725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F\\c[27]\\AA[F]......! Did you put up another \\c[27]protect\\c[0] for\nme back then?"
+                                "\\F\\c[27]\\AA[F]......! Did you put up another\n\\c[27]protect\\c[0] for me back then?"
                             ]
                         },
                         {
@@ -2749,7 +2749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[1]\\AA[F]Hayato.... (You prioritized protecting me... Thank\nyou)"
+                                "\\F[1]\\AA[F]Hayato.... (You prioritized protecting me...\nThank you)"
                             ]
                         },
                         {
@@ -2937,7 +2937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F]Hey, what's with this room! Let me out right now!"
+                                "\\F[10]\\AA[F]Hey, what's with this room! Let me out right\nnow!"
                             ]
                         },
                         {
@@ -3026,7 +3026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I won't simply release you after going through the trouble of\nmagically modifying the church's basement and bringing you here.\nWe're about to play a game that will determine your fate.\n\\c[14]\\c[0]"
+                                "I won't simply release you after going through the trouble\nof magically modifying the church's basement and bringing\nyou here. We're about to play a game that will determine\nyour fate. \\c[14]\\c[0]"
                             ]
                         },
                         {
@@ -3050,7 +3050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The rules are simple. \\c[27]Find the 4-digit code hidden\nsomewhere and break through the silver cage there\\c[0]. If you do\nthat, Celia... you win."
+                                "The rules are simple. \\c[27]Find the 4-digit code hidden\nsomewhere and break through the silver cage there\\c[0]. If\nyou do that, Celia... you win."
                             ]
                         },
                         {
@@ -3074,7 +3074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F]A 4-digit code... wait a minute. What about Hayato?"
+                                "\\F[10]\\AA[F]A 4-digit code... wait a minute. What about\nHayato?"
                             ]
                         },
                         {
@@ -3585,7 +3585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "They've been confined to an adjacent floor... in a special place\nthat you can't see."
+                                "They've been confined to an adjacent floor... in a special\nplace that you can't see."
                             ]
                         },
                         {
@@ -3609,7 +3609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]It's set up so that only Hayato can watch from his side.\n\\c\\c[27]It's a special cage\\c[0]."
+                                "\\c[14]It's set up so that only Hayato can watch from his\nside. \\c\\c[27]It's a special cage\\c[0]."
                             ]
                         },
                         {
@@ -3712,7 +3712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This is also a rule, but \\c[27]Merill will not directly touch\nHayato\\c[0]."
+                                "This is also a rule, but \\c[27]Merill will not directly\ntouch Hayato\\c[0]."
                             ]
                         },
                         {
@@ -3784,7 +3784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That's certainly true. But as long as there's no right to refuse\nparticipation in the game, there's no choice but to comply,\nright?"
+                                "That's certainly true. But as long as there's no right to\nrefuse participation in the game, there's no choice but to\ncomply, right?"
                             ]
                         },
                         {
@@ -3856,7 +3856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[18]\\AA[F]Who would ever become the property of a monster that\nkilled many people in the war!"
+                                "\\F[18]\\AA[F]Who would ever become the property of a monster\nthat killed many people in the war!"
                             ]
                         },
                         {
@@ -3880,7 +3880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's a shame. I will eventually change that way of thinking...♡\nOh, and."
+                                "It's a shame. I will eventually change that way of\nthinking...♡ Oh, and."
                             ]
                         },
                         {
@@ -3904,7 +3904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If you don't understand the code, \\c[27]you can ask me and I'll\nteach you\\c[0]."
+                                "If you don't understand the code, \\c[27]you can ask me and\nI'll teach you\\c[0]."
                             ]
                         },
                         {
@@ -3952,7 +3952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If you ask...♡ Of course, it would be in the form of listening to\nmy \\c[27]request\\c[0]."
+                                "If you ask...♡ Of course, it would be in the form of\nlistening to my \\c[27]request\\c[0]."
                             ]
                         },
                         {
@@ -3976,7 +3976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[11]\\AA[F].......I absolutely won't ask. I'll find out on my\nown!"
+                                "\\F[11]\\AA[F].......I absolutely won't ask. I'll find out on\nmy own!"
                             ]
                         },
                         {
@@ -4000,7 +4000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Even though it would be easier if you asked... both you and\nHayato.... \\c[27] There are other rules as well... please check\nthem in the nearby book. \\c[0] I'll be looking forward to it."
+                                "Even though it would be easier if you asked... both you and\nHayato.... \\c[27] There are other rules as well... please\ncheck them in the nearby book. \\c[0] I'll be looking forward\nto it."
                             ]
                         },
                         {
@@ -4095,7 +4095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "And so, the battle with the wicked succubus began. Can the boy\nand girl escape without their hearts being torn apart....."
+                                "And so, the battle with the wicked succubus began. Can the\nboy and girl escape without their hearts being torn\napart....."
                             ]
                         },
                         {
@@ -4266,7 +4266,7 @@
                                 4,
                                 0,
                                 4,
-                                "'早くアイツを助けにいかないと...'"
+                                "'We have to go help him quickly...'"
                             ]
                         },
                         {
@@ -4277,7 +4277,7 @@
                                 5,
                                 0,
                                 4,
-                                "'ふざけてるわ'"
+                                "'Youre kidding'"
                             ]
                         },
                         {
@@ -4288,7 +4288,7 @@
                                 6,
                                 0,
                                 4,
-                                "'男の淫魔って初めて見た。'"
+                                "'This is the first time Ive seen a male succubus'"
                             ]
                         },
                         {
@@ -4310,7 +4310,7 @@
                                 10,
                                 0,
                                 4,
-                                "'淫魔はやっぱり卑怯'"
+                                "'Succubi are indeed unfair'"
                             ]
                         },
                         {
@@ -4321,7 +4321,7 @@
                                 11,
                                 0,
                                 4,
-                                "'絶対一緒に脱出しよう'"
+                                "'Lets definitely escape together'"
                             ]
                         },
                         {
@@ -4332,7 +4332,7 @@
                                 12,
                                 0,
                                 4,
-                                "'この子の「管理」はお任せを..。サディ様..♡'"
+                                "'Leave this childs management to me Lord Sadi..♡'"
                             ]
                         },
                         {
@@ -4405,7 +4405,7 @@
                                 21,
                                 0,
                                 4,
-                                "'親友以上恋人未満'"
+                                "'More than friends, less than lovers'"
                             ]
                         },
                         {
@@ -4416,7 +4416,7 @@
                                 22,
                                 0,
                                 4,
-                                "'敵'"
+                                "'Enemy'"
                             ]
                         },
                         {
@@ -4427,7 +4427,7 @@
                                 23,
                                 0,
                                 4,
-                                "'守るべき相手'"
+                                "'The person to protect'"
                             ]
                         },
                         {
@@ -4438,7 +4438,7 @@
                                 24,
                                 0,
                                 4,
-                                "'危険な女性'"
+                                "'Dangerous woman'"
                             ]
                         },
                         {
@@ -4864,7 +4864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...They're quite lovey-dovey. I really have zero interest in this."
+                                "...They're quite lovey-dovey. I really have zero interest in\nthis."
                             ]
                         },
                         {
@@ -5791,7 +5791,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "1. Celia must obtain the 4-digit pin by \\c[27]some method\\c\nbefore the deadline. 2. If step 1 is completed, she must dispel\nthe magic of the cell where Hayato is imprisoned. 3. She can\ninvestigate anywhere she can reach at that point. 4. Contact from\nSadi is only allowed \\c[27]if Celia gives permission\\c[0]."
+                                "1. Celia must obtain the 4-digit pin by \\c[27]some method\\c\nbefore the deadline. 2. If step 1 is completed, she must\ndispel the magic of the cell where Hayato is imprisoned. 3.\nShe can investigate anywhere she can reach at that point. 4.\nContact from Sadi is only allowed \\c[27]if Celia gives\npermission\\c[0]."
                             ]
                         },
                         {
@@ -5808,7 +5808,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "5. If she absolutely cannot figure out the pin, by listening to\none of Sadi's requests, she can be told one digit \\c[0]"
+                                "5. If she absolutely cannot figure out the pin, by listening\nto one of Sadi's requests, she can be told one digit \\c[0]"
                             ]
                         },
                         {
@@ -5825,7 +5825,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Celia: I need to quickly find the hidden code somewhere... But\nit's troublesome with no hints. It's not even a game."
+                                "Celia: I need to quickly find the hidden code somewhere...\nBut it's troublesome with no hints. It's not even a game."
                             ]
                         },
                         {
@@ -5842,7 +5842,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Celia: Anyway, I need to go everywhere and investigate various\nthings! That's all there is to it. ............................"
+                                "Celia: Anyway, I need to go everywhere and investigate\nvarious things! That's all there is to it.\n............................"
                             ]
                         },
                         {
@@ -5859,7 +5859,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Celia: ...If there are no hints no matter where I go... \\c[27]\nI'll have to invoke rule number 5..."
+                                "Celia: ...If there are no hints no matter where I go...\n\\c[27] I'll have to invoke rule number 5..."
                             ]
                         },
                         {
@@ -5876,7 +5876,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Celia: Hayato... I'm a little anxious. We need to get out of here\nquickly."
+                                "Celia: Hayato... I'm a little anxious. We need to get out of\nhere quickly."
                             ]
                         },
                         {
@@ -5906,7 +5906,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "1. Merill will monitor Hayato. 2. Hayato will wait in the cage\nuntil Celia decrypts the code. 3. Hayato may support Celia from\ninside the cage \\c[27] if \\c[0] he wants. 4. Direct attacks on each\nother are prohibited. In that case, Celia will be executed."
+                                "1. Merill will monitor Hayato. 2. Hayato will wait in the\ncage until Celia decrypts the code. 3. Hayato may support\nCelia from inside the cage \\c[27] if \\c[0] he wants. 4.\nDirect attacks on each other are prohibited. In that case,\nCelia will be executed."
                             ]
                         },
                         {
@@ -5923,7 +5923,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "5.\\c[27] Direct contact with \\c[0]Hayato from Merill is prohibited."
+                                "5.\\c[27] Direct contact with \\c[0]Hayato from Merill is\nprohibited."
                             ]
                         },
                         {
@@ -5940,7 +5940,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Celia \\c[27]If these rules are followed, \\c[0]Hayato should still be\nsafe. Even though his powers are limited, there's no way he would\nlose to such a vulgar succubus in a one-on-one fight."
+                                "Celia \\c[27]If these rules are followed, \\c[0]Hayato should\nstill be safe. Even though his powers are limited, there's\nno way he would lose to such a vulgar succubus in a one-on-\none fight."
                             ]
                         },
                         {
@@ -5957,7 +5957,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Celia: And the last rule, number 5! How lewd do you have to be to\nneed such a rule explicitly stated!"
+                                "Celia: And the last rule, number 5! How lewd do you have to\nbe to need such a rule explicitly stated!"
                             ]
                         },
                         {
@@ -6936,7 +6936,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Finally, Celia promised to have sex that disregards the rules and\naims only to make each other feel good....."
+                                "Finally, Celia promised to have sex that disregards the\nrules and aims only to make each other feel good....."
                             ]
                         },
                         {
@@ -7055,7 +7055,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "The bewitching lewd technique that even captivates heroes and\nensnares them in the hands of evil... .....【\\c[27]Fallen Sexy\nDance\\c[0]】"
+                                "The bewitching lewd technique that even captivates heroes\nand ensnares them in the hands of evil... .....【\\c[27]Fallen\nSexy Dance\\c[0]】"
                             ]
                         },
                         {
@@ -7072,7 +7072,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Hayato was captivated, unaware that it was a cunning trap to\nsteal the timing of casting Protect on Celia and even pull away\nhis heart..."
+                                "Hayato was captivated, unaware that it was a cunning trap to\nsteal the timing of casting Protect on Celia and even pull\naway his heart..."
                             ]
                         },
                         {
@@ -7182,7 +7182,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "The speed at which Hayato's corruption level increases has been\naffected. Changes to Feelings for Merill are also more likely to\noccur, so please check regularly."
+                                "The speed at which Hayato's corruption level increases has\nbeen affected. Changes to Feelings for Merill are also more\nlikely to occur, so please check regularly."
                             ]
                         },
                         {
@@ -7204,7 +7204,7 @@
                                 11,
                                 0,
                                 4,
-                                "'〈メリルのセクシーダンスの影響で頭にピンクの靄が発生〉'"
+                                "'〈A pink haze forms in my head due to Merills sexy dance〉'"
                             ]
                         },
                         {
@@ -7255,7 +7255,7 @@
                                 4,
                                 0,
                                 4,
-                                "'ハヤトの事よりサディとのセックスが楽しくて......'"
+                                "'I enjoy sex with Sadi more than anything about Hayato......'"
                             ]
                         },
                         {
@@ -7266,7 +7266,7 @@
                                 5,
                                 0,
                                 4,
-                                "'サディを独占したい...♡言う事なんでも聴くから..♡'"
+                                "'I want to monopolize Sadi♡ Ill listen to anything you say..♡'"
                             ]
                         },
                         {
@@ -7277,7 +7277,7 @@
                                 6,
                                 0,
                                 4,
-                                "'カッコいい..♡超好み...。'"
+                                "'So cool♡ Just my type。'"
                             ]
                         },
                         {

@@ -18355,7 +18355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[2]\\AA[F]Don't worry, I don't need anything from you. You've\nfound the child I asked for before, haven't you?"
+                                "\\F[2]\\AA[F]Don't worry, I don't need anything from you.\nYou've found the child I asked for before, haven't you?"
                             ]
                         },
                         {
@@ -18379,7 +18379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Guh...\\c[14]Searching for the descendants of the goddess\\c[0], huh.\nBut, that is..."
+                                "Guh...\\c[14]Searching for the descendants of the\ngoddess\\c[0], huh. But, that is..."
                             ]
                         },
                         {
@@ -18403,7 +18403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[24]\\AA[F]If you can't tell me, then I'll have you disappear.\nAfter all I've \\c[27]done for you\\c[0]... How ungrateful, you\nclergyman."
+                                "\\F[24]\\AA[F]If you can't tell me, then I'll have you\ndisappear. After all I've \\c[27]done for you\\c[0]... How\nungrateful, you clergyman."
                             ]
                         },
                         {
@@ -18451,7 +18451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The person themselves is unaware, but I've confirmed that their\nmagic power harbors divinity. Moreover, it's extraordinary!\nThere's no doubt that they are of the \\c[14]goddess class\\c[0]...."
+                                "The person themselves is unaware, but I've confirmed that\ntheir magic power harbors divinity. Moreover, it's\nextraordinary! There's no doubt that they are of the\n\\c[14]goddess class\\c[0]...."
                             ]
                         },
                         {
@@ -18523,7 +18523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]He's the younger brother of the man who was called a hero\nduring the great war\\c[0]...."
+                                "\\c[14]He's the younger brother of the man who was called a\nhero during the great war\\c[0]...."
                             ]
                         },
                         {
@@ -18547,7 +18547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[20]\\AA[F]Oh? That hero... huh. I couldn't see him directly,\nbut to think that such a guy's younger brother is the\nattendant...♡"
+                                "\\F[20]\\AA[F]Oh? That hero... huh. I couldn't see him\ndirectly, but to think that such a guy's younger brother is\nthe attendant...♡"
                             ]
                         },
                         {
@@ -18637,7 +18637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[24]\\AA[F]Watch your mouth, perverted priest. It's Lady Sadi."
+                                "\\F[24]\\AA[F]Watch your mouth, perverted priest. It's Lady\nSadi."
                             ]
                         },
                         {
@@ -18825,7 +18825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's presumptuous to think of an end. They must become a part of\nmy \\c[27]harem\\c[0] and we must love each other.."
+                                "It's presumptuous to think of an end. They must become a\npart of my \\c[27]harem\\c[0] and we must love each other.."
                             ]
                         },
                         {
@@ -19021,7 +19021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Wait, wait a minute! The investigation isn't 100% complete yet,\nso this discussion is still..."
+                                "Wait, wait a minute! The investigation isn't 100% complete\nyet, so this discussion is still..."
                             ]
                         },
                         {
@@ -19083,7 +19083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[25]\\AA[F]Yes, Lady Sadi♡ Father... it's our 'usual' time...♡"
+                                "\\F[25]\\AA[F]Yes, Lady Sadi♡ Father... it's our 'usual'\ntime...♡"
                             ]
                         },
                         {
@@ -19360,7 +19360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Do you want to let it out? Then say it properly with words...♡"
+                                "Do you want to let it out? Then say it properly with\nwords...♡"
                             ]
                         },
                         {
@@ -20268,7 +20268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F]It's been a year since I moved to this town. I've\nbeen waiting for the right moment to say something very important\nin my life."
+                                "\\F[10]\\AA[F]It's been a year since I moved to this town.\nI've been waiting for the right moment to say something very\nimportant in my life."
                             ]
                         },
                         {
@@ -20292,7 +20292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[1]\\AA[F]\\M[yes]Hayato! After visiting the grave, we're going\nto the priest's place."
+                                "\\F[1]\\AA[F]\\M[yes]Hayato! After visiting the grave, we're\ngoing to the priest's place."
                             ]
                         },
                         {
@@ -20515,7 +20515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[3]\\AA[F]He is Hayato. Since I came to town, he's been kinder\nto me than anyone else... a close friend."
+                                "\\F[3]\\AA[F]He is Hayato. Since I came to town, he's been\nkinder to me than anyone else... a close friend."
                             ]
                         },
                         {
@@ -20537,7 +20537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F\\c\\AA[F]\\c[14]This town itself is my birthplace\\c[0]. But.. for\nme, who had moved to the city since I was conscious, it was an\nunfamiliar land."
+                                "\\F\\c\\AA[F]\\c[14]This town itself is my birthplace\\c[0].\nBut.. for me, who had moved to the city since I was\nconscious, it was an unfamiliar land."
                             ]
                         },
                         {
@@ -20554,7 +20554,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[1]\\AA[F]It's been over a decade since I returned here due to\nthe monster invasion in the city... Thanks to Hayato's support, I\nwas able to quickly adapt to life in Variante."
+                                "\\F[1]\\AA[F]It's been over a decade since I returned here due\nto the monster invasion in the city... Thanks to Hayato's\nsupport, I was able to quickly adapt to life in Variante."
                             ]
                         },
                         {
@@ -20571,7 +20571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F\\c[14]\\AA[F]Even though he \\c[14]lost his older brother in the\nwar and \\c[0]must have been going through a tough time..."
+                                "\\F\\c[14]\\AA[F]Even though he \\c[14]lost his older brother in\nthe war and \\c[0]must have been going through a tough\ntime..."
                             ]
                         },
                         {
@@ -20600,7 +20600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(I've always had a difficult personality and caused him a lot of\ntrouble... Well, let's go."
+                                "(I've always had a difficult personality and caused him a lot\nof trouble... Well, let's go."
                             ]
                         },
                         {
@@ -21533,7 +21533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Very important in life.... That's about \\c[27]confession\\c[0]."
+                                "Very important in life.... That's about\n\\c[27]confession\\c[0]."
                             ]
                         },
                         {
@@ -21550,7 +21550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The reason I can live without difficulty now is thanks to Hayato.\nThat's why I want to convey my feelings.......but........"
+                                "The reason I can live without difficulty now is thanks to\nHayato. That's why I want to convey my\nfeelings.......but........"
                             ]
                         },
                         {
@@ -21574,7 +21574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "What if he dislikes it... What if he says, You've suddenly become\nstrange...!"
+                                "What if he dislikes it... What if he says, You've suddenly\nbecome strange...!"
                             ]
                         },
                         {
@@ -21608,7 +21608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]I wonder where the right \\c[0]timing comes from..... I've been\nwaiting forever."
+                                "\\c[14]I wonder where the right \\c[0]timing comes from.....\nI've been waiting forever."
                             ]
                         },
                         {
@@ -21637,7 +21637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F]Ah, ah, that's right. Anyway, I had some business at\nthe church."
+                                "\\F[10]\\AA[F]Ah, ah, that's right. Anyway, I had some\nbusiness at the church."
                             ]
                         },
                         {
@@ -21699,7 +21699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[1]\\AA[F]But I was in the middle of something.... Maybe later\nwould be better."
+                                "\\F[1]\\AA[F]But I was in the middle of something.... Maybe\nlater would be better."
                             ]
                         },
                         {
@@ -21864,7 +21864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well, that's impossible. You were chatting with the priest in\nbroad daylight, so it should be fine."
+                                "Well, that's impossible. You were chatting with the priest\nin broad daylight, so it should be fine."
                             ]
                         },
                         {

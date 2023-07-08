@@ -37,7 +37,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "....A year ago, there was a great war between humans and monsters."
+                    "....A year ago, there was a great war between humans and\nmonsters."
                 ]
             },
             {
@@ -54,7 +54,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Amidst the world engulfed in war, the army led by the Hero\nsomehow managed to repel the evil monsters led by the Demon King."
+                    "Amidst the world engulfed in war, the army led by the Hero\nsomehow managed to repel the evil monsters led by the Demon\nKing."
                 ]
             },
             {
@@ -88,7 +88,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "However, for some reason, they were unable to fully suppress the\nmonsters. And due to the fact that more monsters than expected\nattacked with clever tactics using their knowledge, nearly 30% of\nthe world remained invaded by the Demon King's army and entered a\nceasefire."
+                    "However, for some reason, they were unable to fully suppress\nthe monsters. And due to the fact that more monsters than\nexpected attacked with clever tactics using their knowledge,\nnearly 30% of the world remained invaded by the Demon King's\narmy and entered a ceasefire."
                 ]
             },
             {
@@ -129,7 +129,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\F[1]\\AA[F]The protagonist of this story is this girl. Her name\nis Celia."
+                    "\\F[1]\\AA[F]The protagonist of this story is this girl. Her\nname is Celia."
                 ]
             },
             {
@@ -252,7 +252,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Celia \\F[1]\\AA[F]Hayato! After visiting the grave, we're going to\nthe priest's place."
+                    "Celia \\F[1]\\AA[F]Hayato! After visiting the grave, we're\ngoing to the priest's place."
                 ]
             },
             {
@@ -475,7 +475,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\F[1]\\AA[F]He is Hayato. He's been kinder to me than anyone else\nsince I came to town."
+                    "\\F[1]\\AA[F]He is Hayato. He's been kinder to me than anyone\nelse since I came to town."
                 ]
             },
             {
@@ -492,7 +492,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\F\\c\\AA[F]\\c[14]This town is my birthplace\\c[0], but for me, who had\nbeen living in the city since I was conscious, it was a\ncompletely unfamiliar place."
+                    "\\F\\c\\AA[F]\\c[14]This town is my birthplace\\c[0], but for me,\nwho had been living in the city since I was conscious, it\nwas a completely unfamiliar place."
                 ]
             },
             {
@@ -509,7 +509,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\F[1]\\AA[F]I ended up drifting to such a hometown as a post-war\nimmigrant....., but thanks to Hayato, I was able to fit in\nquickly."
+                    "\\F[1]\\AA[F]I ended up drifting to such a hometown as a post-\nwar immigrant....., but thanks to Hayato, I was able to fit\nin quickly."
                 ]
             },
             {
@@ -689,7 +689,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Celia | ....She seems to be talking to someone. I wonder if she's\nbusy?"
+                    "Celia | ....She seems to be talking to someone. I wonder if\nshe's busy?"
                 ]
             },
             {
@@ -1384,7 +1384,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "The reason I can live so easily now is thanks to Hayato. That's\nwhy I want to convey my feelings....but...."
+                    "The reason I can live so easily now is thanks to Hayato.\nThat's why I want to convey my feelings....but...."
                 ]
             },
             {
@@ -1401,7 +1401,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Celia What if he dislikes me! What if he says, You've suddenly\nbecome strange! What should I do!!"
+                    "Celia What if he dislikes me! What if he says, You've\nsuddenly become strange! What should I do!!"
                 ]
             },
             {
@@ -1418,7 +1418,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "So time passed without me being able to say anything... it's\nalready been a month. What should I do? This is just like the\npattern of a hopelessly clumsy girl..."
+                    "So time passed without me being able to say anything... it's\nalready been a month. What should I do? This is just like\nthe pattern of a hopelessly clumsy girl..."
                 ]
             },
             {
@@ -1495,7 +1495,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Celia \\F[1]\\AA[F] But she seemed busy, so maybe I'll come back\nlater. I left something at the church though...."
+                    "Celia \\F[1]\\AA[F] But she seemed busy, so maybe I'll come\nback later. I left something at the church though...."
                 ]
             },
             {
@@ -1529,7 +1529,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Celia \\F[1]\\AA[F] Eh, speaking of which, were you talking with\nthe priest earlier...?"
+                    "Celia \\F[1]\\AA[F] Eh, speaking of which, were you talking\nwith the priest earlier...?"
                 ]
             },
             {
@@ -1585,7 +1585,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Celia Well, that's impossible. You were just chatting with the\npriest, so it should be fine."
+                    "Celia Well, that's impossible. You were just chatting with\nthe priest, so it should be fine."
                 ]
             },
             {

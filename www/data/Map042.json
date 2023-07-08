@@ -1624,7 +1624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【After Hayato】 While watching over Celia and others at the\nVariante every day, he is thinking about measures against the\nmonster invasion."
+                                "【After Hayato】 While watching over Celia and others at the\nVariante every day, he is thinking about measures against\nthe monster invasion."
                             ]
                         },
                         {
@@ -1641,7 +1641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【After Merill】 She is considered missing by the Demon King's\narmy, but she herself seems to plan to do as she pleases until\nSadi is revived."
+                                "【After Merill】 She is considered missing by the Demon King's\narmy, but she herself seems to plan to do as she pleases\nuntil Sadi is revived."
                             ]
                         },
                         {
@@ -1658,7 +1658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【After Sadi】 She was seriously injured by Celia's attack and is\ncurrently being treated by the Demon King's army. Her recovery is\neagerly awaited."
+                                "【After Sadi】 She was seriously injured by Celia's attack and\nis currently being treated by the Demon King's army. Her\nrecovery is eagerly awaited."
                             ]
                         },
                         {
@@ -1692,7 +1692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【After Celia】 After learning that she is not a goddess but a\ndescendant of a hero, \\c[14] she started training to become an\nadventurer with Hayato \\c[0]"
+                                "【After Celia】 After learning that she is not a goddess but a\ndescendant of a hero, \\c[14] she started training to become\nan adventurer with Hayato \\c[0]"
                             ]
                         },
                         {
@@ -2676,7 +2676,7 @@
                                 4,
                                 0,
                                 4,
-                                "'早くアイツを助けにいかないと...'"
+                                "'We need to go help him quickly...'"
                             ]
                         },
                         {
@@ -2687,7 +2687,7 @@
                                 5,
                                 0,
                                 4,
-                                "'多くの人を殺してきたヤツ...許せない'"
+                                "'I cant forgive the guy who has killed so many people'"
                             ]
                         },
                         {
@@ -2698,7 +2698,7 @@
                                 6,
                                 0,
                                 4,
-                                "'想いとか片腹痛いわよ'"
+                                "'Thoughts like that are a pain in the side'"
                             ]
                         },
                         {
@@ -2720,7 +2720,7 @@
                                 10,
                                 0,
                                 4,
-                                "'淫魔はやっぱり卑怯'"
+                                "'Succubi are indeed unfair'"
                             ]
                         },
                         {
@@ -2731,7 +2731,7 @@
                                 11,
                                 0,
                                 4,
-                                "'絶対一緒に脱出しよう'"
+                                "'Lets definitely escape together'"
                             ]
                         },
                         {
@@ -2742,7 +2742,7 @@
                                 12,
                                 0,
                                 4,
-                                "'この子の「管理」はお任せを..。サディ様..♡'"
+                                "'Ill leave the management of this child to you Lord Sadi..♡'"
                             ]
                         },
                         {
@@ -2805,7 +2805,7 @@
                                 21,
                                 0,
                                 4,
-                                "'親友以上恋人未満'"
+                                "'More than friends, less than lovers'"
                             ]
                         },
                         {
@@ -2816,7 +2816,7 @@
                                 22,
                                 0,
                                 4,
-                                "'敵'"
+                                "'Enemy'"
                             ]
                         },
                         {
@@ -2827,7 +2827,7 @@
                                 23,
                                 0,
                                 4,
-                                "'守るべき相手'"
+                                "'The person to protect'"
                             ]
                         },
                         {
@@ -2838,7 +2838,7 @@
                                 24,
                                 0,
                                 4,
-                                "'危険な女性'"
+                                "'Dangerous woman'"
                             ]
                         },
                         {

@@ -3214,7 +3214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Will you touch the sacred sword? (※Heading towards the \\c[14]\nending event)"
+                                "Will you touch the sacred sword? (※Heading towards the\n\\c[14] ending event)"
                             ]
                         },
                         {
@@ -3540,7 +3540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[17]\\AA[F]They said it was a \\c[14]storage \\c[0]room, so I thought\nit would be a more confined place...."
+                                "\\F[17]\\AA[F]They said it was a \\c[14]storage \\c[0]room, so I\nthought it would be a more confined place...."
                             ]
                         },
                         {
@@ -3881,7 +3881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I don't know... Suddenly, I couldn't track his whereabouts...."
+                                "I don't know... Suddenly, I couldn't track his\nwhereabouts...."
                             ]
                         },
                         {
@@ -4152,7 +4152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That's right. However, as I've mentioned before, if you're not a\n\\c[14]compatible person\\c[0], you can't even handle it."
+                                "That's right. However, as I've mentioned before, if you're\nnot a \\c[14]compatible person\\c[0], you can't even handle\nit."
                             ]
                         },
                         {
@@ -4701,7 +4701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[17]\\AA[F]I-I wasn't worried.\\c[14] I trust you, after all\\c[0]."
+                                "\\F[17]\\AA[F]I-I wasn't worried.\\c[14] I trust you, after\nall\\c[0]."
                             ]
                         },
                         {
@@ -4725,7 +4725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[3]\\AA[F]More importantly, look at this! This is the \\c[14]holy\nsword\\c[0] you were talking about, right!? Use this to cut it down!"
+                                "\\F[3]\\AA[F]More importantly, look at this! This is the\n\\c[14]holy sword\\c[0] you were talking about, right!? Use\nthis to cut it down!"
                             ]
                         },
                         {
@@ -5449,7 +5449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That's right. However, as I mentioned before, if you're not a\n\\c[14]compatible person\\c[0]..."
+                                "That's right. However, as I mentioned before, if you're not\na \\c[14]compatible person\\c[0]..."
                             ]
                         },
                         {
@@ -5473,7 +5473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[3]\\AA[F]Don't worry! After all, you're the hero's younger\nbrother! \\c[14]Alright... I'll hold onto it so I can hand it over\nimmediately\\c[0]"
+                                "\\F[3]\\AA[F]Don't worry! After all, you're the hero's younger\nbrother! \\c[14]Alright... I'll hold onto it so I can hand it\nover immediately\\c[0]"
                             ]
                         },
                         {
@@ -5751,7 +5751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[15]\\AA[F]................................. ..........But I'm\nholding it right now."
+                                "\\F[15]\\AA[F]................................. ..........But\nI'm holding it right now."
                             ]
                         },
                         {
@@ -5775,7 +5775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That Holy Sword! It was originally stored here as the ultimate\nweapon to defeat the calamity of monsters!"
+                                "That Holy Sword! It was originally stored here as the\nultimate weapon to defeat the calamity of monsters!"
                             ]
                         },
                         {
@@ -5799,7 +5799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But if anyone could touch it, it would certainly be misused. From\nsuch a thought, it was designed so that only those of 'a certain\nlineage' could touch it...."
+                                "But if anyone could touch it, it would certainly be misused.\nFrom such a thought, it was designed so that only those of\n'a certain lineage' could touch it...."
                             ]
                         },
                         {
@@ -5823,7 +5823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{Only those who possess the 'Blood of the Hero'\\c[14]\\c[0] can."
+                                "\\{Only those who possess the 'Blood of the Hero'\\c[14]\\c[0]\ncan."
                             ]
                         },
                         {
@@ -5895,7 +5895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hayato's older brother...\\c[14] couldn't pull out the \\c[0]Holy\nSword."
+                                "Hayato's older brother...\\c[14] couldn't pull out the\n\\c[0]Holy Sword."
                             ]
                         },
                         {
@@ -5928,7 +5928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[17]\\AA[F]So... that's why \\c[14]he couldn't take it from\nhere\\c[0]...? Then in the war, it wasn't even used to begin with...."
+                                "\\F[17]\\AA[F]So... that's why \\c[14]he couldn't take it from\nhere\\c[0]...? Then in the war, it wasn't even used to begin\nwith...."
                             ]
                         },
                         {
@@ -6043,7 +6043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[24]\\AA[F]I've just witnessed an incredible sight... No wonder\nI thought it was strange."
+                                "\\F[24]\\AA[F]I've just witnessed an incredible sight... No\nwonder I thought it was strange."
                             ]
                         },
                         {
@@ -6107,7 +6107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[24]\\AA[F]The young girl emotionally cast [Inferno]. That was\nan attack far removed from the image of a \\c[14]goddess\\c[0]."
+                                "\\F[24]\\AA[F]The young girl emotionally cast [Inferno]. That\nwas an attack far removed from the image of a\n\\c[14]goddess\\c[0]."
                             ]
                         },
                         {
@@ -6203,7 +6203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[25]\\AA[F]I guess we have one more reason to settle this, don't\nwe?♡"
+                                "\\F[25]\\AA[F]I guess we have one more reason to settle this,\ndon't we?♡"
                             ]
                         },
                         {
@@ -6364,7 +6364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[37]\\AA[F].....I'm glad that you were the first one to appear\nwhen I grasped this sword."
+                                "\\F[37]\\AA[F].....I'm glad that you were the first one to\nappear when I grasped this sword."
                             ]
                         },
                         {
@@ -6897,7 +6897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "We're in this kind of relationship, you know♡ Right, Hayato♡?"
+                                "We're in this kind of relationship, you know♡ Right,\nHayato♡?"
                             ]
                         },
                         {
@@ -7542,7 +7542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\c[14]Dark Protect\\c[0]】 A treacherous protective magic that guards\nthe wicked. For Hayato, this is proof that \\c[27]Merill has\nbecome an existence he must protect."
+                                "【\\c[14]Dark Protect\\c[0]】 A treacherous protective magic\nthat guards the wicked. For Hayato, this is proof that\n\\c[27]Merill has become an existence he must protect."
                             ]
                         },
                         {
@@ -7605,7 +7605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Celia continued to undergo \\c[27]enchanting training\\c[0] by Sadi\nand Krone...."
+                                "Celia continued to undergo \\c[27]enchanting training\\c[0] by\nSadi and Krone...."
                             ]
                         },
                         {
@@ -7873,7 +7873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That's right. However, as I've mentioned before, if you're not a\n\\c[14]compatible person\\c[0]..."
+                                "That's right. However, as I've mentioned before, if you're\nnot a \\c[14]compatible person\\c[0]..."
                             ]
                         },
                         {
@@ -7909,7 +7909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[3]\\AA[F]Don't worry! After all, you're the hero's younger\nbrother! \\c[14]Alright... I'll hold onto it so I can hand it over\nimmediately\\c[0]"
+                                "\\F[3]\\AA[F]Don't worry! After all, you're the hero's younger\nbrother! \\c[14]Alright... I'll hold onto it so I can hand it\nover immediately\\c[0]"
                             ]
                         },
                         {
@@ -8196,7 +8196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[15]\\AA[F]................................. ..........But I'm\nholding it right now."
+                                "\\F[15]\\AA[F]................................. ..........But\nI'm holding it right now."
                             ]
                         },
                         {
@@ -8220,7 +8220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That Holy Sword! It was originally stored here as the ultimate\nweapon to defeat the calamity of monsters!"
+                                "That Holy Sword! It was originally stored here as the\nultimate weapon to defeat the calamity of monsters!"
                             ]
                         },
                         {
@@ -8244,7 +8244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But if anyone could touch it, it would definitely be misused.\nFrom such a thought, it was designed so that only those of 'a\ncertain lineage' could touch it...."
+                                "But if anyone could touch it, it would definitely be\nmisused. From such a thought, it was designed so that only\nthose of 'a certain lineage' could touch it...."
                             ]
                         },
                         {
@@ -8358,7 +8358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hayato's older brother...\\c[14] couldn't pull out the \\c[0]Holy\nSword."
+                                "Hayato's older brother...\\c[14] couldn't pull out the\n\\c[0]Holy Sword."
                             ]
                         },
                         {
@@ -8382,7 +8382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I believe... it's not about lineage, but perhaps he was called a\nhero because of his wonderful deeds...."
+                                "I believe... it's not about lineage, but perhaps he was\ncalled a hero because of his wonderful deeds...."
                             ]
                         },
                         {
@@ -8463,7 +8463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[17]\\AA[F]But, I see... The mystery of the story I heard in\nAnn's room has been solved.... After using it in the war, someone\ndidn't come here to return the \\c[14]Holy Sword\\c[0]...."
+                                "\\F[17]\\AA[F]But, I see... The mystery of the story I heard\nin Ann's room has been solved.... After using it in the war,\nsomeone didn't come here to return the \\c[14]Holy\nSword\\c[0]...."
                             ]
                         },
                         {
@@ -8487,7 +8487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[17]\\AA[F]To begin with, \\c[14]they couldn't take \\c[0]it. Such a\npowerful weapon...."
+                                "\\F[17]\\AA[F]To begin with, \\c[14]they couldn't take \\c[0]it.\nSuch a powerful weapon...."
                             ]
                         },
                         {
@@ -8511,7 +8511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F](The human side was fighting in the war with quite a\nhandicap, huh...)"
+                                "\\F[10]\\AA[F](The human side was fighting in the war with\nquite a handicap, huh...)"
                             ]
                         },
                         {
@@ -8643,7 +8643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[24]\\AA[F]I ended up seeing quite an amazing\nsight...\\c[14]Touching the Holy Sword\\c[0]. No wonder I thought it\nwas strange."
+                                "\\F[24]\\AA[F]I ended up seeing quite an amazing\nsight...\\c[14]Touching the Holy Sword\\c[0]. No wonder I\nthought it was strange."
                             ]
                         },
                         {
@@ -8707,7 +8707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[24]\\AA[F]The young girl emotionally cast [Inferno]. That was\nan aggressiveness far removed from the image of a\n\\c[14]goddess\\c[0]."
+                                "\\F[24]\\AA[F]The young girl emotionally cast [Inferno]. That\nwas an aggressiveness far removed from the image of a\n\\c[14]goddess\\c[0]."
                             ]
                         },
                         {
@@ -8816,7 +8816,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[25]\\AA[F]If you were not the '\\c[14]goddess\\c[0]', but the\n'\\c[14]hero\\c[0]', it would make sense."
+                                "\\F[25]\\AA[F]If you were not the '\\c[14]goddess\\c[0]', but\nthe '\\c[14]hero\\c[0]', it would make sense."
                             ]
                         },
                         {
@@ -8864,7 +8864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[25]\\AA[F]I guess we have one more reason to settle this, don't\nwe?♡"
+                                "\\F[25]\\AA[F]I guess we have one more reason to settle this,\ndon't we?♡"
                             ]
                         },
                         {
@@ -9025,7 +9025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[37]\\AA[F].....I'm glad that you were the first one to appear\nwhen I grasped this sword."
+                                "\\F[37]\\AA[F].....I'm glad that you were the first one to\nappear when I grasped this sword."
                             ]
                         },
                         {
@@ -9594,7 +9594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "We're in this kind of relationship, aren't we♡ Right, Hayato♡"
+                                "We're in this kind of relationship, aren't we♡ Right,\nHayato♡"
                             ]
                         },
                         {
@@ -9833,7 +9833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[39]\\AA[F]While I was working hard searching for the code, what\nkind of relationship were you building, you idiot!!!"
+                                "\\F[39]\\AA[F]While I was working hard searching for the code,\nwhat kind of relationship were you building, you idiot!!!"
                             ]
                         },
                         {
@@ -10250,7 +10250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Even if she has the holy sword, there's no way a little girl who\nhasn't trained could be a match for us, right?♡"
+                                "Even if she has the holy sword, there's no way a little girl\nwho hasn't trained could be a match for us, right?♡"
                             ]
                         },
                         {
@@ -10608,7 +10608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\c[14]Dark Protect\\c[0]】 A treacherous protective magic that guards\nthe wicked. For Hayato, it's a sign that \\c[27]Merill has become\nan existence he must protect\\c[0]."
+                                "【\\c[14]Dark Protect\\c[0]】 A treacherous protective magic\nthat guards the wicked. For Hayato, it's a sign that\n\\c[27]Merill has become an existence he must protect\\c[0]."
                             ]
                         },
                         {
@@ -10632,7 +10632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hey, Lady Sadi♡ Can I have a \\c[27]victory celebration\\c[0] with\nHayato?♡"
+                                "Hey, Lady Sadi♡ Can I have a \\c[27]victory celebration\\c[0]\nwith Hayato?♡"
                             ]
                         },
                         {
@@ -11029,7 +11029,7 @@
                                 4,
                                 0,
                                 4,
-                                "'早くアイツを助けにいかないと...'"
+                                "'We need to go help him quickly...'"
                             ]
                         },
                         {
@@ -11040,7 +11040,7 @@
                                 5,
                                 0,
                                 4,
-                                "'多くの人を殺してきたヤツ...許せない'"
+                                "'I cant forgive the one who has killed so many people'"
                             ]
                         },
                         {
@@ -11051,7 +11051,7 @@
                                 6,
                                 0,
                                 4,
-                                "'想いとか片腹痛いわよ'"
+                                "'Thoughts like that are a pain in the side'"
                             ]
                         },
                         {
@@ -11073,7 +11073,7 @@
                                 10,
                                 0,
                                 4,
-                                "'淫魔はやっぱり卑怯'"
+                                "'Succubi are indeed unfair'"
                             ]
                         },
                         {
@@ -11084,7 +11084,7 @@
                                 11,
                                 0,
                                 4,
-                                "'絶対一緒に脱出しよう'"
+                                "'Lets definitely escape together'"
                             ]
                         },
                         {
@@ -11095,7 +11095,7 @@
                                 12,
                                 0,
                                 4,
-                                "'この子の「管理」はお任せを..。サディ様..♡'"
+                                "'Leave this childs management to me Lord Sadi..♡'"
                             ]
                         },
                         {
@@ -11158,7 +11158,7 @@
                                 21,
                                 0,
                                 4,
-                                "'親友以上恋人未満'"
+                                "'More than friends, less than lovers'"
                             ]
                         },
                         {
@@ -11169,7 +11169,7 @@
                                 22,
                                 0,
                                 4,
-                                "'敵'"
+                                "'Enemy'"
                             ]
                         },
                         {
@@ -11180,7 +11180,7 @@
                                 23,
                                 0,
                                 4,
-                                "'守るべき相手'"
+                                "'The person to protect'"
                             ]
                         },
                         {
@@ -11191,7 +11191,7 @@
                                 24,
                                 0,
                                 4,
-                                "'危険な女性'"
+                                "'Dangerous woman'"
                             ]
                         },
                         {
@@ -11448,7 +11448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's a bug fix that keeps images displayed all the time during\nplay."
+                                "It's a bug fix that keeps images displayed all the time\nduring play."
                             ]
                         },
                         {

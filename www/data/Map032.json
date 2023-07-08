@@ -3629,7 +3629,7 @@
                                 4,
                                 0,
                                 4,
-                                "'無事なのかしら...'"
+                                "'I wonder if everything is okay...'"
                             ]
                         },
                         {
@@ -3640,7 +3640,7 @@
                                 5,
                                 0,
                                 4,
-                                "'やっぱりアイツからは距離を置かないと'"
+                                "'I really need to keep my distance from that guy'"
                             ]
                         },
                         {
@@ -3651,7 +3651,7 @@
                                 6,
                                 0,
                                 4,
-                                "'一瞬良く見えてしまう時もあるけど...'"
+                                "'There are times when I can see it clearly for a moment...'"
                             ]
                         },
                         {
@@ -4302,7 +4302,7 @@
                                 4,
                                 0,
                                 4,
-                                "'早くアイツを助けにいかないと...'"
+                                "'We need to go help him quickly...'"
                             ]
                         },
                         {
@@ -4313,7 +4313,7 @@
                                 5,
                                 0,
                                 4,
-                                "'多くの人を殺してきたヤツ...許せない'"
+                                "'I cant forgive the one who has killed so many people'"
                             ]
                         },
                         {
@@ -4324,7 +4324,7 @@
                                 6,
                                 0,
                                 4,
-                                "'想いとか片腹痛いわよ'"
+                                "'Thoughts like that are a pain in the side'"
                             ]
                         },
                         {
@@ -4357,7 +4357,7 @@
                                 10,
                                 0,
                                 4,
-                                "'淫魔はやっぱり卑怯'"
+                                "'Succubi are indeed unfair'"
                             ]
                         },
                         {
@@ -4368,7 +4368,7 @@
                                 11,
                                 0,
                                 4,
-                                "'絶対一緒に脱出しよう'"
+                                "'Lets definitely escape together'"
                             ]
                         },
                         {
@@ -4379,7 +4379,7 @@
                                 12,
                                 0,
                                 4,
-                                "'この子の「管理」はお任せを..。サディ様..♡'"
+                                "'Ill leave the management of this child to you Lord Sadi..♡'"
                             ]
                         },
                         {
@@ -4442,7 +4442,7 @@
                                 21,
                                 0,
                                 4,
-                                "'親友以上恋人未満'"
+                                "'More than friends, less than lovers'"
                             ]
                         },
                         {
@@ -4453,7 +4453,7 @@
                                 22,
                                 0,
                                 4,
-                                "'敵'"
+                                "'Enemy'"
                             ]
                         },
                         {
@@ -4464,7 +4464,7 @@
                                 23,
                                 0,
                                 4,
-                                "'守るべき相手'"
+                                "'The person to protect'"
                             ]
                         },
                         {
@@ -4475,7 +4475,7 @@
                                 24,
                                 0,
                                 4,
-                                "'危険な女性'"
+                                "'Dangerous woman'"
                             ]
                         },
                         {
@@ -5228,7 +5228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I intended to, but... It seems like some sort of mechanism is\npreventing me from leaving this place."
+                                "I intended to, but... It seems like some sort of mechanism\nis preventing me from leaving this place."
                             ]
                         },
                         {
@@ -5285,7 +5285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There's a powerful barrier in place. Probably, only Lady Sadi and\nLady Merill can leave easily."
+                                "There's a powerful barrier in place. Probably, only Lady\nSadi and Lady Merill can leave easily."
                             ]
                         },
                         {
@@ -5309,7 +5309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F]I see... Do you have any idea how to deactivate it?"
+                                "\\F[10]\\AA[F]I see... Do you have any idea how to deactivate\nit?"
                             ]
                         },
                         {
@@ -5333,7 +5333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...I don't know. That's why I... \\c[14]was searching for the weapons\nstorage room\\c[0]."
+                                "...I don't know. That's why I... \\c[14]was searching for the\nweapons storage room\\c[0]."
                             ]
                         },
                         {
@@ -5357,7 +5357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The \\c[14]storage room\\c[0], which used to be Anthurium's old haunt,\nis not affected by this spell... That's why there should be a\nclue to escape there."
+                                "The \\c[14]storage room\\c[0], which used to be Anthurium's\nold haunt, is not affected by this spell... That's why there\nshould be a clue to escape there."
                             ]
                         },
                         {
@@ -5414,7 +5414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F](\\c[14]If Hayato were here, \\c[0] he could probably\nhandle those weapons. If that were the case...)"
+                                "\\F[10]\\AA[F](\\c[14]If Hayato were here, \\c[0] he could\nprobably handle those weapons. If that were the case...)"
                             ]
                         },
                         {
@@ -5438,7 +5438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Are you thinking of having Lord Hayato forcefully break through?"
+                                "Are you thinking of having Lord Hayato forcefully break\nthrough?"
                             ]
                         },
                         {
@@ -5462,7 +5462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[15]\\AA[F]Don't read my mind! I was also frustrated because I\nwas stuck searching for the code...."
+                                "\\F[15]\\AA[F]Don't read my mind! I was also frustrated\nbecause I was stuck searching for the code...."
                             ]
                         },
                         {
@@ -5519,7 +5519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F]..........Hey, Anthurium. Shall we go to the library\nfor a bit? I want to clear my head."
+                                "\\F[10]\\AA[F]..........Hey, Anthurium. Shall we go to the\nlibrary for a bit? I want to clear my head."
                             ]
                         },
                         {

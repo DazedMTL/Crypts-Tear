@@ -2563,7 +2563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここがツクールか・・・！"
+                                "So this is the Maker...!"
                             ]
                         },
                         {
@@ -2580,7 +2580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "準備は良い？"
+                                "Are you ready?"
                             ]
                         },
                         {
@@ -2619,7 +2619,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ああ！"
+                                "Ah!"
                             ]
                         },
                         {
@@ -2649,7 +2649,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "分かったわ。待ってるから。"
+                                "I understand. I'll be waiting."
                             ]
                         },
                         {
@@ -2736,21 +2736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]ヴェルナ\\C[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "帰りたい・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{もうヤダぁ・・・・"
+                                "\\C[2]Verna\\C[0] I want to go home... \\{I can't take it\nanymore...."
                             ]
                         },
                         {
@@ -2843,14 +2829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんじゃと・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゼンマイが欲しい？"
+                                "What... You want a spring?"
                             ]
                         },
                         {
@@ -2867,7 +2846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうなんです。ここにある？"
+                                "That's right. Is it here?"
                             ]
                         },
                         {
@@ -3027,7 +3006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほれ"
+                                "Here you go."
                             ]
                         },
                         {
@@ -3113,7 +3092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゼンマイ持ってきてくれた？"
+                                "Did you bring the spring?"
                             ]
                         },
                         {
@@ -3152,7 +3131,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ありがとー！これが欲しかったのよね～！"
+                                "Thank you! This is what I wanted~!"
                             ]
                         },
                         {
@@ -3191,14 +3170,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "手に入れたら教えてよね"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ぜっ・・・たい他の人にあげちゃ駄目だから！"
+                                "Let me know when you get it, okay? You absolutely... can't\ngive it to anyone else!"
                             ]
                         },
                         {
@@ -3215,7 +3187,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "やくそく！"
+                                "Promise!"
                             ]
                         },
                         {
@@ -3311,7 +3283,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "それ良いね！"
+                                "That's nice!"
                             ]
                         },
                         {
@@ -3338,7 +3310,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "無いの？"
+                                "Is it not there?"
                             ]
                         },
                         {
@@ -3503,7 +3475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>　　　　　　　　　　　うんち"
+                                "\\>　　　Poop"
                             ]
                         },
                         {
@@ -3580,7 +3552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いらっしゃい！"
+                                "Welcome!"
                             ]
                         },
                         {
@@ -3678,7 +3650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一泊10\\Gになるけど泊まってく？"
+                                "It'll be 10\\G for one night, but will you stay?"
                             ]
                         },
                         {
@@ -3779,7 +3751,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "お金が足りないわね・・・。"
+                                "We don't have enough money...."
                             ]
                         },
                         {
@@ -4026,7 +3998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポーションと500\\G 手に入れた！"
+                                "Obtained a potion and 500\\G!"
                             ]
                         },
                         {
@@ -4266,7 +4238,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "やっほー！"
+                                "Yoo-hoo!"
                             ]
                         },
                         {
@@ -4292,7 +4264,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "人魂が現れました"
+                                "A ghost has appeared."
                             ]
                         },
                         {
@@ -4319,7 +4291,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "どしたの？"
+                                "What's wrong?"
                             ]
                         },
                         {
@@ -4524,7 +4496,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "アイツと話したか？やっぱり困ってるんだな・・・。"
+                                "Did you talk to him? He's really in trouble, isn't he...."
                             ]
                         },
                         {
@@ -4541,7 +4513,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "聞いてくれてありがとよ。"
+                                "Thanks for listening to me."
                             ]
                         },
                         {
@@ -4568,7 +4540,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "私からじゃ聞きづらいからさ・・・頼むよ。"
+                                "It's hard for me to ask... I'm counting on you."
                             ]
                         },
                         {
@@ -4655,7 +4627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よお！"
+                                "Hey there!"
                             ]
                         },
                         {
@@ -4732,7 +4704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うんちぃ？"
+                                "Huh?"
                             ]
                         },
                         {
@@ -4808,7 +4780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うんちぃ！！"
+                                "Poopy!!"
                             ]
                         },
                         {
@@ -4911,14 +4883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "赤い鍵を手に入れた！"
+                                "What's this...? I've obtained a red key!"
                             ]
                         },
                         {
@@ -5254,14 +5219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここはアレだ。ポーションが無いと駄目なのだ・・・。"
+                                "Soldier: This is it. It's no good without a potion...."
                             ]
                         },
                         {
@@ -5329,14 +5287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おっ。持ってきてくれたのか・よし、待ってろ。"
+                                "Soldier: Oh, you brought it. Alright, wait here."
                             ]
                         },
                         {
@@ -5562,7 +5513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スティミ何とかをゲット！"
+                                "Got the Stim-something!"
                             ]
                         },
                         {
@@ -5647,14 +5598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "行ってこい！"
+                                "Soldier, go forth!"
                             ]
                         },
                         {

@@ -8575,7 +8575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This game is designed for you to enjoy while imagining \\c[27]\nsituations, so..."
+                                "This game is designed for you to enjoy while imagining\n\\c[27] situations, so..."
                             ]
                         },
                         {
@@ -8592,7 +8592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Please take your time and enjoy the game while checking various\nthings one by one."
+                                "Please take your time and enjoy the game while checking\nvarious things one by one."
                             ]
                         },
                         {
@@ -8645,7 +8645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If you're interested, search for Chima Lab on Ci-en and check out\nthe latest information!"
+                                "If you're interested, search for Chima Lab on Ci-en and\ncheck out the latest information!"
                             ]
                         },
                         {

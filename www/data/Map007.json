@@ -1417,7 +1417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Would you like to skip the opening that depicts the synopsis...?\n(\\c[14]This work has a strong story element, \\c[0] \\c[14]it is\nhighly recommended not to skip on the first viewing.\\c[0])"
+                                "Would you like to skip the opening that depicts the\nsynopsis...? (\\c[14]This work has a strong story element,\n\\c[0] \\c[14]it is highly recommended not to skip on the\nfirst viewing.\\c[0])"
                             ]
                         },
                         {
@@ -1457,7 +1457,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "....A year ago, there was a \\c[14]great war\\c[0] between humans and\nmonsters."
+                                "....A year ago, there was a \\c[14]great war\\c[0] between humans\nand monsters."
                             ]
                         },
                         {
@@ -1474,7 +1474,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Amidst the world engulfed in war, the army of the Hero repelled\nthe evil monsters led by the Demon King with a resolve to die."
+                                "Amidst the world engulfed in war, the army of the Hero\nrepelled the evil monsters led by the Demon King with a\nresolve to die."
                             ]
                         },
                         {
@@ -1508,7 +1508,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "However, for a certain reason, they couldn't fully suppress the\nDemon King's army..."
+                                "However, for a certain reason, they couldn't fully suppress\nthe Demon King's army..."
                             ]
                         },
                         {
@@ -1583,7 +1583,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[1]\\AA[F]The protagonist of this work is this girl. Her name is\nCelia."
+                                "\\F[1]\\AA[F]The protagonist of this work is this girl. Her\nname is Celia."
                             ]
                         },
                         {
@@ -1617,7 +1617,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "And this is the story of a tomboyish girl, who didn't know her\nown identity, standing up to fight a small war in order to\nprotect her beloved friend───────...."
+                                "And this is the story of a tomboyish girl, who didn't know\nher own identity, standing up to fight a small war in order\nto protect her beloved friend───────...."
                             ]
                         },
                         {
@@ -1684,7 +1684,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ".\\c[14]The protagonist is a girl named Celia\\c[0] who escaped from\nthe war. Hayato (her best friend) is the younger brother of the\nhero, and it seems that Celia is a \\c[14]descendant of the\ngoddess\\c[0]. Two succubi kidnap Celia to win her over and start a\ngame in the basement of the church. In order to escape with\nHayato, who has become a hostage, they need to find a \\c[14]four-\ndigit password\\c[0]."
+                                ".\\c[14]The protagonist is a girl named Celia\\c[0] who escaped\nfrom the war. Hayato (her best friend) is the younger\nbrother of the hero, and it seems that Celia is a\n\\c[14]descendant of the goddess\\c[0]. Two succubi kidnap\nCelia to win her over and start a game in the basement of\nthe church. In order to escape with Hayato, who has become a\nhostage, they need to find a \\c[14]four- digit\npassword\\c[0]."
                             ]
                         },
                         {

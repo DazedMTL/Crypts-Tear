@@ -2245,7 +2245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's a bug fix where the image is displayed all the time during\nplay."
+                                "It's a bug fix where the image is displayed all the time\nduring play."
                             ]
                         },
                         {
@@ -2406,7 +2406,7 @@
                                 4,
                                 0,
                                 4,
-                                "'早くアイツを助けにいかないと...'"
+                                "'We need to go help him quickly...'"
                             ]
                         },
                         {
@@ -2417,7 +2417,7 @@
                                 5,
                                 0,
                                 4,
-                                "'ふざけてるわ'"
+                                "'Youre kidding me'"
                             ]
                         },
                         {
@@ -2428,7 +2428,7 @@
                                 6,
                                 0,
                                 4,
-                                "'男の淫魔って初めて見た。'"
+                                "'This is the first time Ive seen a male succubus'"
                             ]
                         },
                         {
@@ -2450,7 +2450,7 @@
                                 10,
                                 0,
                                 4,
-                                "'淫魔はやっぱり卑怯'"
+                                "'Succubi are indeed unfair'"
                             ]
                         },
                         {
@@ -2461,7 +2461,7 @@
                                 11,
                                 0,
                                 4,
-                                "'絶対一緒に脱出しよう'"
+                                "'Lets definitely escape together'"
                             ]
                         },
                         {
@@ -2472,7 +2472,7 @@
                                 12,
                                 0,
                                 4,
-                                "'この子の「管理」はお任せを..。サディ様..♡'"
+                                "'Ill leave the management of this child to you Lord Sadi..♡'"
                             ]
                         },
                         {
@@ -2545,7 +2545,7 @@
                                 21,
                                 0,
                                 4,
-                                "'親友以上恋人未満'"
+                                "'More than friends, less than lovers'"
                             ]
                         },
                         {
@@ -2556,7 +2556,7 @@
                                 22,
                                 0,
                                 4,
-                                "'敵'"
+                                "'Enemy'"
                             ]
                         },
                         {
@@ -2567,7 +2567,7 @@
                                 23,
                                 0,
                                 4,
-                                "'守るべき相手'"
+                                "'The person to protect'"
                             ]
                         },
                         {
@@ -2578,7 +2578,7 @@
                                 24,
                                 0,
                                 4,
-                                "'危険な女性'"
+                                "'Dangerous woman'"
                             ]
                         },
                         {
@@ -2656,7 +2656,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[4]\\AA[F]... I've read through the rulebook, but as I thought,\nthat guy... There are things he didn't explain at all."
+                                "\\F[4]\\AA[F]... I've read through the rulebook, but as I\nthought, that guy... There are things he didn't explain at\nall."
                             ]
                         },
                         {
@@ -3247,7 +3247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F\\c[14]\\AA[F]The first digit is \\c[14]5\\c[0]....I understood that\nmuch."
+                                "\\F\\c[14]\\AA[F]The first digit is \\c[14]5\\c[0]....I\nunderstood that much."
                             ]
                         },
                         {
@@ -3271,7 +3271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[1]\\AA[F]It's better not to blindly input the code right now."
+                                "\\F[1]\\AA[F]It's better not to blindly input the code right\nnow."
                             ]
                         },
                         {
@@ -3468,7 +3468,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[1]\\AA[F].....Huh? The question is different from yesterday..?"
+                                "\\F[1]\\AA[F].....Huh? The question is different from\nyesterday..?"
                             ]
                         },
                         {
@@ -3509,7 +3509,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[10]\\AA[F]Well, if it stayed the same as yesterday, we would\nnever have solved it... Let's look it up."
+                                "\\F[10]\\AA[F]Well, if it stayed the same as yesterday, we\nwould never have solved it... Let's look it up."
                             ]
                         },
                         {
@@ -3577,7 +3577,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[13]\\AA[F]\\c[14]Honest person\\c[0]...? What are you talking about."
+                                "\\F[13]\\AA[F]\\c[14]Honest person\\c[0]...? What are you\ntalking about."
                             ]
                         },
                         {
@@ -3686,7 +3686,7 @@
                                 10,
                                 0,
                                 4,
-                                "'眼が合うと...心がざわつく'"
+                                "'When our eyes meet my heart flutters'"
                             ]
                         },
                         {
@@ -3814,7 +3814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F]Honest person, huh. To begin with, who's the liar?"
+                                "\\F[10]\\AA[F]Honest person, huh. To begin with, who's the\nliar?"
                             ]
                         },
                         {
@@ -4183,7 +4183,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[10]\\AA[F](\\c[14]We have no choice but to go see the rulebook\nthen....\\c[0])"
+                                "\\F[10]\\AA[F](\\c[14]We have no choice but to go see the\nrulebook then....\\c[0])"
                             ]
                         },
                         {
@@ -4863,7 +4863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm happy because Lady Sadi is here. So, probably, number 2 is a\nlie..."
+                                "I'm happy because Lady Sadi is here. So, probably, number 2\nis a lie..."
                             ]
                         },
                         {
@@ -5791,7 +5791,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[2]\\AA[F].......Hehe... What's wrong with me? Suddenly averting\nyour eyes."
+                                "\\F[2]\\AA[F].......Hehe... What's wrong with me? Suddenly\naverting your eyes."
                             ]
                         },
                         {
@@ -6042,7 +6042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Look... Even if I come this close, I won't touch you...♡ It's the\nrule, right...?"
+                                "Look... Even if I come this close, I won't touch you...♡\nIt's the rule, right...?"
                             ]
                         },
                         {
@@ -6155,7 +6155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The moment she approached, a sweet, calming scent brushed past\nhis nose."
+                                "The moment she approached, a sweet, calming scent brushed\npast his nose."
                             ]
                         },
                         {
@@ -6186,7 +6186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "So, it's okay if you just want to look, okay? The older girls are\nfree anyway while those two are playing games...."
+                                "So, it's okay if you just want to look, okay? The older\ngirls are free anyway while those two are playing games...."
                             ]
                         },
                         {
@@ -6441,7 +6441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Again and again, Merrill deliberately flaunts her 'femininity',\nstealing away his guard..."
+                                "Again and again, Merrill deliberately flaunts her\n'femininity', stealing away his guard..."
                             ]
                         },
                         {
@@ -6482,7 +6482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[2]\\AA[F]Come on, come over here. I want to talk a lot with\nyou...♡"
+                                "\\F[2]\\AA[F]Come on, come over here. I want to talk a lot\nwith you...♡"
                             ]
                         },
                         {
@@ -6651,7 +6651,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Unaware that she was a wicked monster who had been manipulating\nsoldiers and politicians behind the scenes of the great war, they\nbegan to engage in harmless small talk."
+                                "Unaware that she was a wicked monster who had been\nmanipulating soldiers and politicians behind the scenes of\nthe great war, they began to engage in harmless small talk."
                             ]
                         },
                         {
@@ -6687,7 +6687,7 @@
                                 10,
                                 0,
                                 4,
-                                "'思ったより人間味がある...'"
+                                "'More human-like than I thought...'"
                             ]
                         },
                         {
@@ -6698,7 +6698,7 @@
                                 12,
                                 0,
                                 4,
-                                "'仲良くなりましょ...♡'"
+                                "'Lets become friends...♡'"
                             ]
                         },
                         {
@@ -6877,7 +6877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm happy because Lady Sadi is here. So, probably, number 2 is a\nlie..."
+                                "I'm happy because Lady Sadi is here. So, probably, number 2\nis a lie..."
                             ]
                         },
                         {
@@ -6971,7 +6971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm happy because Lady Sadi is here. So, probably, number 2 is a\nlie..."
+                                "I'm happy because Lady Sadi is here. So, probably, number 2\nis a lie..."
                             ]
                         },
                         {
@@ -8300,7 +8300,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hayato's heart started pounding \\c[0] when he looked at Merill...\n(\\c[14]You can check from the skill section\\c[0])"
+                                "Hayato's heart started pounding \\c[0] when he looked at\nMerill... (\\c[14]You can check from the skill section\\c[0])"
                             ]
                         },
                         {
@@ -8474,7 +8474,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[2]\\AA[F].......Hehe... What's wrong with me? Suddenly averting\nyour eyes."
+                                "\\F[2]\\AA[F].......Hehe... What's wrong with me? Suddenly\naverting your eyes."
                             ]
                         },
                         {
@@ -8725,7 +8725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "See... Even if I come this close, I won't touch you...♡ It's the\nrule, right...?"
+                                "See... Even if I come this close, I won't touch you...♡ It's\nthe rule, right...?"
                             ]
                         },
                         {
@@ -8838,7 +8838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The moment she approached, a sweet, calming scent brushed past\nhis nose."
+                                "The moment she approached, a sweet, calming scent brushed\npast his nose."
                             ]
                         },
                         {
@@ -8869,7 +8869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "So, it's okay if you just look, okay? After all, the older girls\nare free while those two are playing games...."
+                                "So, it's okay if you just look, okay? After all, the older\ngirls are free while those two are playing games...."
                             ]
                         },
                         {
@@ -9124,7 +9124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Again and again, Merrill deliberately flaunts her 'femininity',\ngradually disarming his wariness..."
+                                "Again and again, Merrill deliberately flaunts her\n'femininity', gradually disarming his wariness..."
                             ]
                         },
                         {
@@ -9165,7 +9165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[2]\\AA[F]Come on, come over here. I want to talk a lot with\nyou...♡"
+                                "\\F[2]\\AA[F]Come on, come over here. I want to talk a lot\nwith you...♡"
                             ]
                         },
                         {
@@ -9334,7 +9334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Unaware that she was a wicked monster who had been manipulating\nsoldiers and politicians behind the scenes of the great war, they\nbegan to engage in harmless small talk."
+                                "Unaware that she was a wicked monster who had been\nmanipulating soldiers and politicians behind the scenes of\nthe great war, they began to engage in harmless small talk."
                             ]
                         },
                         {
@@ -9377,7 +9377,7 @@
                                 10,
                                 0,
                                 4,
-                                "'思ったより人間味がある...'"
+                                "'More human-like than I thought...'"
                             ]
                         },
                         {
@@ -9388,7 +9388,7 @@
                                 12,
                                 0,
                                 4,
-                                "'仲良くなりましょ...♡'"
+                                "'Lets become friends...♡'"
                             ]
                         },
                         {
@@ -9825,7 +9825,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "1. Celia must obtain the 4-digit pin by \\c[27]some method\\c[0]. 2.\nOnce 1 is completed, she must dispel the magic of the cell where\nHayato is imprisoned. 3. She can investigate anywhere she can\nreach at that point. 4. Contact from Sadi is only allowed\n\\c[27]if Celia permits it\\c[0]."
+                                "1. Celia must obtain the 4-digit pin by \\c[27]some\nmethod\\c[0]. 2. Once 1 is completed, she must dispel the\nmagic of the cell where Hayato is imprisoned. 3. She can\ninvestigate anywhere she can reach at that point. 4. Contact\nfrom Sadi is only allowed \\c[27]if Celia permits it\\c[0]."
                             ]
                         },
                         {
@@ -9842,7 +9842,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "5. If Celia absolutely cannot figure out the pin, she can learn\none digit by listening to one of Sadi's requests. \\c[27]\\c[0]"
+                                "5. If Celia absolutely cannot figure out the pin, she can\nlearn one digit by listening to one of Sadi's requests.\n\\c[27]\\c[0]"
                             ]
                         },
                         {
@@ -9859,7 +9859,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Celia: I need to quickly find the hidden code somewhere... But\nit's troublesome that there are no hints about the code. It's not\neven a game."
+                                "Celia: I need to quickly find the hidden code somewhere...\nBut it's troublesome that there are no hints about the code.\nIt's not even a game."
                             ]
                         },
                         {
@@ -9876,7 +9876,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Celia: Anyway, I'll go everywhere and investigate various things!\nThat's all there is to it. ............................"
+                                "Celia: Anyway, I'll go everywhere and investigate various\nthings! That's all there is to it.\n............................"
                             ]
                         },
                         {
@@ -9910,7 +9910,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Celia: If there are no hints no matter where I go... \\c[27] I'll\nhave to invoke rule number 5..."
+                                "Celia: If there are no hints no matter where I go... \\c[27]\nI'll have to invoke rule number 5..."
                             ]
                         },
                         {
@@ -9927,7 +9927,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Celia: Hayato... I'm getting a little anxious. We need to get out\nof here soon."
+                                "Celia: Hayato... I'm getting a little anxious. We need to\nget out of here soon."
                             ]
                         },
                         {
@@ -9957,7 +9957,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "1. Merill will monitor Hayato. 2. Until the code is decrypted,\nwait in the cage. You're free to do as you please. 3. Hayato may\nprovide support\\c[27] from within the cage\\c[0]. 4. Direct attacks\nagainst each other are prohibited."
+                                "1. Merill will monitor Hayato. 2. Until the code is\ndecrypted, wait in the cage. You're free to do as you\nplease. 3. Hayato may provide support\\c[27] from within the\ncage\\c[0]. 4. Direct attacks against each other are\nprohibited."
                             ]
                         },
                         {
@@ -9974,7 +9974,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "5. \\c[27] Any direct physical contact from \\c[0] Merill to Hayato is\nprohibited."
+                                "5. \\c[27] Any direct physical contact from \\c[0] Merill to\nHayato is prohibited."
                             ]
                         },
                         {
@@ -9991,7 +9991,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Celia \\c[27]If we follow these rules\\c[0]Hayato should still be\nsafe."
+                                "Celia \\c[27]If we follow these rules\\c[0]Hayato should still\nbe safe."
                             ]
                         },
                         {
@@ -10015,7 +10015,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Even if his power is limited, there's no way he would lose to\nsuch a vulgar succubus in a one-on-one fight. After all, he's the\n\\c[14]hero's younger brother\\c[0]!"
+                                "Even if his power is limited, there's no way he would lose\nto such a vulgar succubus in a one-on-one fight. After all,\nhe's the \\c[14]hero's younger brother\\c[0]!"
                             ]
                         },
                         {
@@ -10032,7 +10032,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Celia: And finally, rule number 5! How lewd do you have to be to\nneed such a rule explicitly stated!"
+                                "Celia: And finally, rule number 5! How lewd do you have to\nbe to need such a rule explicitly stated!"
                             ]
                         },
                         {
@@ -10096,7 +10096,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "In this game, every time you examine an object, the character's\nactions and monologues will be displayed in the lower left\nwindow."
+                                "In this game, every time you examine an object, the\ncharacter's actions and monologues will be displayed in the\nlower left window."
                             ]
                         },
                         {
@@ -10113,7 +10113,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Not just comments based on simple atmosphere, but even things\nthat affect actual status and \\c[27]heart\\c[0]...."
+                                "Not just comments based on simple atmosphere, but even\nthings that affect actual status and \\c[27]heart\\c[0]...."
                             ]
                         },
                         {
@@ -10182,7 +10182,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Changes in the \\c[27]heart\\c[0] can be viewed from the menu's\n[\\c[14]Two Hearts\\c[0]]. (You can switch with the keyboard's [←][→])"
+                                "Changes in the \\c[27]heart\\c[0] can be viewed from the\nmenu's [\\c[14]Two Hearts\\c[0]]. (You can switch with the\nkeyboard's [←][→])"
                             ]
                         },
                         {
@@ -10199,7 +10199,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Please be careful and check regularly, as there may be times when\nHayato is being deceived by Merill while Celia is investigating."
+                                "Please be careful and check regularly, as there may be times\nwhen Hayato is being deceived by Merill while Celia is\ninvestigating."
                             ]
                         },
                         {
@@ -10216,7 +10216,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "And in this work, depending on the degree of corruption and the\nchoices accepted, \\c[14]casual conversations\\c[0] will slightly\nchange."
+                                "And in this work, depending on the degree of corruption and\nthe choices accepted, \\c[14]casual conversations\\c[0] will\nslightly change."
                             ]
                         },
                         {
@@ -10233,7 +10233,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "It is recommended not to use Ctrl skip as much as possible in the\nfirst round."
+                                "It is recommended not to use Ctrl skip as much as possible\nin the first round."
                             ]
                         },
                         {
@@ -10379,7 +10379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F]\\c[14]You said it was related to the next stage\\c[0],\ndidn't you..."
+                                "\\F[10]\\AA[F]\\c[14]You said it was related to the next\nstage\\c[0], didn't you..."
                             ]
                         },
                         {
@@ -10403,7 +10403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F]If that's true..\\c[14]I wonder if a sixth rule has\nbeen added\\c[0]."
+                                "\\F[10]\\AA[F]If that's true..\\c[14]I wonder if a sixth rule\nhas been added\\c[0]."
                             ]
                         },
                         {
@@ -10432,7 +10432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "1. Celia must obtain the 4-digit PIN by \\c[27]some method\\c[0]. 2.\nOnce 1 is completed, she must dispel the magic of the cell where\nHayato is imprisoned. 3. She can investigate anywhere she can\nreach at that point. 4. Contact from Sadi is free unless Hayato's\nmagic is gone."
+                                "1. Celia must obtain the 4-digit PIN by \\c[27]some\nmethod\\c[0]. 2. Once 1 is completed, she must dispel the\nmagic of the cell where Hayato is imprisoned. 3. She can\ninvestigate anywhere she can reach at that point. 4. Contact\nfrom Sadi is free unless Hayato's magic is gone."
                             ]
                         },
                         {
@@ -10449,7 +10449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "5. If you absolutely cannot figure out the PIN, you can learn one\ndigit by listening to one of Sadi's requests. \\c[27]\\c[0]"
+                                "5. If you absolutely cannot figure out the PIN, you can\nlearn one digit by listening to one of Sadi's requests.\n\\c[27]\\c[0]"
                             ]
                         },
                         {
@@ -10490,7 +10490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "6. \\c[14]You must absolutely listen to the doll's request\\c[0]"
+                                "6. \\c[14]You must absolutely listen to the doll's\nrequest\\c[0]"
                             ]
                         },
                         {
@@ -10538,7 +10538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F]So beyond that passage, there's a \\c[14]troublesome\nguy\\c[0], huh."
+                                "\\F[10]\\AA[F]So beyond that passage, there's a\n\\c[14]troublesome guy\\c[0], huh."
                             ]
                         },
                         {
@@ -10947,7 +10947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Suddenly, Merill, who had teleported nearby, pretends not to know\nand flaunts her body..."
+                                "Suddenly, Merill, who had teleported nearby, pretends not to\nknow and flaunts her body..."
                             ]
                         },
                         {
@@ -11420,7 +11420,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hayato's heart started pounding \\c[0] as he looked at Merill...\n(\\c[14]*You can check from the skill section\\c[0])"
+                                "Hayato's heart started pounding \\c[0] as he looked at\nMerill... (\\c[14]*You can check from the skill section\\c[0])"
                             ]
                         },
                         {
@@ -11594,7 +11594,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[2]\\AA[F].......Hehe... What's wrong with me? Suddenly averting\nyour eyes."
+                                "\\F[2]\\AA[F].......Hehe... What's wrong with me? Suddenly\naverting your eyes."
                             ]
                         },
                         {
@@ -11845,7 +11845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "See... Even if I come this close, I won't touch you...♡ It's the\nrule, right...?"
+                                "See... Even if I come this close, I won't touch you...♡ It's\nthe rule, right...?"
                             ]
                         },
                         {
@@ -11958,7 +11958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The moment she approached, a sweet, calming scent brushed past\nhis nose."
+                                "The moment she approached, a sweet, calming scent brushed\npast his nose."
                             ]
                         },
                         {
@@ -12244,7 +12244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Time and again, Merill deliberately flaunts her 'femininity',\nstealing away his guard..."
+                                "Time and again, Merill deliberately flaunts her\n'femininity', stealing away his guard..."
                             ]
                         },
                         {
@@ -12285,7 +12285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[2]\\AA[F]Come on, come over here. I want to talk a lot with\nyou...♡"
+                                "\\F[2]\\AA[F]Come on, come over here. I want to talk a lot\nwith you...♡"
                             ]
                         },
                         {
@@ -12454,7 +12454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Unaware that she was a wicked monster who had been manipulating\nsoldiers and politicians behind the scenes of the great war, they\nbegan to engage in harmless small talk."
+                                "Unaware that she was a wicked monster who had been\nmanipulating soldiers and politicians behind the scenes of\nthe great war, they began to engage in harmless small talk."
                             ]
                         },
                         {
@@ -12497,7 +12497,7 @@
                                 10,
                                 0,
                                 4,
-                                "'思ったより人間味がある...'"
+                                "'More human-like than I thought...'"
                             ]
                         },
                         {
@@ -12508,7 +12508,7 @@
                                 12,
                                 0,
                                 4,
-                                "'仲良くなりましょ...♡'"
+                                "'Lets become friends...♡'"
                             ]
                         },
                         {
@@ -13956,7 +13956,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "In the end, Celia promised to have sex that disregards the rules\nand only aims to please each other....."
+                                "In the end, Celia promised to have sex that disregards the\nrules and only aims to please each other....."
                             ]
                         },
                         {
@@ -14075,7 +14075,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "The bewitching lewd technique that even captivates heroes and\nensnares them in the hands of evil... .....【\\c[27]Fallen Sexy\nDance\\c[0]】"
+                                "The bewitching lewd technique that even captivates heroes\nand ensnares them in the hands of evil... .....【\\c[27]Fallen\nSexy Dance\\c[0]】"
                             ]
                         },
                         {
@@ -14092,7 +14092,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Hayato was captivated, unaware that it was a cunning trap to\nsteal the timing of casting Protect on Celia and even pull away\nher heart..."
+                                "Hayato was captivated, unaware that it was a cunning trap to\nsteal the timing of casting Protect on Celia and even pull\naway her heart..."
                             ]
                         },
                         {
@@ -14202,7 +14202,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "The speed at which Hayato's corruption level increases has been\naffected. Changes to Feelings for Merill are also likely to\noccur, so please check regularly."
+                                "The speed at which Hayato's corruption level increases has\nbeen affected. Changes to Feelings for Merill are also\nlikely to occur, so please check regularly."
                             ]
                         },
                         {
@@ -14224,7 +14224,7 @@
                                 11,
                                 0,
                                 4,
-                                "'〈メリルのセクシーダンスの影響で頭にピンクの靄が発生〉'"
+                                "'〈A pink haze forms in my head due to Merills sexy dance〉'"
                             ]
                         },
                         {
@@ -14275,7 +14275,7 @@
                                 4,
                                 0,
                                 4,
-                                "'ハヤトの事よりサディとのセックスが楽しくて......'"
+                                "'I enjoy sex with Sadi more than I do with Hayato......'"
                             ]
                         },
                         {
@@ -14286,7 +14286,7 @@
                                 5,
                                 0,
                                 4,
-                                "'サディを独占したい...♡言う事なんでも聴くから..♡'"
+                                "'I want to monopolize Sadi♡ Ill listen to anything you say..♡'"
                             ]
                         },
                         {
@@ -14297,7 +14297,7 @@
                                 6,
                                 0,
                                 4,
-                                "'カッコいい..♡超好み...。'"
+                                "'So cool♡ Just my type。'"
                             ]
                         },
                         {
@@ -14690,7 +14690,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "(She really is a succubus... Being touched like this... It's too\nmuch♡)"
+                                "(She really is a succubus... Being touched like this... It's\ntoo much♡)"
                             ]
                         },
                         {
@@ -14714,7 +14714,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "(.....Hah! I mustn't let myself be swept away... This person.. is an\nenemy..♡)"
+                                "(.....Hah! I mustn't let myself be swept away... This person.. is\nan enemy..♡)"
                             ]
                         },
                         {
@@ -14793,7 +14793,7 @@
                                 5,
                                 0,
                                 4,
-                                "'揉むの..「上手い」って事なのかしら..これ♡'"
+                                "'Rubbing I wonder if that means Im good at it this♡'"
                             ]
                         },
                         {
@@ -15061,7 +15061,7 @@
                                 5,
                                 0,
                                 4,
-                                "'後ろにいると...ちょっと期待しちゃう自分が..恐い'"
+                                "'When Im behind Im scared of the part of me that gets a little hopeful'"
                             ]
                         },
                         {
@@ -15199,7 +15199,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[5]\\AA[F].....Hah, hah....... Hey, \\c[27] what exactly are you\ndoing to my body with this \\c[0] penalty..."
+                                "\\F[5]\\AA[F].....Hah, hah....... Hey, \\c[27] what exactly are\nyou doing to my body with this \\c[0] penalty..."
                             ]
                         },
                         {
@@ -15223,7 +15223,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "We are noble \\c[14]succubi\\c[0].... You can somewhat imagine what\nthat means, can't you?"
+                                "We are noble \\c[14]succubi\\c[0].... You can somewhat imagine\nwhat that means, can't you?"
                             ]
                         },
                         {
@@ -15271,7 +15271,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Now, your body must have become hot enough that it's not the time\nfor solving mysteries... \\c[27] I shall submerge you...\\c[0]"
+                                "Now, your body must have become hot enough that it's not the\ntime for solving mysteries... \\c[27] I shall submerge\nyou...\\c[0]"
                             ]
                         },
                         {
@@ -15373,7 +15373,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Unable to resist due to the continuous penalties, Celia, who was\ncompletely aroused, unwittingly accepts Sadi's proposal..."
+                                "Unable to resist due to the continuous penalties, Celia, who\nwas completely aroused, unwittingly accepts Sadi's\nproposal..."
                             ]
                         },
                         {
@@ -15462,7 +15462,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Sadi embraces Celia, who has a vacant expression on her face."
+                                "Sadi embraces Celia, who has a vacant expression on her\nface."
                             ]
                         },
                         {
@@ -15569,7 +15569,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Now, Celia... close your eyes and stick out your tongue. It will\nbe over soon...♡"
+                                "Now, Celia... close your eyes and stick out your tongue. It\nwill be over soon...♡"
                             ]
                         },
                         {
@@ -15930,7 +15930,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "(Wait, wait! This is impossible!!! This isn't just a vulgar kiss!"
+                                "(Wait, wait! This is impossible!!! This isn't just a vulgar\nkiss!"
                             ]
                         },
                         {
@@ -16043,7 +16043,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "The succubus pulls the resisting girl closer, monopolizing her."
+                                "The succubus pulls the resisting girl closer, monopolizing\nher."
                             ]
                         },
                         {
@@ -16100,7 +16100,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "(..Even though he's a detestable enemy.. my heart is pounding...♡)"
+                                "(..Even though he's a detestable enemy.. my heart is\npounding...♡)"
                             ]
                         },
                         {
@@ -16117,7 +16117,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Celia, beguiled by Sadi's technique \\c[27]【Leap Kiss】\\c[0], finds\nher interest in Hayato slightly fading.....♡"
+                                "Celia, beguiled by Sadi's technique \\c[27]【Leap Kiss】\\c[0],\nfinds her interest in Hayato slightly fading.....♡"
                             ]
                         },
                         {
@@ -16151,7 +16151,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "(This is... I'm only doing this because I have no choice but to\nclear my head.. But..!!)"
+                                "(This is... I'm only doing this because I have no choice but\nto clear my head.. But..!!)"
                             ]
                         },
                         {
@@ -16231,7 +16231,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "During the great war, it is said that the beautiful prisoners who\ncontinued to receive this \\c[27]【Leap Kiss】\\c[0] forgot their loved\nones and their mission, and fell to the Demon King's army."
+                                "During the great war, it is said that the beautiful\nprisoners who continued to receive this \\c[27]【Leap\nKiss】\\c[0] forgot their loved ones and their mission, and\nfell to the Demon King's army."
                             ]
                         },
                         {
@@ -16248,7 +16248,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Even for a serious woman, it doesn't change... Now, she has\nstarted to carry out sabotage activities in various places to get\nSadi's favor."
+                                "Even for a serious woman, it doesn't change... Now, she has\nstarted to carry out sabotage activities in various places\nto get Sadi's favor."
                             ]
                         },
                         {
@@ -16498,7 +16498,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "(Despite saying that, her eyes are filled with intense desire.)"
+                                "(Despite saying that, her eyes are filled with intense\ndesire.)"
                             ]
                         },
                         {
@@ -16515,7 +16515,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "With unsteady steps, Celia tries to distance herself from Sadi."
+                                "With unsteady steps, Celia tries to distance herself from\nSadi."
                             ]
                         },
                         {
@@ -16644,7 +16644,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "No, it's something related to the next stage. Rather, if we don't\nupdate..."
+                                "No, it's something related to the next stage. Rather, if we\ndon't update..."
                             ]
                         },
                         {
@@ -16668,7 +16668,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "It's disadvantageous for us, isn't it? ♡ Wouldn't it be good to\ncheck the rulebook..?"
+                                "It's disadvantageous for us, isn't it? ♡ Wouldn't it be good\nto check the rulebook..?"
                             ]
                         },
                         {
@@ -16710,7 +16710,7 @@
                                 4,
                                 0,
                                 4,
-                                "'サディとのキスで頭に霧がかかっている'"
+                                "'My head is foggy from the kiss with Sadi'"
                             ]
                         },
                         {
@@ -16721,7 +16721,7 @@
                                 5,
                                 0,
                                 4,
-                                "'舌の感触とかいやらしい音...忘れたい'"
+                                "'The sensation of the tongue and the lewd sounds I want to forget'"
                             ]
                         },
                         {
@@ -16732,7 +16732,7 @@
                                 6,
                                 0,
                                 4,
-                                "'キスしてる時は自然と醜悪さを感じなかったの何で...？♡'"
+                                "'Why didnt I naturally feel any ugliness when we were kissing?♡'"
                             ]
                         },
                         {
@@ -16803,7 +16803,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Celia has remembered a \\c[27]sweet and lewd kiss\\c[0]... (\\c[14]*You\ncan check the information from the skill section\\c[0])"
+                                "Celia has remembered a \\c[27]sweet and lewd kiss\\c[0]...\n(\\c[14]*You can check the information from the skill\nsection\\c[0])"
                             ]
                         },
                         {
@@ -17806,7 +17806,7 @@
                                 6,
                                 0,
                                 4,
-                                "'嫌。嫌だけど...眼を見た時の感覚が今でも...。'"
+                                "'I hate it I hate it, but the sensation when I looked into your eyes still lingers'"
                             ]
                         },
                         {
@@ -18412,7 +18412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F]....\\c[14]The object\\c[0], its position\\c[14], and even\nits contents\\c[0] have changed..?"
+                                "\\F[10]\\AA[F]....\\c[14]The object\\c[0], its position\\c[14],\nand even its contents\\c[0] have changed..?"
                             ]
                         },
                         {
@@ -18613,7 +18613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[1]\\AA[F]I can't help but wonder if it's okay to be honest like\nthis."
+                                "\\F[1]\\AA[F]I can't help but wonder if it's okay to be honest\nlike this."
                             ]
                         },
                         {
@@ -18899,7 +18899,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[10]\\AA[F](Considering how cunning they are, they must have\ndefinitely reset the trap...)"
+                                "\\F[10]\\AA[F](Considering how cunning they are, they must\nhave definitely reset the trap...)"
                             ]
                         },
                         {
@@ -19159,7 +19159,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[3]\\AA[F](Support isn't supposed to be easy... You're working\nhard for me...)"
+                                "\\F[3]\\AA[F](Support isn't supposed to be easy... You're\nworking hard for me...)"
                             ]
                         },
                         {
@@ -19243,7 +19243,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[1]\\AA[F]Speaking of which, he... he opened this place for me."
+                                "\\F[1]\\AA[F]Speaking of which, he... he opened this place for\nme."
                             ]
                         },
                         {
@@ -19319,7 +19319,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[10]\\AA[F](Why does he show such a kind side? It's throwing me\noff...)"
+                                "\\F[10]\\AA[F](Why does he show such a kind side? It's\nthrowing me off...)"
                             ]
                         },
                         {
@@ -19460,7 +19460,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[10]\\AA[F]...Eh, I suddenly feel a surge of strength. Could it\nbe \\c[27]Hayato's\\c[0] defensive magic!?"
+                                "\\F[10]\\AA[F]...Eh, I suddenly feel a surge of strength.\nCould it be \\c[27]Hayato's\\c[0] defensive magic!?"
                             ]
                         },
                         {
@@ -19484,7 +19484,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[3]\\AA[F](Support isn't supposed to be easy... You're working\nhard for me...)"
+                                "\\F[3]\\AA[F](Support isn't supposed to be easy... You're\nworking hard for me...)"
                             ]
                         },
                         {
@@ -19549,7 +19549,7 @@
                                 4,
                                 0,
                                 4,
-                                "'アンタのサポート、ちゃんと届いてるから。'"
+                                "'Your support is definitely reaching me'"
                             ]
                         },
                         {
@@ -19560,7 +19560,7 @@
                                 5,
                                 0,
                                 4,
-                                "'変に律儀よね....。'"
+                                "'Youre strangely conscientious, arent you'"
                             ]
                         },
                         {
@@ -19625,7 +19625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F\\c[14]\\AA[F](But I shouldn't get my hopes up too much. \\c[14]He\ncan't always protect me perfectly...\\c[0])"
+                                "\\F\\c[14]\\AA[F](But I shouldn't get my hopes up too much.\n\\c[14]He can't always protect me perfectly...\\c[0])"
                             ]
                         },
                         {
@@ -19713,7 +19713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[24]\\AA[F]Hmm... \\c[14]So you're casting magic when the young\nlady comes near, huh? \\c[0]"
+                                "\\F[24]\\AA[F]Hmm... \\c[14]So you're casting magic when the\nyoung lady comes near, huh? \\c[0]"
                             ]
                         },
                         {
@@ -19746,7 +19746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[23]Okay. Anyway, I'll gradually pull away your heart, making\nit impossible for you to focus on support..♡"
+                                "\\F[23]Okay. Anyway, I'll gradually pull away your heart,\nmaking it impossible for you to focus on support..♡"
                             ]
                         },
                         {
@@ -19802,7 +19802,7 @@
                                 12,
                                 0,
                                 4,
-                                "'まずはびっくりさせてあげましょっか..♡'"
+                                "'Shall we start by giving you a surprise?..♡'"
                             ]
                         },
                         {
@@ -19976,7 +19976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F\\c[27]\\AA[F]Let's make sure a little more. \\c[27]I don't want\nto receive that penalty\\c[0]........"
+                                "\\F\\c[27]\\AA[F]Let's make sure a little more. \\c[27]I don't\nwant to receive that penalty\\c[0]........"
                             ]
                         },
                         {
@@ -20103,7 +20103,7 @@
                                 4,
                                 0,
                                 4,
-                                "'早くアイツを助けにいかないと...'"
+                                "'We need to go help him quickly...'"
                             ]
                         },
                         {
@@ -20114,7 +20114,7 @@
                                 5,
                                 0,
                                 4,
-                                "'ふざけてるわ'"
+                                "'Youre kidding me'"
                             ]
                         },
                         {
@@ -20125,7 +20125,7 @@
                                 6,
                                 0,
                                 4,
-                                "'男の淫魔って初めて見た。'"
+                                "'This is the first time Ive seen a male succubus'"
                             ]
                         },
                         {
@@ -20147,7 +20147,7 @@
                                 10,
                                 0,
                                 4,
-                                "'淫魔はやっぱり卑怯'"
+                                "'Succubi are indeed unfair'"
                             ]
                         },
                         {
@@ -20158,7 +20158,7 @@
                                 11,
                                 0,
                                 4,
-                                "'絶対一緒に脱出しよう'"
+                                "'Lets definitely escape together'"
                             ]
                         },
                         {
@@ -20169,7 +20169,7 @@
                                 12,
                                 0,
                                 4,
-                                "'この子の「管理」はお任せを..。サディ様..♡'"
+                                "'Ill leave the management of this child to you Lord Sadi..♡'"
                             ]
                         },
                         {
@@ -20221,7 +20221,7 @@
                                 21,
                                 0,
                                 4,
-                                "'親友以上恋人未満'"
+                                "'More than friends, less than lovers'"
                             ]
                         },
                         {
@@ -20232,7 +20232,7 @@
                                 22,
                                 0,
                                 4,
-                                "'敵'"
+                                "'Enemy'"
                             ]
                         },
                         {
@@ -20243,7 +20243,7 @@
                                 23,
                                 0,
                                 4,
-                                "'守るべき相手'"
+                                "'The person to protect'"
                             ]
                         },
                         {
@@ -20254,7 +20254,7 @@
                                 24,
                                 0,
                                 4,
-                                "'危険な女性'"
+                                "'Dangerous woman'"
                             ]
                         },
                         {
@@ -21098,7 +21098,7 @@
                                 10,
                                 0,
                                 4,
-                                "'本当に彼女は悪い人..？'"
+                                "'Is she really a bad person?'"
                             ]
                         },
                         {
@@ -21511,7 +21511,7 @@
                                 11,
                                 0,
                                 4,
-                                "'あの子を支えたい...だけど拒絶されたら嫌だ'"
+                                "'I want to support that child but I dont want to be rejected'"
                             ]
                         },
                         {
@@ -21697,7 +21697,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[10]\\AA[F]No! Let's keep looking! \\c[14]We don't know where\nthose guys might interfere\\c[0]....."
+                                "\\F[10]\\AA[F]No! Let's keep looking! \\c[14]We don't know\nwhere those guys might interfere\\c[0]....."
                             ]
                         },
                         {
@@ -21822,7 +21822,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "While Celia continues her investigation, the boy and the succubus\nshare a laugh..."
+                                "While Celia continues her investigation, the boy and the\nsuccubus share a laugh..."
                             ]
                         },
                         {
@@ -21876,7 +21876,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[2]\\AA[F]Ah, how interesting. The more we talk, the more you\nseem to be interested in me..♡"
+                                "\\F[2]\\AA[F]Ah, how interesting. The more we talk, the more\nyou seem to be interested in me..♡"
                             ]
                         },
                         {
@@ -21902,7 +21902,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hayato was completely thrown off by Merill's teasing manner of\nspeaking, and his pace was disrupted."
+                                "Hayato was completely thrown off by Merill's teasing manner\nof speaking, and his pace was disrupted."
                             ]
                         },
                         {
@@ -21959,7 +21959,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "((Celia is coming closer again. \\c[27] Please captivate Hayato's\ngaze♡\\c[0]))"
+                                "((Celia is coming closer again. \\c[27] Please captivate\nHayato's gaze♡\\c[0]))"
                             ]
                         },
                         {
@@ -22496,7 +22496,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "While rubbing her ample bosom against the iron bars, simulating a\npaizuri, she lasciviously stared at her prey\\c[27]\\c[0].........."
+                                "While rubbing her ample bosom against the iron bars,\nsimulating a paizuri, she lasciviously stared at her\nprey\\c[27]\\c[0].........."
                             ]
                         },
                         {
@@ -22752,7 +22752,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hehe... It's my fault. It's wrong for me to tickle your heart,\nbig sis...♡"
+                                "Hehe... It's my fault. It's wrong for me to tickle your\nheart, big sis...♡"
                             ]
                         },
                         {
@@ -22776,7 +22776,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "There's no choice but to appeal to the man you've become desirous\nof... isn't there?♡♡"
+                                "There's no choice but to appeal to the man you've become\ndesirous of... isn't there?♡♡"
                             ]
                         },
                         {
@@ -22793,7 +22793,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Merill is a monster who uses her sexuality as a weapon. This is a\ntrap that makes her enemies let their guard down with her vulgar\nand charming gestures..."
+                                "Merill is a monster who uses her sexuality as a weapon. This\nis a trap that makes her enemies let their guard down with\nher vulgar and charming gestures..."
                             ]
                         },
                         {
@@ -23198,7 +23198,7 @@
                                 10,
                                 0,
                                 4,
-                                "'やっぱり...淫魔だから綺麗...'"
+                                "'As expected because shes a succubus, shes beautiful...'"
                             ]
                         },
                         {
@@ -23209,7 +23209,7 @@
                                 12,
                                 0,
                                 4,
-                                "'そうそう...そうやってボーっとしててね...♡'"
+                                "'Thats right Just keep spacing out like that...♡'"
                             ]
                         },
                         {
@@ -23266,7 +23266,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【Two Hearts】\\c[27]Hayato is undergoing a wicked transformation..."
+                                "【Two Hearts】\\c[27]Hayato is undergoing a wicked\ntransformation..."
                             ]
                         },
                         {
@@ -23421,7 +23421,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hayato was completely captivated by Merill's breasts...\n(\\c[14]*You can check the information from the skill section\\c[0])"
+                                "Hayato was completely captivated by Merill's breasts...\n(\\c[14]*You can check the information from the skill\nsection\\c[0])"
                             ]
                         },
                         {
@@ -23621,7 +23621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "1. Monologue 5. Monologue. 2. Affirmation of 3 3. Affirmation of\n1 and 5 4. Denial of Monologue + 2"
+                                "1. Monologue 5. Monologue. 2. Affirmation of 3 3.\nAffirmation of 1 and 5 4. Denial of Monologue + 2"
                             ]
                         },
                         {
@@ -24581,7 +24581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[19]\\AA[F]O-Of course it is! What do you want, showing up like\nthis!"
+                                "\\F[19]\\AA[F]O-Of course it is! What do you want, showing up\nlike this!"
                             ]
                         },
                         {
@@ -24653,7 +24653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]I'm carrying out such deeds under the orders of the Demon\nKing\\c[0], but the truth is, I don't want to see you, so beautiful,\nin agony..."
+                                "\\c[14]I'm carrying out such deeds under the orders of the\nDemon King\\c[0], but the truth is, I don't want to see you,\nso beautiful, in agony..."
                             ]
                         },
                         {
@@ -24742,7 +24742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I won't force you...\\c[14] After all, his magic is there, so \\c[0] I\ncan't touch you anyway."
+                                "I won't force you...\\c[14] After all, his magic is there, so\n\\c[0] I can't touch you anyway."
                             ]
                         },
                         {
@@ -24850,7 +24850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If I touch it, I'll give you that look from before... up close\nand personal♡"
+                                "If I touch it, I'll give you that look from before... up\nclose and personal♡"
                             ]
                         },
                         {
@@ -25270,7 +25270,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Along with the activation of the magic, Celia's eyes and mind are\ndominated.."
+                                "Along with the activation of the magic, Celia's eyes and\nmind are dominated.."
                             ]
                         },
                         {
@@ -25366,7 +25366,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "By this time, Celia's thoughts were no longer rational, her heart\nwas drawn to the pleasant voice of the \\c[14]enemy\\c[0] in front of\nher."
+                                "By this time, Celia's thoughts were no longer rational, her\nheart was drawn to the pleasant voice of the\n\\c[14]enemy\\c[0] in front of her."
                             ]
                         },
                         {
@@ -25553,7 +25553,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Even though she should refuse, she ends up falling into the trap,\nexpecting the pleasure of making eye contact with \\c[27]."
+                                "Even though she should refuse, she ends up falling into the\ntrap, expecting the pleasure of making eye contact with\n\\c[27]."
                             ]
                         },
                         {
@@ -25655,7 +25655,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(This is bad...!! My body won't listen to me... and my head is\ngoing weird...♡)"
+                                "(This is bad...!! My body won't listen to me... and my head\nis going weird...♡)"
                             ]
                         },
                         {
@@ -25955,7 +25955,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hehe... That's right. Without it, there wouldn't be a shred of\nexcitement, would there?♡"
+                                "Hehe... That's right. Without it, there wouldn't be a shred\nof excitement, would there?♡"
                             ]
                         },
                         {
@@ -26051,7 +26051,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...But even in decay, I'm still a succubus. \\c[27] If you get too\nclose to me, something might happen...♡\\c[0]"
+                                "...But even in decay, I'm still a succubus. \\c[27] If you get\ntoo close to me, something might happen...♡\\c[0]"
                             ]
                         },
                         {
@@ -26109,7 +26109,7 @@
                                 4,
                                 0,
                                 4,
-                                "'ハヤト...防がれちゃったんだ..'"
+                                "'Hayato I was blocked..'"
                             ]
                         },
                         {
@@ -26120,7 +26120,7 @@
                                 5,
                                 0,
                                 4,
-                                "'近付いたら...キスのこと思い出しちゃう..'"
+                                "'If I get close Ill remember about the kiss..'"
                             ]
                         },
                         {
@@ -26220,7 +26220,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Celia has become addicted to Sadi's evil eye... (\\c[14]*You can\ncheck from the skill section\\c[0])"
+                                "Celia has become addicted to Sadi's evil eye... (\\c[14]*You\ncan check from the skill section\\c[0])"
                             ]
                         },
                         {
@@ -26303,7 +26303,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[9]\\AA[F](In the first place, I shouldn't rely on Hayato who is\ncaptured. I have to...)"
+                                "\\F[9]\\AA[F](In the first place, I shouldn't rely on Hayato\nwho is captured. I have to...)"
                             ]
                         },
                         {
@@ -26375,7 +26375,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[18]\\AA[F]Don't come near me! If a cunning person like you is\nproposing such a thing, there must be some ulterior motive!"
+                                "\\F[18]\\AA[F]Don't come near me! If a cunning person like you\nis proposing such a thing, there must be some ulterior\nmotive!"
                             ]
                         },
                         {
@@ -26543,7 +26543,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Perhaps he's run out of magical power? He must be tired as well."
+                                "Perhaps he's run out of magical power? He must be tired as\nwell."
                             ]
                         },
                         {
@@ -26567,7 +26567,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[1]\\AA[F].......Yes. (Of course... He must be suffering. It's\nall your fault!)"
+                                "\\F[1]\\AA[F].......Yes. (Of course... He must be suffering.\nIt's all your fault!)"
                             ]
                         },
                         {
@@ -26615,7 +26615,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Then please solve the mystery as you like. I will watch over you\nfrom nearby."
+                                "Then please solve the mystery as you like. I will watch over\nyou from nearby."
                             ]
                         },
                         {
@@ -26639,7 +26639,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...But even if I rot, I'm still a succubus. \\c[27] If you get close\nto me, something might happen...♡\\c[0]"
+                                "...But even if I rot, I'm still a succubus. \\c[27] If you get\nclose to me, something might happen...♡\\c[0]"
                             ]
                         },
                         {
@@ -26688,7 +26688,7 @@
                                 4,
                                 0,
                                 4,
-                                "'ハヤト...防がれちゃったんだ..'"
+                                "'Hayato I was blocked..'"
                             ]
                         },
                         {
@@ -26699,7 +26699,7 @@
                                 5,
                                 0,
                                 4,
-                                "'なるべく近寄らないように...。変な技使われる！'"
+                                "'Try not to get too close They might use some strange technique!'"
                             ]
                         },
                         {
@@ -26821,7 +26821,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[16]\\AA[F](But... after all, it's a rule made by a succubus.\nMaybe I shouldn't expect morality...)"
+                                "\\F[16]\\AA[F](But... after all, it's a rule made by a\nsuccubus. Maybe I shouldn't expect morality...)"
                             ]
                         },
                         {
@@ -27517,7 +27517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[16]\\AA[F]When we get back... um... maybe I should give him a\nlap pillow...."
+                                "\\F[16]\\AA[F]When we get back... um... maybe I should give\nhim a lap pillow...."
                             ]
                         },
                         {
@@ -27647,7 +27647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F]Wh-what's wrong with that? I want to escape from this\ngloomy place as soon as possible and go to Hayato...!"
+                                "\\F[10]\\AA[F]Wh-what's wrong with that? I want to escape from\nthis gloomy place as soon as possible and go to Hayato...!"
                             ]
                         },
                         {
@@ -27695,7 +27695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[27]You might have unexpectedly taken a liking to it\\c[0], huh? To\nsomething...♡"
+                                "\\c[27]You might have unexpectedly taken a liking to it\\c[0],\nhuh? To something...♡"
                             ]
                         },
                         {
@@ -27743,7 +27743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[15]\\AA[F]There's no way that's true, right!? I don't even know\nwhere he is right now... but that's absolutely impossible!"
+                                "\\F[15]\\AA[F]There's no way that's true, right!? I don't even\nknow where he is right now... but that's absolutely\nimpossible!"
                             ]
                         },
                         {
@@ -27767,7 +27767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "He's very close by. Just as I told you, on the adjacent floor...."
+                                "He's very close by. Just as I told you, on the adjacent\nfloor...."
                             ]
                         },
                         {
@@ -27849,7 +27849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Knowing that Hayato is currently being captivated by his pawn,\nMerill, on the spot\\c[27], Sadi smirks\\c[0]."
+                                "Knowing that Hayato is currently being captivated by his\npawn, Merill, on the spot\\c[27], Sadi smirks\\c[0]."
                             ]
                         },
                         {
@@ -27873,7 +27873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[18]\\AA[F]No way...! Ha, Hayato! Can you hear me!? It's me!"
+                                "\\F[18]\\AA[F]No way...! Ha, Hayato! Can you hear me!? It's\nme!"
                             ]
                         },
                         {
@@ -27890,7 +27890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Although he is indeed nearby, due to the magic trick, Celia can't\neven see the cage."
+                                "Although he is indeed nearby, due to the magic trick, Celia\ncan't even see the cage."
                             ]
                         },
                         {
@@ -28042,7 +28042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[11]\\AA[F]Hey, \\c[14]Hayato has nothing to do with this whole\n\\c[0]descendant of the goddess thing, right!? At least let him go!"
+                                "\\F[11]\\AA[F]Hey, \\c[14]Hayato has nothing to do with this\nwhole \\c[0]descendant of the goddess thing, right!? At least\nlet him go!"
                             ]
                         },
                         {
@@ -28066,7 +28066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You're brave, Celia. So you're saying, never mind me, but save\nhim... is that it?"
+                                "You're brave, Celia. So you're saying, never mind me, but\nsave him... is that it?"
                             ]
                         },
                         {
@@ -28090,7 +28090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Unfortunately, that's not possible... Because Merill has taken a\nliking to Hayato, you see♡"
+                                "Unfortunately, that's not possible... Because Merill has\ntaken a liking to Hayato, you see♡"
                             ]
                         },
                         {
@@ -28191,7 +28191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F](Being with that woman for a long time is too\ndangerous..! Especially for men! I can't just sit here and do\nnothing.)"
+                                "\\F[10]\\AA[F](Being with that woman for a long time is too\ndangerous..! Especially for men! I can't just sit here and\ndo nothing.)"
                             ]
                         },
                         {
@@ -28396,7 +28396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "No, it's something related to the next stage. Rather, if we don't\nupdate... it would be disadvantageous for us♡ Wouldn't it be good\nto check the rulebook?"
+                                "No, it's something related to the next stage. Rather, if we\ndon't update... it would be disadvantageous for us♡ Wouldn't\nit be good to check the rulebook?"
                             ]
                         },
                         {
@@ -28445,7 +28445,7 @@
                                 4,
                                 0,
                                 4,
-                                "'アンタの事、信じてるから！'"
+                                "'Because I believe in you!'"
                             ]
                         },
                         {
@@ -28456,7 +28456,7 @@
                                 5,
                                 0,
                                 4,
-                                "'ハヤトが気に入ってるですって...！？'"
+                                "'Hayato likes it!?'"
                             ]
                         },
                         {
@@ -28489,7 +28489,7 @@
                                 10,
                                 0,
                                 4,
-                                "'メリルの疑似パイズリで思考に靄がかかっている'"
+                                "'My thoughts are foggy due to Merills simulated paizuri'"
                             ]
                         },
                         {
@@ -28500,7 +28500,7 @@
                                 11,
                                 0,
                                 4,
-                                "'せ、セリア...ごめん'"
+                                "'C-Celia Im sorry'"
                             ]
                         },
                         {
@@ -28511,7 +28511,7 @@
                                 12,
                                 0,
                                 4,
-                                "'おねえさん見ちゃうの癖にしてあげる...♡'"
+                                "'Ill make it a habit for you to watch your big sister...♡'"
                             ]
                         },
                         {
@@ -28533,7 +28533,7 @@
                                 24,
                                 0,
                                 4,
-                                "'不思議でえっちな女性'"
+                                "'Mysterious and naughty woman'"
                             ]
                         },
                         {
@@ -28653,7 +28653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F]\\c[14]I have to check the rulebook! \\c[0] I don't know\nwhat will happen if I don't!"
+                                "\\F[10]\\AA[F]\\c[14]I have to check the rulebook! \\c[0] I\ndon't know what will happen if I don't!"
                             ]
                         },
                         {
@@ -28933,7 +28933,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[16]\\AA[F](....And those \\c[27]shining eyes\\c[0] too... they make\nme feel really good..)"
+                                "\\F[16]\\AA[F](....And those \\c[27]shining eyes\\c[0] too...\nthey make me feel really good..)"
                             ]
                         },
                         {
@@ -29357,7 +29357,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]Please say anything\\c[0]Celia. I'll do anything for you, the\nbeautiful you..."
+                                "\\c[27]Please say anything\\c[0]Celia. I'll do anything for\nyou, the beautiful you..."
                             ]
                         },
                         {
@@ -29436,7 +29436,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[9]\\AA[F]It's, it's nothing! Now that the barrier is removed,\nwe just need to investigate the next one!"
+                                "\\F[9]\\AA[F]It's, it's nothing! Now that the barrier is\nremoved, we just need to investigate the next one!"
                             ]
                         },
                         {
@@ -29649,7 +29649,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "No, it's something related to the next stage. Rather, we have to\nupdate it..."
+                                "No, it's something related to the next stage. Rather, we\nhave to update it..."
                             ]
                         },
                         {
@@ -29673,7 +29673,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "It's disadvantageous for us, isn't it? ♡ Wouldn't it be good to\ncheck the rulebook..?"
+                                "It's disadvantageous for us, isn't it? ♡ Wouldn't it be good\nto check the rulebook..?"
                             ]
                         },
                         {
@@ -29902,7 +29902,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "As Celia says... this kiss has the power to set \\c[27] hearts\naflame."
+                                "As Celia says... this kiss has the power to set \\c[27]\nhearts aflame."
                             ]
                         },
                         {
@@ -30062,7 +30062,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]The woman who receives this will feel her private parts\nthrobbing and heating up..."
+                                "\\c[27]The woman who receives this will feel her private\nparts throbbing and heating up..."
                             ]
                         },
                         {
@@ -30320,7 +30320,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]Eventually, they forget their mission and become women who\ndevote themselves to me..♡"
+                                "\\c[27]Eventually, they forget their mission and become women\nwho devote themselves to me..♡"
                             ]
                         },
                         {
@@ -30440,7 +30440,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Now Celia, you're hot, aren't you....\\c[27] I'll undress you\\c[0]"
+                                "Now Celia, you're hot, aren't you....\\c[27] I'll undress\nyou\\c[0]"
                             ]
                         },
                         {
@@ -30617,7 +30617,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Celia...\\c[27] The fact that you asked \\c[0] means you want this,\ndon't you....♡"
+                                "Celia...\\c[27] The fact that you asked \\c[0] means you want\nthis, don't you....♡"
                             ]
                         },
                         {
@@ -30699,7 +30699,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Just like that, Celia was swept away by the pleasure of the kiss\nshe had experienced in the past..."
+                                "Just like that, Celia was swept away by the pleasure of the\nkiss she had experienced in the past..."
                             ]
                         },
                         {
@@ -30791,7 +30791,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "The two continue to entwine their tongues in a heated mood..."
+                                "The two continue to entwine their tongues in a heated\nmood..."
                             ]
                         },
                         {
@@ -30938,7 +30938,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "With the little reason she had left, Celia continued to keep her\neyes shut \\c[14] and held herself back \\c[0]."
+                                "With the little reason she had left, Celia continued to keep\nher eyes shut \\c[14] and held herself back \\c[0]."
                             ]
                         },
                         {
@@ -30962,7 +30962,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "As expected... she's a woman with a strong will. Normally, she\nshould have surrendered to me by now."
+                                "As expected... she's a woman with a strong will. Normally,\nshe should have surrendered to me by now."
                             ]
                         },
                         {
@@ -31485,7 +31485,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Caught in the cunning trap of the great succubus, her romantic\nfeelings are stimulated at close range."
+                                "Caught in the cunning trap of the great succubus, her\nromantic feelings are stimulated at close range."
                             ]
                         },
                         {
@@ -31756,7 +31756,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Those who kiss Sadi gradually lose interest in other genders."
+                                "Those who kiss Sadi gradually lose interest in other\ngenders."
                             ]
                         },
                         {
@@ -31773,7 +31773,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Unaware of this, Celia's heart is captivated by the lingering\nkiss.."
+                                "Unaware of this, Celia's heart is captivated by the\nlingering kiss.."
                             ]
                         },
                         {
@@ -31814,7 +31814,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "During the great war, it is said that the beautiful prisoners who\ncontinued to receive this \\c[27] Leap Kiss \\c[0] forgot their loved\nones and their mission, and fell to the Demon King's army."
+                                "During the great war, it is said that the beautiful\nprisoners who continued to receive this \\c[27] Leap Kiss\n\\c[0] forgot their loved ones and their mission, and fell to\nthe Demon King's army."
                             ]
                         },
                         {
@@ -31831,31 +31831,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Even for a serious woman, it doesn't change... Now, to get Sadi's\nfavor, she has started to carry out sabotage activities all over\nthe place."
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 3,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　Sadi"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "(Hehehe... The groundwork is gradually being laid out, isn't it?)"
+                                "Even for a serious woman, it doesn't change... Now, to get\nSadi's favor, she has started to carry out sabotage\nactivities all over the place."
                             ]
                         },
                         {
@@ -31879,7 +31855,31 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "(I'll make you fall in love to the point where you can't escape\nwithout even realizing it..♡)"
+                                "(Hehehe... The groundwork is gradually being laid out, isn't\nit?)"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "　Sadi"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "(I'll make you fall in love to the point where you can't\nescape without even realizing it..♡)"
                             ]
                         },
                         {
@@ -32183,7 +32183,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Thank you, \\c[14] please take a look as it pertains to the \\c[0]next\nstage♡"
+                                "Thank you, \\c[14] please take a look as it pertains to the\n\\c[0]next stage♡"
                             ]
                         },
                         {
@@ -32353,7 +32353,7 @@
                                 4,
                                 0,
                                 4,
-                                "'サディのキスで思考に霧がかかっている'"
+                                "'My thoughts are foggy from Sadis kiss'"
                             ]
                         },
                         {
@@ -32364,7 +32364,7 @@
                                 5,
                                 0,
                                 4,
-                                "'キスの感触...忘れられない。柔らかった...♡'"
+                                "'The feeling of a kiss I cant forget It was soft...♡'"
                             ]
                         },
                         {
@@ -32375,7 +32375,7 @@
                                 6,
                                 0,
                                 4,
-                                "'性格は最低だけど、声も見た目も....♡'"
+                                "'His personality is the worst, but his voice and appearance....♡'"
                             ]
                         },
                         {
@@ -32441,7 +32441,7 @@
                                 10,
                                 0,
                                 4,
-                                "'メリルの疑似パイズリで思考に靄がかかっている'"
+                                "'My thoughts are foggy due to Merills simulated paizuri'"
                             ]
                         },
                         {
@@ -32452,7 +32452,7 @@
                                 11,
                                 0,
                                 4,
-                                "'せ、セリア...ごめん'"
+                                "'C-Celia Im sorry'"
                             ]
                         },
                         {
@@ -32463,7 +32463,7 @@
                                 12,
                                 0,
                                 4,
-                                "'おねえさん見ちゃうの癖にしてあげる...♡'"
+                                "'Ill make it a habit for you to watch your big sister...♡'"
                             ]
                         },
                         {
@@ -32485,7 +32485,7 @@
                                 24,
                                 0,
                                 4,
-                                "'不思議でえっちな女性'"
+                                "'Mysterious and naughty woman'"
                             ]
                         },
                         {
@@ -32496,7 +32496,7 @@
                                 22,
                                 0,
                                 4,
-                                "'見た目だけ良い敵'"
+                                "'An enemy thats only good in appearance'"
                             ]
                         },
                         {
@@ -32692,7 +32692,7 @@
                                 4,
                                 0,
                                 4,
-                                "'キモイ筈。キモい...はず。'"
+                                "'It should be disgusting It should be disgusting'"
                             ]
                         },
                         {
@@ -32703,7 +32703,7 @@
                                 5,
                                 0,
                                 4,
-                                "'なんであんな最低な奴に心振り回されてんのよ...'"
+                                "'Why are you letting such a terrible guy mess with your feelings?...'"
                             ]
                         },
                         {
@@ -32714,7 +32714,7 @@
                                 6,
                                 0,
                                 4,
-                                "'絶対「良い」とか思っちゃダメ...！'"
+                                "'You absolutely must not think its good!'"
                             ]
                         },
                         {
@@ -32780,7 +32780,7 @@
                                 10,
                                 0,
                                 4,
-                                "'メリルの疑似パイズリで思考に靄がかかっている'"
+                                "'My thoughts are foggy due to Merills simulated paizuri'"
                             ]
                         },
                         {
@@ -32791,7 +32791,7 @@
                                 11,
                                 0,
                                 4,
-                                "'せ、セリア...ごめん'"
+                                "'C-Celia Im sorry'"
                             ]
                         },
                         {
@@ -32802,7 +32802,7 @@
                                 12,
                                 0,
                                 4,
-                                "'おねえさん見ちゃうの癖にしてあげる...♡'"
+                                "'Ill make it a habit for you to watch your big sister...♡'"
                             ]
                         },
                         {
@@ -32824,7 +32824,7 @@
                                 24,
                                 0,
                                 4,
-                                "'不思議でえっちな女性'"
+                                "'Mysterious and naughty woman'"
                             ]
                         },
                         {
@@ -32835,7 +32835,7 @@
                                 22,
                                 0,
                                 4,
-                                "'...敵'"
+                                "'...Enemy'"
                             ]
                         },
                         {
@@ -33381,7 +33381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hayato couldn't take his eyes off the succubus's soft-looking\nbreasts..."
+                                "Hayato couldn't take his eyes off the succubus's soft-\nlooking breasts..."
                             ]
                         },
                         {
@@ -33398,7 +33398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Merrill's sweat drips down, and a lewd yet gentle scent surrounds\nHayato."
+                                "Merrill's sweat drips down, and a lewd yet gentle scent\nsurrounds Hayato."
                             ]
                         },
                         {
@@ -33641,7 +33641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Normally, in such a captivating scene... I'd want to mindlessly\nmove my right hand."
+                                "Normally, in such a captivating scene... I'd want to\nmindlessly move my right hand."
                             ]
                         },
                         {
@@ -33658,7 +33658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]Feeling guilty towards Celia\\c[0] Hayato was barely holding\nhimself back with all his might..."
+                                "\\c[14]Feeling guilty towards Celia\\c[0] Hayato was barely\nholding himself back with all his might..."
                             ]
                         },
                         {
@@ -33706,7 +33706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(....You're getting excited for the first time in a year, aren't you♡）"
+                                "(....You're getting excited for the first time in a year, aren't\nyou♡）"
                             ]
                         },
                         {
@@ -33799,7 +33799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Seeing Hayato's desperate face, the succubus inexplicably stopped\nshaking her breasts."
+                                "Seeing Hayato's desperate face, the succubus inexplicably\nstopped shaking her breasts."
                             ]
                         },
                         {
@@ -33847,7 +33847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[20]\\AA[F]\\c[14]Holding back for Celia, who isn't even here to\nsee it\\c[0]... Aren't you being too serious?"
+                                "\\F[20]\\AA[F]\\c[14]Holding back for Celia, who isn't even\nhere to see it\\c[0]... Aren't you being too serious?"
                             ]
                         },
                         {
@@ -33912,7 +33912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[20]\\AA[F]Rather than impulsively attacking, \\c[27]Merill\nstrongly prefers when her partner loses to her temptation and\nbecomes engrossed\\c[0]."
+                                "\\F[20]\\AA[F]Rather than impulsively attacking, \\c[27]Merill\nstrongly prefers when her partner loses to her temptation\nand becomes engrossed\\c[0]."
                             ]
                         },
                         {
@@ -33938,7 +33938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[25]\\AA[F]To her, the boy in front of her seemed like \\c[27]the\nultimate prey\\c[0]."
+                                "\\F[25]\\AA[F]To her, the boy in front of her seemed like\n\\c[27]the ultimate prey\\c[0]."
                             ]
                         },
                         {
@@ -33971,7 +33971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[24]\\AA[F]I'm sorry for getting you excited, Hayato-kun....\nI'll stop now, so will you forgive me?♡"
+                                "\\F[24]\\AA[F]I'm sorry for getting you excited, Hayato-\nkun.... I'll stop now, so will you forgive me?♡"
                             ]
                         },
                         {
@@ -34036,7 +34036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Normally, I would have had to defeat this monster with the magic\nI possess. After all, it was a villain who had been doing as it\npleased in Variante."
+                                "Normally, I would have had to defeat this monster with the\nmagic I possess. After all, it was a villain who had been\ndoing as it pleased in Variante."
                             ]
                         },
                         {
@@ -34053,7 +34053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Even if it was against the rules, I felt a danger that I had to\ndo so."
+                                "Even if it was against the rules, I felt a danger that I had\nto do so."
                             ]
                         },
                         {
@@ -34118,7 +34118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[27]Unable to grasp Merill's elusive nature, \\c[0] I couldn't\nmuster the magical power....................."
+                                "\\c[27]Unable to grasp Merill's elusive nature, \\c[0] I\ncouldn't muster the magical power....................."
                             ]
                         },
                         {
@@ -34158,7 +34158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "After being teased with a simulated paizuri, I remained feeling a\npainful longing that seemed ready to burst."
+                                "After being teased with a simulated paizuri, I remained\nfeeling a painful longing that seemed ready to burst."
                             ]
                         },
                         {
@@ -34175,7 +34175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The boy was feeling a sense of unease and a dark thrill towards\nMerill..."
+                                "The boy was feeling a sense of unease and a dark thrill\ntowards Merill..."
                             ]
                         },
                         {
@@ -34285,7 +34285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hayato had begun to be conscious of Merill... (\\c[14]※You can\ncheck the information from the skill section\\c[0])"
+                                "Hayato had begun to be conscious of Merill... (\\c[14]※You\ncan check the information from the skill section\\c[0])"
                             ]
                         },
                         {
@@ -34329,7 +34329,7 @@
                                 10,
                                 0,
                                 4,
-                                "'なんでこんな悪戯されたんだろ...♡'"
+                                "'I wonder why such a prank was played on me...♡'"
                             ]
                         },
                         {
@@ -34375,7 +34375,7 @@
                                 24,
                                 0,
                                 4,
-                                "'おっぱいがイイ淫魔'"
+                                "'A succubus with nice breasts'"
                             ]
                         },
                         {
@@ -34709,7 +34709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Look.... Here are \\c[27]Merill's breasts\\c[0] that you love so\nmuch...♡"
+                                "Look.... Here are \\c[27]Merill's breasts\\c[0] that you love\nso much...♡"
                             ]
                         },
                         {
@@ -34733,7 +34733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If you cast a weakening spell on Celia, I'll let you suck on my\nbreasts and make you feel good♡"
+                                "If you cast a weakening spell on Celia, I'll let you suck on\nmy breasts and make you feel good♡"
                             ]
                         },
                         {
@@ -35222,7 +35222,7 @@
                                 4,
                                 0,
                                 4,
-                                "'早くアイツを助けにいかないと...'"
+                                "'We need to go help him quickly...'"
                             ]
                         },
                         {
@@ -35233,7 +35233,7 @@
                                 5,
                                 0,
                                 4,
-                                "'ふざけてるわ'"
+                                "'Youre kidding me'"
                             ]
                         },
                         {
@@ -35244,7 +35244,7 @@
                                 6,
                                 0,
                                 4,
-                                "'男の淫魔って初めて見た。'"
+                                "'This is the first time Ive seen a male succubus'"
                             ]
                         },
                         {
@@ -35266,7 +35266,7 @@
                                 10,
                                 0,
                                 4,
-                                "'淫魔はやっぱり卑怯'"
+                                "'Succubi are indeed unfair'"
                             ]
                         },
                         {
@@ -35277,7 +35277,7 @@
                                 11,
                                 0,
                                 4,
-                                "'絶対一緒に脱出しよう'"
+                                "'Lets definitely escape together'"
                             ]
                         },
                         {
@@ -35288,7 +35288,7 @@
                                 12,
                                 0,
                                 4,
-                                "'この子の「管理」はお任せを..。サディ様..♡'"
+                                "'Ill leave the management of this child to you Lord Sadi..♡'"
                             ]
                         },
                         {

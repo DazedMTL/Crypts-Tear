@@ -3505,7 +3505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The fact that they're not even giving us a hint means they never\nintended to give us the answer in the first place."
+                                "The fact that they're not even giving us a hint means they\nnever intended to give us the answer in the first place."
                             ]
                         },
                         {
@@ -3546,7 +3546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Or another thing... \\c[14]We don't know if that cipher can really\nbe used for escape\\c[0]."
+                                "Or another thing... \\c[14]We don't know if that cipher can\nreally be used for escape\\c[0]."
                             ]
                         },
                         {
@@ -3570,7 +3570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "We must not forget that this is a battle against the main force\nof the \\c[14]Demon King's army\\c[0]...."
+                                "We must not forget that this is a battle against the main\nforce of the \\c[14]Demon King's army\\c[0]...."
                             ]
                         },
                         {
@@ -3594,7 +3594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[15]\\AA[F]........... (I, I've been honestly collecting them,\nbut....)"
+                                "\\F[15]\\AA[F]........... (I, I've been honestly collecting\nthem, but....)"
                             ]
                         },
                         {
@@ -3651,7 +3651,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F](There's no proof that these numbers... can really be\nused, right?)"
+                                "\\F[10]\\AA[F](There's no proof that these numbers... can\nreally be used, right?)"
                             ]
                         },
                         {
@@ -4203,7 +4203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I intended to, but... It seems like some sort of mechanism is\npreventing me from leaving this place."
+                                "I intended to, but... It seems like some sort of mechanism\nis preventing me from leaving this place."
                             ]
                         },
                         {
@@ -4253,7 +4253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " Hayato: So you're saying we can't escape unless Sadi undoes the\nspell. The issue wasn't even about the code after all...."
+                                " Hayato: So you're saying we can't escape unless Sadi undoes\nthe spell. The issue wasn't even about the code after\nall...."
                             ]
                         },
                         {
@@ -4301,7 +4301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The \\c[14]storage room\\c[0], which is Anthurium's old haunt, is not\naffected by this spell.... That's why there should be a clue to\nescape there."
+                                "The \\c[14]storage room\\c[0], which is Anthurium's old haunt,\nis not affected by this spell.... That's why there should be\na clue to escape there."
                             ]
                         },
                         {
@@ -4413,7 +4413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F\\c[14]\\AA[F]Hey, Hayato! You can handle that \\c[14]weapon\\c[0],\ncan't you? After all, you're the \\c[14]hero's younger brother\\c[0]!"
+                                "\\F\\c[14]\\AA[F]Hey, Hayato! You can handle that\n\\c[14]weapon\\c[0], can't you? After all, you're the\n\\c[14]hero's younger brother\\c[0]!"
                             ]
                         },
                         {
@@ -4470,7 +4470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F]Ah, yes. There were powerful weapons in the church\nbasement from the beginning, right? You, who have been living in\nVariente, would know... right?"
+                                "\\F[10]\\AA[F]Ah, yes. There were powerful weapons in the\nchurch basement from the beginning, right? You, who have\nbeen living in Variente, would know... right?"
                             ]
                         },
                         {
@@ -4553,7 +4553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F]\\c[14]Holy Sword\\c[0]... It's definitely strong, isn't\nit!! So, Anthurium! Have you found that room?"
+                                "\\F[10]\\AA[F]\\c[14]Holy Sword\\c[0]... It's definitely strong,\nisn't it!! So, Anthurium! Have you found that room?"
                             ]
                         },
                         {
@@ -4694,7 +4694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "....Isn't that terrible, Anthurium♡ After I was so kind to you...♡"
+                                "....Isn't that terrible, Anthurium♡ After I was so kind to\nyou...♡"
                             ]
                         },
                         {
@@ -5148,7 +5148,7 @@
                                 4,
                                 0,
                                 4,
-                                "'早くアイツを助けにいかないと...'"
+                                "'We need to go help him quickly...'"
                             ]
                         },
                         {
@@ -5159,7 +5159,7 @@
                                 5,
                                 0,
                                 4,
-                                "'多くの人を殺してきたヤツ...許せない'"
+                                "'I cant forgive the one who has killed so many people'"
                             ]
                         },
                         {
@@ -5170,7 +5170,7 @@
                                 6,
                                 0,
                                 4,
-                                "'想いとか片腹痛いわよ'"
+                                "'Thoughts like that are a pain in the side'"
                             ]
                         },
                         {
@@ -5192,7 +5192,7 @@
                                 10,
                                 0,
                                 4,
-                                "'淫魔はやっぱり卑怯'"
+                                "'Succubi are indeed unfair'"
                             ]
                         },
                         {
@@ -5203,7 +5203,7 @@
                                 11,
                                 0,
                                 4,
-                                "'絶対一緒に脱出しよう'"
+                                "'Lets definitely escape together'"
                             ]
                         },
                         {
@@ -5214,7 +5214,7 @@
                                 12,
                                 0,
                                 4,
-                                "'この子の「管理」はお任せを..。サディ様..♡'"
+                                "'Ill leave the management of this child to you Lord Sadi..♡'"
                             ]
                         },
                         {
@@ -5277,7 +5277,7 @@
                                 21,
                                 0,
                                 4,
-                                "'親友以上恋人未満'"
+                                "'More than friends, less than lovers'"
                             ]
                         },
                         {
@@ -5288,7 +5288,7 @@
                                 22,
                                 0,
                                 4,
-                                "'敵'"
+                                "'Enemy'"
                             ]
                         },
                         {
@@ -5299,7 +5299,7 @@
                                 23,
                                 0,
                                 4,
-                                "'守るべき相手'"
+                                "'The person to protect'"
                             ]
                         },
                         {
@@ -5310,7 +5310,7 @@
                                 24,
                                 0,
                                 4,
-                                "'危険な女性'"
+                                "'Dangerous woman'"
                             ]
                         },
                         {
