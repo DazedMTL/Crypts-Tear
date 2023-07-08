@@ -3247,7 +3247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F\\c[14]\\AA[F]The first digit is \\c[14]5\\c....I understood that\nmuch."
+                                "\\F\\c[14]\\AA[F]The first digit is \\c[14]5\\c[0]....I understood that\nmuch."
                             ]
                         },
                         {
@@ -3444,7 +3444,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[14]Please enter the number of the honest person.....\\c"
+                                "\\c[14]Please enter the number of the honest person.....\\c[0]"
                             ]
                         },
                         {
@@ -3485,7 +3485,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[14]Please enter the number of the honest person.....\\c"
+                                "\\c[14]Please enter the number of the honest person.....\\c[0]"
                             ]
                         },
                         {
@@ -3553,7 +3553,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[14]Please enter the number of the honest person.....\\c"
+                                "\\c[14]Please enter the number of the honest person.....\\c[0]"
                             ]
                         },
                         {
@@ -3577,7 +3577,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[13]\\AA[F]\\c[14]Honest person\\c...? What are you talking about."
+                                "\\F[13]\\AA[F]\\c[14]Honest person\\c[0]...? What are you talking about."
                             ]
                         },
                         {
@@ -3894,7 +3894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]Please enter the number of the honest person.....\\c"
+                                "\\c[14]Please enter the number of the honest person.....\\c[0]"
                             ]
                         },
                         {
@@ -4077,7 +4077,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Following Lord Sadi's orders, currently \\c[14] temporarily\ncompletely sealed off \\c.."
+                                "Following Lord Sadi's orders, currently \\c[14] temporarily\ncompletely sealed off \\c[0].."
                             ]
                         },
                         {
@@ -4183,7 +4183,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[10]\\AA[F](\\c[14]We have no choice but to go see the rulebook\nthen....\\c)"
+                                "\\F[10]\\AA[F](\\c[14]We have no choice but to go see the rulebook\nthen....\\c[0])"
                             ]
                         },
                         {
@@ -4210,7 +4210,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[14]Please input the number of the honest person.....\\c"
+                                "\\c[14]Please input the number of the honest person.....\\c[0]"
                             ]
                         },
                         {
@@ -4301,7 +4301,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F\\c[14]\\AA[F]Alright, I'll input it. (\\c[14]Consumes AP to\ninput\\c) (\\c[27]*There's a penalty for mistakes\\c)"
+                                "\\F\\c[14]\\AA[F]Alright, I'll input it. (\\c[14]Consumes AP to\ninput\\c[0]) (\\c[27]*There's a penalty for mistakes\\c[0])"
                             ]
                         },
                         {
@@ -4550,7 +4550,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "It's wrong, so \\c[27] it's a punishment \\c."
+                                "It's wrong, so \\c[27] it's a punishment \\c[0]."
                             ]
                         },
                         {
@@ -5617,7 +5617,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hayato's heart started pounding \\c when he saw Merill...\n(\\c[14]You can check from the skill section\\c)"
+                                "Hayato's heart started pounding \\c[0] when he saw Merill...\n(\\c[14]You can check from the skill section\\c[0])"
                             ]
                         },
                         {
@@ -8300,7 +8300,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hayato's heart started pounding \\c when he looked at Merill...\n(\\c[14]You can check from the skill section\\c)"
+                                "Hayato's heart started pounding \\c[0] when he looked at Merill...\n(\\c[14]You can check from the skill section\\c[0])"
                             ]
                         },
                         {
@@ -9825,7 +9825,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "1. Seria must obtain the 4-digit pin by \\c[27]some method\\c. 2.\nOnce 1 is completed, she must dispel the magic of the cell where\nHayato is imprisoned. 3. She can investigate anywhere she can\nreach at that point. 4. Contact from Sadi is only allowed\n\\c[27]if Seria permits it\\c."
+                                "1. Seria must obtain the 4-digit pin by \\c[27]some method\\c[0]. 2.\nOnce 1 is completed, she must dispel the magic of the cell where\nHayato is imprisoned. 3. She can investigate anywhere she can\nreach at that point. 4. Contact from Sadi is only allowed\n\\c[27]if Seria permits it\\c[0]."
                             ]
                         },
                         {
@@ -9842,7 +9842,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "5. If Seria absolutely cannot figure out the pin, she can learn\none digit by listening to one of Sadi's requests. \\c[27]\\c"
+                                "5. If Seria absolutely cannot figure out the pin, she can learn\none digit by listening to one of Sadi's requests. \\c[27]\\c[0]"
                             ]
                         },
                         {
@@ -9957,7 +9957,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "1. Merill will monitor Hayato. 2. Until the code is decrypted,\nwait in the cage. You're free to do as you please. 3. Hayato may\nprovide support\\c[27] from within the cage\\c. 4. Direct attacks\nagainst each other are prohibited."
+                                "1. Merill will monitor Hayato. 2. Until the code is decrypted,\nwait in the cage. You're free to do as you please. 3. Hayato may\nprovide support\\c[27] from within the cage\\c[0]. 4. Direct attacks\nagainst each other are prohibited."
                             ]
                         },
                         {
@@ -9974,7 +9974,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "5. \\c[27] Any direct physical contact from \\c Merill to Hayato is\nprohibited."
+                                "5. \\c[27] Any direct physical contact from \\c[0] Merill to Hayato is\nprohibited."
                             ]
                         },
                         {
@@ -9991,7 +9991,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Seria \\c[27]If we follow these rules\\cHayato should still be\nsafe."
+                                "Seria \\c[27]If we follow these rules\\c[0]Hayato should still be\nsafe."
                             ]
                         },
                         {
@@ -10015,7 +10015,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Even if his power is limited, there's no way he would lose to\nsuch a vulgar succubus in a one-on-one fight. After all, he's the\n\\c[14]hero's younger brother\\c!"
+                                "Even if his power is limited, there's no way he would lose to\nsuch a vulgar succubus in a one-on-one fight. After all, he's the\n\\c[14]hero's younger brother\\c[0]!"
                             ]
                         },
                         {
@@ -10113,7 +10113,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Not just comments based on simple atmosphere, but even things\nthat affect actual status and \\c[27]heart\\c...."
+                                "Not just comments based on simple atmosphere, but even things\nthat affect actual status and \\c[27]heart\\c[0]...."
                             ]
                         },
                         {
@@ -10182,7 +10182,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Changes in the \\c[27]heart\\c can be viewed from the menu's\n[\\c[14]Two Hearts\\c]. (You can switch with the keyboard's [←][→])"
+                                "Changes in the \\c[27]heart\\c[0] can be viewed from the menu's\n[\\c[14]Two Hearts\\c[0]]. (You can switch with the keyboard's [←][→])"
                             ]
                         },
                         {
@@ -10216,7 +10216,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "And in this work, depending on the degree of corruption and the\nchoices accepted, \\c[14]casual conversations\\c will slightly\nchange."
+                                "And in this work, depending on the degree of corruption and the\nchoices accepted, \\c[14]casual conversations\\c[0] will slightly\nchange."
                             ]
                         },
                         {
@@ -10281,7 +10281,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The first digit is '\\c[14]5\\c'."
+                                "The first digit is '\\c[14]5\\c[0]'."
                             ]
                         },
                         {
@@ -10379,7 +10379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F]\\c[14]You said it was related to the next stage\\c,\ndidn't you..."
+                                "\\F[10]\\AA[F]\\c[14]You said it was related to the next stage\\c[0],\ndidn't you..."
                             ]
                         },
                         {
@@ -10403,7 +10403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F]If that's true..\\c[14]I wonder if a sixth rule has\nbeen added\\c."
+                                "\\F[10]\\AA[F]If that's true..\\c[14]I wonder if a sixth rule has\nbeen added\\c[0]."
                             ]
                         },
                         {
@@ -10432,7 +10432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "1. Seria must obtain the 4-digit PIN by \\c[27]some method\\c. 2.\nOnce 1 is completed, she must dispel the magic of the cell where\nHayato is imprisoned. 3. She can investigate anywhere she can\nreach at that point. 4. Contact from Sadi is free unless Hayato's\nmagic is gone."
+                                "1. Seria must obtain the 4-digit PIN by \\c[27]some method\\c[0]. 2.\nOnce 1 is completed, she must dispel the magic of the cell where\nHayato is imprisoned. 3. She can investigate anywhere she can\nreach at that point. 4. Contact from Sadi is free unless Hayato's\nmagic is gone."
                             ]
                         },
                         {
@@ -10449,7 +10449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "5. If you absolutely cannot figure out the PIN, you can learn one\ndigit by listening to one of Sadi's requests. \\c[27]\\c"
+                                "5. If you absolutely cannot figure out the PIN, you can learn one\ndigit by listening to one of Sadi's requests. \\c[27]\\c[0]"
                             ]
                         },
                         {
@@ -10490,7 +10490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "6. \\c[14]You must absolutely listen to the doll's request\\c"
+                                "6. \\c[14]You must absolutely listen to the doll's request\\c[0]"
                             ]
                         },
                         {
@@ -10538,7 +10538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F]So beyond that passage, there's a \\c[14]troublesome\nguy\\c, huh."
+                                "\\F[10]\\AA[F]So beyond that passage, there's a \\c[14]troublesome\nguy\\c[0], huh."
                             ]
                         },
                         {
@@ -11420,7 +11420,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hayato's heart started pounding \\c as he looked at Merill...\n(\\c[14]*You can check from the skill section\\c)"
+                                "Hayato's heart started pounding \\c[0] as he looked at Merill...\n(\\c[14]*You can check from the skill section\\c[0])"
                             ]
                         },
                         {
@@ -13888,7 +13888,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Yes, of course...♡ You've become quite accustomed to the\n【\\c[27]Fallen Angel's Puff-Puff\\c】 that bewitches a man's\ninstincts...♡"
+                                "Yes, of course...♡ You've become quite accustomed to the\n【\\c[27]Fallen Angel's Puff-Puff\\c[0]】 that bewitches a man's\ninstincts...♡"
                             ]
                         },
                         {
@@ -14075,7 +14075,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "The bewitching lewd technique that even captivates heroes and\nensnares them in the hands of evil... .....【\\c[27]Fallen Sexy\nDance\\c】"
+                                "The bewitching lewd technique that even captivates heroes and\nensnares them in the hands of evil... .....【\\c[27]Fallen Sexy\nDance\\c[0]】"
                             ]
                         },
                         {
@@ -14759,7 +14759,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "addLog \\c[18]セリア「（早く...終わらせないと..）」AP-1\\c"
+                                "addLog \\c[18]セリア「（早く...終わらせないと..）」AP-1\\c[0]"
                             ]
                         },
                         {
@@ -15199,7 +15199,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[5]\\AA[F].....Hah, hah....... Hey, \\c[27] what exactly are you\ndoing to my body with this \\c penalty..."
+                                "\\F[5]\\AA[F].....Hah, hah....... Hey, \\c[27] what exactly are you\ndoing to my body with this \\c[0] penalty..."
                             ]
                         },
                         {
@@ -15223,7 +15223,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "We are noble \\c[14]succubi\\c.... You can somewhat imagine what\nthat means, can't you?"
+                                "We are noble \\c[14]succubi\\c[0].... You can somewhat imagine what\nthat means, can't you?"
                             ]
                         },
                         {
@@ -15271,7 +15271,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Now, your body must have become hot enough that it's not the time\nfor solving mysteries... \\c[27] I shall submerge you...\\c"
+                                "Now, your body must have become hot enough that it's not the time\nfor solving mysteries... \\c[27] I shall submerge you...\\c[0]"
                             ]
                         },
                         {
@@ -16117,7 +16117,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Seria, beguiled by Sadi's technique \\c[27]【Leap Kiss】\\c, finds\nher interest in Hayato slightly fading.....♡"
+                                "Seria, beguiled by Sadi's technique \\c[27]【Leap Kiss】\\c[0], finds\nher interest in Hayato slightly fading.....♡"
                             ]
                         },
                         {
@@ -16231,7 +16231,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "During the great war, it is said that the beautiful prisoners who\ncontinued to receive this \\c[27]【Leap Kiss】\\c forgot their loved\nones and their mission, and fell to the Demon King's army."
+                                "During the great war, it is said that the beautiful prisoners who\ncontinued to receive this \\c[27]【Leap Kiss】\\c[0] forgot their loved\nones and their mission, and fell to the Demon King's army."
                             ]
                         },
                         {
@@ -16548,7 +16548,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Ah, that's right. \\c[14] I have an important announcement to\nmake. \\c"
+                                "Ah, that's right. \\c[14] I have an important announcement to\nmake. \\c[0]"
                             ]
                         },
                         {
@@ -16572,7 +16572,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Since we're at it, I've changed the \\c[14]rules\\c."
+                                "Since we're at it, I've changed the \\c[14]rules\\c[0]."
                             ]
                         },
                         {
@@ -16803,7 +16803,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Seria has remembered a \\c[27]sweet and lewd kiss\\c... (\\c[14]*You\ncan check the information from the skill section\\c)"
+                                "Seria has remembered a \\c[27]sweet and lewd kiss\\c[0]... (\\c[14]*You\ncan check the information from the skill section\\c[0])"
                             ]
                         },
                         {
@@ -17395,7 +17395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[27]アイツの眼を見てから\\c変にムラムラして.....♡)"
+                                "\\c[27]アイツの眼を見てから\\c[0]変にムラムラして.....♡)"
                             ]
                         },
                         {
@@ -17501,7 +17501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[27]彼との未来\\cを思い浮かべ..."
+                                "\\c[27]彼との未来\\c[0]を思い浮かべ..."
                             ]
                         },
                         {
@@ -17732,7 +17732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、そうそう。\\c[14]暗号一桁目はルールブック\\cに書いといたんだった。"
+                                "あ、そうそう。\\c[14]暗号一桁目はルールブック\\c[0]に書いといたんだった。"
                             ]
                         },
                         {
@@ -18412,7 +18412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F]....\\c[14]The object\\c, its position\\c[14], and even\nits contents\\c have changed..?"
+                                "\\F[10]\\AA[F]....\\c[14]The object\\c[0], its position\\c[14], and even\nits contents\\c[0] have changed..?"
                             ]
                         },
                         {
@@ -19460,7 +19460,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[10]\\AA[F]...Eh, I suddenly feel a surge of strength. Could it\nbe \\c[27]Hayato's\\c defensive magic!?"
+                                "\\F[10]\\AA[F]...Eh, I suddenly feel a surge of strength. Could it\nbe \\c[27]Hayato's\\c[0] defensive magic!?"
                             ]
                         },
                         {
@@ -19625,7 +19625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F\\c[14]\\AA[F](But I shouldn't get my hopes up too much. \\c[14]He\ncan't always protect me perfectly...\\c)"
+                                "\\F\\c[14]\\AA[F](But I shouldn't get my hopes up too much. \\c[14]He\ncan't always protect me perfectly...\\c[0])"
                             ]
                         },
                         {
@@ -19713,7 +19713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[24]\\AA[F]Hmm... \\c[14]So you're casting magic when the young\nlady comes near, huh? \\c"
+                                "\\F[24]\\AA[F]Hmm... \\c[14]So you're casting magic when the young\nlady comes near, huh? \\c[0]"
                             ]
                         },
                         {
@@ -19976,7 +19976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F\\c[27]\\AA[F]Let's make sure a little more. \\c[27]I don't want\nto receive that penalty\\c........"
+                                "\\F\\c[27]\\AA[F]Let's make sure a little more. \\c[27]I don't want\nto receive that penalty\\c[0]........"
                             ]
                         },
                         {
@@ -21087,7 +21087,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "addLog \\c[14]メリルへの想いに変化がありました\\c"
+                                "addLog \\c[14]メリルへの想いに変化がありました\\c[0]"
                             ]
                         },
                         {
@@ -21276,7 +21276,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "addLog メリル「\\c[27]おねえさんの方がえっちよ？\\c」"
+                                "addLog メリル「\\c[27]おねえさんの方がえっちよ？\\c[0]」"
                             ]
                         },
                         {
@@ -21332,7 +21332,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "addLog \\c[27]メリルがおっぱいを揺らして見せつける...\\c"
+                                "addLog \\c[27]メリルがおっぱいを揺らして見せつける...\\c[0]"
                             ]
                         },
                         {
@@ -21360,7 +21360,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "addLog メリル「\\c[27].....あーあ、好きなのね。覚えちゃった♡\\c」"
+                                "addLog メリル「\\c[27].....あーあ、好きなのね。覚えちゃった♡\\c[0]」"
                             ]
                         },
                         {
@@ -21646,7 +21646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Shall we end the search? (\\c[14]※From here on, please save\nfrequently and enjoy various patterns\\c)"
+                                "Shall we end the search? (\\c[14]※From here on, please save\nfrequently and enjoy various patterns\\c[0])"
                             ]
                         },
                         {
@@ -21697,7 +21697,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[10]\\AA[F]No! Let's keep looking! \\c[14]We don't know where\nthose guys might interfere\\c....."
+                                "\\F[10]\\AA[F]No! Let's keep looking! \\c[14]We don't know where\nthose guys might interfere\\c[0]....."
                             ]
                         },
                         {
@@ -21959,7 +21959,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "((Seria is coming closer again. \\c[27] Please captivate Hayato's\ngaze♡\\c))"
+                                "((Seria is coming closer again. \\c[27] Please captivate Hayato's\ngaze♡\\c[0]))"
                             ]
                         },
                         {
@@ -22496,7 +22496,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "While rubbing her ample bosom against the iron bars, simulating a\npaizuri, she lasciviously stared at her prey\\c[27]\\c.........."
+                                "While rubbing her ample bosom against the iron bars, simulating a\npaizuri, she lasciviously stared at her prey\\c[27]\\c[0].........."
                             ]
                         },
                         {
@@ -22934,7 +22934,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Look... over here. \\c[27] Observe big sis more on top of the\nfuton..♡ \\c"
+                                "Look... over here. \\c[27] Observe big sis more on top of the\nfuton..♡ \\c[0]"
                             ]
                         },
                         {
@@ -23421,7 +23421,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hayato was completely captivated by Merill's breasts...\n(\\c[14]*You can check the information from the skill section\\c)"
+                                "Hayato was completely captivated by Merill's breasts...\n(\\c[14]*You can check the information from the skill section\\c[0])"
                             ]
                         },
                         {
@@ -23940,7 +23940,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "addLog \\c[27]ハヤトはメリルに指摘された通り勃起してしまった..\\c"
+                                "addLog \\c[27]ハヤトはメリルに指摘された通り勃起してしまった..\\c[0]"
                             ]
                         },
                         {
@@ -24653,7 +24653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]I'm carrying out such deeds under the orders of the Demon\nKing\\c, but the truth is, I don't want to see you, so beautiful,\nin agony..."
+                                "\\c[14]I'm carrying out such deeds under the orders of the Demon\nKing\\c[0], but the truth is, I don't want to see you, so beautiful,\nin agony..."
                             ]
                         },
                         {
@@ -24694,7 +24694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Now, Seria. \\c[14] Let me give you some \\c support...♡"
+                                "Now, Seria. \\c[14] Let me give you some \\c[0] support...♡"
                             ]
                         },
                         {
@@ -24742,7 +24742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I won't force you...\\c[14] After all, his magic is there, so \\c I\ncan't touch you anyway."
+                                "I won't force you...\\c[14] After all, his magic is there, so \\c[0] I\ncan't touch you anyway."
                             ]
                         },
                         {
@@ -25197,7 +25197,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Now, accept it gracefully....【\\c[27]Tempting Gaze\\c】"
+                                "Now, accept it gracefully....【\\c[27]Tempting Gaze\\c[0]】"
                             ]
                         },
                         {
@@ -25366,7 +25366,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "By this time, Seria's thoughts were no longer rational, her heart\nwas drawn to the pleasant voice of the \\c[14]enemy\\c in front of\nher."
+                                "By this time, Seria's thoughts were no longer rational, her heart\nwas drawn to the pleasant voice of the \\c[14]enemy\\c[0] in front of\nher."
                             ]
                         },
                         {
@@ -26051,7 +26051,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...But even in decay, I'm still a succubus. \\c[27] If you get too\nclose to me, something might happen...♡\\c"
+                                "...But even in decay, I'm still a succubus. \\c[27] If you get too\nclose to me, something might happen...♡\\c[0]"
                             ]
                         },
                         {
@@ -26177,7 +26177,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【Two Hearts】\\c[27]A wicked change in Seria...\\c"
+                                "【Two Hearts】\\c[27]A wicked change in Seria...\\c[0]"
                             ]
                         },
                         {
@@ -26220,7 +26220,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Seria has become addicted to Sadi's evil eye... (\\c[14]*You can\ncheck from the skill section\\c)"
+                                "Seria has become addicted to Sadi's evil eye... (\\c[14]*You can\ncheck from the skill section\\c[0])"
                             ]
                         },
                         {
@@ -26279,7 +26279,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[9]\\AA[F](No, no, no! I can't start expecting \\c[27] from\nsomething like that again!\\c)"
+                                "\\F[9]\\AA[F](No, no, no! I can't start expecting \\c[27] from\nsomething like that again!\\c[0])"
                             ]
                         },
                         {
@@ -26423,7 +26423,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[18]\\AA[F]You just \\c[14]wanted to interfere with Hayato's\nspell casting \\c, didn't you?!"
+                                "\\F[18]\\AA[F]You just \\c[14]wanted to interfere with Hayato's\nspell casting \\c[0], didn't you?!"
                             ]
                         },
                         {
@@ -26519,7 +26519,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]It seems that Hayato has failed his magic\\c."
+                                "\\c[27]It seems that Hayato has failed his magic\\c[0]."
                             ]
                         },
                         {
@@ -26639,7 +26639,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...But even if I rot, I'm still a succubus. \\c[27] If you get close\nto me, something might happen...♡\\c"
+                                "...But even if I rot, I'm still a succubus. \\c[27] If you get close\nto me, something might happen...♡\\c[0]"
                             ]
                         },
                         {
@@ -26845,7 +26845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[16]\\AA[F](\\c[27]In other words, I just need to keep my\ndistance. As long as I don't get close\\c....)"
+                                "\\F[16]\\AA[F](\\c[27]In other words, I just need to keep my\ndistance. As long as I don't get close\\c[0]....)"
                             ]
                         },
                         {
@@ -27695,7 +27695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[27]You might have unexpectedly taken a liking to it\\c, huh? To\nsomething...♡"
+                                "\\c[27]You might have unexpectedly taken a liking to it\\c[0], huh? To\nsomething...♡"
                             ]
                         },
                         {
@@ -27849,7 +27849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Knowing that Hayato is currently being captivated by his pawn,\nMerill, on the spot\\c[27], Sadi smirks\\c."
+                                "Knowing that Hayato is currently being captivated by his pawn,\nMerill, on the spot\\c[27], Sadi smirks\\c[0]."
                             ]
                         },
                         {
@@ -28042,7 +28042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[11]\\AA[F]Hey, \\c[14]Hayato has nothing to do with this whole\n\\cdescendant of the goddess thing, right!? At least let him go!"
+                                "\\F[11]\\AA[F]Hey, \\c[14]Hayato has nothing to do with this whole\n\\c[0]descendant of the goddess thing, right!? At least let him go!"
                             ]
                         },
                         {
@@ -28167,7 +28167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F](How am I supposed to confirm if \\c[14]Merill is\nfollowing the rules, let alone Sadi\\c!!)"
+                                "\\F[10]\\AA[F](How am I supposed to confirm if \\c[14]Merill is\nfollowing the rules, let alone Sadi\\c[0]!!)"
                             ]
                         },
                         {
@@ -28260,7 +28260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah, that's right. \\c[14] I have an important announcement to\nmake. \\c"
+                                "Ah, that's right. \\c[14] I have an important announcement to\nmake. \\c[0]"
                             ]
                         },
                         {
@@ -28284,7 +28284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I've decided to change the rules, since we're at it\\c."
+                                "I've decided to change the rules, since we're at it\\c[0]."
                             ]
                         },
                         {
@@ -28653,7 +28653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F]\\c[14]I have to check the rulebook! \\c I don't know\nwhat will happen if I don't!"
+                                "\\F[10]\\AA[F]\\c[14]I have to check the rulebook! \\c[0] I don't know\nwhat will happen if I don't!"
                             ]
                         },
                         {
@@ -28909,7 +28909,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[16]\\AA[F](.....Scarily...\\c[27]it was good\\c)"
+                                "\\F[16]\\AA[F](.....Scarily...\\c[27]it was good\\c[0])"
                             ]
                         },
                         {
@@ -28933,7 +28933,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[16]\\AA[F](....And those \\c[27]shining eyes\\c too... they make\nme feel really good..)"
+                                "\\F[16]\\AA[F](....And those \\c[27]shining eyes\\c[0] too... they make\nme feel really good..)"
                             ]
                         },
                         {
@@ -29357,7 +29357,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]Please say anything\\cSeria. I'll do anything for you, the\nbeautiful you..."
+                                "\\c[27]Please say anything\\c[0]Seria. I'll do anything for you, the\nbeautiful you..."
                             ]
                         },
                         {
@@ -29546,7 +29546,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Ah, that's right. I have some important news to share. \\c"
+                                "Ah, that's right. I have some important news to share. \\c[0]"
                             ]
                         },
                         {
@@ -29570,7 +29570,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Since we have the chance, I've changed the \\c[14]rules\\c."
+                                "Since we have the chance, I've changed the \\c[14]rules\\c[0]."
                             ]
                         },
                         {
@@ -29721,7 +29721,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[18]\\AA[F](\\c[14]I have to go check the rulebook\\c...!)"
+                                "\\F[18]\\AA[F](\\c[14]I have to go check the rulebook\\c[0]...!)"
                             ]
                         },
                         {
@@ -29758,7 +29758,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[16]\\AA[F]..U-um...about that..\\c[27]kiss\\c....."
+                                "\\F[16]\\AA[F]..U-um...about that..\\c[27]kiss\\c[0]....."
                             ]
                         },
                         {
@@ -29859,7 +29859,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]【Bewitching Beautiful Voice】..\\c"
+                                "\\c[27]【Bewitching Beautiful Voice】..\\c[0]"
                             ]
                         },
                         {
@@ -30440,7 +30440,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Now Seria, you're hot, aren't you....\\c[27] I'll undress you\\c"
+                                "Now Seria, you're hot, aren't you....\\c[27] I'll undress you\\c[0]"
                             ]
                         },
                         {
@@ -30551,7 +30551,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27] The bewitching beauty of a voice that gently melts a\nwoman's heart..\\c"
+                                "\\c[27] The bewitching beauty of a voice that gently melts a\nwoman's heart..\\c[0]"
                             ]
                         },
                         {
@@ -30617,7 +30617,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Seria...\\c[27] The fact that you asked \\c means you want this,\ndon't you....♡"
+                                "Seria...\\c[27] The fact that you asked \\c[0] means you want this,\ndon't you....♡"
                             ]
                         },
                         {
@@ -30938,7 +30938,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "With the little reason she had left, Seria continued to keep her\neyes shut \\c[14] and held herself back \\c."
+                                "With the little reason she had left, Seria continued to keep her\neyes shut \\c[14] and held herself back \\c[0]."
                             ]
                         },
                         {
@@ -31034,7 +31034,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]Hayato is flirting with Merill, isn't he?\\c"
+                                "\\c[27]Hayato is flirting with Merill, isn't he?\\c[0]"
                             ]
                         },
                         {
@@ -31397,7 +31397,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Hehe...\\c[27]【Tempting Gaze】\\c"
+                                "Hehe...\\c[27]【Tempting Gaze】\\c[0]"
                             ]
                         },
                         {
@@ -31814,7 +31814,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "During the great war, it is said that the beautiful prisoners who\ncontinued to receive this \\c[27] Leap Kiss \\c forgot their loved\nones and their mission, and fell to the Demon King's army."
+                                "During the great war, it is said that the beautiful prisoners who\ncontinued to receive this \\c[27] Leap Kiss \\c[0] forgot their loved\nones and their mission, and fell to the Demon King's army."
                             ]
                         },
                         {
@@ -32111,7 +32111,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Seria... Before we part, I have an announcement. I've made\nchanges to the \\c[14]Rulebook\\c."
+                                "Seria... Before we part, I have an announcement. I've made\nchanges to the \\c[14]Rulebook\\c[0]."
                             ]
                         },
                         {
@@ -32183,7 +32183,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Thank you, \\c[14] please take a look as it pertains to the \\cnext\nstage♡"
+                                "Thank you, \\c[14] please take a look as it pertains to the \\c[0]next\nstage♡"
                             ]
                         },
                         {
@@ -32594,7 +32594,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Seria has remembered a \\c[27]sweet and naughty kiss\\c...\n(\\c[14]*You can check from the skill section\\c)"
+                                "Seria has remembered a \\c[27]sweet and naughty kiss\\c[0]...\n(\\c[14]*You can check from the skill section\\c[0])"
                             ]
                         },
                         {
@@ -33576,7 +33576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hey, aren't you going to stroke it..?\\c"
+                                "Hey, aren't you going to stroke it..?\\c[0]"
                             ]
                         },
                         {
@@ -33658,7 +33658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]Feeling guilty towards Seria\\c Hayato was barely holding\nhimself back with all his might..."
+                                "\\c[14]Feeling guilty towards Seria\\c[0] Hayato was barely holding\nhimself back with all his might..."
                             ]
                         },
                         {
@@ -33847,7 +33847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[20]\\AA[F]\\c[14]Holding back for Seria, who isn't even here to\nsee it\\c... Aren't you being too serious?"
+                                "\\F[20]\\AA[F]\\c[14]Holding back for Seria, who isn't even here to\nsee it\\c[0]... Aren't you being too serious?"
                             ]
                         },
                         {
@@ -33871,7 +33871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[20]\\AA[F]I... \\c[27]can become a good man\\c........"
+                                "\\F[20]\\AA[F]I... \\c[27]can become a good man\\c[0]........"
                             ]
                         },
                         {
@@ -33912,7 +33912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[20]\\AA[F]Rather than impulsively attacking, \\c[27]Merill\nstrongly prefers when her partner loses to her temptation and\nbecomes engrossed\\c."
+                                "\\F[20]\\AA[F]Rather than impulsively attacking, \\c[27]Merill\nstrongly prefers when her partner loses to her temptation and\nbecomes engrossed\\c[0]."
                             ]
                         },
                         {
@@ -33938,7 +33938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[25]\\AA[F]To her, the boy in front of her seemed like \\c[27]the\nultimate prey\\c."
+                                "\\F[25]\\AA[F]To her, the boy in front of her seemed like \\c[27]the\nultimate prey\\c[0]."
                             ]
                         },
                         {
@@ -34118,7 +34118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[27]Unable to grasp Merill's elusive nature, \\c I couldn't\nmuster the magical power....................."
+                                "\\c[27]Unable to grasp Merill's elusive nature, \\c[0] I couldn't\nmuster the magical power....................."
                             ]
                         },
                         {
@@ -34285,7 +34285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hayato had begun to be conscious of Merill... (\\c[14]※You can\ncheck the information from the skill section\\c)"
+                                "Hayato had begun to be conscious of Merill... (\\c[14]※You can\ncheck the information from the skill section\\c[0])"
                             ]
                         },
                         {
@@ -34709,7 +34709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Look.... Here are \\c[27]Merill's breasts\\c that you love so\nmuch...♡"
+                                "Look.... Here are \\c[27]Merill's breasts\\c[0] that you love so\nmuch...♡"
                             ]
                         },
                         {

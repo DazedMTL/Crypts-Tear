@@ -19357,7 +19357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[27]Because I learned from Ms. Merill\\c...♡"
+                                "\\c[27]Because I learned from Ms. Merill\\c[0]...♡"
                             ]
                         },
                         {
@@ -19405,7 +19405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Can't stop having \\c[27]affair sex\\c because it's become a\nhabit?♡"
+                                "Can't stop having \\c[27]affair sex\\c[0] because it's become a\nhabit?♡"
                             ]
                         },
                         {

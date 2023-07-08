@@ -4159,7 +4159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[40]\\AA[F]Thanks to \\c[14]Sadi, \\cmy magical power has\nincreased now!!"
+                                "\\F[40]\\AA[F]Thanks to \\c[14]Sadi, \\c[0]my magical power has\nincreased now!!"
                             ]
                         },
                         {
@@ -4593,7 +4593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I want to finish this quickly.... The only one who can satisfy me\nis \\c[14]Sadi\\c...."
+                                "I want to finish this quickly.... The only one who can satisfy me\nis \\c[14]Sadi\\c[0]...."
                             ]
                         },
                         {
@@ -6235,7 +6235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[40]\\AA[F]Thanks to \\c[14]Sadi, \\cmy magical power has\nincreased now!!"
+                                "\\F[40]\\AA[F]Thanks to \\c[14]Sadi, \\c[0]my magical power has\nincreased now!!"
                             ]
                         },
                         {
@@ -6669,7 +6669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I want to finish this quickly.... The only one who can satisfy me\nis \\c[14]Sadi\\c...."
+                                "I want to finish this quickly.... The only one who can satisfy me\nis \\c[14]Sadi\\c[0]...."
                             ]
                         },
                         {

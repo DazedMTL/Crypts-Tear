@@ -2590,7 +2590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[24]\\AA[F]\\c[14]You talk too much\\c."
+                                "\\F[24]\\AA[F]\\c[14]You talk too much\\c[0]."
                             ]
                         },
                         {
@@ -2614,7 +2614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[24]\\AA[F]\\c[14]I was talking about the weapon\\c, wasn't I. You\nsee, if that gets known, Lady Sadi will be in trouble."
+                                "\\F[24]\\AA[F]\\c[14]I was talking about the weapon\\c[0], wasn't I. You\nsee, if that gets known, Lady Sadi will be in trouble."
                             ]
                         },
                         {
@@ -2853,7 +2853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "................... \\c[14]I want you to listen to my troubles\\c."
+                                "................... \\c[14]I want you to listen to my troubles\\c[0]."
                             ]
                         },
                         {
@@ -2877,7 +2877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Anthurium...\\c[27]I'm in love\\c."
+                                "Anthurium...\\c[27]I'm in love\\c[0]."
                             ]
                         },
                         {
@@ -3169,7 +3169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[40]\\AA[F]In the rules... \\c[14]there wasn't any mention that\nSeria can't kill Merill\\c, was there?"
+                                "\\F[40]\\AA[F]In the rules... \\c[14]there wasn't any mention that\nSeria can't kill Merill\\c[0], was there?"
                             ]
                         },
                         {
@@ -3332,7 +3332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[24]\\AA[F](This is... \\c[14]the power of a goddess...? \\c It's\nnothing like I imagined...!)"
+                                "\\F[24]\\AA[F](This is... \\c[14]the power of a goddess...? \\c[0] It's\nnothing like I imagined...!)"
                             ]
                         },
                         {
@@ -3380,7 +3380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\c[14]Inferno\\c】!!!"
+                                "【\\c[14]Inferno\\c[0]】!!!"
                             ]
                         },
                         {
@@ -4471,7 +4471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]You got angry for Anthurium's sake\\c. That alone is enough."
+                                "\\c[14]You got angry for Anthurium's sake\\c[0]. That alone is enough."
                             ]
                         },
                         {
@@ -7373,7 +7373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F]\\c[14]A diary\\c, I wonder...."
+                                "\\F[10]\\AA[F]\\c[14]A diary\\c[0], I wonder...."
                             ]
                         },
                         {
@@ -7397,7 +7397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F]Parts of it \\c[14]are torn and unreadable\\c...."
+                                "\\F[10]\\AA[F]Parts of it \\c[14]are torn and unreadable\\c[0]...."
                             ]
                         },
                         {
@@ -7513,7 +7513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F]\\c[14]A diary\\c, I wonder...."
+                                "\\F[10]\\AA[F]\\c[14]A diary\\c[0], I wonder...."
                             ]
                         },
                         {
@@ -7537,7 +7537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F]Parts of it \\c[14]are torn and unreadable\\c...."
+                                "\\F[10]\\AA[F]Parts of it \\c[14]are torn and unreadable\\c[0]...."
                             ]
                         },
                         {

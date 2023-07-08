@@ -10046,7 +10046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[20]\\AA[F]\\c[27]Shall we play a prank on Seria together?♡\\c"
+                                "\\F[20]\\AA[F]\\c[27]Shall we play a prank on Seria together?♡\\c[0]"
                             ]
                         },
                         {
@@ -10120,7 +10120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[20]\\AA[F]Look, Seria seems to be coming down the hallway...\nFrom here, we can just barely hit her with \\c[14]interference\nmagic\\c, right?"
+                                "\\F[20]\\AA[F]Look, Seria seems to be coming down the hallway...\nFrom here, we can just barely hit her with \\c[14]interference\nmagic\\c[0], right?"
                             ]
                         },
                         {
@@ -10477,7 +10477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "....【\\c[27]Fallen Sexy Dance\\c】....♡"
+                                "....【\\c[27]Fallen Sexy Dance\\c[0]】....♡"
                             ]
                         },
                         {
@@ -11963,7 +11963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You will obey what big sis says, right?\\c[27]\\c"
+                                "You will obey what big sis says, right?\\c[27]\\c[0]"
                             ]
                         },
                         {
@@ -13217,7 +13217,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "1. Seria must obtain the 4-digit pin by \\c[27]some method\\c. 2.\nOnce 1 is completed, she must break the magic of the cell where\nHayato is imprisoned. 3. She can search anywhere she can reach at\nthat point. 4. Contact from Sadi is \\c[27]free\\c unless Hayato's\nmagic is gone."
+                                "1. Seria must obtain the 4-digit pin by \\c[27]some method\\c[0]. 2.\nOnce 1 is completed, she must break the magic of the cell where\nHayato is imprisoned. 3. She can search anywhere she can reach at\nthat point. 4. Contact from Sadi is \\c[27]free\\c[0] unless Hayato's\nmagic is gone."
                             ]
                         },
                         {
@@ -13234,7 +13234,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "5. If you absolutely cannot figure out the pin, you can learn one\ndigit by listening to one of Sadi's requests \\c[27] \\c."
+                                "5. If you absolutely cannot figure out the pin, you can learn one\ndigit by listening to one of Sadi's requests \\c[27] \\c[0]."
                             ]
                         },
                         {
@@ -13258,7 +13258,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(The \\c[14]fourth\\c rule has been changed without me noticing!!)"
+                                "(The \\c[14]fourth\\c[0] rule has been changed without me noticing!!)"
                             ]
                         },
                         {
@@ -13306,7 +13306,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(I need to get closer and cast a protection spell...!!\\c)"
+                                "(I need to get closer and cast a protection spell...!!\\c[0])"
                             ]
                         },
                         {
@@ -13345,7 +13345,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "1. Merill will monitor Hayato. 2. Until the code is decrypted,\nshe can do as she pleases while waiting in the cage. 3. Hayato\ncan provide support\\c[27] from inside the cage\\c if he wants. 4.\nDirect attacks against each other are prohibited."
+                                "1. Merill will monitor Hayato. 2. Until the code is decrypted,\nshe can do as she pleases while waiting in the cage. 3. Hayato\ncan provide support\\c[27] from inside the cage\\c[0] if he wants. 4.\nDirect attacks against each other are prohibited."
                             ]
                         },
                         {
@@ -13362,7 +13362,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "5. \\c[27] Any direct physical contact from \\c Merill to Hayato is\nprohibited."
+                                "5. \\c[27] Any direct physical contact from \\c[0] Merill to Hayato is\nprohibited."
                             ]
                         },
                         {
@@ -13386,7 +13386,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(Now, any physical contact is treated as if it's all coming from\n\\c[27]me to \\c, making anything fair game....)"
+                                "(Now, any physical contact is treated as if it's all coming from\n\\c[27]me to \\c[0], making anything fair game....)"
                             ]
                         },
                         {
@@ -13491,7 +13491,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Not just comments based on the simple atmosphere, but even things\nthat affect actual status and \\c[27]heart\\c...."
+                                "Not just comments based on the simple atmosphere, but even things\nthat affect actual status and \\c[27]heart\\c[0]...."
                             ]
                         },
                         {
@@ -13560,7 +13560,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Changes in the \\c[27]heart\\c can be viewed from the menu's\n[\\c[14]Two Hearts\\c]. (You can switch with the keyboard's [←][→])"
+                                "Changes in the \\c[27]heart\\c[0] can be viewed from the menu's\n[\\c[14]Two Hearts\\c[0]]. (You can switch with the keyboard's [←][→])"
                             ]
                         },
                         {
@@ -13594,7 +13594,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "And in this work, depending on the degree of corruption and the\nchoices accepted, \\c[14]casual conversations\\c will slightly\nchange."
+                                "And in this work, depending on the degree of corruption and the\nchoices accepted, \\c[14]casual conversations\\c[0] will slightly\nchange."
                             ]
                         },
                         {
@@ -14298,7 +14298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It seems those two \\c[27] have a physical relationship, you know?\n\\c"
+                                "It seems those two \\c[27] have a physical relationship, you know?\n\\c[0]"
                             ]
                         },
                         {
@@ -14623,7 +14623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Just because you're \\c[14]connected to the hero\\c, you've been\nburdened with a lot of unnecessary expectations, haven't you? You\ndon't have to think about such things anymore...."
+                                "Just because you're \\c[14]connected to the hero\\c[0], you've been\nburdened with a lot of unnecessary expectations, haven't you? You\ndon't have to think about such things anymore...."
                             ]
                         },
                         {
@@ -14749,7 +14749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Come here. \\c[27] By your own will \\c...."
+                                "Come here. \\c[27] By your own will \\c[0]...."
                             ]
                         },
                         {

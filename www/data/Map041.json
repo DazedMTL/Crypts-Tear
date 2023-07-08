@@ -2327,7 +2327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ".....Seria... thank you for saving me. You really are a \\c[14]hero\\c,\naren't you."
+                                ".....Seria... thank you for saving me. You really are a \\c[14]hero\\c[0],\naren't you."
                             ]
                         },
                         {
@@ -2351,7 +2351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[17]\\AA[F]\\c[14]Hero\\c..............."
+                                "\\F[17]\\AA[F]\\c[14]Hero\\c[0]..............."
                             ]
                         },
                         {
@@ -2846,7 +2846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[23]\\AA[F]But... \\c[14]the news that a real hero is in Variente\n\\cwill spread, won't it?"
+                                "\\F[23]\\AA[F]But... \\c[14]the news that a real hero is in Variente\n\\c[0]will spread, won't it?"
                             ]
                         },
                         {
@@ -2982,7 +2982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[27]I'll do \\canything... I don't want to see the innocent\npeople of Variente get hurt!"
+                                "\\c[27]I'll do \\c[0]anything... I don't want to see the innocent\npeople of Variente get hurt!"
                             ]
                         },
                         {
@@ -3006,7 +3006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[24]\\AA[F]......\\c[27]Anything\\c?"
+                                "\\F[24]\\AA[F]......\\c[27]Anything\\c[0]?"
                             ]
                         },
                         {
@@ -3637,7 +3637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F\\c[14]\\AA[F]I am, after all, \\c[14]descended from a person who\nwas called a hero in the olden times\\c."
+                                "\\F\\c[14]\\AA[F]I am, after all, \\c[14]descended from a person who\nwas called a hero in the olden times\\c[0]."
                             ]
                         },
                         {
@@ -3661,7 +3661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It seems so, since you were able to activate the \\c[14]Holy\nSword\\c."
+                                "It seems so, since you were able to activate the \\c[14]Holy\nSword\\c[0]."
                             ]
                         },
                         {
@@ -3749,7 +3749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "In the end, who is the real descendant of the \\c[14]Goddess\\c?"
+                                "In the end, who is the real descendant of the \\c[14]Goddess\\c[0]?"
                             ]
                         },
                         {
@@ -3773,7 +3773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ".........I don't know. At least it's not me, and they might be somewhere\nin the world\\c."
+                                ".........I don't know. At least it's not me, and they might be somewhere\nin the world\\c[0]."
                             ]
                         },
                         {
@@ -3918,7 +3918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "We have to prepare to go search for the\n\\F\\c\\AA[F]\\c[14]Goddess\\c!"
+                                "We have to prepare to go search for the\n\\F\\c\\AA[F]\\c[14]Goddess\\c[0]!"
                             ]
                         },
                         {
@@ -3942,7 +3942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F\\c[14]\\AA[F]Even though I'm a complete amateur in combat, this\n\\c[14]Holy Sword\\c had an amazing power. I'm sure I can protect\nus!"
+                                "\\F\\c[14]\\AA[F]Even though I'm a complete amateur in combat, this\n\\c[14]Holy Sword\\c[0] had an amazing power. I'm sure I can protect\nus!"
                             ]
                         },
                         {
@@ -4930,7 +4930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Obtained \\c[14]Unfinished Love Letter\\c!"
+                                "Obtained \\c[14]Unfinished Love Letter\\c[0]!"
                             ]
                         },
                         {

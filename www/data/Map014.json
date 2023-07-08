@@ -2258,7 +2258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Merrill \\F\\c\\AA[F] How should we slowly corner her, I wonder. If\nwe don't show that we're following the rules, Lady Sadi will lose\ninterest, won't she...\\c"
+                                "Merrill \\F\\c\\AA[F] How should we slowly corner her, I wonder. If\nwe don't show that we're following the rules, Lady Sadi will lose\ninterest, won't she...\\c[0]"
                             ]
                         },
                         {
@@ -2502,7 +2502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[20]\\AA[F]\\c[27]P.l.e.a.s.e\\c.. She heard it, didn't she, that\nlittle girl♡"
+                                "\\F[20]\\AA[F]\\c[27]P.l.e.a.s.e\\c[0].. She heard it, didn't she, that\nlittle girl♡"
                             ]
                         },
                         {
@@ -2550,7 +2550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]Hayato\\c it is. It seems he is remotely casting a defensive\nmagic spell \\c[14]Protect\\c on her..."
+                                "\\c[14]Hayato\\c[0] it is. It seems he is remotely casting a defensive\nmagic spell \\c[14]Protect\\c[0] on her..."
                             ]
                         },
                         {
@@ -2892,7 +2892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "As a member of Master Sadi's harem...\\c[27] For the sake of\nparadise...\\c♡"
+                                "As a member of Master Sadi's harem...\\c[27] For the sake of\nparadise...\\c[0]♡"
                             ]
                         },
                         {
@@ -3638,7 +3638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Merrill \\F\\c\\AA[F]How should we slowly corner her? We have to\nshow that we're following the rules \\c[27] or else Lady Sadi will\nlose interest... \\c"
+                                "Merrill \\F\\c\\AA[F]How should we slowly corner her? We have to\nshow that we're following the rules \\c[27] or else Lady Sadi will\nlose interest... \\c[0]"
                             ]
                         },
                         {
@@ -3882,7 +3882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[20]\\AA[F]\\c[27]P.l.e.a.s.e\\c.. So that little girl heard it,\nhuh?♡"
+                                "\\F[20]\\AA[F]\\c[27]P.l.e.a.s.e\\c[0].. So that little girl heard it,\nhuh?♡"
                             ]
                         },
                         {
@@ -3930,7 +3930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]Hayato\\c it is. It seems he is remotely casting a defense\nmagic \\c[14]Protect\\c on her..."
+                                "\\c[14]Hayato\\c[0] it is. It seems he is remotely casting a defense\nmagic \\c[14]Protect\\c[0] on her..."
                             ]
                         },
                         {
@@ -4026,7 +4026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[27]Please distract Hayato\\c. Although that was the plan from\nthe beginning, gradually make him turn his eyes and heart towards\nMerill...."
+                                "\\c[27]Please distract Hayato\\c[0]. Although that was the plan from\nthe beginning, gradually make him turn his eyes and heart towards\nMerill...."
                             ]
                         },
                         {
@@ -4289,7 +4289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "As a member of Master Sadi's harem... \\c[27] For the sake of\nparadise... \\c♡"
+                                "As a member of Master Sadi's harem... \\c[27] For the sake of\nparadise... \\c[0]♡"
                             ]
                         },
                         {

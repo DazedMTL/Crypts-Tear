@@ -2323,7 +2323,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Seria \\F\\c[14](I'm sorry, Father. But first, \\c[14]the forgotten\nitem\\c is the priority...)"
+                                "Seria \\F\\c[14](I'm sorry, Father. But first, \\c[14]the forgotten\nitem\\c[0] is the priority...)"
                             ]
                         },
                         {
@@ -2570,7 +2570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Teehee... Yes♡\\c[27]My Master♡\\c"
+                                "Teehee... Yes♡\\c[27]My Master♡\\c[0]"
                             ]
                         },
                         {
@@ -3011,7 +3011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " Sadi, hehehe... Now, Merill. \\c[27] Give your \\c report."
+                                " Sadi, hehehe... Now, Merill. \\c[27] Give your \\c[0] report."
                             ]
                         },
                         {
@@ -3035,7 +3035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yes... The preparations for the advance on \\c[14]Variante\\c,\ncentered around the real Merill and Hayato, are complete♡"
+                                "Yes... The preparations for the advance on \\c[14]Variante\\c[0],\ncentered around the real Merill and Hayato, are complete♡"
                             ]
                         },
                         {
@@ -3093,7 +3093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "And the matter of Seria's \\c[14]Holy Sword\\c is also being\narranged at the Demon King's army headquarters."
+                                "And the matter of Seria's \\c[14]Holy Sword\\c[0] is also being\narranged at the Demon King's army headquarters."
                             ]
                         },
                         {
@@ -3134,7 +3134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "..........................Understood, Master♡ \\c[27]Everything is for the sake of\nparadise\\c♡"
+                                "..........................Understood, Master♡ \\c[27]Everything is for the sake of\nparadise\\c[0]♡"
                             ]
                         },
                         {
@@ -3241,7 +3241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【Seria's Aftermath】 After adjusting the \\c[14]Holy Sword\\c, she\nbecomes a force of chaos on the human side, serving as Sadi's\nbitch and the most powerful weapon."
+                                "【Seria's Aftermath】 After adjusting the \\c[14]Holy Sword\\c[0], she\nbecomes a force of chaos on the human side, serving as Sadi's\nbitch and the most powerful weapon."
                             ]
                         },
                         {
@@ -3265,7 +3265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The \\c[14]paper\\c I dropped at the church that day..."
+                                "The \\c[14]paper\\c[0] I dropped at the church that day..."
                             ]
                         },
                         {
@@ -4530,7 +4530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Seria \\F[14]\\c[14]If that paper\\c ended up in someone else's\nhands, it would be subtly problematic.... I wonder where it went."
+                                "Seria \\F[14]\\c[14]If that paper\\c[0] ended up in someone else's\nhands, it would be subtly problematic.... I wonder where it went."
                             ]
                         },
                         {

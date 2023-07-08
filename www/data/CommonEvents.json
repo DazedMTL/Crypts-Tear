@@ -492,7 +492,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\F\\c\\AA[F]\\c[14]This town is my birthplace\\c, but for me, who had\nbeen living in the city since I was conscious, it was a\ncompletely unfamiliar place."
+                    "\\F\\c\\AA[F]\\c[14]This town is my birthplace\\c[0], but for me, who had\nbeen living in the city since I was conscious, it was a\ncompletely unfamiliar place."
                 ]
             },
             {
@@ -1367,7 +1367,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Something 'very important' in life.... That's about\n\\c[27]confession\\c."
+                    "Something 'very important' in life.... That's about\n\\c[27]confession\\c[0]."
                 ]
             },
             {
@@ -1546,7 +1546,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Seria Could it be... a monster\\c[27]\\c?"
+                    "Seria Could it be... a monster\\c[27]\\c[0]?"
                 ]
             },
             {

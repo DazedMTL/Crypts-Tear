@@ -2393,7 +2393,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Seria \\F\\c[14] Ah, that's right. First, let's look for \\c[14] the\nlost item. \\c"
+                                "Seria \\F\\c[14] Ah, that's right. First, let's look for \\c[14] the\nlost item. \\c[0]"
                             ]
                         },
                         {
@@ -2529,7 +2529,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Seria \\F\\c[14](I'm sorry, Father. But first, \\c[14]the forgotten\nitem\\c is the priority...)"
+                                "Seria \\F\\c[14](I'm sorry, Father. But first, \\c[14]the forgotten\nitem\\c[0] is the priority...)"
                             ]
                         },
                         {
@@ -3769,7 +3769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Seria \\F[14]\\c[14]If that paper\\c ended up in someone else's\nhands, it would be subtly problematic.... I wonder where it went."
+                                "Seria \\F[14]\\c[14]If that paper\\c[0] ended up in someone else's\nhands, it would be subtly problematic.... I wonder where it went."
                             ]
                         },
                         {
@@ -4811,7 +4811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That being said... I have a small favor to ask. \\c[27]Seria\nalone\\c come to my place for a bit...."
+                                "That being said... I have a small favor to ask. \\c[27]Seria\nalone\\c[0] come to my place for a bit...."
                             ]
                         },
                         {
@@ -5300,7 +5300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[12]\\AA[F](If Hayato hadn't cast \\c[14]Protect magic\\c on me,\nsomething might have happened to me...?!)"
+                                "\\F[12]\\AA[F](If Hayato hadn't cast \\c[14]Protect magic\\c[0] on me,\nsomething might have happened to me...?!)"
                             ]
                         },
                         {
@@ -6559,7 +6559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Let's get to the point, Seria. I am indeed a \\c[14]high-ranking\nofficer\\c in the Demon King's army."
+                                "Let's get to the point, Seria. I am indeed a \\c[14]high-ranking\nofficer\\c[0] in the Demon King's army."
                             ]
                         },
                         {
@@ -6631,7 +6631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "He resisted a bit at first, but now we have a \\c[27]very good\nrelationship\\c... Isn't that right, Merill."
+                                "He resisted a bit at first, but now we have a \\c[27]very good\nrelationship\\c[0]... Isn't that right, Merill."
                             ]
                         },
                         {
@@ -6655,7 +6655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[23]\\AA[F]Yes... he's very obedient. \\c[27]I used a technique\non him that makes him feel good.... \\c"
+                                "\\F[23]\\AA[F]Yes... he's very obedient. \\c[27]I used a technique\non him that makes him feel good.... \\c[0]"
                             ]
                         },
                         {
@@ -6688,7 +6688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F]\\c[27]F-feeling good\\c you say........"
+                                "\\F[10]\\AA[F]\\c[27]F-feeling good\\c[0] you say........"
                             ]
                         },
                         {
@@ -6769,7 +6769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "No, as I mentioned earlier, the one I need is you. \\c[14]The\ndescendant of the goddess\\c... Seria!"
+                                "No, as I mentioned earlier, the one I need is you. \\c[14]The\ndescendant of the goddess\\c[0]... Seria!"
                             ]
                         },
                         {
@@ -6979,7 +6979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That's right, I apologize Hayato. The preamble was too long. Now\nthen, Seria... let's play a certain game\\c[27]\\c."
+                                "That's right, I apologize Hayato. The preamble was too long. Now\nthen, Seria... let's play a certain game\\c[27]\\c[0]."
                             ]
                         },
                         {
@@ -7070,7 +7070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehe... I'm teleporting us. To our love nest, the four of\nus\\c[27]..!!\\c"
+                                "Hehe... I'm teleporting us. To our love nest, the four of\nus\\c[27]..!!\\c[0]"
                             ]
                         },
                         {

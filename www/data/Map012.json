@@ -2276,7 +2276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[24]\\AA[F]You probably don't know, but succubi can create\nclones. \\c[27]To please the men in their harem, \\cthat is...."
+                                "\\F[24]\\AA[F]You probably don't know, but succubi can create\nclones. \\c[27]To please the men in their harem, \\c[0]that is...."
                             ]
                         },
                         {
@@ -2396,7 +2396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F\\c\\AA[F]Why don't you leave me alone and enjoy the game? If you\nget stuck, \\c[27]Lady Sadi will help you...♡\\c"
+                                "\\F\\c\\AA[F]Why don't you leave me alone and enjoy the game? If you\nget stuck, \\c[27]Lady Sadi will help you...♡\\c[0]"
                             ]
                         },
                         {
@@ -2624,7 +2624,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[21]\\AA[F]Him? I wonder who you're talking about. \\c[27]If you\nmean Lord \\cSadi, then say so."
+                                "\\F[21]\\AA[F]Him? I wonder who you're talking about. \\c[27]If you\nmean Lord \\c[0]Sadi, then say so."
                             ]
                         },
                         {
@@ -2754,7 +2754,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[9]\\AA[F]...\\c[27]Call Lord Sadi\\c."
+                                "\\F[9]\\AA[F]...\\c[27]Call Lord Sadi\\c[0]."
                             ]
                         },
                         {
@@ -2889,7 +2889,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Merill, you've worked hard. You should also do what you\n\\c[27]want\\c."
+                                "Merill, you've worked hard. You should also do what you\n\\c[27]want\\c[0]."
                             ]
                         },
                         {
@@ -3147,7 +3147,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[24]\\AA[F]Such a hot-tempered woman is \\c[14]a descendant of\nthe goddess, huh. \\cHayato-kun is more docile and cute, isn't he?"
+                                "\\F[24]\\AA[F]Such a hot-tempered woman is \\c[14]a descendant of\nthe goddess, huh. \\c[0]Hayato-kun is more docile and cute, isn't he?"
                             ]
                         },
                         {
@@ -3924,7 +3924,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]心\\cに影響があるモノまで...。"
+                                "\\c[27]心\\c[0]に影響があるモノまで...。"
                             ]
                         },
                         {
@@ -3993,7 +3993,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]心\\cの変化についてはメニューの[\\c[14]２人の心\\c]から閲覧可能です。"
+                                "\\c[27]心\\c[0]の変化についてはメニューの[\\c[14]２人の心\\c[0]]から閲覧可能です。"
                             ]
                         },
                         {
@@ -4041,14 +4041,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "本編は\\c[14]全6章\\cで構成されています。"
+                                "本編は\\c[14]全6章\\c[0]で構成されています。"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[14]クリア後は全開放済みの回想部屋に移動します\\c。"
+                                "\\c[14]クリア後は全開放済みの回想部屋に移動します\\c[0]。"
                             ]
                         },
                         {
@@ -4779,7 +4779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F\\c[14]\\AA[F]I've had a hunch since I was reading the rulebook,\nbut this might also be a \\c[14]hint\\c."
+                                "\\F\\c[14]\\AA[F]I've had a hunch since I was reading the rulebook,\nbut this might also be a \\c[14]hint\\c[0]."
                             ]
                         },
                         {
@@ -4989,7 +4989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The woman is entwining her tongue with Sadi's in pleasure.... as\nif she's \\c[27]desiring it\\c."
+                                "The woman is entwining her tongue with Sadi's in pleasure.... as\nif she's \\c[27]desiring it\\c[0]."
                             ]
                         },
                         {
@@ -5843,7 +5843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Please enter the number\\c of Lord Sadi's\\c[27] treasures.."
+                                "Please enter the number\\c[0] of Lord Sadi's\\c[27] treasures.."
                             ]
                         },
                         {
@@ -5884,7 +5884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Please enter the number\\c of Lord Sadi's\\c[27] treasures.."
+                                "Please enter the number\\c[0] of Lord Sadi's\\c[27] treasures.."
                             ]
                         },
                         {
@@ -6044,7 +6044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Please enter the number\\c of Lady Sadi's\\c[27] treasures.."
+                                "Please enter the number\\c[0] of Lady Sadi's\\c[27] treasures.."
                             ]
                         },
                         {
@@ -6135,7 +6135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F]Enter it........? There was no such information\nanywhere.... (\\c[14]*The event will proceed\\c)"
+                                "\\F[10]\\AA[F]Enter it........? There was no such information\nanywhere.... (\\c[14]*The event will proceed\\c[0])"
                             ]
                         },
                         {
@@ -6237,7 +6237,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "That's wrong, so it's a punishment\\c."
+                                "That's wrong, so it's a punishment\\c[0]."
                             ]
                         },
                         {
@@ -6284,7 +6284,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[7]\\AA[F]...Th, that's right. Because \\c[27] I don't know! \\c"
+                                "\\F[7]\\AA[F]...Th, that's right. Because \\c[27] I don't know! \\c[0]"
                             ]
                         },
                         {
@@ -6336,7 +6336,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[27]Punishment\\c."
+                                "\\c[27]Punishment\\c[0]."
                             ]
                         },
                         {
@@ -6496,7 +6496,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[27]Oshioshioshioshioki\\c."
+                                "\\c[27]Oshioshioshioshioki\\c[0]."
                             ]
                         },
                         {
@@ -6783,7 +6783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Please enter the number\\c of Lady Sadi's\\c[27] treasures.."
+                                "Please enter the number\\c[0] of Lady Sadi's\\c[27] treasures.."
                             ]
                         },
                         {
@@ -6874,7 +6874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F\\c[14]\\AA[F]We have no choice but to input this randomly, don't\nwe........ (\\c[14]*The event will proceed\\c)"
+                                "\\F\\c[14]\\AA[F]We have no choice but to input this randomly, don't\nwe........ (\\c[14]*The event will proceed\\c[0])"
                             ]
                         },
                         {
@@ -6976,7 +6976,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "That's incorrect, so it's a punishment\\c."
+                                "That's incorrect, so it's a punishment\\c[0]."
                             ]
                         },
                         {
@@ -7023,7 +7023,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[7]\\AA[F]...Y-Yeah, I guess. After all, \\c[27] I don't know! \\c"
+                                "\\F[7]\\AA[F]...Y-Yeah, I guess. After all, \\c[27] I don't know! \\c[0]"
                             ]
                         },
                         {
@@ -7086,7 +7086,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[27]Punishment\\c."
+                                "\\c[27]Punishment\\c[0]."
                             ]
                         },
                         {
@@ -7246,7 +7246,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[27]Oshioshioshioshioki\\c."
+                                "\\c[27]Oshioshioshioshioki\\c[0]."
                             ]
                         },
                         {
@@ -7615,7 +7615,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Particularly, his interrogation \\c of the women he had captured\n\\c[27] was outstanding, and many women were moved by Sadi's\nsincere attitude, leading to their successful reform."
+                                "Particularly, his interrogation \\c[0] of the women he had captured\n\\c[27] was outstanding, and many women were moved by Sadi's\nsincere attitude, leading to their successful reform."
                             ]
                         },
                         {
@@ -7632,7 +7632,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The number is an astonishing \\c[14]126\\c people. Even now, they\nhold Sadi in high esteem and are successfully carrying out\nsabotage operations in various places."
+                                "The number is an astonishing \\c[14]126\\c[0] people. Even now, they\nhold Sadi in high esteem and are successfully carrying out\nsabotage operations in various places."
                             ]
                         },
                         {
@@ -7656,7 +7656,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F\\c[14]\\AA[F]........I wonder where the necessary information\nis. \\c[14]Could it be a number..\\c"
+                                "\\F\\c[14]\\AA[F]........I wonder where the necessary information\nis. \\c[14]Could it be a number..\\c[0]"
                             ]
                         },
                         {
@@ -7850,7 +7850,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Particularly, his interrogation \\c of the women he had captured\n\\c[27] was outstanding, and many women were moved by Sadi's\nsincere attitude, leading to their successful reform."
+                                "Particularly, his interrogation \\c[0] of the women he had captured\n\\c[27] was outstanding, and many women were moved by Sadi's\nsincere attitude, leading to their successful reform."
                             ]
                         },
                         {
@@ -7867,7 +7867,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The number is an astonishing \\c[14]126\\c people. Even now, they\nhold Sadi in high esteem and are successfully carrying out\nsabotage operations in various places."
+                                "The number is an astonishing \\c[14]126\\c[0] people. Even now, they\nhold Sadi in high esteem and are successfully carrying out\nsabotage operations in various places."
                             ]
                         },
                         {
@@ -8018,7 +8018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Particularly, his interrogations \\c of the women he captured\n\\c[27] were outstanding, and many women were moved by Sadi's\nsincere attitude, leading to their successful reform."
+                                "Particularly, his interrogations \\c[0] of the women he captured\n\\c[27] were outstanding, and many women were moved by Sadi's\nsincere attitude, leading to their successful reform."
                             ]
                         },
                         {
@@ -8035,7 +8035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The number is an astonishing \\c[14]126\\c people. Even now, they\nhold Sadi in high regard and are successfully carrying out\nsabotage operations in various places."
+                                "The number is an astonishing \\c[14]126\\c[0] people. Even now, they\nhold Sadi in high regard and are successfully carrying out\nsabotage operations in various places."
                             ]
                         },
                         {
@@ -8463,7 +8463,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Sadi has \\c[14]15\\c villas."
+                                "Sadi has \\c[14]15\\c[0] villas."
                             ]
                         },
                         {
@@ -8497,7 +8497,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "They are used for the \\c[27]parties\\c hosted by Sadi."
+                                "They are used for the \\c[27]parties\\c[0] hosted by Sadi."
                             ]
                         },
                         {
@@ -8521,7 +8521,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F\\c[14]\\AA[F]..........I wonder where the necessary information\nis. \\c[14]Could it be a number..\\c"
+                                "\\F\\c[14]\\AA[F]..........I wonder where the necessary information\nis. \\c[14]Could it be a number..\\c[0]"
                             ]
                         },
                         {
@@ -8663,7 +8663,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Sadi has \\c[14]15\\c villas."
+                                "Sadi has \\c[14]15\\c[0] villas."
                             ]
                         },
                         {
@@ -8697,7 +8697,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "They are used for the \\c[27]parties\\c hosted by Sadi."
+                                "They are used for the \\c[27]parties\\c[0] hosted by Sadi."
                             ]
                         },
                         {
@@ -8838,7 +8838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sadi has \\c[14]15\\c villas."
+                                "Sadi has \\c[14]15\\c[0] villas."
                             ]
                         },
                         {
@@ -8872,7 +8872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "They are used for the \\c[27]parties\\c hosted by Sadi."
+                                "They are used for the \\c[27]parties\\c[0] hosted by Sadi."
                             ]
                         },
                         {
@@ -9021,7 +9021,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "1. Seria must obtain the 4-digit pin code by \\c[27]some method\\c.\n2. Once 1 is completed, she must dispel the magic of the cell\nwhere Hayato is imprisoned. 3. She can investigate anywhere she\ncan reach at that point. 4. Contact from Sadi is only allowed\n\\c[27]if Seria permits it\\c."
+                                "1. Seria must obtain the 4-digit pin code by \\c[27]some method\\c[0].\n2. Once 1 is completed, she must dispel the magic of the cell\nwhere Hayato is imprisoned. 3. She can investigate anywhere she\ncan reach at that point. 4. Contact from Sadi is only allowed\n\\c[27]if Seria permits it\\c[0]."
                             ]
                         },
                         {
@@ -9038,7 +9038,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "5. If you absolutely cannot figure out the pin code, you can\nlearn one digit by listening to one of Sadi's requests \\c[27]\\c."
+                                "5. If you absolutely cannot figure out the pin code, you can\nlearn one digit by listening to one of Sadi's requests \\c[27]\\c[0]."
                             ]
                         },
                         {
@@ -9181,7 +9181,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "1. Merill will monitor Hayato. 2. Wait in the cage until the code\nis decrypted. You can do as you like. 3. Hayato can support\n\\c[27] from inside the cage \\c. 4. Direct attacks on each other\nare prohibited."
+                                "1. Merill will monitor Hayato. 2. Wait in the cage until the code\nis decrypted. You can do as you like. 3. Hayato can support\n\\c[27] from inside the cage \\c[0]. 4. Direct attacks on each other\nare prohibited."
                             ]
                         },
                         {
@@ -9198,7 +9198,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "5. \\c[27] Any direct physical contact from \\c Merill to Hayato is\nprohibited."
+                                "5. \\c[27] Any direct physical contact from \\c[0] Merill to Hayato is\nprohibited."
                             ]
                         },
                         {
@@ -9222,7 +9222,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]If we follow these rules, \\cHayato should still be safe."
+                                "\\c[27]If we follow these rules, \\c[0]Hayato should still be safe."
                             ]
                         },
                         {
@@ -9246,7 +9246,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Even if his power is limited, there's no way he would lose to\nsuch a vulgar succubus in a one-on-one fight. After all, he's the\n\\c[14]hero's younger brother\\c!"
+                                "Even if his power is limited, there's no way he would lose to\nsuch a vulgar succubus in a one-on-one fight. After all, he's the\n\\c[14]hero's younger brother\\c[0]!"
                             ]
                         },
                         {
@@ -9351,7 +9351,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Not just comments based on simple atmosphere, but even things\nthat affect actual status and \\c[27]heart\\c...."
+                                "Not just comments based on simple atmosphere, but even things\nthat affect actual status and \\c[27]heart\\c[0]...."
                             ]
                         },
                         {
@@ -9420,7 +9420,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Changes in the \\c[27]heart\\c can be viewed from the menu's\n[\\c[14]Two Hearts\\c]. (You can switch with the keyboard's [←][→])"
+                                "Changes in the \\c[27]heart\\c[0] can be viewed from the menu's\n[\\c[14]Two Hearts\\c[0]]. (You can switch with the keyboard's [←][→])"
                             ]
                         },
                         {
@@ -9454,7 +9454,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "And in this work, depending on the degree of corruption and the\nchoices accepted, \\c[14]casual conversations\\c will slightly\nchange."
+                                "And in this work, depending on the degree of corruption and the\nchoices accepted, \\c[14]casual conversations\\c[0] will slightly\nchange."
                             ]
                         },
                         {
@@ -9741,7 +9741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[27]Please enter the \\c number.."
+                                "\\c[27]Please enter the \\c[0] number.."
                             ]
                         },
                         {
@@ -9758,7 +9758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Please enter the number\\c of women who have reformed due to Lord\nSadi's influence\\c[27].."
+                                "Please enter the number\\c[0] of women who have reformed due to Lord\nSadi's influence\\c[27].."
                             ]
                         },
                         {
@@ -9791,7 +9791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F\\c[14]\\AA[F]....! I think it was in the documents. (\\c[14]You\nwill consume AP to input\\c) (\\c[27]*There is a penalty for\nmistakes\\c)"
+                                "\\F\\c[14]\\AA[F]....! I think it was in the documents. (\\c[14]You\nwill consume AP to input\\c[0]) (\\c[27]*There is a penalty for\nmistakes\\c[0])"
                             ]
                         },
                         {
@@ -10040,7 +10040,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "That's wrong, so it's a \\c[27]punishment\\c."
+                                "That's wrong, so it's a \\c[27]punishment\\c[0]."
                             ]
                         },
                         {
@@ -10293,7 +10293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Please enter the number of women who have reformed thanks to Lady\nSadi's influence..\\c[27]\\c"
+                                "Please enter the number of women who have reformed thanks to Lady\nSadi's influence..\\c[27]\\c[0]"
                             ]
                         },
                         {
@@ -10384,7 +10384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F\\c[14]\\AA[F]Alright, I'll input it. (\\c[14]Consumes AP to\ninput\\c) (\\c[27]*There's a penalty for mistakes\\c)"
+                                "\\F\\c[14]\\AA[F]Alright, I'll input it. (\\c[14]Consumes AP to\ninput\\c[0]) (\\c[27]*There's a penalty for mistakes\\c[0])"
                             ]
                         },
                         {
@@ -10621,7 +10621,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "It's wrong, so \\c[27] it's a punishment \\c."
+                                "It's wrong, so \\c[27] it's a punishment \\c[0]."
                             ]
                         },
                         {
@@ -11175,7 +11175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F\\c[27]\\AA[F]I've been thinking about it since earlier, but that\n\\c[27]barrier-like thing blocking the way \\creally bothers me."
+                                "\\F\\c[27]\\AA[F]I've been thinking about it since earlier, but that\n\\c[27]barrier-like thing blocking the way \\c[0]really bothers me."
                             ]
                         },
                         {
@@ -11970,7 +11970,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Yes, of course...♡ You've become quite accustomed to the\n【\\c[27]Fallen Angel's Puff Puff\\c】 that bewitches a man's\ninstincts...♡"
+                                "Yes, of course...♡ You've become quite accustomed to the\n【\\c[27]Fallen Angel's Puff Puff\\c[0]】 that bewitches a man's\ninstincts...♡"
                             ]
                         },
                         {
@@ -12157,7 +12157,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "The bewitching lewd technique that even makes heroes fall in love\nand fall into the hands of evil... .....【\\c[27]Fallen Sexy\nDance\\c】"
+                                "The bewitching lewd technique that even makes heroes fall in love\nand fall into the hands of evil... .....【\\c[27]Fallen Sexy\nDance\\c[0]】"
                             ]
                         },
                         {
@@ -12784,7 +12784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[17]\\AA[F]...\\c[27]I tried looking for the code but I don't\nunderstand it\\c..so. That's why... I want you to teach me."
+                                "\\F[17]\\AA[F]...\\c[27]I tried looking for the code but I don't\nunderstand it\\c[0]..so. That's why... I want you to teach me."
                             ]
                         },
                         {
@@ -13033,7 +13033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Then I must help Seria. However, I will ask you to listen to my\n\\c[27]request\\c.... Can you do it?"
+                                "Then I must help Seria. However, I will ask you to listen to my\n\\c[27]request\\c[0].... Can you do it?"
                             ]
                         },
                         {
@@ -13105,7 +13105,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There's no way I would do such a thing to my beautiful lady. I\nwant you to look into my \\c[27] eyes \\c."
+                                "There's no way I would do such a thing to my beautiful lady. I\nwant you to look into my \\c[27] eyes \\c[0]."
                             ]
                         },
                         {
@@ -13261,7 +13261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[27]【Tempting Gaze】\\c"
+                                "\\c[27]【Tempting Gaze】\\c[0]"
                             ]
                         },
                         {
@@ -13422,7 +13422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\c[27]Tempting Gaze\\c】 It's a lewd technique that blinds the\nlovely woman in front of him with love."
+                                "【\\c[27]Tempting Gaze\\c[0]】 It's a lewd technique that blinds the\nlovely woman in front of him with love."
                             ]
                         },
                         {
@@ -13780,7 +13780,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hehe... Understood. Now, come over here, Seria♡ \\c[27]You're the\none to come to me\\c."
+                                "Hehe... Understood. Now, come over here, Seria♡ \\c[27]You're the\none to come to me\\c[0]."
                             ]
                         },
                         {
@@ -14615,7 +14615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ".......It's \\c[14]5\\c."
+                                ".......It's \\c[14]5\\c[0]."
                             ]
                         },
                         {
@@ -14663,7 +14663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's a code....\\c[14]The first digit is 5\\c. It would be good to\nmake a note of it."
+                                "It's a code....\\c[14]The first digit is 5\\c[0]. It would be good to\nmake a note of it."
                             ]
                         },
                         {
@@ -14728,7 +14728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "He seemed to be in pain.. That means Hayato's magic protected\nme\\c!!"
+                                "He seemed to be in pain.. That means Hayato's magic protected\nme\\c[0]!!"
                             ]
                         },
                         {
@@ -15326,7 +15326,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The number of cities that Sadi has captured in the war amounts to\nover \\c[14]20\\c."
+                                "The number of cities that Sadi has captured in the war amounts to\nover \\c[14]20\\c[0]."
                             ]
                         },
                         {
@@ -15343,7 +15343,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "He rescued the select women who were in those cities, and made\nthem realize the greatness of the Demon King's army\\c"
+                                "He rescued the select women who were in those cities, and made\nthem realize the greatness of the Demon King's army\\c[0]"
                             ]
                         },
                         {
@@ -15367,7 +15367,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F\\c[14]\\AA[F]........I wonder where the necessary information\nis. \\c[14]Maybe it's a number..\\c"
+                                "\\F\\c[14]\\AA[F]........I wonder where the necessary information\nis. \\c[14]Maybe it's a number..\\c[0]"
                             ]
                         },
                         {
@@ -15404,7 +15404,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "addLog \\c[27]ハヤトは慌てて眼を逸らした\\c"
+                                "addLog \\c[27]ハヤトは慌てて眼を逸らした\\c[0]"
                             ]
                         },
                         {
@@ -15623,7 +15623,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The number of cities that Sadi has captured in the war amounts to\nover \\c[14]20\\c."
+                                "The number of cities that Sadi has captured in the war amounts to\nover \\c[14]20\\c[0]."
                             ]
                         },
                         {
@@ -15640,7 +15640,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "He rescued the select women who were in those cities, and made\nthem realize the greatness of the Demon King's army\\c"
+                                "He rescued the select women who were in those cities, and made\nthem realize the greatness of the Demon King's army\\c[0]"
                             ]
                         },
                         {
@@ -15774,7 +15774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The number of cities that Sadi has captured in the war amounts to\nover \\c[14]20\\c."
+                                "The number of cities that Sadi has captured in the war amounts to\nover \\c[14]20\\c[0]."
                             ]
                         },
                         {
@@ -15791,7 +15791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "He rescued the select women who were in those cities, and made\nthem realize the greatness of the Demon King's army\\c"
+                                "He rescued the select women who were in those cities, and made\nthem realize the greatness of the Demon King's army\\c[0]"
                             ]
                         },
                         {

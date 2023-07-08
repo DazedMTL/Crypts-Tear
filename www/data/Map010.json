@@ -1584,7 +1584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[27]Did you choose me over Seria, \\cmy cute little brother?♡"
+                                "\\c[27]Did you choose me over Seria, \\c[0]my cute little brother?♡"
                             ]
                         },
                         {
@@ -1804,7 +1804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Let it out♡ Let it out all over your beloved succubus\\c[27], my\nrighteous hero\\c♡"
+                                "Let it out♡ Let it out all over your beloved succubus\\c[27], my\nrighteous hero\\c[0]♡"
                             ]
                         },
                         {
@@ -2136,7 +2136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【Seria's Aftermath】 After receiving repeated \\c[27] charm\ntraining \\c from Sadi and Krone, she fell into becoming a\ncomplete female dog slave."
+                                "【Seria's Aftermath】 After receiving repeated \\c[27] charm\ntraining \\c[0] from Sadi and Krone, she fell into becoming a\ncomplete female dog slave."
                             ]
                         },
                         {
@@ -2160,7 +2160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The paper \\c[14] I dropped \\c at the church that day..."
+                                "The paper \\c[14] I dropped \\c[0] at the church that day..."
                             ]
                         },
                         {

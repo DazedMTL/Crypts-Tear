@@ -1417,7 +1417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Would you like to skip the opening that depicts the synopsis...?\n(\\c[14]This work has a strong story element, \\c \\c[14]it is\nhighly recommended not to skip on the first viewing.\\c)"
+                                "Would you like to skip the opening that depicts the synopsis...?\n(\\c[14]This work has a strong story element, \\c[0] \\c[14]it is\nhighly recommended not to skip on the first viewing.\\c[0])"
                             ]
                         },
                         {
@@ -1426,7 +1426,7 @@
                             "parameters": [
                                 [
                                     "I'll watch it carefully",
-                                    "Please proceed (Note: There are erotic scenes in the opening as well)\\c)",
+                                    "Please proceed (Note: There are erotic scenes in the opening as well\\c[0])",
                                     "Return to the title"
                                 ],
                                 1,
@@ -1457,7 +1457,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "....A year ago, there was a \\c[14]great war\\c between humans and\nmonsters."
+                                "....A year ago, there was a \\c[14]great war\\c[0] between humans and\nmonsters."
                             ]
                         },
                         {
@@ -1525,7 +1525,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Moreover, for some reason, the monsters had seen through our\nstrategy\\c[27], causing us great damage. The war ended with\nnearly 30% of the world still under invasion\\c."
+                                "Moreover, for some reason, the monsters had seen through our\nstrategy\\c[27], causing us great damage. The war ended with\nnearly 30% of the world still under invasion\\c[0]."
                             ]
                         },
                         {
@@ -1667,7 +1667,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "4行でお願い(※\\c[27]OPにもエロシーンがあります。\\c)"
+                                "4行でお願い(※\\c[27]OPにもエロシーンがあります。\\c[0])"
                             ]
                         },
                         {
@@ -1684,7 +1684,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ".\\c[14]The protagonist is a girl named Seria\\c who escaped from\nthe war. Hayato (her best friend) is the younger brother of the\nhero, and it seems that Seria is a \\c[14]descendant of the\ngoddess\\c. Two succubi kidnap Seria to win her over and start a\ngame in the basement of the church. In order to escape with\nHayato, who has become a hostage, they need to find a \\c[14]four-\ndigit password\\c."
+                                ".\\c[14]The protagonist is a girl named Seria\\c[0] who escaped from\nthe war. Hayato (her best friend) is the younger brother of the\nhero, and it seems that Seria is a \\c[14]descendant of the\ngoddess\\c[0]. Two succubi kidnap Seria to win her over and start a\ngame in the basement of the church. In order to escape with\nHayato, who has become a hostage, they need to find a \\c[14]four-\ndigit password\\c[0]."
                             ]
                         },
                         {

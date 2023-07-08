@@ -3054,7 +3054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[37]\\AA[F]I want to \\c[27]help you release \\cthose pent-up\nfeelings."
+                                "\\F[37]\\AA[F]I want to \\c[27]help you release \\c[0]those pent-up\nfeelings."
                             ]
                         },
                         {
@@ -4187,7 +4187,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I initially disliked both your personality and\nappearance\\c[27]... but now, I might be a little\\c[27] fond\\c...\nof you♡♡"
+                                "I initially disliked both your personality and\nappearance\\c[27]... but now, I might be a little\\c[27] fond\\c[0]...\nof you♡♡"
                             ]
                         },
                         {
@@ -4602,7 +4602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Is there such a thing as being carefree....\\c[14] I'm just\ncheering myself up by thinking that I'll be with Seria even after\nI get home \\c."
+                                "Is there such a thing as being carefree....\\c[14] I'm just\ncheering myself up by thinking that I'll be with Seria even after\nI get home \\c[0]."
                             ]
                         },
                         {
@@ -4909,7 +4909,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[14]You're worried about Sadie\\c, aren't you?"
+                                "\\c[14]You're worried about Sadie\\c[0], aren't you?"
                             ]
                         },
                         {
@@ -5377,7 +5377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F\\c\\AA[F]\\c[14]Holy Protect\\c... It's warm..."
+                                "\\F\\c\\AA[F]\\c[14]Holy Protect\\c[0]... It's warm..."
                             ]
                         },
                         {
@@ -5523,7 +5523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[37]\\AA[F](This is my \\c[27]chance\\c to make a move on\nHayato!!)"
+                                "\\F[37]\\AA[F](This is my \\c[27]chance\\c[0] to make a move on\nHayato!!)"
                             ]
                         },
                         {
@@ -6099,7 +6099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[37]\\AA[F](\\c[27]This is a chance\\c..... a chance to get lovey-\ndovey with Hayato...!!!)"
+                                "\\F[37]\\AA[F](\\c[27]This is a chance\\c[0]..... a chance to get lovey-\ndovey with Hayato...!!!)"
                             ]
                         },
                         {
@@ -6645,7 +6645,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "1. Seria must obtain the 4-digit pin by \\c[27]some method\\c. 2.\nOnce 1 is completed, she must dispel the magic of the cell where\nHayato is imprisoned. 3. She can investigate anywhere she can\nreach at that point. 4. Contact from Sadi is \\c[27]free\\c unless\nHayato's magic is gone."
+                                "1. Seria must obtain the 4-digit pin by \\c[27]some method\\c[0]. 2.\nOnce 1 is completed, she must dispel the magic of the cell where\nHayato is imprisoned. 3. She can investigate anywhere she can\nreach at that point. 4. Contact from Sadi is \\c[27]free\\c[0] unless\nHayato's magic is gone."
                             ]
                         },
                         {
@@ -6662,7 +6662,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "5. If she absolutely cannot figure out the pin, she can learn one\ndigit by listening to one of Sadi's requests \\c[27]\\c."
+                                "5. If she absolutely cannot figure out the pin, she can learn one\ndigit by listening to one of Sadi's requests \\c[27]\\c[0]."
                             ]
                         },
                         {
@@ -6716,7 +6716,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "1. Merill will monitor Hayato. 2. Until the code is decrypted,\nshe can do as she pleases while waiting in the cage. 3. Hayato\nmay provide support\\c[27] from within the cage\\c. 4. Direct\nattacks against each other are prohibited."
+                                "1. Merill will monitor Hayato. 2. Until the code is decrypted,\nshe can do as she pleases while waiting in the cage. 3. Hayato\nmay provide support\\c[27] from within the cage\\c[0]. 4. Direct\nattacks against each other are prohibited."
                             ]
                         },
                         {
@@ -6733,7 +6733,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "5. \\c[27] Any direct physical contact from \\c Merill to Hayato is\nprohibited."
+                                "5. \\c[27] Any direct physical contact from \\c[0] Merill to Hayato is\nprohibited."
                             ]
                         },
                         {
@@ -6814,7 +6814,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Not just comments based on the simple atmosphere, but even things\nthat affect the actual status and \\c[27]heart\\c...."
+                                "Not just comments based on the simple atmosphere, but even things\nthat affect the actual status and \\c[27]heart\\c[0]...."
                             ]
                         },
                         {
@@ -6883,7 +6883,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Changes in the \\c[27]heart\\c can be viewed from the menu's\n[\\c[14]Two Hearts\\c]. (You can switch with the keyboard's [←][→])"
+                                "Changes in the \\c[27]heart\\c[0] can be viewed from the menu's\n[\\c[14]Two Hearts\\c[0]]. (You can switch with the keyboard's [←][→])"
                             ]
                         },
                         {
@@ -6917,7 +6917,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "And in this work, depending on the degree of corruption and the\nchoices accepted, \\c[14]casual conversations\\c will slightly\nchange."
+                                "And in this work, depending on the degree of corruption and the\nchoices accepted, \\c[14]casual conversations\\c[0] will slightly\nchange."
                             ]
                         },
                         {
@@ -6982,7 +6982,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The first digit is '\\c[14]5\\c'."
+                                "The first digit is '\\c[14]5\\c[0]'."
                             ]
                         },
                         {
@@ -6999,7 +6999,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The second digit is '\\c[14]8\\c'."
+                                "The second digit is '\\c[14]8\\c[0]'."
                             ]
                         },
                         {
@@ -7016,7 +7016,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The third digit is '\\c[14]6\\c'."
+                                "The third digit is '\\c[14]6\\c[0]'."
                             ]
                         },
                         {
@@ -7901,7 +7901,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Yes, of course...♡ You've become quite accustomed to the\n【\\c[27]Fallen Angel's Puff Puff\\c】 that bewitches a man's\ninstincts...♡"
+                                "Yes, of course...♡ You've become quite accustomed to the\n【\\c[27]Fallen Angel's Puff Puff\\c[0]】 that bewitches a man's\ninstincts...♡"
                             ]
                         },
                         {
@@ -8088,7 +8088,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "The bewitching lewd technique that even captivates heroes and\nensnares them in the hands of evil... .....【\\c[27]Fallen Sexy\nDance\\c】"
+                                "The bewitching lewd technique that even captivates heroes and\nensnares them in the hands of evil... .....【\\c[27]Fallen Sexy\nDance\\c[0]】"
                             ]
                         },
                         {

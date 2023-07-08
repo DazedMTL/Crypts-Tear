@@ -3424,7 +3424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F]That being said, we have to find the last\n\\c[14]cipher\\c!"
+                                "\\F[10]\\AA[F]That being said, we have to find the last\n\\c[14]cipher\\c[0]!"
                             ]
                         },
                         {
@@ -3546,7 +3546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Or another thing... \\c[14]We don't know if that cipher can really\nbe used for escape\\c."
+                                "Or another thing... \\c[14]We don't know if that cipher can really\nbe used for escape\\c[0]."
                             ]
                         },
                         {
@@ -3570,7 +3570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "We must not forget that this is a battle against the main force\nof the \\c[14]Demon King's army\\c...."
+                                "We must not forget that this is a battle against the main force\nof the \\c[14]Demon King's army\\c[0]...."
                             ]
                         },
                         {
@@ -4277,7 +4277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You're probably right. That's why Anthurium... \\c[14]was\nsearching for the weapons storage room\\c."
+                                "You're probably right. That's why Anthurium... \\c[14]was\nsearching for the weapons storage room\\c[0]."
                             ]
                         },
                         {
@@ -4301,7 +4301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The \\c[14]storage room\\c, which is Anthurium's old haunt, is not\naffected by this spell.... That's why there should be a clue to\nescape there."
+                                "The \\c[14]storage room\\c[0], which is Anthurium's old haunt, is not\naffected by this spell.... That's why there should be a clue to\nescape there."
                             ]
                         },
                         {
@@ -4325,7 +4325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F\\c[14]\\AA[F]Ah.......\\c[14]Weapons\\c."
+                                "\\F\\c[14]\\AA[F]Ah.......\\c[14]Weapons\\c[0]."
                             ]
                         },
                         {
@@ -4413,7 +4413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F\\c[14]\\AA[F]Hey, Hayato! You can handle that \\c[14]weapon\\c,\ncan't you? After all, you're the \\c[14]hero's younger brother\\c!"
+                                "\\F\\c[14]\\AA[F]Hey, Hayato! You can handle that \\c[14]weapon\\c[0],\ncan't you? After all, you're the \\c[14]hero's younger brother\\c[0]!"
                             ]
                         },
                         {
@@ -4446,7 +4446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " Hayato: ............I'm sorry, Seria. What do you mean by\n'weapon'\\c?"
+                                " Hayato: ............I'm sorry, Seria. What do you mean by\n'weapon'\\c[0]?"
                             ]
                         },
                         {
@@ -4496,7 +4496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " Hayato: {...Are you talking about the \\c[14]Holy Sword\\c?"
+                                " Hayato: {...Are you talking about the \\c[14]Holy Sword\\c[0]?"
                             ]
                         },
                         {
@@ -4553,7 +4553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F]\\c[14]Holy Sword\\c... It's definitely strong, isn't\nit!! So, Anthurium! Have you found that room?"
+                                "\\F[10]\\AA[F]\\c[14]Holy Sword\\c[0]... It's definitely strong, isn't\nit!! So, Anthurium! Have you found that room?"
                             ]
                         },
                         {

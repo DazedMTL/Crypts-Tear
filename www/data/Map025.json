@@ -3431,7 +3431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's not \\c[14]2\\c."
+                                "It's not \\c[14]2\\c[0]."
                             ]
                         },
                         {
@@ -3479,7 +3479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F](That means the code is...\\{\\c[14]6\\c})"
+                                "\\F[10]\\AA[F](That means the code is...\\{\\c[14]6\\c[0]})"
                             ]
                         },
                         {
@@ -4032,7 +4032,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's not \\c[14]2\\c."
+                                "It's not \\c[14]2\\c[0]."
                             ]
                         },
                         {
@@ -4080,7 +4080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F](That means the code is...\\{\\c[14]6\\c})"
+                                "\\F[10]\\AA[F](That means the code is...\\{\\c[14]6\\c[0]})"
                             ]
                         },
                         {
@@ -4321,7 +4321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[15]\\AA[F](The adventurer has..\\c[27]fallen into this guy's\nhands\\c...!)"
+                                "\\F[15]\\AA[F](The adventurer has..\\c[27]fallen into this guy's\nhands\\c[0]...!)"
                             ]
                         },
                         {
@@ -4519,7 +4519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F]What's this, \\c[14]Krone's cipher memo\\c!"
+                                "\\F[10]\\AA[F]What's this, \\c[14]Krone's cipher memo\\c[0]!"
                             ]
                         },
                         {
@@ -4811,7 +4811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[18]\\AA[F]Aren't you, \\c[14]an adventurer whose livelihood is\ndefeating monsters\\c, right?!"
+                                "\\F[18]\\AA[F]Aren't you, \\c[14]an adventurer whose livelihood is\ndefeating monsters\\c[0], right?!"
                             ]
                         },
                         {
@@ -5092,7 +5092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "She's here of her own volition\\c[27]\\c. At least, I don't recall\nforcing her to stay♡"
+                                "She's here of her own volition\\c[27]\\c[0]. At least, I don't recall\nforcing her to stay♡"
                             ]
                         },
                         {
@@ -5310,7 +5310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[27]There is indeed a lascivious glow in \\cfree will..♡♡"
+                                "\\c[27]There is indeed a lascivious glow in \\c[0]free will..♡♡"
                             ]
                         },
                         {
@@ -5382,7 +5382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F]That's not what I came to talk about. \\c[14]It's\nabout the \\ccipher!"
+                                "\\F[10]\\AA[F]That's not what I came to talk about. \\c[14]It's\nabout the \\c[0]cipher!"
                             ]
                         },
                         {
@@ -5423,7 +5423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The numbers '9', '8', '7', '5', '4', '3', '1', '0' are incorrect.\nThat means it's either '6' or '2' for \\c[14] and \\c."
+                                "The numbers '9', '8', '7', '5', '4', '3', '1', '0' are incorrect.\nThat means it's either '6' or '2' for \\c[14] and \\c[0]."
                             ]
                         },
                         {
@@ -6162,7 +6162,7 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Teach me the taste of semen (※The event will proceed))",
+                                    "Teach me the taste of semen (※The event will proceed)",
                                     "It's nothing"
                                 ],
                                 1,
@@ -6200,7 +6200,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[10]\\AA[F]Hey, listen. \\c[14]There was a child \\cwho was in\ntrouble."
+                                "\\F[10]\\AA[F]Hey, listen. \\c[14]There was a child \\c[0]who was in\ntrouble."
                             ]
                         },
                         {
@@ -6272,7 +6272,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[9]\\AA[F]I...\\c[27]don't know what \\cyour semen tastes like."
+                                "\\F[9]\\AA[F]I...\\c[27]don't know what \\c[0]your semen tastes like."
                             ]
                         },
                         {
@@ -6348,7 +6348,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                " Krone .......No, Seri-chan. \\c[27] If you taste it directly,\nit'll be a knockout in one go \\c"
+                                " Krone .......No, Seri-chan. \\c[27] If you taste it directly,\nit'll be a knockout in one go \\c[0]"
                             ]
                         },
                         {
@@ -6396,7 +6396,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Certainly, what Krone says is correct. Perhaps that child is\nlearning about \\c[14]Sadi Studies\\c."
+                                "Certainly, what Krone says is correct. Perhaps that child is\nlearning about \\c[14]Sadi Studies\\c[0]."
                             ]
                         },
                         {
@@ -6729,7 +6729,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[14]It's for the sake of the \\ccode... Come on♡ Give it a kiss♡"
+                                "\\c[14]It's for the sake of the \\c[0]code... Come on♡ Give it a kiss♡"
                             ]
                         },
                         {
@@ -7033,7 +7033,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                " Krone \\c[27]Charm (Enchantment)\\c"
+                                " Krone \\c[27]Charm (Enchantment)\\c[0]"
                             ]
                         },
                         {
@@ -7751,7 +7751,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "More importantly, Seria...\\c[27]how\\c did it taste?"
+                                "More importantly, Seria...\\c[27]how\\c[0] did it taste?"
                             ]
                         },
                         {
@@ -7939,7 +7939,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Seria has learned the \\c[27]Fallen Fellatio\\c... (\\c[14]*You can\ncheck it from the skill section\\c)"
+                                "Seria has learned the \\c[27]Fallen Fellatio\\c[0]... (\\c[14]*You can\ncheck it from the skill section\\c[0])"
                             ]
                         },
                         {
@@ -8094,7 +8094,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I\\c[27] was also\\c very happy♡"
+                                "I\\c[27] was also\\c[0] very happy♡"
                             ]
                         },
                         {
@@ -8118,7 +8118,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Now, Seria. Why don't you teach her? \\c[27]The taste of\nsemen\\c...♡"
+                                "Now, Seria. Why don't you teach her? \\c[27]The taste of\nsemen\\c[0]...♡"
                             ]
                         },
                         {
@@ -8646,7 +8646,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "If that's the case, I must \\c[27]refresh\\c you. Come... this way\n♡♡"
+                                "If that's the case, I must \\c[27]refresh\\c[0] you. Come... this way\n♡♡"
                             ]
                         },
                         {
@@ -8805,7 +8805,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "(When I hear \\c this person's \\c[27] voice while we're kissing...\nI feel at ease♡ This is bad....)"
+                                "(When I hear \\c[0] this person's \\c[27] voice while we're kissing...\nI feel at ease♡ This is bad....)"
                             ]
                         },
                         {
@@ -9101,7 +9101,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]Feeling refreshed\\c, aren't you?♡ Come again when you're\nfeeling down..........."
+                                "\\c[27]Feeling refreshed\\c[0], aren't you?♡ Come again when you're\nfeeling down..........."
                             ]
                         },
                         {
@@ -9441,7 +9441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Will you talk to Sadi? (\\c[14]*The event will proceed\\c)"
+                                "Will you talk to Sadi? (\\c[14]*The event will proceed\\c[0])"
                             ]
                         },
                         {
@@ -9642,7 +9642,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[10]\\AA[F]\\c[14]You probably won't tell me about the \\ccode\nanyway... I'll go look for Krone a bit more!"
+                                "\\F[10]\\AA[F]\\c[14]You probably won't tell me about the \\c[0]code\nanyway... I'll go look for Krone a bit more!"
                             ]
                         },
                         {
@@ -9673,7 +9673,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]If you get on top of me and make me feel good, I'll tell\nyou?\\c"
+                                "\\c[27]If you get on top of me and make me feel good, I'll tell\nyou?\\c[0]"
                             ]
                         },
                         {
@@ -9950,7 +9950,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                " Krone \\c[27]Get on\\c, Seria."
+                                " Krone \\c[27]Get on\\c[0], Seria."
                             ]
                         },
                         {
@@ -10029,7 +10029,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "....First, I want to lick \\c[27]breasts\\c♡"
+                                "....First, I want to lick \\c[27]breasts\\c[0]♡"
                             ]
                         },
                         {
@@ -10312,7 +10312,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "And like a devil, while occasionally biting her nipples gently\nand kneading them, he gradually gets Seria \\c[27] in the mood\n\\c..."
+                                "And like a devil, while occasionally biting her nipples gently\nand kneading them, he gradually gets Seria \\c[27] in the mood\n\\c[0]..."
                             ]
                         },
                         {
@@ -11263,7 +11263,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                " Krone: That's why I'm saying, it's not enough! ♡ \\c[27]Charm\n(Fascination)\\c!! ♡♡♡"
+                                " Krone: That's why I'm saying, it's not enough! ♡ \\c[27]Charm\n(Fascination)\\c[0]!! ♡♡♡"
                             ]
                         },
                         {
@@ -11497,7 +11497,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]Seria herself slides her panties aside, showing Sadi her\npussy, and \\c[27]tempts\\c him."
+                                "\\c[27]Seria herself slides her panties aside, showing Sadi her\npussy, and \\c[27]tempts\\c[0] him."
                             ]
                         },
                         {
@@ -12430,7 +12430,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "It's \\c[27]6\\c."
+                                "It's \\c[27]6\\c[0]."
                             ]
                         },
                         {
@@ -12478,7 +12478,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Yes. It's \\c[27]6\\c. Please remember it. It's just one more,\nokay? ♡ There, there...."
+                                "Yes. It's \\c[27]6\\c[0]. Please remember it. It's just one more,\nokay? ♡ There, there...."
                             ]
                         },
                         {
@@ -12553,7 +12553,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Seria has learned \\c[27]Charming Lover Sex\\c... (\\c[14]*You can\ncheck from the skill section\\c)"
+                                "Seria has learned \\c[27]Charming Lover Sex\\c[0]... (\\c[14]*You can\ncheck from the skill section\\c[0])"
                             ]
                         },
                         {
@@ -12964,7 +12964,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[26]\\AA[F](I have \\c[14]Hayato\\c, you know!!)"
+                                "\\F[26]\\AA[F](I have \\c[14]Hayato\\c[0], you know!!)"
                             ]
                         },
                         {
@@ -14163,7 +14163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh, have you already become friends? \\c[14]Krone\\c."
+                                "Oh, have you already become friends? \\c[14]Krone\\c[0]."
                             ]
                         },
                         {
@@ -14220,7 +14220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yes, Lady Sadi\\c[27]\\c. We've really hit it off."
+                                "Yes, Lady Sadi\\c[27]\\c[0]. We've really hit it off."
                             ]
                         },
                         {
@@ -14364,7 +14364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "By the way, Seria. \\c[14] You came to find the third digit of the\ncode \\c, didn't you?"
+                                "By the way, Seria. \\c[14] You came to find the third digit of the\ncode \\c[0], didn't you?"
                             ]
                         },
                         {
@@ -14445,7 +14445,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[14]After all, last time your strong will allowed you to see\nthrough the trap\\c♡"
+                                "\\c[14]After all, last time your strong will allowed you to see\nthrough the trap\\c[0]♡"
                             ]
                         },
                         {
@@ -14537,7 +14537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Let's give you a hint. \\c[14] It seems there are people in\ntrouble on the first floor. \\c If you help them, they might tell\nyou something, you know?"
+                                "Let's give you a hint. \\c[14] It seems there are people in\ntrouble on the first floor. \\c[0] If you help them, they might tell\nyou something, you know?"
                             ]
                         },
                         {
@@ -16140,7 +16140,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Inferno\\c[14]\\c!!!"
+                                "Inferno\\c[14]\\c[0]!!!"
                             ]
                         },
                         {
@@ -16188,7 +16188,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "That was honestly a sight far removed from the image of a\n\\c[14]goddess\\c."
+                                "That was honestly a sight far removed from the image of a\n\\c[14]goddess\\c[0]."
                             ]
                         },
                         {
@@ -16236,7 +16236,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[14]She awakens in a fit of rage\\c after seeing her friend\ntormented. Moreover, she retaliates with attack magic... just\nlike..."
+                                "\\c[14]She awakens in a fit of rage\\c[0] after seeing her friend\ntormented. Moreover, she retaliates with attack magic... just\nlike..."
                             ]
                         },
                         {
@@ -16291,7 +16291,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\{\\c[14]It's like a \\chero, isn't it."
+                                "\\{\\c[14]It's like a \\c[0]hero, isn't it."
                             ]
                         },
                         {
@@ -16548,7 +16548,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "You seem to understand the importance of \\c[27]free will\\c,\ndeliberately leaving room for resistance while manipulating the\nbody..."
+                                "You seem to understand the importance of \\c[27]free will\\c[0],\ndeliberately leaving room for resistance while manipulating the\nbody..."
                             ]
                         },
                         {
@@ -16793,7 +16793,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Inferno\\c[14]\\c!!!"
+                                "Inferno\\c[14]\\c[0]!!!"
                             ]
                         },
                         {
@@ -16817,7 +16817,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "That was honestly a sight far removed from the image of a\n\\c[14]goddess\\c."
+                                "That was honestly a sight far removed from the image of a\n\\c[14]goddess\\c[0]."
                             ]
                         },
                         {
@@ -16841,7 +16841,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[14]Enraged by the torment of her friend, she awakens...\nMoreover, she retaliates with offensive magic... It's as if...\\c"
+                                "\\c[14]Enraged by the torment of her friend, she awakens...\nMoreover, she retaliates with offensive magic... It's as if...\\c[0]"
                             ]
                         },
                         {
@@ -16896,7 +16896,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\{\\c[14]It's like a \\chero, isn't it."
+                                "\\{\\c[14]It's like a \\c[0]hero, isn't it."
                             ]
                         },
                         {

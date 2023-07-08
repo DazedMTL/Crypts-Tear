@@ -3146,7 +3146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[17]\\AA[F]This is...\\c[14]the Holy Sword\\c?"
+                                "\\F[17]\\AA[F]This is...\\c[14]the Holy Sword\\c[0]?"
                             ]
                         },
                         {
@@ -3214,7 +3214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Will you touch the sacred sword? (※\\c[14]Heading towards the\nending event\\c)"
+                                "Will you touch the sacred sword? (※\\c[14]Heading towards the\nending event\\c[0])"
                             ]
                         },
                         {
@@ -4214,7 +4214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[3]\\AA[F]Once Hayato crushes those guys with the \\c[14]Holy\nSword\\c... I'll make sure to return it properly to the Spirit\nWorld or something."
+                                "\\F[3]\\AA[F]Once Hayato crushes those guys with the \\c[14]Holy\nSword\\c[0]... I'll make sure to return it properly to the Spirit\nWorld or something."
                             ]
                         },
                         {
@@ -4623,7 +4623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " Hayato: Indeed, the legend of this \\c[14]Holy Sword\\c is famous\nin Valiente. It's said to vanquish calamities...."
+                                " Hayato: Indeed, the legend of this \\c[14]Holy Sword\\c[0] is famous\nin Valiente. It's said to vanquish calamities...."
                             ]
                         },
                         {
@@ -4755,7 +4755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]When my older brother came in the past...\\c."
+                                "\\c[14]When my older brother came in the past...\\c[0]."
                             ]
                         },
                         {
@@ -4798,7 +4798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " Hayato: But the sword rejected my brother. Even though he was\ncalled a hero, he wasn't a \\c[14]compatible\\c person."
+                                " Hayato: But the sword rejected my brother. Even though he was\ncalled a hero, he wasn't a \\c[14]compatible\\c[0] person."
                             ]
                         },
                         {
@@ -4822,7 +4822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[17]\\AA[F]Anthurium mentioned it before, but \\c[14]what exactly\nis a 'compatible person'\\c in the first place?"
+                                "\\F[17]\\AA[F]Anthurium mentioned it before, but \\c[14]what exactly\nis a 'compatible person'\\c[0] in the first place?"
                             ]
                         },
                         {
@@ -4872,7 +4872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " Hayato: {\\c[14]Being of the lineage of the hero who saved the\nworld in the ancient past\\c."
+                                " Hayato: {\\c[14]Being of the lineage of the hero who saved the\nworld in the ancient past\\c[0]."
                             ]
                         },
                         {
@@ -4898,7 +4898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " Hayato: Regardless of ability, my lineage isn't that special...\nThat's why my brother was conveniently \\c[14]misunderstood\\c."
+                                " Hayato: Regardless of ability, my lineage isn't that special...\nThat's why my brother was conveniently \\c[14]misunderstood\\c[0]."
                             ]
                         },
                         {
@@ -5474,7 +5474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " Anthurium: Why can you touch \\c[14] it \\c?"
+                                " Anthurium: Why can you touch \\c[14] it \\c[0]?"
                             ]
                         },
                         {
@@ -6020,7 +6020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " Sadi: As expected, when Seria is targeted, Hayato bravely comes\nto her defense. Truly befitting of the \\c[14]hero's\\c younger\nbrother, wouldn't you say?♡"
+                                " Sadi: As expected, when Seria is targeted, Hayato bravely comes\nto her defense. Truly befitting of the \\c[14]hero's\\c[0] younger\nbrother, wouldn't you say?♡"
                             ]
                         },
                         {
@@ -6693,7 +6693,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                " Merill \\F[23]\\AA[F] ((\\c[27]Come to the back of the cabin near\nthe church at night♡\\c Big sis will be waiting...♡))"
+                                " Merill \\F[23]\\AA[F] ((\\c[27]Come to the back of the cabin near\nthe church at night♡\\c[0] Big sis will be waiting...♡))"
                             ]
                         },
                         {
@@ -6731,7 +6731,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hayato was caught off guard by Merill's dance... (\\c[14]*You can\ncheck from the skill section\\c)"
+                                "Hayato was caught off guard by Merill's dance... (\\c[14]*You can\ncheck from the skill section\\c[0])"
                             ]
                         },
                         {
@@ -7053,7 +7053,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【\\c[27]Tempting Gaze\\c】"
+                                "【\\c[27]Tempting Gaze\\c[0]】"
                             ]
                         },
                         {
@@ -7306,7 +7306,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Unable to resist, she continued to receive \\c[27]charming\ntraining\\c from Sadi and Krone..."
+                                "Unable to resist, she continued to receive \\c[27]charming\ntraining\\c[0] from Sadi and Krone..."
                             ]
                         },
                         {
@@ -7462,7 +7462,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【\\c[27]Charm\\c】"
+                                "【\\c[27]Charm\\c[0]】"
                             ]
                         },
                         {
@@ -7764,7 +7764,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\{【\\c[14]Inferno\\c】!!!"
+                                "\\{【\\c[14]Inferno\\c[0]】!!!"
                             ]
                         },
                         {

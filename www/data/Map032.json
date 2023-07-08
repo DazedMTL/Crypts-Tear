@@ -5333,7 +5333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...I don't know. That's why I... \\c[14]was searching for the weapons\nstorage room\\c."
+                                "...I don't know. That's why I... \\c[14]was searching for the weapons\nstorage room\\c[0]."
                             ]
                         },
                         {
@@ -5357,7 +5357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The \\c[14]storage room\\c, which used to be Anthurium's old haunt,\nis not affected by this spell... That's why there should be a\nclue to escape there."
+                                "The \\c[14]storage room\\c[0], which used to be Anthurium's old haunt,\nis not affected by this spell... That's why there should be a\nclue to escape there."
                             ]
                         },
                         {
@@ -5390,7 +5390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F\\c\\AA[F]\\c[14]Weapons\\c...."
+                                "\\F\\c\\AA[F]\\c[14]Weapons\\c[0]...."
                             ]
                         },
                         {
@@ -5414,7 +5414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F](\\c[14]If Hayato were here, \\c he could probably\nhandle those weapons. If that were the case...)"
+                                "\\F[10]\\AA[F](\\c[14]If Hayato were here, \\c[0] he could probably\nhandle those weapons. If that were the case...)"
                             ]
                         },
                         {

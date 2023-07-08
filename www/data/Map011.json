@@ -2725,7 +2725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F\\c[27]\\AA[F]......! Did you put up another \\c[27]protect\\c for\nme back then?"
+                                "\\F\\c[27]\\AA[F]......! Did you put up another \\c[27]protect\\c[0] for\nme back then?"
                             ]
                         },
                         {
@@ -3026,7 +3026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I won't simply release you after going through the trouble of\nmagically modifying the church's basement and bringing you here.\nWe're about to play a game that will determine your fate.\n\\c[14]\\c"
+                                "I won't simply release you after going through the trouble of\nmagically modifying the church's basement and bringing you here.\nWe're about to play a game that will determine your fate.\n\\c[14]\\c[0]"
                             ]
                         },
                         {
@@ -3050,7 +3050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The rules are simple. \\c[27]Find the 4-digit code hidden\nsomewhere and break through the silver cage there\\c. If you do\nthat, Seria... you win."
+                                "The rules are simple. \\c[27]Find the 4-digit code hidden\nsomewhere and break through the silver cage there\\c[0]. If you do\nthat, Seria... you win."
                             ]
                         },
                         {
@@ -3609,7 +3609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]It's set up so that only Hayato can watch from his side.\n\\c\\c[27]It's a special cage\\c."
+                                "\\c[14]It's set up so that only Hayato can watch from his side.\n\\c\\c[27]It's a special cage\\c[0]."
                             ]
                         },
                         {
@@ -3712,7 +3712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This is also a rule, but \\c[27]Merill will not directly touch\nHayato\\c."
+                                "This is also a rule, but \\c[27]Merill will not directly touch\nHayato\\c[0]."
                             ]
                         },
                         {
@@ -3904,7 +3904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If you don't understand the code, \\c[27]you can ask me and I'll\nteach you\\c."
+                                "If you don't understand the code, \\c[27]you can ask me and I'll\nteach you\\c[0]."
                             ]
                         },
                         {
@@ -3952,7 +3952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If you ask...♡ Of course, it would be in the form of listening to\nmy \\c[27]request\\c."
+                                "If you ask...♡ Of course, it would be in the form of listening to\nmy \\c[27]request\\c[0]."
                             ]
                         },
                         {
@@ -4000,7 +4000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Even though it would be easier if you asked... both you and\nHayato.... \\c[27] There are other rules as well... please check\nthem in the nearby book. \\c I'll be looking forward to it."
+                                "Even though it would be easier if you asked... both you and\nHayato.... \\c[27] There are other rules as well... please check\nthem in the nearby book. \\c[0] I'll be looking forward to it."
                             ]
                         },
                         {
@@ -5791,7 +5791,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "1. Seria must obtain the 4-digit pin by \\c[27]some method\\c\nbefore the deadline. 2. If step 1 is completed, she must dispel\nthe magic of the cell where Hayato is imprisoned. 3. She can\ninvestigate anywhere she can reach at that point. 4. Contact from\nSadi is only allowed \\c[27]if Seria gives permission\\c."
+                                "1. Seria must obtain the 4-digit pin by \\c[27]some method\\c\nbefore the deadline. 2. If step 1 is completed, she must dispel\nthe magic of the cell where Hayato is imprisoned. 3. She can\ninvestigate anywhere she can reach at that point. 4. Contact from\nSadi is only allowed \\c[27]if Seria gives permission\\c[0]."
                             ]
                         },
                         {
@@ -5808,7 +5808,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "5. If she absolutely cannot figure out the pin, by listening to\none of Sadi's requests, she can be told one digit \\c"
+                                "5. If she absolutely cannot figure out the pin, by listening to\none of Sadi's requests, she can be told one digit \\c[0]"
                             ]
                         },
                         {
@@ -5906,7 +5906,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "1. Merill will monitor Hayato. 2. Hayato will wait in the cage\nuntil Seria decrypts the code. 3. Hayato may support Seria from\ninside the cage \\c[27] if \\c he wants. 4. Direct attacks on each\nother are prohibited. In that case, Seria will be executed."
+                                "1. Merill will monitor Hayato. 2. Hayato will wait in the cage\nuntil Seria decrypts the code. 3. Hayato may support Seria from\ninside the cage \\c[27] if \\c[0] he wants. 4. Direct attacks on each\nother are prohibited. In that case, Seria will be executed."
                             ]
                         },
                         {
@@ -5923,7 +5923,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "5.\\c[27] Direct contact with \\cHayato from Merill is prohibited."
+                                "5.\\c[27] Direct contact with \\c[0]Hayato from Merill is prohibited."
                             ]
                         },
                         {
@@ -5940,7 +5940,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Seria \\c[27]If these rules are followed, \\cHayato should still be\nsafe. Even though his powers are limited, there's no way he would\nlose to such a vulgar succubus in a one-on-one fight."
+                                "Seria \\c[27]If these rules are followed, \\c[0]Hayato should still be\nsafe. Even though his powers are limited, there's no way he would\nlose to such a vulgar succubus in a one-on-one fight."
                             ]
                         },
                         {
@@ -6868,7 +6868,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Yes, of course...♡ You've become quite accustomed to the\n【\\c[27]Fallen Angel's Puff Puff\\c】 that bewitches a man's\ninstincts...♡"
+                                "Yes, of course...♡ You've become quite accustomed to the\n【\\c[27]Fallen Angel's Puff Puff\\c[0]】 that bewitches a man's\ninstincts...♡"
                             ]
                         },
                         {
@@ -7055,7 +7055,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "The bewitching lewd technique that even captivates heroes and\nensnares them in the hands of evil... .....【\\c[27]Fallen Sexy\nDance\\c】"
+                                "The bewitching lewd technique that even captivates heroes and\nensnares them in the hands of evil... .....【\\c[27]Fallen Sexy\nDance\\c[0]】"
                             ]
                         },
                         {

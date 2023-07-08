@@ -4328,7 +4328,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "1. Seria must obtain the 4-digit pin code by \\c[27]some means\\c.\n2. Once 1 is completed, she must break the magic of the cell\nwhere Hayato is imprisoned. 3. She can search anywhere she can\nreach at that point. 4. Contact from Sadi is \\c[27]free\\c unless\nHayato's magic is gone."
+                                "1. Seria must obtain the 4-digit pin code by \\c[27]some means\\c[0].\n2. Once 1 is completed, she must break the magic of the cell\nwhere Hayato is imprisoned. 3. She can search anywhere she can\nreach at that point. 4. Contact from Sadi is \\c[27]free\\c[0] unless\nHayato's magic is gone."
                             ]
                         },
                         {
@@ -4345,7 +4345,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]By listening to one of Sadi's requests, she can learn one\ndigit\\c"
+                                "\\c[27]By listening to one of Sadi's requests, she can learn one\ndigit\\c[0]"
                             ]
                         },
                         {
@@ -4399,7 +4399,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "1. Merill will monitor Hayato. 2. Wait in the cage until the code\nis decrypted. You're free to do as you please. 3. Hayato can\nprovide support\\c[27] from within the cage\\c if he wants. 4.\nDirect attacks on each other are prohibited."
+                                "1. Merill will monitor Hayato. 2. Wait in the cage until the code\nis decrypted. You're free to do as you please. 3. Hayato can\nprovide support\\c[27] from within the cage\\c[0] if he wants. 4.\nDirect attacks on each other are prohibited."
                             ]
                         },
                         {
@@ -4416,7 +4416,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "5. \\c[27] Any direct physical contact from \\c Merill to Hayato is\nprohibited."
+                                "5. \\c[27] Any direct physical contact from \\c[0] Merill to Hayato is\nprohibited."
                             ]
                         },
                         {
@@ -4497,7 +4497,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Not just comments based on the simple atmosphere, but even things\nthat affect the actual status and \\c[27]heart\\c...."
+                                "Not just comments based on the simple atmosphere, but even things\nthat affect the actual status and \\c[27]heart\\c[0]...."
                             ]
                         },
                         {
@@ -4566,7 +4566,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Changes in the \\c[27]heart\\c can be viewed from the menu's\n[\\c[14]Two Hearts\\c]. (You can switch with the keyboard's [←][→])"
+                                "Changes in the \\c[27]heart\\c[0] can be viewed from the menu's\n[\\c[14]Two Hearts\\c[0]]. (You can switch with the keyboard's [←][→])"
                             ]
                         },
                         {
@@ -4600,7 +4600,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "And in this work, depending on the degree of corruption and the\nchoices accepted, \\c[14]casual conversations\\c will slightly\nchange."
+                                "And in this work, depending on the degree of corruption and the\nchoices accepted, \\c[14]casual conversations\\c[0] will slightly\nchange."
                             ]
                         },
                         {
@@ -4665,7 +4665,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The first digit is \\c[14]5\\c"
+                                "The first digit is \\c[14]5\\c[0]"
                             ]
                         },
                         {
@@ -4682,7 +4682,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The second digit is '\\c[14]8\\c'"
+                                "The second digit is '\\c[14]8\\c[0]'"
                             ]
                         },
                         {
@@ -4699,7 +4699,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The third digit is '\\c[14]6\\c'"
+                                "The third digit is '\\c[14]6\\c[0]'"
                             ]
                         },
                         {
@@ -4839,7 +4839,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "4. Contact from Sadi is free \\c[27] unless Hayato's magic is\nabsent \\c."
+                                "4. Contact from Sadi is free \\c[27] unless Hayato's magic is\nabsent \\c[0]."
                             ]
                         },
                         {
@@ -4856,7 +4856,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "5. If you really don't know the PIN, you can get one digit by\nlistening to one of Sadi's requests \\c[27]\\c."
+                                "5. If you really don't know the PIN, you can get one digit by\nlistening to one of Sadi's requests \\c[27]\\c[0]."
                             ]
                         },
                         {
@@ -4910,7 +4910,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "1. Merill will monitor Hayato. 2. Wait in the cage until the code\nis decrypted. You're free to do as you please. 3. Hayato may\nprovide support\\c[27] from within the cage\\c. 4. Direct attacks\nagainst each other are prohibited."
+                                "1. Merill will monitor Hayato. 2. Wait in the cage until the code\nis decrypted. You're free to do as you please. 3. Hayato may\nprovide support\\c[27] from within the cage\\c[0]. 4. Direct attacks\nagainst each other are prohibited."
                             ]
                         },
                         {
@@ -4927,7 +4927,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "5. \\c[27] Prohibit direct physical contact from \\c Hayato to\nMerill."
+                                "5. \\c[27] Prohibit direct physical contact from \\c[0] Hayato to\nMerill."
                             ]
                         },
                         {
@@ -4961,7 +4961,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "That's not how it was supposed to be...\\c[14] Is it a\nmisunderstanding\\c?"
+                                "That's not how it was supposed to be...\\c[14] Is it a\nmisunderstanding\\c[0]?"
                             ]
                         },
                         {
@@ -5061,7 +5061,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Not just comments based on the simple atmosphere, but even things\nthat affect actual status and \\c[27]heart\\c...."
+                                "Not just comments based on the simple atmosphere, but even things\nthat affect actual status and \\c[27]heart\\c[0]...."
                             ]
                         },
                         {
@@ -5164,7 +5164,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "And in this work, depending on the degree of corruption and the\nchoices accepted, \\c[14]casual conversations\\c will slightly\nchange."
+                                "And in this work, depending on the degree of corruption and the\nchoices accepted, \\c[14]casual conversations\\c[0] will slightly\nchange."
                             ]
                         },
                         {
@@ -5229,7 +5229,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The first digit is \\c[14]5\\c"
+                                "The first digit is \\c[14]5\\c[0]"
                             ]
                         },
                         {
@@ -5246,7 +5246,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The second digit is '\\c[14]8\\c'"
+                                "The second digit is '\\c[14]8\\c[0]'"
                             ]
                         },
                         {
@@ -5263,7 +5263,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The third digit is '\\c[14]6\\c'"
+                                "The third digit is '\\c[14]6\\c[0]'"
                             ]
                         },
                         {
@@ -6279,7 +6279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I wonder if there are any hints related to the \\c[14]cipher\\c."
+                                "I wonder if there are any hints related to the \\c[14]cipher\\c[0]."
                             ]
                         },
                         {
@@ -6393,7 +6393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]I'm going to take Hayato-sama\\c to the storage room."
+                                "\\c[14]I'm going to take Hayato-sama\\c[0] to the storage room."
                             ]
                         },
                         {
@@ -6417,7 +6417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F\\c[14]\\AA[F]........! Speaking of which, the \\c[14]weapons\\c in\nthat \\c[14]storage room\\c....."
+                                "\\F\\c[14]\\AA[F]........! Speaking of which, the \\c[14]weapons\\c[0] in\nthat \\c[14]storage room\\c[0]....."
                             ]
                         },
                         {
@@ -6441,7 +6441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]It's designed so that only the \\ccompatible ones can handle\nit."
+                                "\\c[14]It's designed so that only the \\c[0]compatible ones can handle\nit."
                             ]
                         },
                         {
@@ -6465,7 +6465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If he's the younger brother of the one called the hero, there's a\nhigh possibility that he's a \\c[14]compatible one\\c."
+                                "If he's the younger brother of the one called the hero, there's a\nhigh possibility that he's a \\c[14]compatible one\\c[0]."
                             ]
                         },
                         {
@@ -6849,7 +6849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[27]It's a common story that\\c your thoughts become temporarily\nabnormal when influenced by a succubus."
+                                "\\c[27]It's a common story that\\c[0] your thoughts become temporarily\nabnormal when influenced by a succubus."
                             ]
                         },
                         {
@@ -6954,7 +6954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I would like you to bring Lord Hayato soon. I will teleport to\nthe \\c[14]storage room\\c!"
+                                "I would like you to bring Lord Hayato soon. I will teleport to\nthe \\c[14]storage room\\c[0]!"
                             ]
                         },
                         {
@@ -7424,7 +7424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " Hayato: She's only like that because this is a game. \\c[14]I\nheard about it when you weren't around\\c."
+                                " Hayato: She's only like that because this is a game. \\c[14]I\nheard about it when you weren't around\\c[0]."
                             ]
                         },
                         {
@@ -7960,7 +7960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\}W-Wait a...wait a minute.\\c[27]Big sis\\c...♡"
+                                "\\}W-Wait a...wait a minute.\\c[27]Big sis\\c[0]...♡"
                             ]
                         },
                         {
@@ -8511,7 +8511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "And the \\c[14]rule\\c!? You said not to touch Merill...."
+                                "And the \\c[14]rule\\c[0]!? You said not to touch Merill...."
                             ]
                         },
                         {
@@ -8633,7 +8633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah... It's okay, Seria. \\c[27]I don't mind it\\c"
+                                "Ah... It's okay, Seria. \\c[27]I don't mind it\\c[0]"
                             ]
                         },
                         {
@@ -8681,7 +8681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Why don't you go and check the rules? I think Seria is probably\n\\c[14]misunderstanding\\c."
+                                "Why don't you go and check the rules? I think Seria is probably\n\\c[14]misunderstanding\\c[0]."
                             ]
                         },
                         {
@@ -9079,7 +9079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "We're playing that kind of \\c[27]game\\c together. You're slow at\nfinding the code, so it's boring, right?"
+                                "We're playing that kind of \\c[27]game\\c[0] together. You're slow at\nfinding the code, so it's boring, right?"
                             ]
                         },
                         {
@@ -11368,7 +11368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh...\\c[14]You're trying to use a \\cweapon, aren't you?♡"
+                                "Oh...\\c[14]You're trying to use a \\c[0]weapon, aren't you?♡"
                             ]
                         },
                         {
@@ -11890,7 +11890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Let it out♡\\c[25] The white proof of your loyalty to the\nsuccubus\\c♡"
+                                "Let it out♡\\c[25] The white proof of your loyalty to the\nsuccubus\\c[0]♡"
                             ]
                         },
                         {
@@ -12127,7 +12127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "So, what about that \\c[14]weapon\\c?"
+                                "So, what about that \\c[14]weapon\\c[0]?"
                             ]
                         },
                         {
@@ -12161,7 +12161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " Hayato: But I couldn't handle it \\c[14]. That means... I'm not\nqualified either \\c. It's pointless to go...."
+                                " Hayato: But I couldn't handle it \\c[14]. That means... I'm not\nqualified either \\c[0]. It's pointless to go...."
                             ]
                         },
                         {
@@ -12257,7 +12257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "((Lady Sadi... please guide us. The rest is up to our\n\\c[27]combination\\c♡))"
+                                "((Lady Sadi... please guide us. The rest is up to our\n\\c[27]combination\\c[0]♡))"
                             ]
                         },
                         {
@@ -12679,7 +12679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh...\\c[14]You're trying to use a \\cweapon, aren't you?♡"
+                                "Oh...\\c[14]You're trying to use a \\c[0]weapon, aren't you?♡"
                             ]
                         },
                         {
@@ -12748,7 +12748,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Nice job, Hayato. As a reward\\c[27], I'll give you a thigh\njob\\c...♡ Rubbing...♡"
+                                "Nice job, Hayato. As a reward\\c[27], I'll give you a thigh\njob\\c[0]...♡ Rubbing...♡"
                             ]
                         },
                         {
@@ -13201,7 +13201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Let it out♡\\c[25] The white proof of your loyalty to the\nsuccubus\\c♡"
+                                "Let it out♡\\c[25] The white proof of your loyalty to the\nsuccubus\\c[0]♡"
                             ]
                         },
                         {
@@ -13438,7 +13438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "So, what about that \\c[14]weapon\\c?"
+                                "So, what about that \\c[14]weapon\\c[0]?"
                             ]
                         },
                         {
@@ -13472,7 +13472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " Hayato: But I couldn't handle it \\c[14]. That means... I'm not\nqualified either \\c. It's pointless to go...."
+                                " Hayato: But I couldn't handle it \\c[14]. That means... I'm not\nqualified either \\c[0]. It's pointless to go...."
                             ]
                         },
                         {
@@ -13568,7 +13568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "((Lady Sadi... please guide us. The rest will be left to our\n\\c[27]combination\\c♡))"
+                                "((Lady Sadi... please guide us. The rest will be left to our\n\\c[27]combination\\c[0]♡))"
                             ]
                         },
                         {
@@ -13968,7 +13968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There are various theories, but if you continue to drink Lord\nSadi's semen, your lifespan will extend by \\c[14]200\\c years."
+                                "There are various theories, but if you continue to drink Lord\nSadi's semen, your lifespan will extend by \\c[14]200\\c[0] years."
                             ]
                         },
                         {
@@ -14203,7 +14203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "She, being the right hand of Lady Sadi, is required to regularly\noffer up \\c[27]boys\\c."
+                                "She, being the right hand of Lady Sadi, is required to regularly\noffer up \\c[27]boys\\c[0]."
                             ]
                         },
                         {
@@ -14551,7 +14551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The passing score is \\c[14]90\\c points or more. If not met, there\nwill be a retest and a one-month sex ban."
+                                "The passing score is \\c[14]90\\c[0] points or more. If not met, there\nwill be a retest and a one-month sex ban."
                             ]
                         },
                         {
@@ -14657,7 +14657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh...\\c[14]You're trying to use a \\cweapon, aren't you?♡"
+                                "Oh...\\c[14]You're trying to use a \\c[0]weapon, aren't you?♡"
                             ]
                         },
                         {
@@ -14726,7 +14726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Nice, Hayato. I'll give you a reward\\c[27], a thigh job\\c...♡\nRubbing...♡"
+                                "Nice, Hayato. I'll give you a reward\\c[27], a thigh job\\c[0]...♡\nRubbing...♡"
                             ]
                         },
                         {
@@ -15179,7 +15179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Let it out♡\\c[25] The white proof of your loyalty to the\nsuccubus\\c♡"
+                                "Let it out♡\\c[25] The white proof of your loyalty to the\nsuccubus\\c[0]♡"
                             ]
                         },
                         {
@@ -15416,7 +15416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "So, what about that \\c[14]weapon\\c?"
+                                "So, what about that \\c[14]weapon\\c[0]?"
                             ]
                         },
                         {
@@ -15450,7 +15450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " Hayato: But I couldn't handle it \\c[14]\\c. That means... I'm not\nqualified either. It's pointless to go...."
+                                " Hayato: But I couldn't handle it \\c[14]\\c[0]. That means... I'm not\nqualified either. It's pointless to go...."
                             ]
                         },
                         {
@@ -15546,7 +15546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "((Lady Sadi... please guide us. The rest will be left to our\n\\c[27]combination\\c♡))"
+                                "((Lady Sadi... please guide us. The rest will be left to our\n\\c[27]combination\\c[0]♡))"
                             ]
                         },
                         {
@@ -15968,7 +15968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Heh...\\c[14]You're trying to use a \\cweapon, aren't you?♡"
+                                "Heh...\\c[14]You're trying to use a \\c[0]weapon, aren't you?♡"
                             ]
                         },
                         {
@@ -16037,7 +16037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Nice job, Hayato. I'll give you a \\c[27]reward\\c... a thigh\njob...♡ Rubbing...♡"
+                                "Nice job, Hayato. I'll give you a \\c[27]reward\\c[0]... a thigh\njob...♡ Rubbing...♡"
                             ]
                         },
                         {
@@ -16490,7 +16490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Let it out♡\\c[25] The white proof of your loyalty to the\nsuccubus\\c♡"
+                                "Let it out♡\\c[25] The white proof of your loyalty to the\nsuccubus\\c[0]♡"
                             ]
                         },
                         {
@@ -16727,7 +16727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "So, what about that \\c[14]weapon\\c?"
+                                "So, what about that \\c[14]weapon\\c[0]?"
                             ]
                         },
                         {
@@ -16761,7 +16761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " Hayato: But I couldn't handle it \\c[14]. That means... I'm not\nqualified either \\c. It's pointless to go...."
+                                " Hayato: But I couldn't handle it \\c[14]. That means... I'm not\nqualified either \\c[0]. It's pointless to go...."
                             ]
                         },
                         {
@@ -16857,7 +16857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "((Lady Sadi... please guide us. The rest will be left to our\n\\c[27]combination\\c♡))"
+                                "((Lady Sadi... please guide us. The rest will be left to our\n\\c[27]combination\\c[0]♡))"
                             ]
                         },
                         {
@@ -17279,7 +17279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh...\\c[14]You're trying to use a \\cweapon, aren't you?♡"
+                                "Oh...\\c[14]You're trying to use a \\c[0]weapon, aren't you?♡"
                             ]
                         },
                         {
@@ -17348,7 +17348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Nice, Hayato. I'll give you a reward\\c[27]... a thigh job\\c...♡\nRubbing...♡"
+                                "Nice, Hayato. I'll give you a reward\\c[27]... a thigh job\\c[0]...♡\nRubbing...♡"
                             ]
                         },
                         {
@@ -17801,7 +17801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Let it out♡\\c[25] The white proof of your loyalty to the\nsuccubus\\c♡"
+                                "Let it out♡\\c[25] The white proof of your loyalty to the\nsuccubus\\c[0]♡"
                             ]
                         },
                         {
@@ -18038,7 +18038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "So, what about that \\c[14]weapon\\c?"
+                                "So, what about that \\c[14]weapon\\c[0]?"
                             ]
                         },
                         {
@@ -18072,7 +18072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " Hayato: But I couldn't handle it \\c[14]\\c. That means... I'm not\nqualified either. It's pointless to go...."
+                                " Hayato: But I couldn't handle it \\c[14]\\c[0]. That means... I'm not\nqualified either. It's pointless to go...."
                             ]
                         },
                         {
@@ -18168,7 +18168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "((Lady Sadi... please guide us. The rest will be left to our\n\\c[27]combination\\c♡))"
+                                "((Lady Sadi... please guide us. The rest will be left to our\n\\c[27]combination\\c[0]♡))"
                             ]
                         },
                         {
@@ -18561,7 +18561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " Hayato .....Sorry for the wait♡...hah..hah. Let's go to the\n\\c[14]weapon\\c place quickly♡"
+                                " Hayato .....Sorry for the wait♡...hah..hah. Let's go to the\n\\c[14]weapon\\c[0] place quickly♡"
                             ]
                         },
                         {

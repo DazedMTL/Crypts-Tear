@@ -3246,7 +3246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Actually, it's beyond that \\c[14]door\\c.... ...........But before\nthat."
+                                "Actually, it's beyond that \\c[14]door\\c[0].... ...........But before\nthat."
                             ]
                         },
                         {
@@ -3294,7 +3294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's '\\c[14]8\\c'."
+                                "It's '\\c[14]8\\c[0]'."
                             ]
                         },
                         {
@@ -3342,7 +3342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]It's a code\\c. The second digit is \\c[14]8\\c. Please\nremember it."
+                                "\\c[14]It's a code\\c[0]. The second digit is \\c[14]8\\c[0]. Please\nremember it."
                             ]
                         },
                         {
@@ -3467,7 +3467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]With the acquisition of the second digit of the code '8'\\c,\nit became possible to go to the room ahead."
+                                "\\c[14]With the acquisition of the second digit of the code '8'\\c[0],\nit became possible to go to the room ahead."
                             ]
                         },
                         {
@@ -4067,7 +4067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "My name is An\\c[14]Anthurium\\c, Miss Seria."
+                                "My name is An\\c[14]Anthurium\\c[0], Miss Seria."
                             ]
                         },
                         {
@@ -4516,7 +4516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[17]\\AA[F](I feel like even the things I haven't said out loud\nare being understood...\\c)"
+                                "\\F[17]\\AA[F](I feel like even the things I haven't said out loud\nare being understood...\\c[0])"
                             ]
                         },
                         {
@@ -5492,7 +5492,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Originally, I came here from the spirit world and have long been\nstored in the church, possessing a certain weapon\\c[14]\\c..."
+                                "Originally, I came here from the spirit world and have long been\nstored in the church, possessing a certain weapon\\c[14]\\c[0]..."
                             ]
                         },
                         {
@@ -5612,7 +5612,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[10]\\AA[F](If it's a weapon, I'm sure \\c[14]Hayato can use\nit...!\\c)"
+                                "\\F[10]\\AA[F](If it's a weapon, I'm sure \\c[14]Hayato can use\nit...!\\c[0])"
                             ]
                         },
                         {
@@ -5636,7 +5636,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[14]A man came to take the weapon a year ago...\\c That's why An\nleft the storage room."
+                                "\\c[14]A man came to take the weapon a year ago...\\c[0] That's why An\nleft the storage room."
                             ]
                         },
                         {
@@ -5776,7 +5776,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]Resonance\\c... The ability to share emotions and thoughts.\nThis is just one of many abilities."
+                                "\\c[27]Resonance\\c[0]... The ability to share emotions and thoughts.\nThis is just one of many abilities."
                             ]
                         },
                         {
@@ -6178,7 +6178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "................... \\c[14]I want you to listen to my\\c troubles."
+                                "................... \\c[14]I want you to listen to my\\c[0] troubles."
                             ]
                         },
                         {
@@ -6211,7 +6211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "An...\\c[27]I'm in love\\c."
+                                "An...\\c[27]I'm in love\\c[0]."
                             ]
                         },
                         {
@@ -6475,7 +6475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[27]It's Lord Sadi\\c you know♡"
+                                "\\c[27]It's Lord Sadi\\c[0] you know♡"
                             ]
                         },
                         {
@@ -6577,7 +6577,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[10]\\AA[F](Or rather, that guy...\\c[27]Can he even charm\nspirits?\\c What kind of person is he...!)"
+                                "\\F[10]\\AA[F](Or rather, that guy...\\c[27]Can he even charm\nspirits?\\c[0] What kind of person is he...!)"
                             ]
                         },
                         {
@@ -6781,7 +6781,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[10]\\AA[F](Or rather, that guy...\\c[27]Can he even charm\nspirits?\\c What kind of person is he...!)"
+                                "\\F[10]\\AA[F](Or rather, that guy...\\c[27]Can he even charm\nspirits?\\c[0] What kind of person is he...!)"
                             ]
                         },
                         {
@@ -6815,7 +6815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[27]Of course, since Lady Seria is with Lord Sadi, I've given\nup in my heart. \\cBut I can't suppress my feelings...."
+                                "\\c[27]Of course, since Lady Seria is with Lord Sadi, I've given\nup in my heart. \\c[0]But I can't suppress my feelings...."
                             ]
                         },
                         {
@@ -6935,7 +6935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]Please\\c... won't you help me gather them?"
+                                "\\c[14]Please\\c[0]... won't you help me gather them?"
                             ]
                         },
                         {
@@ -6959,7 +6959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[17]\\AA[F]................. (\\c[14]Is this what the sixth\nrequest in the rulebook is referring to...?\\c)"
+                                "\\F[17]\\AA[F]................. (\\c[14]Is this what the sixth\nrequest in the rulebook is referring to...?\\c[0])"
                             ]
                         },
                         {
@@ -7007,7 +7007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[36]\\AA[F](Or perhaps...\\c[14]he's exploiting\\c her feelings of\nlove)"
+                                "\\F[36]\\AA[F](Or perhaps...\\c[14]he's exploiting\\c[0] her feelings of\nlove)"
                             ]
                         },
                         {
@@ -7041,7 +7041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "6.\\c[14]Always listen to the doll's request\\c"
+                                "6.\\c[14]Always listen to the doll's request\\c[0]"
                             ]
                         },
                         {
@@ -7763,7 +7763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F\\c[14]\\AA[F]You said at the beginning, \\c[14]I've been watching\nyou all for a long time\\c, didn't you?"
+                                "\\F\\c[14]\\AA[F]You said at the beginning, \\c[14]I've been watching\nyou all for a long time\\c[0], didn't you?"
                             ]
                         },
                         {
@@ -7851,7 +7851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[27]They're not doing anything right now\\c. There's no problem\nwith their MP either."
+                                "\\c[27]They're not doing anything right now\\c[0]. There's no problem\nwith their MP either."
                             ]
                         },
                         {
@@ -7971,7 +7971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The first thing is, beyond the room from earlier, there's the\n\\c[14]final page\\c."
+                                "The first thing is, beyond the room from earlier, there's the\n\\c[14]final page\\c[0]."
                             ]
                         },
                         {
@@ -7995,7 +7995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Do you understand if I say it's near the place where the armor\nwas \\c[14]\\c?"
+                                "Do you understand if I say it's near the place where the armor\nwas \\c[14]\\c[0]?"
                             ]
                         },
                         {
@@ -8043,7 +8043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I will tell you the \\c[14]password\\c to pass through there.\n..............."
+                                "I will tell you the \\c[14]password\\c[0] to pass through there.\n..............."
                             ]
                         },
                         {
@@ -8347,7 +8347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This is about the \\c[14]weapon\\c that Anthurium has been managing\nfor a long time."
+                                "This is about the \\c[14]weapon\\c[0] that Anthurium has been managing\nfor a long time."
                             ]
                         },
                         {
@@ -8395,7 +8395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]The weapon storage room\\c is completely unaffected by Lady\nSadi's magic. It should be somewhere."
+                                "\\c[14]The weapon storage room\\c[0] is completely unaffected by Lady\nSadi's magic. It should be somewhere."
                             ]
                         },
                         {
@@ -8419,7 +8419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...If Miss Seria continues to move forward with her \\c[27]noble\nwill\\c, she may eventually reach that storage room."
+                                "...If Miss Seria continues to move forward with her \\c[27]noble\nwill\\c[0], she may eventually reach that storage room."
                             ]
                         },
                         {
@@ -8474,7 +8474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It was Lord Hayato's \\c[14]older brother\\c."
+                                "It was Lord Hayato's \\c[14]older brother\\c[0]."
                             ]
                         },
                         {
@@ -8569,7 +8569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]The weapon is still stuck there, you know\\c"
+                                "\\c[14]The weapon is still stuck there, you know\\c[0]"
                             ]
                         },
                         {
@@ -8641,7 +8641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[15]\\AA[F](Does that mean someone returned it? \\c[14]During the\nceasefire\\c?)"
+                                "\\F[15]\\AA[F](Does that mean someone returned it? \\c[14]During the\nceasefire\\c[0]?)"
                             ]
                         },
                         {
@@ -8875,7 +8875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The passphrase to unlock the curtain\\c near the armor\\c[14] in\nthe room we were in earlier is..."
+                                "The passphrase to unlock the curtain\\c[0] near the armor\\c[14] in\nthe room we were in earlier is..."
                             ]
                         },
                         {
@@ -10860,7 +10860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "〇Since the day I saw the beautiful \\c[27]eyes\\c of Lady Sadi, my\nheart hasn't stopped fluttering. I must devote myself to her."
+                                "〇Since the day I saw the beautiful \\c[27]eyes\\c[0] of Lady Sadi, my\nheart hasn't stopped fluttering. I must devote myself to her."
                             ]
                         },
                         {
@@ -12173,7 +12173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F]\\c[14]A diary\\c, perhaps?"
+                                "\\F[10]\\AA[F]\\c[14]A diary\\c[0], perhaps?"
                             ]
                         },
                         {
@@ -12197,7 +12197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F]Parts of it \\c[14]are torn and unreadable\\c...."
+                                "\\F[10]\\AA[F]Parts of it \\c[14]are torn and unreadable\\c[0]...."
                             ]
                         },
                         {
@@ -12313,7 +12313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F]\\c[14]A diary\\c, perhaps? Parts of it are \\c[14]torn\nand unreadable\\c...."
+                                "\\F[10]\\AA[F]\\c[14]A diary\\c[0], perhaps? Parts of it are \\c[14]torn\nand unreadable\\c[0]...."
                             ]
                         },
                         {
@@ -13030,7 +13030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]The ability to remodel space\\c is what it is."
+                                "\\c[14]The ability to remodel space\\c[0] is what it is."
                             ]
                         },
                         {
@@ -13054,7 +13054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "With this power, I've created a special storage room and have\nbeen protecting that weapon \\c[14] all this time \\c."
+                                "With this power, I've created a special storage room and have\nbeen protecting that weapon \\c[14] all this time \\c[0]."
                             ]
                         },
                         {

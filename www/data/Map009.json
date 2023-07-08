@@ -2163,7 +2163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[20]\\AA[F]After all, I need a gentleman\\c[27] to protect me\\c..\nright?♡"
+                                "\\F[20]\\AA[F]After all, I need a gentleman\\c[27] to protect me\\c[0]..\nright?♡"
                             ]
                         },
                         {
@@ -2855,7 +2855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[27]Do you........... love me...?♡\\c"
+                                "\\c[27]Do you........... love me...?♡\\c[0]"
                             ]
                         },
                         {
