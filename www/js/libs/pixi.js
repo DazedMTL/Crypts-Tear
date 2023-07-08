@@ -27516,7 +27516,7 @@
              *
              * @memberof PIXI.utils
              * @function getSvgSize
-             * @param {string} svgString - a serialized svg element
+             * @param {string} svgString - a Celialized svg element
              * @return {Size|undefined} image extension
              */
             function getSvgSize(svgString) {
