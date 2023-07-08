@@ -3507,7 +3507,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog　セリアは昔人形遊びしていた事を思い出している"
+                                "addLog　Celia　is　reminiscing　about　playing　with　dolls　in　the　past"
                             ]
                         },
                         {
@@ -7466,14 +7466,14 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog　ハヤトは罪悪感に苛まれている"
+                                "addLog　Hayato　is　tormented　by　guilt"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog　メリル「ふふっ、恥ずかしがらなくていいのに...♡」"
+                                "addLog　Merill　Hehe,　you　don't　have　to　be　shy♡"
                             ]
                         },
                         {
@@ -7666,7 +7666,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog　セリア「一途なのは分かったけど後で改めさせなきゃ...」"
+                                "addLog　Celia　I　understand　that　you're　sincere,　but　we'll　have　to　correct　this　later"
                             ]
                         },
                         {
@@ -8492,7 +8492,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog セリア「寂しい...。早く会いたい。」"
+                                "addLog Celia:　I'm　lonely　I　want　to　see　you　soon"
                             ]
                         },
                         {
@@ -8506,14 +8506,14 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog ハヤト「......っ♡」"
+                                "addLog Hayato　♡"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog メリル「(あらあら、お友達そっちのけで切なそうねェ...♡)」"
+                                "addLog Merill　(Oh　my,　ignoring　your　friends　and　looking　so　distressed♡)"
                             ]
                         },
                         {
@@ -9087,7 +9087,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog セリア「わたし、不器用すぎない？」"
+                                "addLog Celia　Am　I　too　clumsy?"
                             ]
                         },
                         {
@@ -9410,7 +9410,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog セリア「眼って...まさか」"
+                                "addLog Celia　Eyes　you　can't　be　serious"
                             ]
                         },
                         {
@@ -10919,7 +10919,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog　\\c[27]ハヤトはメリルの姿を眼で追ってしまっている"
+                                "addLog　\\c[27]Hayato　is　unintentionally　following　Merill　with　his　eyes"
                             ]
                         },
                         {
@@ -12053,7 +12053,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "addLog セリア「200年生きてるアンの方が絶対この地には詳しいわよね」"
+                                "addLog Celia:　Someone　who's　lived　for　200　years　like　you　would　definitely　know　more　about　this　land,　right?"
                             ]
                         },
                         {
@@ -12095,7 +12095,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "addLog セリア「200年生きてるアンの方が絶対この地には詳しいわよね」"
+                                "addLog Celia　Someone　who's　lived　for　200　years　like　you　would　definitely　know　more　about　this　land,　right?"
                             ]
                         },
                         {
@@ -12137,7 +12137,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "addLog セリア「200年生きてるアンの方が絶対この地には詳しいわよね」"
+                                "addLog Celia:　Someone　who's　lived　for　200　years　like　you　would　definitely　know　more　about　this　land,　right?"
                             ]
                         },
                         {

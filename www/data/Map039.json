@@ -15352,7 +15352,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "addLog セリア「アイツとキスすると不安が吹っ飛ぶ...♡」"
+                                "addLog Celia:　Kissing　him　blows　away　all　my　worries♡"
                             ]
                         },
                         {
@@ -15887,7 +15887,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "addLog セリア「アイツとキスすると不安が吹っ飛ぶ...♡」"
+                                "addLog Celia　When　I　kiss　him,　all　my　worries　just　fly　away♡"
                             ]
                         },
                         {
@@ -18366,14 +18366,14 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "addLog セリア「はあ...はあ...かなり危険な気がする...♡」"
+                                "addLog Celia:　Haa　Haa　I　have　a　feeling　this　is　quite　dangerous♡"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "addLog \\c[27]セリア「でも本物を味わえる....サディの...逞しい体で♡」"
+                                "addLog \\c[27]Celia:　But　I　can　taste　the　real　thing　with　Sadi's　robust　body♡"
                             ]
                         },
                         {
@@ -22219,14 +22219,14 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "addLog セリア「はあ...はあ...かなり危険な気がする...♡」"
+                                "addLog Celia:　Haa　Haa　I　have　a　feeling　this　is　quite　dangerous♡"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "addLog \\c[27]セリア「でも本物を味わえる....サディの...逞しい体で♡」"
+                                "addLog \\c[27]Celia:　But　I　can　taste　the　real　thing　with　Sadi's　robust　body♡"
                             ]
                         },
                         {
@@ -25006,14 +25006,14 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "addLog \\c[27]ハヤト「はあっ♡はあっ♡腰が止まらない♡」"
+                                "addLog \\c[27]Hayato　Haa♡　Haa♡　I　can't　stop　my　hips♡"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "addLog \\c[27]メリル「もっと楽しみましょうよ～♡」"
+                                "addLog \\c[27]Merill　Let's　have　more　fun~♡"
                             ]
                         },
                         {
@@ -26259,14 +26259,14 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "addLog \\c[27]ハヤト「はあっ♡はあっ♡腰が止まらない♡」"
+                                "addLog \\c[27]Hayato　Haah♡　Haah♡　I　can't　stop　my　hips♡"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "addLog \\c[27]メリル「もっと楽しみましょうよ～♡」"
+                                "addLog \\c[27]Merill　Let's　have　more　fun~♡"
                             ]
                         },
                         {
@@ -27512,14 +27512,14 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "addLog \\c[27]ハヤト「はあっ♡はあっ♡腰が止まらない♡」"
+                                "addLog \\c[27]Hayato　Haah♡　Haah♡　I　can't　stop　my　hips♡"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "addLog \\c[27]メリル「もっと楽しみましょうよ～♡」"
+                                "addLog \\c[27]Merill　Let's　have　more　fun~♡"
                             ]
                         },
                         {
@@ -34875,7 +34875,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "addLog セリア「200年生きてるアンの方が絶対この地には詳しいわよね」"
+                                "addLog Celia　Someone　who's　lived　for　200　years　like　you　would　definitely　know　more　about　this　land,　right?"
                             ]
                         },
                         {
@@ -34917,7 +34917,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "addLog セリア「200年生きてるアンの方が絶対この地には詳しいわよね」"
+                                "addLog Celia　Someone　who's　lived　for　200　years　like　you　would　definitely　know　more　about　this　land,　right?"
                             ]
                         },
                         {
@@ -34959,7 +34959,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "addLog セリア「200年生きてるアンの方が絶対この地には詳しいわよね」"
+                                "addLog Celia　Someone　who's　lived　for　200　years　like　you　would　definitely　know　more　about　this　land,　right?"
                             ]
                         },
                         {
@@ -37445,7 +37445,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "addLog メリル「あはははっ♡楽しいでしょ？おねえさんと踊るの♡」"
+                                "addLog Merill　Ahahaha♡　It's　fun,　isn't　it?　Dancing　with　your　big　sister♡"
                             ]
                         },
                         {
@@ -37459,14 +37459,14 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "addLog \\c[27]ハヤトは淫魔の凶悪な誘惑ダンスに見惚れている..."
+                                "addLog \\c[27]Hayato　is　mesmerized　by　the　wicked　seductive　dance　of　the　succubus"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "addLog メリルの幻影「こっちも見てよ♡ハヤトぉ♡」"
+                                "addLog Merill's　illusion　Look　over　here　too♡　Hayato♡"
                             ]
                         },
                         {
@@ -37480,7 +37480,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "addLog メリルの幻影「おっぱい揺らしてアゲル♡好きでしょ？」"
+                                "addLog Merill's　illusion　I'll　sway　my　breasts　for　you♡　You　like　that,　don't　you?"
                             ]
                         },
                         {
@@ -37494,7 +37494,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "addLog \\c[27]ハヤトは恍惚としながらオナニーをしている"
+                                "addLog \\c[27]Hayato　is　masturbating　in　a　trance"
                             ]
                         },
                         {
@@ -37529,7 +37529,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "addLog メリル「ほら...もっとシコりなさい♡」"
+                                "addLog Merill　Come　on　stroke　it　more♡"
                             ]
                         },
                         {
@@ -37543,7 +37543,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "addLog ハヤト「...はあ...はあ...♡♡」"
+                                "addLog Hayato　haahaa♡♡"
                             ]
                         },
                         {
@@ -37557,7 +37557,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "addLog メリルの幻影「こっち側にいらっしゃ～い♡」"
+                                "addLog Merill's　illusion　Come　over　here~♡"
                             ]
                         },
                         {
@@ -37571,7 +37571,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "addLog メリルの幻影「道を踏み外すってとっても気持ちいいのよ...？」"
+                                "addLog Merill's　illusion　Straying　from　the　path　feels　really　good,　you　know?"
                             ]
                         },
                         {
@@ -37585,7 +37585,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "addLog メリルの幻影「小娘守るばかりでおち〇ぽ守れなかったわね♡」"
+                                "addLog Merill's　illusion　You　were　so　busy　protecting　the　young　lady,　you　couldn't　protect　your　own　manhood,　could　you?　♡"
                             ]
                         },
                         {
@@ -37599,7 +37599,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "addLog メリル達は堕落の道に誘っている..."
+                                "addLog Merill　and　the　others　are　leading　us　down　the　path　of　corruption"
                             ]
                         },
                         {
@@ -40580,14 +40580,14 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "addLog セリア「はあ...はあ...かなり危険な気がする...♡」"
+                                "addLog Celia:　Haa　Haa　I　have　a　feeling　this　is　quite　dangerous♡"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "addLog \\c[27]セリア「でも本物を味わえる....サディの...逞しい体で♡」"
+                                "addLog \\c[27]Celia:　But　I　can　taste　the　real　thing　with　Sadi's　robust　body♡"
                             ]
                         },
                         {
@@ -42244,14 +42244,14 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "addLog \\c[27]ハヤト「はあっ♡はあっ♡腰が止まらない♡」"
+                                "addLog \\c[27]Hayato　Haah♡　Haah♡　I　can't　stop　my　hips♡"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "addLog \\c[27]メリル「もっと楽しみましょうよ～♡」"
+                                "addLog \\c[27]Merill　Let's　have　more　fun~♡"
                             ]
                         },
                         {
@@ -43364,14 +43364,14 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "addLog セリア「はあ...はあ...かなり危険な気がする...♡」"
+                                "addLog Celia:　Haa　Haa　I　have　a　feeling　this　is　quite　dangerous♡"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "addLog \\c[27]セリア「でも本物を味わえる....サディの...逞しい体で♡」"
+                                "addLog \\c[27]Celia:　But　I　can　taste　the　real　thing　with　Sadi's　robust　body♡"
                             ]
                         },
                         {
@@ -44604,14 +44604,14 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "addLog セリア「はあ...はあ...かなり危険な気がする...♡」"
+                                "addLog Celia:　Haa　Haa　I　have　a　feeling　this　is　quite　dangerous♡"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "addLog \\c[27]セリア「でも本物を味わえる....サディの...逞しい体で♡」"
+                                "addLog \\c[27]Celia:　But　I　can　taste　the　real　thing　with　Sadi's　robust　body♡"
                             ]
                         },
                         {
@@ -47161,14 +47161,14 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "addLog セリア「はあ...はあ...かなり危険な気がする...♡」"
+                                "addLog Celia:　Haa　Haa　I　have　a　feeling　this　is　quite　dangerous♡"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "addLog \\c[27]セリア「でも本物を味わえる....サディの...逞しい体で♡」"
+                                "addLog \\c[27]Celia:　But　I　can　taste　the　real　thing　with　Sadi's　robust　body♡"
                             ]
                         },
                         {

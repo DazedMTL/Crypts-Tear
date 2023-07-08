@@ -3286,7 +3286,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "addLog セリア「今の...誰？」"
+                                "addLog Celia　Who　was　that　just　now?"
                             ]
                         },
                         {
@@ -5058,7 +5058,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog セリア「あれって...。」"
+                                "addLog Celia　That's?"
                             ]
                         },
                         {
@@ -7767,28 +7767,28 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog メリル「おねえさん...本当はもっとキミと触れ合いたくって...」"
+                                "addLog Merill　Sister　I　really　want　to　interact　with　you　more"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog メリル「戦争で辛い思いをした記憶を忘れさせてほしいの...♡」"
+                                "addLog Merill　I　want　you　to　make　me　forget　the　painful　memories　of　the　war♡"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog ハヤト「メリルさん...シコシコ止まりませんっ..♡」"
+                                "addLog Hayato　Merill-san　I　can't　stop　jerking　off♡"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog \\c[27]メリル「ふふっ、がんばってェ♡お尻ふりふり♡」"
+                                "addLog \\c[27]Merill　Hehe,　keep　going♡　Shake　your　butt♡"
                             ]
                         },
                         {
@@ -8670,7 +8670,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog セリア「やっぱり全ての言動に裏があるんだわ...」"
+                                "addLog Celia　There's　always　an　ulterior　motive　behind　everything,　isn't　there"
                             ]
                         },
                         {
@@ -8686,7 +8686,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "addLog \\c[27]ハヤトは女淫魔の【蠱惑のオアシス】にハマっている..."
+                                "addLog \\c[27]Hayato　is　hooked　on　the　succubus's　Oasis　of　Seduction"
                             ]
                         },
                         {
@@ -8747,7 +8747,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "addLog ハヤトは呆然としながら女淫魔と見つめ合っている..."
+                                "addLog Hayato　is　staring　blankly　at　the　female　succubus"
                             ]
                         },
                         {
@@ -9065,7 +9065,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog \\c[27]サディへの気持ちが膨らみ続けている..."
+                                "addLog \\c[27]My　feelings　for　Sadi　continue　to　grow"
                             ]
                         },
                         {
@@ -9081,14 +9081,14 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "addLog \\c[27]ハヤトは女淫魔の【蠱惑のオアシス】にハマっている..."
+                                "addLog \\c[27]Hayato　is　hooked　on　the　succubus's　Oasis　of　Seduction"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "addLog メリル「（ようこそ、愛の沼へ...。誘き寄せた甲斐あるわァ♡）」"
+                                "addLog Merill　(Welcome　to　the　swamp　of　love　It　was　worth　luring　you　in♡)"
                             ]
                         },
                         {
@@ -9149,7 +9149,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "addLog ハヤトは呆然としながら女淫魔と見つめ合っている..."
+                                "addLog Hayato　is　staring　blankly　at　the　female　succubus"
                             ]
                         },
                         {
@@ -9341,7 +9341,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "addLog セリア「200年生きてるアンの方が絶対この地には詳しいわよね」"
+                                "addLog Celia　Someone　who's　lived　for　200　years　like　you　would　definitely　know　more　about　this　land,　right?"
                             ]
                         },
                         {
@@ -9383,7 +9383,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "addLog セリア「200年生きてるアンの方が絶対この地には詳しいわよね」"
+                                "addLog Celia　Someone　who's　lived　for　200　years　like　you　would　definitely　know　more　about　this　land,　right?"
                             ]
                         },
                         {
@@ -9425,7 +9425,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "addLog セリア「200年生きてるアンの方が絶対この地には詳しいわよね」"
+                                "addLog Celia:　Someone　who's　lived　for　200　years　like　you　would　definitely　know　more　about　this　land,　right?"
                             ]
                         },
                         {

@@ -7074,14 +7074,14 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog \\c[27]セリア「サディ...」"
+                                "addLog \\c[27]Celia:　Sadi"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog セリアがぽつりと彼の名前を呟く..."
+                                "addLog Celia　murmurs　his　name　softly"
                             ]
                         },
                         {
@@ -7630,7 +7630,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "addLog セリア「200年生きてるアンの方が絶対この地には詳しいわよね」"
+                                "addLog Celia　Someone　who's　lived　for　200　years　like　you　would　definitely　know　more　about　this　land,　right?"
                             ]
                         },
                         {
@@ -7672,7 +7672,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "addLog セリア「200年生きてるアンの方が絶対この地には詳しいわよね」"
+                                "addLog Celia　Someone　who's　lived　for　200　years　like　you　would　definitely　know　more　about　this　land,　right?"
                             ]
                         },
                         {
@@ -7714,7 +7714,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "addLog セリア「200年生きてるアンの方が絶対この地には詳しいわよね」"
+                                "addLog Celia:　Someone　who's　lived　for　200　years　like　you　would　definitely　know　more　about　this　land,　right?"
                             ]
                         },
                         {

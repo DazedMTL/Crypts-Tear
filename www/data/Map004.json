@@ -5109,7 +5109,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog セリア「トチ狂ったヤツも居たもんね...。」"
+                                "addLog Celia:　There　were　some　crazy　guys　too"
                             ]
                         },
                         {
@@ -5717,7 +5717,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "addLog セリア「メモ二つも貰っちゃったし見てみよ。」"
+                                "addLog Celia:　I　received　two　notes,　let's　take　a　look"
                             ]
                         },
                         {
@@ -6356,14 +6356,14 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog \\c[27]メリル「ハヤトくん...もっとおねえさんでシコって...♡」"
+                                "addLog \\c[27]Merill　Hayato-kun　please　do　it　more　with　your　older　sister♡"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog ハヤト「メリル...さん...♡」"
+                                "addLog Hayato　Merillsan♡"
                             ]
                         },
                         {
@@ -6842,14 +6842,14 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog セリア「勉強してんの...？このサキュバス...。」"
+                                "addLog Celia:　Are　you　studying?　This　succubus"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog セリアはこっそり後ろからノートを眺めてる"
+                                "addLog Celia　is　secretly　looking　at　the　notebook　from　behind"
                             ]
                         },
                         {
@@ -7505,14 +7505,14 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "addLog サキュ子A「ん？...味\"だった\"？」"
+                                "addLog Succubus　A　Hm?　Was　it　about　the　'taste'?"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "addLog セリアは赤面している"
+                                "addLog Celia　is　blushing"
                             ]
                         },
                         {
@@ -8287,7 +8287,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog セリア「この空間...大掛かり過ぎない？」"
+                                "addLog Celia:　Isn't　this　space　a　bit　too　grand?"
                             ]
                         },
                         {
@@ -9695,35 +9695,35 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "addLog メリル「セリアって全然ダメよね、女として。」"
+                                "addLog Merill:　Celia　is　totally　hopeless,　as　a　woman"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "addLog メリル「ハヤトは勿体無いわァ。おねえさんの所おいで？♡」"
+                                "addLog Merill　Hayato,　you're　wasting　your　time　Why　don't　you　come　over　to　my　place?　♡"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "addLog ハヤト「そ、そんな......」"
+                                "addLog Hayato　N-No　way"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "addLog \\c[27]メリル「そのプロテクトって技で私を守ってよ～♡」"
+                                "addLog \\c[27]Merill　Protect　me　with　that　technique　of　yours~♡"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "addLog メリルはハヤトにちょっかいをかけている..."
+                                "addLog Merill　is　messing　with　Hayato"
                             ]
                         },
                         {
@@ -13268,35 +13268,35 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog セリア「ダメ...悪い事考えちゃダメ。冷静にならないと。」"
+                                "addLog Celia:　No　I　shouldn't　think　about　bad　things　I　need　to　stay　calm"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog \\c[27]メリル「ボクぅ、ほら。おねえさんのお尻見て？♡」"
+                                "addLog \\c[27]Merill:　Look,　I'm　Look　at　my　big　sister's　butt?　♡"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog ハヤト「こ、こんな事♡」"
+                                "addLog Hayato　Th-this　kind　of　thing♡"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog \\c[27]メリル「男の子でしょ？恥かかせちゃダメよ...♡」"
+                                "addLog \\c[27]Merill　He's　a　boy,　right?　You　shouldn't　embarrass　him♡"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog メリルが良からぬ事を企んでいる..."
+                                "addLog Merill　is　up　to　no　good"
                             ]
                         },
                         {
@@ -14537,7 +14537,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog \\c[27]セリア「まだ口に感触残ってる...」"
+                                "addLog \\c[27]Celia:　The　sensation　still　lingers　in　my　mouth"
                             ]
                         },
                         {
@@ -14688,7 +14688,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "addLog セリア「200年生きてるアンの方が絶対この地には詳しいわよね」"
+                                "addLog Celia　Someone　who's　lived　for　200　years　like　you　would　definitely　know　more　about　this　land,　right?"
                             ]
                         },
                         {
@@ -14730,7 +14730,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "addLog セリア「200年生きてるアンの方が絶対この地には詳しいわよね」"
+                                "addLog Celia　Someone　who's　lived　for　200　years　like　you　would　definitely　know　more　about　this　land,　right?"
                             ]
                         },
                         {
@@ -14772,7 +14772,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "addLog セリア「200年生きてるアンの方が絶対この地には詳しいわよね」"
+                                "addLog Celia　Someone　who's　lived　for　200　years　like　you　would　definitely　know　more　about　this　land,　right?"
                             ]
                         },
                         {

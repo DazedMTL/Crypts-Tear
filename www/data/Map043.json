@@ -6537,21 +6537,21 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog ハヤトは何者かの手招きを受け右側に移動してしまった"
+                                "addLog Hayato　received　a　beckoning　from　someone　and　ended　up　moving　to　the　right"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog アンスリウム「セリア嬢、落ち着いて...」"
+                                "addLog Ansurium　Miss　Celia,　calm　down"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog セリアは腹を立てている"
+                                "addLog Celia　is　angry"
                             ]
                         },
                         {
@@ -7296,7 +7296,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog セリア「再会した事には何も言わないのね...。」"
+                                "addLog Celia　You're　not　saying　anything　about　our　reunion"
                             ]
                         },
                         {
@@ -7949,7 +7949,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog セリア「どこ行ったのよ...アンに聞こうかな」"
+                                "addLog Celia　Where　did　you　go　Maybe　I　should　ask　Ann"
                             ]
                         },
                         {
@@ -8950,7 +8950,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog セリア「どこ行ったのよ...アンに聞こうかな」"
+                                "addLog Celia　Where　did　you　go　Maybe　I　should　ask　Ann"
                             ]
                         },
                         {
@@ -9101,7 +9101,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog セリア「どこ行ったのよ...アンに聞こうかな」"
+                                "addLog Celia　Where　did　you　go　Maybe　I　should　ask　Ann"
                             ]
                         },
                         {
@@ -9636,7 +9636,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog セリア「どこ行ったのよ...アンに聞こうかな」"
+                                "addLog Celia　Where　did　you　go　Maybe　I　should　ask　Ann"
                             ]
                         },
                         {
@@ -11910,7 +11910,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog メリルはハヤトに最後にキスをしてから去った"
+                                "addLog Merill　left　after　giving　Hayato　a　final　kiss"
                             ]
                         },
                         {
@@ -13109,7 +13109,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog メリルはハヤトに最後にキスをしてから去った"
+                                "addLog Merill　kissed　Hayato　one　last　time　before　she　left"
                             ]
                         },
                         {
@@ -14898,7 +14898,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog メリルはハヤトに最後にキスをしてから去った"
+                                "addLog Merill　left　after　giving　Hayato　a　final　kiss"
                             ]
                         },
                         {
@@ -16097,7 +16097,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog メリルはハヤトに最後にキスをしてから去った"
+                                "addLog Merill　left　after　giving　Hayato　a　final　kiss"
                             ]
                         },
                         {
@@ -17296,7 +17296,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog メリルはハヤトに最後にキスをしてから去った"
+                                "addLog Merill　kissed　Hayato　one　last　time　before　she　left"
                             ]
                         },
                         {
@@ -18076,7 +18076,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "addLog セリア「200年生きてるアンの方が絶対この地には詳しいわよね」"
+                                "addLog Celia　Someone　who's　lived　for　200　years　like　you　would　definitely　know　more　about　this　land,　right?"
                             ]
                         },
                         {
@@ -18118,7 +18118,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "addLog セリア「200年生きてるアンの方が絶対この地には詳しいわよね」"
+                                "addLog Celia:　Someone　who's　lived　for　200　years　like　you　would　definitely　know　more　about　this　land,　right?"
                             ]
                         },
                         {
@@ -18160,7 +18160,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "addLog セリア「200年生きてるアンの方が絶対この地には詳しいわよね」"
+                                "addLog Celia　Someone　who's　lived　for　200　years　like　you　would　definitely　know　more　about　this　land,　right?"
                             ]
                         },
                         {
@@ -18724,14 +18724,14 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog \\c[27]ハヤトはメリルを見つめながらうっとりしている..."
+                                "addLog \\c[27]Hayato　is　entranced　as　he　gazes　at　Merill"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog メリル「夢見心地になっちゃったわねェ♡もっとシてあげよっか...。」"
+                                "addLog Merill　You're　in　a　dreamy　state,　aren't　you?　♡　Shall　I　do　more　for　you?"
                             ]
                         },
                         {

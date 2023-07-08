@@ -3796,7 +3796,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog セリア「200年生きてるアンの方が絶対この地には詳しいわよね」"
+                                "addLog Celia:　Someone　who's　lived　for　200　years　like　you　would　definitely　know　more　about　this　land,　right?"
                             ]
                         },
                         {
@@ -5385,7 +5385,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog セリア「鎧が置かれてるのはアンの趣味なの？」"
+                                "addLog Celia:　Is　it　Ann's　hobby　to　leave　armor　lying　around?"
                             ]
                         },
                         {
@@ -7101,7 +7101,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog セリア「なんか調子狂う...」"
+                                "addLog Celia　Something's　off"
                             ]
                         },
                         {
@@ -8418,7 +8418,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog セリア「どうしよう...。凄く痛そう。」"
+                                "addLog Celia:　What　should　I　do　It　looks　really　painful"
                             ]
                         },
                         {
@@ -10559,7 +10559,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "addLog \\c[27]セリア「まだ口に感触残ってる...」"
+                                "addLog \\c[27]Celia:　The　sensation　still　lingers　in　my　mouth"
                             ]
                         },
                         {
@@ -11146,7 +11146,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "addLog セリアは「ページ集めは終わったしアンの所に行きましょ。」"
+                                "addLog Celia　says,　We've　finished　collecting　the　pages,　let's　go　to　Ann's　place"
                             ]
                         },
                         {
@@ -12617,14 +12617,14 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "addLog セリア「もっと...苦いと思ってた」"
+                                "addLog Celia　I　thought　it　would　be　more　bitter"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "addLog \\c[27]精液を無意識に飲んでしまう..."
+                                "addLog \\c[27]Unconsciously　swallowing　semen"
                             ]
                         },
                         {
@@ -15425,7 +15425,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "addLog セリア「200年生きてるアンの方が絶対この地には詳しいわよね」"
+                                "addLog Celia:　Someone　who's　lived　for　200　years　like　you　would　definitely　know　more　about　this　land,　right?"
                             ]
                         },
                         {
@@ -15467,7 +15467,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "addLog セリア「200年生きてるアンの方が絶対この地には詳しいわよね」"
+                                "addLog Celia:　Someone　who's　lived　for　200　years　like　you　would　definitely　know　more　about　this　land,　right?"
                             ]
                         },
                         {
@@ -15509,7 +15509,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "addLog セリア「200年生きてるアンの方が絶対この地には詳しいわよね」"
+                                "addLog Celia:　Someone　who's　lived　for　200　years　like　you　would　definitely　know　more　about　this　land,　right?"
                             ]
                         },
                         {
