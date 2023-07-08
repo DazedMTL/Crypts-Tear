@@ -1,0 +1,49 @@
+[
+    null,
+    {
+        "id": 1,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "dot1",
+        "classId": 1,
+        "equips": [
+            1,
+            1,
+            2,
+            3,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "ヒロイン",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "セリア",
+        "nickname": "不器用お転婆娘",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 2,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 2,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 15,
+        "maxLevel": 99,
+        "name": "ハヤト",
+        "nickname": "勇気ある少年魔法騎士",
+        "note": "",
+        "profile": ""
+    }
+]

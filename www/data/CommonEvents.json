@@ -1,0 +1,2632 @@
+[
+    null,
+    {
+        "id": 1,
+        "list": [
+            {
+                "code": 356,
+                "indent": 0,
+                "parameters": [
+                    "showLogWindow"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "ログ表示",
+        "switchId": 1,
+        "trigger": 0
+    },
+    {
+        "id": 2,
+        "list": [
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "....一年前、人と魔物の「大戦」があった。"
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "世界が戦火に包まれる中、"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "魔王率いる邪悪な魔物達を「勇者」率いる軍勢が何とか退けた。"
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "勇者の命を犠牲にして......。"
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "しかし、とある理由で魔物達を十分に抑えきれなかったこと。"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "そして予想以上に\\c[27]魔物が知略を使った巧みな戦術で襲ってきた\\c事から、"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "世界の30%近くが魔王軍の侵略を受けたまま停戦状態に入った。"
+                ]
+            },
+            {
+                "code": 221,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 230,
+                "indent": 0,
+                "parameters": [
+                    80
+                ]
+            },
+            {
+                "code": 211,
+                "indent": 0,
+                "parameters": [
+                    1
+                ]
+            },
+            {
+                "code": 222,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "\\F[1]\\AA[F]本作の主人公はこの子。名はセリア。"
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "\\F[1]\\AA[F]これは、戦の影響で故郷を追われたセリアがとある町に移住して"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "から一年後のお話。"
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "そして、自分の素性を知らないお転婆娘が、愛する人を守るため"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "彼女なりに立ち向かった「新たな戦」のお話───────...。"
+                ]
+            },
+            {
+                "code": 221,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 211,
+                "indent": 0,
+                "parameters": [
+                    0
+                ]
+            },
+            {
+                "code": 201,
+                "indent": 0,
+                "parameters": [
+                    0,
+                    1,
+                    54,
+                    19,
+                    0,
+                    0
+                ]
+            },
+            {
+                "code": 222,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 121,
+                "indent": 0,
+                "parameters": [
+                    56,
+                    56,
+                    0
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "ヒロイン",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "セリア"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "\\F[1]\\AA[F]......はあ。いつになったら言おう...。"
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "\\F[1]\\AA[F]この町に越してきて、早一年。"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "わたしは「人生でとても大事」なことを言うタイミングを待っていた。"
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "ヒロイン",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "セリア"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "\\F[1]\\AA[F]ハヤトー！お墓参りの次は神父様の所に行くわよー。"
+                ]
+            },
+            {
+                "code": 205,
+                "indent": 0,
+                "parameters": [
+                    6,
+                    {
+                        "list": [
+                            {
+                                "code": 29,
+                                "parameters": [
+                                    5
+                                ],
+                                "indent": null
+                            },
+                            {
+                                "code": 1,
+                                "indent": null
+                            },
+                            {
+                                "code": 1,
+                                "indent": null
+                            },
+                            {
+                                "code": 1,
+                                "indent": null
+                            },
+                            {
+                                "code": 1,
+                                "indent": null
+                            },
+                            {
+                                "code": 1,
+                                "indent": null
+                            },
+                            {
+                                "code": 1,
+                                "indent": null
+                            },
+                            {
+                                "code": 1,
+                                "indent": null
+                            },
+                            {
+                                "code": 1,
+                                "indent": null
+                            },
+                            {
+                                "code": 1,
+                                "indent": null
+                            },
+                            {
+                                "code": 1,
+                                "indent": null
+                            },
+                            {
+                                "code": 29,
+                                "parameters": [
+                                    3
+                                ],
+                                "indent": null
+                            },
+                            {
+                                "code": 0
+                            }
+                        ],
+                        "repeat": false,
+                        "skippable": false,
+                        "wait": true
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 29,
+                        "parameters": [
+                            5
+                        ],
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 1,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 1,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 1,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 1,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 1,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 1,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 1,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 1,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 1,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 1,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 29,
+                        "parameters": [
+                            3
+                        ],
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 213,
+                "indent": 0,
+                "parameters": [
+                    6,
+                    3,
+                    true
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "\\F[1]\\AA[F]彼はハヤト。"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "わたしが町に来てから、誰よりも優しくしてくれてる人。"
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "\\F[1]\\AA[F]\\c[14]この町は私の生まれ故郷\\cなんだけど、"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "物心ついた頃から都市で暮らしていたわたしにとっては"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "見知らぬ地そのもの。"
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "\\F[1]\\AA[F]そんな故郷に戦後移民として流れ着いたんだけど.....、"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "ハヤトのお陰でわたしはすぐに馴染む事ができた。"
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "ヒロイン",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "セリア"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "(元々わたしが気難しい性格してるし、苦労かけたわよね...。)"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "さ、行きましょ。"
+                ]
+            },
+            {
+                "code": 205,
+                "indent": 0,
+                "parameters": [
+                    6,
+                    {
+                        "list": [
+                            {
+                                "code": 2,
+                                "indent": null
+                            },
+                            {
+                                "code": 2,
+                                "indent": null
+                            },
+                            {
+                                "code": 2,
+                                "indent": null
+                            },
+                            {
+                                "code": 2,
+                                "indent": null
+                            },
+                            {
+                                "code": 0
+                            }
+                        ],
+                        "repeat": false,
+                        "skippable": false,
+                        "wait": false
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 2,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 2,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 2,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 2,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 205,
+                "indent": 0,
+                "parameters": [
+                    5,
+                    {
+                        "list": [
+                            {
+                                "code": 2,
+                                "indent": null
+                            },
+                            {
+                                "code": 2,
+                                "indent": null
+                            },
+                            {
+                                "code": 2,
+                                "indent": null
+                            },
+                            {
+                                "code": 2,
+                                "indent": null
+                            },
+                            {
+                                "code": 0
+                            }
+                        ],
+                        "repeat": false,
+                        "skippable": false,
+                        "wait": false
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 2,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 2,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 2,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 2,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "ヒロイン",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "セリア"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "\\|.....って誰かと話してるわね。"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "忙しいのかしら?"
+                ]
+            },
+            {
+                "code": 205,
+                "indent": 0,
+                "parameters": [
+                    5,
+                    {
+                        "list": [
+                            {
+                                "code": 19,
+                                "indent": null
+                            },
+                            {
+                                "code": 0
+                            }
+                        ],
+                        "repeat": false,
+                        "skippable": false,
+                        "wait": true
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 19,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "ヒロイン",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "セリア"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "\\|....は？きれいな人だね、ですって？"
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "ヒロイン",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "........。"
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "ヒロイン",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "セリア"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "\\F[1]\\AA[F]\\{くたばりなさいよ、もー！！！"
+                ]
+            },
+            {
+                "code": 205,
+                "indent": 0,
+                "parameters": [
+                    5,
+                    {
+                        "list": [
+                            {
+                                "code": 29,
+                                "parameters": [
+                                    6
+                                ],
+                                "indent": 0
+                            },
+                            {
+                                "code": 2,
+                                "indent": null
+                            },
+                            {
+                                "code": 2,
+                                "indent": null
+                            },
+                            {
+                                "code": 2,
+                                "indent": null
+                            },
+                            {
+                                "code": 1,
+                                "indent": null
+                            },
+                            {
+                                "code": 1,
+                                "indent": null
+                            },
+                            {
+                                "code": 1,
+                                "indent": null
+                            },
+                            {
+                                "code": 1,
+                                "indent": null
+                            },
+                            {
+                                "code": 1,
+                                "indent": null
+                            },
+                            {
+                                "code": 1,
+                                "indent": null
+                            },
+                            {
+                                "code": 1,
+                                "indent": null
+                            },
+                            {
+                                "code": 1,
+                                "indent": null
+                            },
+                            {
+                                "code": 1,
+                                "indent": null
+                            },
+                            {
+                                "code": 1,
+                                "indent": null
+                            },
+                            {
+                                "code": 29,
+                                "parameters": [
+                                    4
+                                ],
+                                "indent": null
+                            },
+                            {
+                                "code": 0
+                            }
+                        ],
+                        "repeat": false,
+                        "skippable": false,
+                        "wait": false
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 29,
+                        "parameters": [
+                            6
+                        ],
+                        "indent": 0
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 2,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 2,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 2,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 1,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 1,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 1,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 1,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 1,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 1,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 1,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 1,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 1,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 1,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 29,
+                        "parameters": [
+                            4
+                        ],
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 205,
+                "indent": 0,
+                "parameters": [
+                    6,
+                    {
+                        "list": [
+                            {
+                                "code": 16,
+                                "indent": null
+                            },
+                            {
+                                "code": 0
+                            }
+                        ],
+                        "repeat": false,
+                        "skippable": false,
+                        "wait": false
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 16,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 213,
+                "indent": 0,
+                "parameters": [
+                    6,
+                    6,
+                    true
+                ]
+            },
+            {
+                "code": 221,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 205,
+                "indent": 0,
+                "parameters": [
+                    -1,
+                    {
+                        "list": [
+                            {
+                                "code": 29,
+                                "parameters": [
+                                    6
+                                ],
+                                "indent": 0
+                            },
+                            {
+                                "code": 2,
+                                "indent": null
+                            },
+                            {
+                                "code": 2,
+                                "indent": null
+                            },
+                            {
+                                "code": 2,
+                                "indent": null
+                            },
+                            {
+                                "code": 2,
+                                "indent": null
+                            },
+                            {
+                                "code": 2,
+                                "indent": null
+                            },
+                            {
+                                "code": 2,
+                                "indent": null
+                            },
+                            {
+                                "code": 2,
+                                "indent": null
+                            },
+                            {
+                                "code": 2,
+                                "indent": null
+                            },
+                            {
+                                "code": 2,
+                                "indent": null
+                            },
+                            {
+                                "code": 1,
+                                "indent": null
+                            },
+                            {
+                                "code": 1,
+                                "indent": null
+                            },
+                            {
+                                "code": 1,
+                                "indent": null
+                            },
+                            {
+                                "code": 1,
+                                "indent": null
+                            },
+                            {
+                                "code": 1,
+                                "indent": null
+                            },
+                            {
+                                "code": 1,
+                                "indent": null
+                            },
+                            {
+                                "code": 1,
+                                "indent": null
+                            },
+                            {
+                                "code": 1,
+                                "indent": null
+                            },
+                            {
+                                "code": 29,
+                                "parameters": [
+                                    4
+                                ],
+                                "indent": null
+                            },
+                            {
+                                "code": 0
+                            }
+                        ],
+                        "repeat": false,
+                        "skippable": false,
+                        "wait": false
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 29,
+                        "parameters": [
+                            6
+                        ],
+                        "indent": 0
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 2,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 2,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 2,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 2,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 2,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 2,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 2,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 2,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 2,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 1,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 1,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 1,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 1,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 1,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 1,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 1,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 1,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 29,
+                        "parameters": [
+                            4
+                        ],
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "「人生でとても大事」...。"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "それは\\c[27]告白\\cの事。"
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "わたしが今こうして難なく生きていられるのはハヤトのお陰。"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "だから気持ちを伝えたい......。でも.......。"
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "ヒロイン",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "セリア"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "嫌がられたらどうしよう！"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "「急におかしくなった？」とか言われたらどうしよう！！"
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "だから言えず終いのまま時が過ぎて....はや一か月。"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "どうしよわたし。"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "コテコテの不器用女のパターンよねこれ....。"
+                ]
+            },
+            {
+                "code": 222,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "ヒロイン",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "セリア"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "\\F[1]\\AA[F]あ、ああ。そうだったわ。"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "それはともかく教会に用事があるんだった。"
+                ]
+            },
+            {
+                "code": 205,
+                "indent": 0,
+                "parameters": [
+                    5,
+                    {
+                        "list": [
+                            {
+                                "code": 19,
+                                "indent": null
+                            },
+                            {
+                                "code": 0
+                            }
+                        ],
+                        "repeat": false,
+                        "skippable": false,
+                        "wait": true
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 19,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 230,
+                "indent": 0,
+                "parameters": [
+                    90
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "ヒロイン",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "セリア"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "\\F[1]\\AA[F]でも取り込み中だったしまた後でいいかな。"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "教会に忘れ物したんだけどな...。"
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "ヒロイン",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "セリア"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    ".................。"
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "ヒロイン",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "セリア"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "\\F[1]\\AA[F]えっ、というかさっき神父様と話してたのって......"
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "ヒロイン",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "セリア"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "まさか\\c[27]魔物\\cなんじゃ..。"
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "ヒロイン",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "セリア"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    ".................。"
+                ]
+            },
+            {
+                "code": 221,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "セリア"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "ま、有り得ないか。"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "あの神父様と立ち話してる人なんだから大丈夫でしょ。"
+                ]
+            },
+            {
+                "code": 205,
+                "indent": 0,
+                "parameters": [
+                    -1,
+                    {
+                        "list": [
+                            {
+                                "code": 29,
+                                "parameters": [
+                                    6
+                                ],
+                                "indent": 0
+                            },
+                            {
+                                "code": 4,
+                                "indent": null
+                            },
+                            {
+                                "code": 4,
+                                "indent": null
+                            },
+                            {
+                                "code": 4,
+                                "indent": null
+                            },
+                            {
+                                "code": 4,
+                                "indent": null
+                            },
+                            {
+                                "code": 4,
+                                "indent": null
+                            },
+                            {
+                                "code": 4,
+                                "indent": null
+                            },
+                            {
+                                "code": 4,
+                                "indent": null
+                            },
+                            {
+                                "code": 29,
+                                "parameters": [
+                                    4
+                                ],
+                                "indent": null
+                            },
+                            {
+                                "code": 0
+                            }
+                        ],
+                        "repeat": false,
+                        "skippable": false,
+                        "wait": true
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 29,
+                        "parameters": [
+                            6
+                        ],
+                        "indent": 0
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 4,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 4,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 4,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 4,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 4,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 4,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 4,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "code": 29,
+                        "parameters": [
+                            4
+                        ],
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 121,
+                "indent": 0,
+                "parameters": [
+                    57,
+                    57,
+                    0
+                ]
+            },
+            {
+                "code": 222,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "OP1",
+        "switchId": 55,
+        "trigger": 0
+    },
+    {
+        "id": 3,
+        "list": [
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "OP2",
+        "switchId": 56,
+        "trigger": 1
+    },
+    {
+        "id": 4,
+        "list": [
+            {
+                "code": 231,
+                "indent": 0,
+                "parameters": [
+                    1,
+                    "ブラック",
+                    0,
+                    0,
+                    0,
+                    0,
+                    100,
+                    100,
+                    255,
+                    0
+                ]
+            },
+            {
+                "code": 355,
+                "indent": 0,
+                "parameters": [
+                    "ImageManager.loadPicture(\"teki_1\");"
+                ]
+            },
+            {
+                "code": 655,
+                "indent": 0,
+                "parameters": [
+                    "ImageManager.loadPicture(\"teki_2\");"
+                ]
+            },
+            {
+                "code": 655,
+                "indent": 0,
+                "parameters": [
+                    "ImageManager.loadPicture(\"ヒロイン_1\");"
+                ]
+            },
+            {
+                "code": 655,
+                "indent": 0,
+                "parameters": [
+                    "ImageManager.loadPicture(\"ヒロイン_2\");"
+                ]
+            },
+            {
+                "code": 655,
+                "indent": 0,
+                "parameters": [
+                    "ImageManager.loadPicture(\"ヒロイン_いたた\");"
+                ]
+            },
+            {
+                "code": 655,
+                "indent": 0,
+                "parameters": [
+                    "ImageManager.loadPicture(\"ヒロイン_うつろ\");"
+                ]
+            },
+            {
+                "code": 655,
+                "indent": 0,
+                "parameters": [
+                    "ImageManager.loadPicture(\"ヒロイン_いたた\");"
+                ]
+            },
+            {
+                "code": 655,
+                "indent": 0,
+                "parameters": [
+                    "ImageManager.loadPicture(\"ヒロイン_うつろ\");"
+                ]
+            },
+            {
+                "code": 655,
+                "indent": 0,
+                "parameters": [
+                    "ImageManager.loadPicture(\"ヒロイン_きょとん\");"
+                ]
+            },
+            {
+                "code": 655,
+                "indent": 0,
+                "parameters": [
+                    "ImageManager.loadPicture(\"ヒロイン_コイツ\");"
+                ]
+            },
+            {
+                "code": 655,
+                "indent": 0,
+                "parameters": [
+                    "ImageManager.loadPicture(\"ヒロイン_ジト目\");"
+                ]
+            },
+            {
+                "code": 655,
+                "indent": 0,
+                "parameters": [
+                    "ImageManager.loadPicture(\"ヒロイン_ドキ\");"
+                ]
+            },
+            {
+                "code": 355,
+                "indent": 0,
+                "parameters": [
+                    "ImageManager.loadPicture(\"ヒロイン_にこ\");"
+                ]
+            },
+            {
+                "code": 655,
+                "indent": 0,
+                "parameters": [
+                    "ImageManager.loadPicture(\"ヒロイン_にっこり\");"
+                ]
+            },
+            {
+                "code": 655,
+                "indent": 0,
+                "parameters": [
+                    "ImageManager.loadPicture(\"ヒロイン_ハート\");"
+                ]
+            },
+            {
+                "code": 655,
+                "indent": 0,
+                "parameters": [
+                    "ImageManager.loadPicture(\"ヒロイン_はずかしい\");"
+                ]
+            },
+            {
+                "code": 655,
+                "indent": 0,
+                "parameters": [
+                    "ImageManager.loadPicture(\"ヒロイン_ぼー\");"
+                ]
+            },
+            {
+                "code": 655,
+                "indent": 0,
+                "parameters": [
+                    "ImageManager.loadPicture(\"ヒロイン_むむむ\");"
+                ]
+            },
+            {
+                "code": 655,
+                "indent": 0,
+                "parameters": [
+                    "ImageManager.loadPicture(\"ヒロイン_むむむ汗\");"
+                ]
+            },
+            {
+                "code": 655,
+                "indent": 0,
+                "parameters": [
+                    "ImageManager.loadPicture(\"ヒロイン_下着_1\");"
+                ]
+            },
+            {
+                "code": 655,
+                "indent": 0,
+                "parameters": [
+                    "ImageManager.loadPicture(\"ヒロイン_疑いの眼\");"
+                ]
+            },
+            {
+                "code": 655,
+                "indent": 0,
+                "parameters": [
+                    "ImageManager.loadPicture(\"ヒロイン_コイツ\");"
+                ]
+            },
+            {
+                "code": 655,
+                "indent": 0,
+                "parameters": [
+                    "ImageManager.loadPicture(\"ヒロイン_叫び\");"
+                ]
+            },
+            {
+                "code": 655,
+                "indent": 0,
+                "parameters": [
+                    "ImageManager.loadPicture(\"ヒロイン_叫び2\");"
+                ]
+            },
+            {
+                "code": 355,
+                "indent": 0,
+                "parameters": [
+                    "ImageManager.loadPicture(\"ヒロイン_惚け\");"
+                ]
+            },
+            {
+                "code": 655,
+                "indent": 0,
+                "parameters": [
+                    "ImageManager.loadPicture(\"teki_くす\");"
+                ]
+            },
+            {
+                "code": 655,
+                "indent": 0,
+                "parameters": [
+                    "ImageManager.loadPicture(\"teki_しゃべり\");"
+                ]
+            },
+            {
+                "code": 655,
+                "indent": 0,
+                "parameters": [
+                    "ImageManager.loadPicture(\"teki_ペロ\");"
+                ]
+            },
+            {
+                "code": 655,
+                "indent": 0,
+                "parameters": [
+                    "ImageManager.loadPicture(\"teki_無表情\");"
+                ]
+            },
+            {
+                "code": 655,
+                "indent": 0,
+                "parameters": [
+                    "ImageManager.loadPicture(\"teki_ウインク\");"
+                ]
+            },
+            {
+                "code": 232,
+                "indent": 0,
+                "parameters": [
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    100,
+                    100,
+                    0,
+                    0,
+                    30,
+                    true
+                ]
+            },
+            {
+                "code": 235,
+                "indent": 0,
+                "parameters": [
+                    1
+                ]
+            },
+            {
+                "code": 121,
+                "indent": 0,
+                "parameters": [
+                    1,
+                    1,
+                    1
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "画像読み込み",
+        "switchId": 1,
+        "trigger": 0
+    },
+    {
+        "id": 5,
+        "list": [
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "",
+        "switchId": 1,
+        "trigger": 0
+    },
+    {
+        "id": 6,
+        "list": [
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "",
+        "switchId": 1,
+        "trigger": 0
+    },
+    {
+        "id": 7,
+        "list": [
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "",
+        "switchId": 1,
+        "trigger": 0
+    },
+    {
+        "id": 8,
+        "list": [
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "",
+        "switchId": 1,
+        "trigger": 0
+    },
+    {
+        "id": 9,
+        "list": [
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "",
+        "switchId": 1,
+        "trigger": 0
+    },
+    {
+        "id": 10,
+        "list": [
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "",
+        "switchId": 1,
+        "trigger": 0
+    },
+    {
+        "id": 11,
+        "list": [
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "",
+        "switchId": 1,
+        "trigger": 0
+    },
+    {
+        "id": 12,
+        "list": [
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "",
+        "switchId": 1,
+        "trigger": 0
+    },
+    {
+        "id": 13,
+        "list": [
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "",
+        "switchId": 1,
+        "trigger": 0
+    },
+    {
+        "id": 14,
+        "list": [
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "",
+        "switchId": 1,
+        "trigger": 0
+    },
+    {
+        "id": 15,
+        "list": [
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "",
+        "switchId": 1,
+        "trigger": 0
+    },
+    {
+        "id": 16,
+        "list": [
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "",
+        "switchId": 1,
+        "trigger": 0
+    },
+    {
+        "id": 17,
+        "list": [
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "",
+        "switchId": 1,
+        "trigger": 0
+    },
+    {
+        "id": 18,
+        "list": [
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "",
+        "switchId": 1,
+        "trigger": 0
+    },
+    {
+        "id": 19,
+        "list": [
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "",
+        "switchId": 1,
+        "trigger": 0
+    },
+    {
+        "id": 20,
+        "list": [
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "",
+        "switchId": 1,
+        "trigger": 0
+    },
+    {
+        "id": 21,
+        "list": [
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "",
+        "switchId": 1,
+        "trigger": 0
+    },
+    {
+        "id": 22,
+        "list": [
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "",
+        "switchId": 1,
+        "trigger": 0
+    },
+    {
+        "id": 23,
+        "list": [
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "",
+        "switchId": 1,
+        "trigger": 0
+    },
+    {
+        "id": 24,
+        "list": [
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "",
+        "switchId": 1,
+        "trigger": 0
+    },
+    {
+        "id": 25,
+        "list": [
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "",
+        "switchId": 1,
+        "trigger": 0
+    },
+    {
+        "id": 26,
+        "list": [
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "",
+        "switchId": 1,
+        "trigger": 0
+    },
+    {
+        "id": 27,
+        "list": [
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "",
+        "switchId": 1,
+        "trigger": 0
+    },
+    {
+        "id": 28,
+        "list": [
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "",
+        "switchId": 1,
+        "trigger": 0
+    },
+    {
+        "id": 29,
+        "list": [
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "",
+        "switchId": 1,
+        "trigger": 0
+    },
+    {
+        "id": 30,
+        "list": [
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "",
+        "switchId": 1,
+        "trigger": 0
+    }
+]
