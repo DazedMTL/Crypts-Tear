@@ -2245,14 +2245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " ハヤト"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さあ行こ！"
+                                " Hayato, let's go!"
                             ]
                         },
                         {
@@ -2269,14 +2262,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[3]\\AA[F]うん...。"
+                                "\\F[3]\\AA[F]Yeah...."
                             ]
                         },
                         {
@@ -2843,14 +2836,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[16]\\AA[F]アンタの気持ち、ちゃんと伝わった。"
+                                "\\F[16]\\AA[F]Your feelings, they came across properly."
                             ]
                         },
                         {
@@ -2867,14 +2860,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[16]\\AA[F]だからね？わたしもその...伝えたいの。"
+                                "\\F[16]\\AA[F]So, you see? I also want to... convey that."
                             ]
                         },
                         {
@@ -2891,14 +2884,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ハヤト"
+                                "　Hayato"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...。"
+                                "...."
                             ]
                         },
                         {
@@ -2915,14 +2908,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[36]\\AA[F]さっき言ってたじゃない。メリルに翻弄されてたって。"
+                                "\\F[36]\\AA[F]Didn't I say it earlier? That I was being toyed with\nby Merill."
                             ]
                         },
                         {
@@ -2944,21 +2937,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[23]\\AA[F]それはきっと...そうなんだわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結局のところ、綺麗だもん。メリルって。"
+                                "\\F[23]\\AA[F]That must be... yes, that's it. After all, Merill is\nbeautiful."
                             ]
                         },
                         {
@@ -2975,14 +2961,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[23]\\AA[F]男なら鼻の下のばすのも無理ないと思う。"
+                                "\\F[23]\\AA[F]I think it's only natural for a man to be captivated\nby her."
                             ]
                         },
                         {
@@ -2999,14 +2985,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ハヤト"
+                                "　Hayato"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ボクの意志が弱かったからだよ...。"
+                                "It's because my will was weak...."
                             ]
                         },
                         {
@@ -3028,14 +3014,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[37]\\AA[F]そんな事無いわ！だから！"
+                                "\\F[37]\\AA[F]That's not true at all! That's why!"
                             ]
                         },
                         {
@@ -3061,14 +3047,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[37]\\AA[F]その\\c[27]ムラムラした気持ち\\cを...発散させてあげたいの。"
+                                "\\F[37]\\AA[F]I want to \\c[27]help you release \\cthose pent-up\nfeelings."
                             ]
                         },
                         {
@@ -3094,7 +3080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ハヤト"
+                                "　Hayato"
                             ]
                         },
                         {
@@ -3123,14 +3109,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ハヤト"
+                                "　Hayato"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリア！♡"
+                                "Seria!♡"
                             ]
                         },
                         {
@@ -3147,14 +3133,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あッ♡ちょっと、ハヤっ....ちゅ♡ちゅ...♡"
+                                "Ah♡ Wait, Haya....chu♡chu...♡"
                             ]
                         },
                         {
@@ -3171,7 +3157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハヤトがセリアの気持ちに応えるように抱き寄せ..."
+                                "Hayato responds to Seria's feelings by pulling her close..."
                             ]
                         },
                         {
@@ -3209,14 +3195,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "........ん♡"
+                                "........Mm♡"
                             ]
                         },
                         {
@@ -3233,14 +3219,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ハヤト"
+                                "　Hayato"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...セリア、凄く嬉しい。本当にありがとう...絶対守るから"
+                                "...Seria, I'm incredibly happy. Thank you so much... I promise to\nprotect you."
                             ]
                         },
                         {
@@ -3257,14 +3243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハヤトの決意ある言葉が、孤独に押し潰されそうだったセリアに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "安心感を与える"
+                                "Hayato's determined words give Seria, who was on the verge of\nbeing crushed by loneliness, a sense of relief."
                             ]
                         },
                         {
@@ -3281,14 +3260,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ずっと寂しかったんだからもうどこにも行かないで...♡"
+                                "I've been lonely for so long, so please don't go anywhere\nanymore...♡"
                             ]
                         },
                         {
@@ -3317,7 +3296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "──そして2人はそのままベッドへ"
+                                "──And the two of them went straight to the bed."
                             ]
                         },
                         {
@@ -3921,14 +3900,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F]あと一桁で...脱出できる！ハヤト...。"
+                                "\\F[10]\\AA[F]Just one more digit and... we can escape! Hayato...."
                             ]
                         },
                         {
@@ -4048,14 +4027,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[1]\\AA[F].........。"
+                                "\\F[1]\\AA[F].........."
                             ]
                         },
                         {
@@ -4072,14 +4051,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ハヤト"
+                                "　Hayato"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ".............。"
+                                ".............."
                             ]
                         },
                         {
@@ -4201,21 +4180,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "性格も見た目も\\c[27]最初はイヤ\\cだったけど..."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今はちょっと\\c[27]好み\\c...かもしれない♡♡"
+                                "I initially disliked both your personality and\nappearance\\c[27]... but now, I might be a little\\c[27] fond\\c...\nof you♡♡"
                             ]
                         },
                         {
@@ -4232,21 +4204,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "立ち振る舞いも優雅で...お腹出てるけど、それも可愛くって...。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "言葉遣いもドキドキして...♡"
+                                "Your demeanor is elegant... Even though your belly is showing,\nthat's also cute.... Your choice of words also makes my heart\nflutter...♡"
                             ]
                         },
                         {
@@ -4263,21 +4228,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ".................."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "......."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "..."
+                                ".................. ....... ..."
                             ]
                         },
                         {
@@ -4294,14 +4245,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[17]\\AA[F]（\\c[27]サディでオナニーしちゃった手前,,,気まずい）"
+                                "\\F[17]\\AA[F] (After having masturbated at \\c[27] Sadi's place...\nit's awkward)"
                             ]
                         },
                         {
@@ -4369,14 +4320,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[17]\\AA[F]...ねえ。"
+                                "\\F[17]\\AA[F]...Hey."
                             ]
                         },
                         {
@@ -4393,14 +4344,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[17]\\AA[F]ねえってば。"
+                                "\\F[17]\\AA[F]Hey, I said."
                             ]
                         },
                         {
@@ -4471,14 +4422,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ハヤト"
+                                "　Hayato"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリア？"
+                                "Seria?"
                             ]
                         },
                         {
@@ -4515,14 +4466,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[15]\\AA[F].....っ♡"
+                                "\\F[15]\\AA[F].....Ah♡"
                             ]
                         },
                         {
@@ -4539,14 +4490,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ハヤト"
+                                "　Hayato"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "帰ったら何食べよっか。"
+                                "What should I eat when I get home?"
                             ]
                         },
                         {
@@ -4563,7 +4514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
@@ -4596,21 +4547,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[3]\\AA[F]もう帰ってからの事考えてんの？♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほーんと能天気よね。"
+                                "\\F[3]\\AA[F]Are you already thinking about what to do when you get\nhome?♡ You're really carefree."
                             ]
                         },
                         {
@@ -4627,21 +4571,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[16]\\AA[F](やっぱり一緒にいると一番落ち着く。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それに言葉数も増えたような...。)"
+                                "\\F[16]\\AA[F](Being together is indeed the most comforting. It\nalso seems like we're talking more...)"
                             ]
                         },
                         {
@@ -4658,21 +4595,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ハヤト"
+                                "　Hayato"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "能天気なことあるもんか...。\\c[14]帰ってからもセリアと一緒に居る\\c。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そう思う事で気持ちを奮い立たせてるだけ。"
+                                "Is there such a thing as being carefree....\\c[14] I'm just\ncheering myself up by thinking that I'll be with Seria even after\nI get home \\c."
                             ]
                         },
                         {
@@ -4689,14 +4619,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ハヤト"
+                                "　Hayato"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キミに散々迷惑掛けちゃったし...。"
+                                "I've caused you a lot of trouble after all...."
                             ]
                         },
                         {
@@ -4713,14 +4643,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[17]\\AA[F]ハ、ハヤト........"
+                                "\\F[17]\\AA[F]Ha, Hayato......"
                             ]
                         },
                         {
@@ -4737,14 +4667,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ハヤト"
+                                "　Hayato"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリア......"
+                                "Seria......"
                             ]
                         },
                         {
@@ -4828,14 +4758,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "はあ...はあ...ッ、サディ...サディ♡"
+                                "Haah...haah...Sadie...Sadie♡"
                             ]
                         },
                         {
@@ -4852,14 +4782,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "サディの事考えながらスるオナニー...だいすき♡♡"
+                                "Masturbating while thinking about Sadie... I love it♡♡"
                             ]
                         },
                         {
@@ -4876,21 +4806,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ".................."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "......."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "..."
+                                ".................. ....... ..."
                             ]
                         },
                         {
@@ -4938,14 +4854,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[36]\\AA[F]あ、あのね。ハヤト...。"
+                                "\\F[36]\\AA[F]Um, you see, Hayato...."
                             ]
                         },
                         {
@@ -4962,14 +4878,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　ハヤト"
+                                "　Hayato"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なんとなく言いたいことは分かるよ"
+                                "I kind of understand what you want to say."
                             ]
                         },
                         {
@@ -4986,14 +4902,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　ハヤト"
+                                "　Hayato"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[14]サディの事\\c気になってるんでしょ？"
+                                "\\c[14]You're worried about Sadie\\c, aren't you?"
                             ]
                         },
                         {
@@ -5010,14 +4926,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[15]\\AA[F]そ、そんな事！"
+                                "\\F[15]\\AA[F]Th-that's not it!"
                             ]
                         },
                         {
@@ -5065,21 +4981,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　ハヤト"
+                                "　Hayato"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "今まで独りで捜索して、その度に淫魔の影響を受けてきたんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "心が変質しても無理ないんだよ。"
+                                "I've been searching alone all this time, and each time I've been\naffected by the succubus. It's no wonder my mind has become\nwarped."
                             ]
                         },
                         {
@@ -5175,14 +5084,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[9]\\AA[F](なんか、すっごい！こっ恥ずかしい！！)"
+                                "\\F[9]\\AA[F](Somehow, this is so embarrassing!!)"
                             ]
                         },
                         {
@@ -5208,14 +5117,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　ハヤト"
+                                "　Hayato"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "せ、セリア？聞いてほしんだけど...。"
+                                "S-Seria? I just want you to listen...."
                             ]
                         },
                         {
@@ -5232,14 +5141,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[17]\\AA[F]な、なななな何ヨ！心の準備が..."
+                                "\\F[17]\\AA[F]Wh-what?! I'm not mentally prepared..."
                             ]
                         },
                         {
@@ -5265,14 +5174,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　ハヤト"
+                                "　Hayato"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ごめん。キミが苦しい時に全然支えられなくて。"
+                                "I'm sorry. I couldn't support you at all when you were suffering."
                             ]
                         },
                         {
@@ -5329,14 +5238,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　ハヤト"
+                                "　Hayato"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "バリエンテに来てくれた時にした約束、あと少しでふいにする所だった。"
+                                "I was about to break the promise I made when you came to\nVariente."
                             ]
                         },
                         {
@@ -5353,14 +5262,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[1]\\AA[F]...........。"
+                                "\\F[1]\\AA[F]............"
                             ]
                         },
                         {
@@ -5387,14 +5296,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ハヤト"
+                                "　Hayato"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だから...ほら。"
+                                "So... you see."
                             ]
                         },
                         {
@@ -5461,14 +5370,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[1]\\AA[F]\\c[14]ホーリープロテクト\\c.....。あったかい.....。"
+                                "\\F\\c\\AA[F]\\c[14]Holy Protect\\c... It's warm..."
                             ]
                         },
                         {
@@ -5485,21 +5394,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ハヤト"
+                                "　Hayato"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ボクも正直言うと...逃げ場のない牢獄で\\c[27]メリルさん\\cに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "翻弄されていたんだ。だから沢山の責任がある。"
+                                "To be honest... I was being toyed with by Merill-san in a prison\nwith no escape. So, I have a lot of responsibility."
                             ]
                         },
                         {
@@ -5516,21 +5418,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ハヤト"
+                                "　Hayato"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これからはこの力でずっとキミを守るから...。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "償わせてほしい。セリアにまた信じて貰えるように頑張るから。"
+                                "From now on, I will always protect you with this power... Please\nlet me make amends. I will work hard so that Seria can believe in\nme again."
                             ]
                         },
                         {
@@ -5547,14 +5442,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[36]\\AA[F]ハヤト...♡"
+                                "\\F[36]\\AA[F]Hayato...♡"
                             ]
                         },
                         {
@@ -5597,21 +5492,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[36]\\AA[F]ちょっと待ちなさいセリア。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こ...こ..これは......！！"
+                                "\\F[36]\\AA[F]Wait a minute, Seria. Th...th...this is......!!"
                             ]
                         },
                         {
@@ -5628,14 +5516,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[37]\\AA[F](ハヤトにアタックする\\c[27]チャンス\\cだわ！！)"
+                                "\\F[37]\\AA[F](This is my \\c[27]chance\\c to make a move on\nHayato!!)"
                             ]
                         },
                         {
@@ -5699,7 +5587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【２人の心】セリアに変化が..."
+                                "【Two Hearts】There's a change in Seria..."
                             ]
                         },
                         {
@@ -5879,14 +5767,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[3]\\AA[F]ありがとう...ハヤト。"
+                                "\\F[3]\\AA[F]Thank you...Hayato."
                             ]
                         },
                         {
@@ -5903,14 +5791,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ハヤト"
+                                "　Hayato"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらこそ！"
+                                "Thank you too!"
                             ]
                         },
                         {
@@ -5979,14 +5867,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[36]\\AA[F]（まさかセックスしてても思い出しちゃうなんて...。）"
+                                "\\F[36]\\AA[F](I can't believe I'm remembering it even while having\nsex....)"
                             ]
                         },
                         {
@@ -6003,14 +5891,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[35]\\AA[F]（やっぱりわたしの心にはまだ...アイツが...♡）"
+                                "\\F[35]\\AA[F](After all, he's still in my heart...♡)"
                             ]
                         },
                         {
@@ -6044,7 +5932,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
@@ -6204,21 +6092,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[37]\\AA[F]（\\c[27]チャンス\\c.....ハヤトと\\c[27]にゃんにゃん\\cする"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "チャンスなのよ...！！！！！！！）"
+                                "\\F[37]\\AA[F](\\c[27]This is a chance\\c..... a chance to get lovey-\ndovey with Hayato...!!!)"
                             ]
                         },
                         {
@@ -6419,7 +6300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【２人の心】セリアに変化"
+                                "[Two Hearts] Change in Seria"
                             ]
                         },
                         {
@@ -6443,7 +6324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【２人の心】\\c[27]セリアに邪悪な変化が..."
+                                "[Two Hearts] \\c[27] An evil change in Seria..."
                             ]
                         },
                         {
@@ -6467,7 +6348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【２人の心】ハヤトに変化"
+                                "[Two Hearts] Change in Hayato"
                             ]
                         },
                         {
@@ -6491,7 +6372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【２人の心】\\c[27]ハヤトに邪悪な変化が..."
+                                "[Two Hearts] \\c[27] An evil change in Hayato..."
                             ]
                         },
                         {
@@ -6722,14 +6603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルールブック....どれを見ようかしら。"
+                                "Seria: Which rulebook should I look at, I wonder."
                             ]
                         },
                         {
@@ -6771,28 +6645,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "１.セリアは暗証番号4桁を\\c[27]何らかの方法\\cで入手しなくてはならない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "２.１を終えた場合、ハヤトを収監している独房の魔術を解く。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "３.その時点で行ける場所ならどこでも調べて良い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "４.サディからの接触はハヤトの魔法が無い限りは\\c[27]自由\\c。"
+                                "1. Seria must obtain the 4-digit pin by \\c[27]some method\\c. 2.\nOnce 1 is completed, she must dispel the magic of the cell where\nHayato is imprisoned. 3. She can investigate anywhere she can\nreach at that point. 4. Contact from Sadi is \\c[27]free\\c unless\nHayato's magic is gone."
                             ]
                         },
                         {
@@ -6809,14 +6662,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "５.どうしても暗証番号が分からない場合、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[27]サディのお願いを一つ聞く事で、一桁教えて貰える\\c"
+                                "5. If she absolutely cannot figure out the pin, she can learn one\ndigit by listening to one of Sadi's requests \\c[27]\\c."
                             ]
                         },
                         {
@@ -6833,14 +6679,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（よく考えたら...一部微妙に変わってない...？）"
+                                "(When I think about it... Hasn't some part subtly changed...?)"
                             ]
                         },
                         {
@@ -6870,28 +6716,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "１.メリルはハヤトの監視を行う"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "２.暗号を解除するまでは檻で待機。好きにしてて良い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "３.ハヤトは檻の中からサポート\\c[27]しても\\c良い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "４.お互いに対する直接攻撃は禁止。"
+                                "1. Merill will monitor Hayato. 2. Until the code is decrypted,\nshe can do as she pleases while waiting in the cage. 3. Hayato\nmay provide support\\c[27] from within the cage\\c. 4. Direct\nattacks against each other are prohibited."
                             ]
                         },
                         {
@@ -6908,7 +6733,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "5.\\c[27]メリルから\\cハヤトに直接触れる行為を禁止。"
+                                "5. \\c[27] Any direct physical contact from \\c Merill to Hayato is\nprohibited."
                             ]
                         },
                         {
@@ -6972,14 +6797,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "今作はオブジェクトを調べるごとにキャラクターの動向や独り言が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "左下のウインドウに表示されます。"
+                                "In this game, every time you examine an object, the character's\nactions and monologues will be displayed in the window at the\nbottom left."
                             ]
                         },
                         {
@@ -6996,14 +6814,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "単純な雰囲気だけのコメントだけでなく、実際のステータスや"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[27]心\\cに影響があるモノまで...。"
+                                "Not just comments based on the simple atmosphere, but even things\nthat affect the actual status and \\c[27]heart\\c...."
                             ]
                         },
                         {
@@ -7072,14 +6883,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]心\\cの変化についてはメニューの[\\c[14]２人の心\\c]から閲覧可能です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（キーボード[←][→]で切り替えできます）"
+                                "Changes in the \\c[27]heart\\c can be viewed from the menu's\n[\\c[14]Two Hearts\\c]. (You can switch with the keyboard's [←][→])"
                             ]
                         },
                         {
@@ -7096,14 +6900,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "セリアが調査をしている間、ハヤトがメリルにたぶらかされている場合が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あるため注意して逐一確認してみて下さい。"
+                                "Please be careful and check regularly, as Hayato may be seduced\nby Merill while Seria is investigating."
                             ]
                         },
                         {
@@ -7120,14 +6917,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そして本作は堕落度や受け入れた選択肢次第で、\\c[14]何気ない会話\\c"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "がやや変化します。"
+                                "And in this work, depending on the degree of corruption and the\nchoices accepted, \\c[14]casual conversations\\c will slightly\nchange."
                             ]
                         },
                         {
@@ -7144,7 +6934,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "１周目はなるべくCtrlスキップしない事を推奨しております"
+                                "We recommend not using Ctrl skip as much as possible during the\nfirst round."
                             ]
                         },
                         {
@@ -7192,7 +6982,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "一桁目は　「\\c[14]5\\c」"
+                                "The first digit is '\\c[14]5\\c'."
                             ]
                         },
                         {
@@ -7209,7 +6999,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "二桁目は　「\\c[14]8\\c」"
+                                "The second digit is '\\c[14]8\\c'."
                             ]
                         },
                         {
@@ -7226,7 +7016,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "三桁目は　「\\c[14]6\\c」"
+                                "The third digit is '\\c[14]6\\c'."
                             ]
                         },
                         {
@@ -7326,7 +7116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プレイ中ずっと画像表示されてしまうバグ直しです。"
+                                "It's a bug fix where the image is displayed all the time during\nplay."
                             ]
                         },
                         {
@@ -7431,14 +7221,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F]え？この辺りに鏡無かったっけ..？"
+                                "\\F[10]\\AA[F]Huh? Wasn't there a mirror around here..?"
                             ]
                         },
                         {
@@ -8094,7 +7884,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ねえ、サディ気持ちよかった...?♡"
+                                "Hey, did it feel good, Sadi...?♡"
                             ]
                         },
                         {
@@ -8111,14 +7901,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ええ、勿論...♡男の本能を惑わす【\\c[27]堕天使のぱふぱふ\\c】も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "随分馴染みましたねぇ...♡"
+                                "Yes, of course...♡ You've become quite accustomed to the\n【\\c[27]Fallen Angel's Puff Puff\\c】 that bewitches a man's\ninstincts...♡"
                             ]
                         },
                         {
@@ -8135,7 +7918,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "魔王軍に欲しいくらいえっちですよセリア...♡"
+                                "You're so lewd, Seria...♡ The Demon King's army would want\nyou...♡"
                             ]
                         },
                         {
@@ -8152,7 +7935,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "わたし...コレもっと覚えたい♡"
+                                "I... want to learn more about this♡"
                             ]
                         },
                         {
@@ -8169,7 +7952,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "くく...。"
+                                "Hehe...."
                             ]
                         },
                         {
@@ -8186,14 +7969,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "とうとうセリアはルールそっちのけでお互いを気持ちよくさせること事だけを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "目的としたセックスを約束してしまった....。"
+                                "Finally, Seria promised to have sex that disregards the rules and\naims only to make each other feel good....."
                             ]
                         },
                         {
@@ -8295,14 +8071,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[2]\\AA[F]くす.....はいおしまい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "いかがかしら？私のダンス....。"
+                                "\\F[2]\\AA[F]Hehe... Well, that's it. How was it? My dance..."
                             ]
                         },
                         {
@@ -8319,14 +8088,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "英雄でさえ見惚れさせ悪の手籠にしてしまう魅惑の淫技..."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ".....【\\c[27]堕落のセクシーダンス\\c】"
+                                "The bewitching lewd technique that even captivates heroes and\nensnares them in the hands of evil... .....【\\c[27]Fallen Sexy\nDance\\c】"
                             ]
                         },
                         {
@@ -8343,14 +8105,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "セリアにプロテクトをかけるタイミングを奪い、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "心までも引き離す狡猾な罠とも知らずにハヤトは見惚れてしまい..。"
+                                "Hayato was captivated, unaware that it was a cunning trap to\nsteal the timing of casting Protect on Seria and even pull away\nhis heart..."
                             ]
                         },
                         {
@@ -8379,7 +8134,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "イイ子にしてたらまたしてあげる.....♡"
+                                "If you're a good boy, I'll do it again.....♡"
                             ]
                         },
                         {
@@ -8443,7 +8198,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ハヤトがメリルのセクシーダンスの虜になってしまった....。"
+                                "Hayato became captivated by Merill's sexy dance....."
                             ]
                         },
                         {
@@ -8460,21 +8215,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "今後ハヤトの堕落度が上昇するスピードに影響が発生しました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "【メリルへの想い】にも変化が起きやすくなったため、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "逐一確認してみてください。"
+                                "The speed at which Hayato's corruption level increases has been\naffected. Changes are also likely to occur in Feelings for\nMerill, so please check regularly."
                             ]
                         },
                         {

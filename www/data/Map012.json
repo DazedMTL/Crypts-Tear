@@ -2245,21 +2245,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[13]\\AA[F]...なんでアンタ居んのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ハヤトを連れ去ったんじゃ無かったの？"
+                                "\\F[13]\\AA[F]...Why are you here? Weren't you supposed to have\ntaken Hayato away?"
                             ]
                         },
                         {
@@ -2276,21 +2269,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　メリルの幻影"
+                                "　Phantom of Merrill"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[24]\\AA[F]小娘は知らないんでしょうけど、淫魔は分身を作り出せるの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[27]ハーレムで殿方を喜ばせる\\cためにね...。"
+                                "\\F[24]\\AA[F]You probably don't know, but succubi can create\nclones. \\c[27]To please the men in their harem, \\cthat is...."
                             ]
                         },
                         {
@@ -2307,21 +2293,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　メリルの幻影"
+                                "　Phantom of Merrill"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[23]\\AA[F]アンタの彼氏もこれで気持ちよくさせちゃおうかしら。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "超好みだし...♡"
+                                "\\F[23]\\AA[F]Maybe I should make your boyfriend feel good too.\nHe's totally my type...♡"
                             ]
                         },
                         {
@@ -2338,14 +2317,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F]\\M[yes]そっ、それルール違反でしょ！アイツが言ってたわよ！"
+                                "\\F[10]\\AA[F]\\M[yes]Th-that's against the rules! He said so\nhimself!"
                             ]
                         },
                         {
@@ -2362,14 +2341,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]（まだ...彼氏じゃないけど。）"
+                                "\\F[10](He's... not my boyfriend yet, though.)"
                             ]
                         },
                         {
@@ -2386,21 +2365,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　メリルの幻影"
+                                "　Phantom of Merrill"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[24]\\AA[F]はいはい、うるさい小娘ねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私はサディ様の伝令係としてここに分身置いてるだけよ。"
+                                "I'm just here as a messenger for Lady Sadi, leaving a clone of\nmyself."
                             ]
                         },
                         {
@@ -2417,21 +2389,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　メリルの幻影"
+                                "　Phantom of Merrill"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[2]\\AA[F]私の事は放っておいてゲーム楽しんだら？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "詰まったら\\c[27]サディ様が助けてくれるわよ...？♡\\c"
+                                "\\F\\c\\AA[F]Why don't you leave me alone and enjoy the game? If you\nget stuck, \\c[27]Lady Sadi will help you...♡\\c"
                             ]
                         },
                         {
@@ -2448,14 +2413,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F]ぐっ...！"
+                                "\\F[10]\\AA[F]Guh...!"
                             ]
                         },
                         {
@@ -2556,14 +2521,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[17]\\AA[F]（体が凄くジンジンする..ワケわかんない..。）"
+                                "\\F[17]\\AA[F](My body is tingling intensely... I don't understand\nwhat's happening...)"
                             ]
                         },
                         {
@@ -2580,14 +2545,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[17]\\AA[F]...ね、ねえ...ちょっと。"
+                                "\\F[17]\\AA[F]...H-hey...wait a minute."
                             ]
                         },
                         {
@@ -2604,14 +2569,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　メリルの幻影"
+                                "　Phantom of Merrill"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あらあら、どうしたの小娘。息なんか切らしちゃって...。"
+                                "Oh my, what's the matter, little girl. You're out of breath...."
                             ]
                         },
                         {
@@ -2628,14 +2593,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...アイツを、呼んで。"
+                                "...Call him."
                             ]
                         },
                         {
@@ -2652,21 +2617,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　メリルの幻影"
+                                "　Phantom of Merrill"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[21]\\AA[F]アイツ？誰の事かしら。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[27]サディ「様」\\cのことならそう言いなさい。"
+                                "\\F[21]\\AA[F]Him? I wonder who you're talking about. \\c[27]If you\nmean Lord \\cSadi, then say so."
                             ]
                         },
                         {
@@ -2705,14 +2663,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　メリルの幻影"
+                                "　Phantom of Merrill"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[20]\\AA[F]...くす。"
+                                "\\F[20]\\AA[F]...Heh."
                             ]
                         },
                         {
@@ -2758,14 +2716,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[17]\\AA[F]........さ"
+                                "\\F[17]\\AA[F]........Sa"
                             ]
                         },
                         {
@@ -2789,14 +2747,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[9]\\AA[F]...\\c[27]サディ様\\cを呼んで。"
+                                "\\F[9]\\AA[F]...\\c[27]Call Lord Sadi\\c."
                             ]
                         },
                         {
@@ -2813,14 +2771,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[9]\\AA[F]言いたいことがあるから...!これでいいでしょ！"
+                                "\\F[9]\\AA[F]Because I have something to say...! This should be\nfine!"
                             ]
                         },
                         {
@@ -2837,14 +2795,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　メリルの幻影"
+                                "　Phantom of Merrill"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[20]\\AA[F]ふふふ...。サディ様♡"
+                                "\\F[20]\\AA[F]Hehehe.... Lord Sadi♡"
                             ]
                         },
                         {
@@ -2924,21 +2882,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　サディ"
+                                "　Sadi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "メリル、ご苦労です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "貴女も\\c[27]シたいこと\\cをしてなさい。"
+                                "Merill, you've worked hard. You should also do what you\n\\c[27]want\\c."
                             ]
                         },
                         {
@@ -2955,7 +2906,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　メリルの幻影"
+                                "　Phantom of Merrill"
                             ]
                         },
                         {
@@ -3004,14 +2955,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[17]...あの...。"
+                                "\\F[17]...Um...."
                             ]
                         },
                         {
@@ -3097,7 +3048,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【２人の心】セリアに変化"
+                                "Changes in the Hearts of the Two - Seria"
                             ]
                         },
                         {
@@ -3121,7 +3072,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【２人の心】ハヤトに変化"
+                                "Changes in the Hearts of the Two - Hayato"
                             ]
                         },
                         {
@@ -3165,21 +3116,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[11]\\AA[F]...いい？！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ハヤトに手を出したらアンタを八つ裂きにしてやるんだからね！"
+                                "\\F[11]\\AA[F]...Got it?! If you lay a hand on Hayato, I'll tear\nyou to pieces!"
                             ]
                         },
                         {
@@ -3196,21 +3140,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　メリルの幻影"
+                                "　Phantom of Merrill"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[24]\\AA[F]こんな気性の荒い女が\\c[14]女神の末裔\\cねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ハヤトくんの方がおとなしくて可愛いわよ？"
+                                "\\F[24]\\AA[F]Such a hot-tempered woman is \\c[14]a descendant of\nthe goddess, huh. \\cHayato-kun is more docile and cute, isn't he?"
                             ]
                         },
                         {
@@ -3227,21 +3164,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[11]\\AA[F]うるさい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（わたしだってそんなの知らないわよ..）"
+                                "\\F[11]\\AA[F]Shut up! (I didn't even know that...)"
                             ]
                         },
                         {
@@ -4582,7 +4512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "寝る？"
+                                "Going to sleep?"
                             ]
                         },
                         {
@@ -4665,7 +4595,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[1]\\AA[F]\\M[yes]行きましょ。"
+                                "\\F[1]\\AA[F]\\M[yes]Let's go."
                             ]
                         },
                         {
@@ -4776,14 +4706,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[5]\\AA[F]...だめ。なんだか頭が凄くぼーっとして...。"
+                                "\\F[5]\\AA[F]...No good. Somehow, my head feels incredibly\nfoggy...."
                             ]
                         },
                         {
@@ -4800,14 +4730,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "セリアのAP（特別な行動の際に消費するポイント）が枯渇した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これではもう...。"
+                                "Seria's AP (points consumed during special actions) has been\ndepleted. With this, it's over...."
                             ]
                         },
                         {
@@ -4839,7 +4762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[1]\\AA[F]普通に姿見...よね。"
+                                "\\F[1]\\AA[F]Just a normal mirror... right."
                             ]
                         },
                         {
@@ -4856,14 +4779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[1]\\AA[F]ルールブック読んでる時から薄々思ってたけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きっとこれも\\c[14]ヒント\\cなのかも。"
+                                "\\F\\c[14]\\AA[F]I've had a hunch since I was reading the rulebook,\nbut this might also be a \\c[14]hint\\c."
                             ]
                         },
                         {
@@ -4880,14 +4796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリアが触れた途端、鏡が輝く。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして───────"
+                                "The moment Seria touched it, the mirror shone. And then───────"
                             ]
                         },
                         {
@@ -4979,14 +4888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこに..."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "邪悪な淫魔と褐色の美女が甘いキスに興じている断片的な映像が映し出された。"
+                                "There... a fragmentary image of a wicked succubus and a tanned\nbeauty indulging in a sweet kiss was projected."
                             ]
                         },
                         {
@@ -5022,14 +4924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はむ...ちゅ.....♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "れろ........♡"
+                                "Mmm...kiss.....♡ Lick........♡"
                             ]
                         },
                         {
@@ -5046,14 +4941,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　サディ"
+                                "　Sadi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くく...いかがですか。淫魔のキスは...？蜜の味でしょう♡"
+                                "Hehe... How is it? The succubus's kiss...? It tastes like honey,\ndoesn't it?♡"
                             ]
                         },
                         {
@@ -5077,7 +4972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あン..♡やば...サディのこともっと欲しくなる...♡"
+                                "Ahn..♡ This is bad... I want more of Sadi...♡"
                             ]
                         },
                         {
@@ -5094,14 +4989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女性は心地よさそうにサディに舌を絡めている...。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まるで\\c[27]望んでるかのように\\c"
+                                "The woman is entwining her tongue with Sadi's in pleasure.... as\nif she's \\c[27]desiring it\\c."
                             ]
                         },
                         {
@@ -5118,14 +5006,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "な、何これ...。サディと女の子がこんな、らぶらぶな.."
+                                "Wh-what is this... Sadi and a girl are so... lovey-dovey..."
                             ]
                         },
                         {
@@ -5142,14 +5030,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女の子の方は肌焼けてるし...メリル？"
+                                "The girl has a tan... Merill?"
                             ]
                         },
                         {
@@ -5166,14 +5054,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "..............なんてモノ見せつけてくれてんの。"
+                                "..............What kind of thing are they showing me..."
                             ]
                         },
                         {
@@ -5190,14 +5078,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...............。"
+                                "................"
                             ]
                         },
                         {
@@ -5214,14 +5102,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...そんなにアイツのキスって良いの..？"
+                                "...Is her kiss really that good..?"
                             ]
                         },
                         {
@@ -5372,7 +5260,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【２人の心】セリアに変化"
+                                "[Two Hearts] Change in Seria"
                             ]
                         },
                         {
@@ -5429,7 +5317,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【２人の心】\\c[27]ハヤトに邪悪な変化が..."
+                                "[Two Hearts] An evil change in Hayato..."
                             ]
                         },
                         {
@@ -5484,7 +5372,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【２人の心】セリアに変化"
+                                "[Two Hearts] Change in Seria"
                             ]
                         },
                         {
@@ -5770,14 +5658,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[1]\\AA[F]今は闇雲に入力しない方良いわね。"
+                                "\\F[1]\\AA[F]It's better not to input blindly right now."
                             ]
                         },
                         {
@@ -5794,21 +5682,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F]総当たりも考えたんだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アイツ等の事だから絶対ペナルティあるでしょうし...。"
+                                "\\F[10]\\AA[F]I considered trying every possible combination, but\nknowing them, there's definitely going to be a penalty..."
                             ]
                         },
                         {
@@ -5885,14 +5766,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[1]\\AA[F]また...バリア？"
+                                "\\F[1]\\AA[F]Again... a barrier?"
                             ]
                         },
                         {
@@ -5921,7 +5802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ピーーーー　ピーーーー　・・・テクダサイ"
+                                "Beep beep ... please give it to me."
                             ]
                         },
                         {
@@ -5938,14 +5819,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[1]\\AA[F]またこの流れ........？"
+                                "\\F[1]\\AA[F]This pattern again........?"
                             ]
                         },
                         {
@@ -5962,7 +5843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サディ様ノ\\c[27]財宝の数\\cヲ入力シテクダサイ.."
+                                "Please enter the number\\c of Lord Sadi's\\c[27] treasures.."
                             ]
                         },
                         {
@@ -5979,14 +5860,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[14]\\AA[F]また........えっ？"
+                                "\\F[14]\\AA[F]Again........huh?"
                             ]
                         },
                         {
@@ -6003,7 +5884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サディ様ノ\\c[27]財宝の数\\cヲ入力シテクダサイ.."
+                                "Please enter the number\\c of Lord Sadi's\\c[27] treasures.."
                             ]
                         },
                         {
@@ -6020,14 +5901,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[14]\\AA[F]そんな資料あった...!?"
+                                "\\F[14]\\AA[F]There was such a document...!?"
                             ]
                         },
                         {
@@ -6163,7 +6044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サディ様ノ\\c[27]財宝の数\\cヲ入力シテクダサイ.."
+                                "Please enter the number\\c of Lady Sadi's\\c[27] treasures.."
                             ]
                         },
                         {
@@ -6191,14 +6072,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[5]\\AA[F]...だめ。なんだか頭が凄くぼーっとして...。"
+                                "\\F[5]\\AA[F]...No good. Somehow, my head feels incredibly\nfoggy...."
                             ]
                         },
                         {
@@ -6215,14 +6096,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "セリアのAP（特別な行動の際に消費するポイント）が枯渇した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これではもう...。"
+                                "Seria's AP (points consumed during special actions) has been\ndepleted. With this, it's over...."
                             ]
                         },
                         {
@@ -6254,28 +6128,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F]入力する........？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな情報どこにも無かったってば...。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(\\c[14]※イベントが進行します\\c)"
+                                "\\F[10]\\AA[F]Enter it........? There was no such information\nanywhere.... (\\c[14]*The event will proceed\\c)"
                             ]
                         },
                         {
@@ -6377,7 +6237,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "違イマスノデ\\c[27]オシオキ\\cデス。"
+                                "That's wrong, so it's a punishment\\c."
                             ]
                         },
                         {
@@ -6417,14 +6277,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[7]\\AA[F]...そ、そうでしょうね。だって\\c[27]分からないんだもん！\\c"
+                                "\\F[7]\\AA[F]...Th, that's right. Because \\c[27] I don't know! \\c"
                             ]
                         },
                         {
@@ -6452,14 +6312,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\F[10]\\AA[F]じゃあコレは！？"
+                                "\\F[10]\\AA[F]Then what is this!?"
                             ]
                         },
                         {
@@ -6476,7 +6336,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[27]オシオキ\\c。"
+                                "\\c[27]Punishment\\c."
                             ]
                         },
                         {
@@ -6540,14 +6400,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "　セリア"
+                                "　Seria"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "....................。"
+                                "....................."
                             ]
                         },
                         {
@@ -6564,14 +6424,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\F[11]\\AA[F]..............アッタマきた。"
+                                "\\F[11]\\AA[F]..............I've had enough."
                             ]
                         },
                         {
@@ -6588,21 +6448,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\F[18]\\AA[F]\\{手掛かり無い状態で問答するなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "アホらし過ぎない！？\\^"
+                                "\\F[18]\\AA[F]\\{Isn't it too ridiculous to have a discussion\nwithout any clues!?\\^"
                             ]
                         },
                         {
@@ -6619,21 +6472,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\F[18]\\AA[F]\\{人間性の浅ましさが透けて見えんのよ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "このこのこのこのこのーーーっ\\^"
+                                "\\F[18]\\AA[F]\\{The shallowness of humanity is transparent, you,\nyou, you, you, you\\^"
                             ]
                         },
                         {
@@ -6650,7 +6496,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[27]オシオシオシオシオキ\\c。"
+                                "\\c[27]Oshioshioshioshioki\\c."
                             ]
                         },
                         {
@@ -6732,14 +6578,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\F[17]\\AA[F]..............きゅぅ...。"
+                                "\\F[17]\\AA[F]..............sigh...."
                             ]
                         },
                         {
@@ -6785,7 +6631,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【２人の心】ハヤトに変化"
+                                "The Change in the Hearts of the Two People, Hayato"
                             ]
                         },
                         {
@@ -6937,7 +6783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サディ様ノ\\c[27]財宝の数\\cヲ入力シテクダサイ.."
+                                "Please enter the number\\c of Lady Sadi's\\c[27] treasures.."
                             ]
                         },
                         {
@@ -6965,14 +6811,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　セリア"
+                                "　Seria"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[5]\\AA[F]....だめ。なんだか頭が凄くぼーっとして...。"
+                                "\\F[5]\\AA[F]....No good. Somehow, my head feels incredibly\nfoggy...."
                             ]
                         },
                         {
@@ -6989,14 +6835,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "セリアのAP（特別な行動の際に消費するポイント）が枯渇した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これではもう....。"
+                                "Seria's AP (points consumed during special actions) has been\ndepleted. With this, it's over....."
                             ]
                         },
                         {
@@ -7028,21 +6867,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[1]\\AA[F]これ当てずっぽうで入力するしかないわよね........"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(\\c[14]※イベントが進行します\\c)"
+                                "\\F\\c[14]\\AA[F]We have no choice but to input this randomly, don't\nwe........ (\\c[14]*The event will proceed\\c)"
                             ]
                         },
                         {
@@ -7144,7 +6976,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "違イマスノデ\\c[27]オシオキ\\cデス。"
+                                "That's incorrect, so it's a punishment\\c."
                             ]
                         },
                         {
@@ -7184,14 +7016,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[7]\\AA[F]...そ、そうでしょうね。だって\\c[27]分からないんだもん！\\c"
+                                "\\F[7]\\AA[F]...Y-Yeah, I guess. After all, \\c[27] I don't know! \\c"
                             ]
                         },
                         {
@@ -7230,14 +7062,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\F[10]\\AA[F]じゃあコレは！？"
+                                "\\F[10]\\AA[F]Then what about this!?"
                             ]
                         },
                         {
@@ -7254,7 +7086,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[27]オシオキ\\c。"
+                                "\\c[27]Punishment\\c."
                             ]
                         },
                         {
@@ -7318,14 +7150,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "....................。"
+                                "....................."
                             ]
                         },
                         {
@@ -7342,14 +7174,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\F[11]\\AA[F]..............アッタマきた。"
+                                "\\F[11]\\AA[F]..............I've had enough."
                             ]
                         },
                         {
@@ -7366,21 +7198,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\F[18]\\AA[F]\\{手掛かり無い状態で問答するなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "アホらし過ぎない！？\\^"
+                                "\\F[18]\\AA[F]\\{Isn't it too ridiculous to have a discussion\nwithout any clues!?\\^"
                             ]
                         },
                         {
@@ -7397,21 +7222,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\F[18]\\AA[F]\\{人間性の浅ましさが透けて見えんのよ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "このこのこのこのこのーーーっ\\^"
+                                "\\F[18]\\AA[F]\\{The shallowness of humanity is transparent, you,\nyou, you, you, you\\^"
                             ]
                         },
                         {
@@ -7428,7 +7246,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[27]オシオシオシオシオキ\\c。"
+                                "\\c[27]Oshioshioshioshioki\\c."
                             ]
                         },
                         {
@@ -7510,14 +7328,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\F[17]\\AA[F]..............きゅぅ...。"
+                                "\\F[17]\\AA[F]..............sigh...."
                             ]
                         },
                         {
@@ -7563,7 +7381,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【２人の心】ハヤトに変化"
+                                "【The Change in the Two's Hearts】Hayato"
                             ]
                         },
                         {
@@ -7744,14 +7562,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[13]\\AA[F]じっくり見るのも嫌なんだけど...。"
+                                "\\F[13]\\AA[F]I don't really like being stared at either...."
                             ]
                         },
                         {
@@ -7780,7 +7598,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "サディは一年前に勃発した戦争で、多くの戦績をおさめた。"
+                                "Sadi achieved many military accomplishments in the war that broke\nout a year ago."
                             ]
                         },
                         {
@@ -7797,14 +7615,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に\\c[27]拘束した女性に対する尋問\\cについては素晴らしく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "多くの女性がサディの真摯な姿勢に心を打たれたのか改心に成功している。"
+                                "Particularly, his interrogation \\c of the women he had captured\n\\c[27] was outstanding, and many women were moved by Sadi's\nsincere attitude, leading to their successful reform."
                             ]
                         },
                         {
@@ -7821,14 +7632,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "その数はなんと\\c[14]126\\c人。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "彼女たちは今もサディを敬愛し、各地で順調に破壊工作を行っている。"
+                                "The number is an astonishing \\c[14]126\\c people. Even now, they\nhold Sadi in high esteem and are successfully carrying out\nsabotage operations in various places."
                             ]
                         },
                         {
@@ -7845,21 +7649,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[1]\\AA[F]........必要な情報ってどこかな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[14]数字かしら..\\c"
+                                "\\F\\c[14]\\AA[F]........I wonder where the necessary information\nis. \\c[14]Could it be a number..\\c"
                             ]
                         },
                         {
@@ -7973,7 +7770,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【２人の心】セリアに変化"
+                                "【Two Hearts】A Change in Seria"
                             ]
                         },
                         {
@@ -8000,21 +7797,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[3]\\AA[F]手がかり....手がかり...おっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何か分かり易く資料が置かれてあるわね。どれどれ......。"
+                                "\\F[3]\\AA[F]A clue... a clue... Oh! There seems to be some easily\nunderstandable documents left here. Let's see..."
                             ]
                         },
                         {
@@ -8043,7 +7833,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "サディは一年前に勃発した戦争で、多くの戦績をおさめた。"
+                                "Sadi achieved many military accomplishments in the war that broke\nout a year ago."
                             ]
                         },
                         {
@@ -8060,14 +7850,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に\\c[27]拘束した女性に対する尋問\\cについては素晴らしく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "多くの女性がサディの真摯な姿勢に心を打たれたのか改心に成功している。"
+                                "Particularly, his interrogation \\c of the women he had captured\n\\c[27] was outstanding, and many women were moved by Sadi's\nsincere attitude, leading to their successful reform."
                             ]
                         },
                         {
@@ -8084,14 +7867,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "その数はなんと\\c[14]126\\c人。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "彼女たちは今もサディを敬愛し、各地で順調に破壊工作を行っている。"
+                                "The number is an astonishing \\c[14]126\\c people. Even now, they\nhold Sadi in high esteem and are successfully carrying out\nsabotage operations in various places."
                             ]
                         },
                         {
@@ -8108,21 +7884,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[14]\\AA[F]........は？何これ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ゲームと関係あるの？"
+                                "\\F[14]\\AA[F]........Huh? What's this. Is it related to the game?"
                             ]
                         },
                         {
@@ -8232,7 +8001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サディは一年前に勃発した戦争で、多くの戦績をおさめた。"
+                                "Sadi achieved many military accomplishments in the war that broke\nout a year ago."
                             ]
                         },
                         {
@@ -8249,14 +8018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "特に\\c[27]拘束した女性に対する尋問\\cについては素晴らしく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "多くの女性がサディの真摯な姿勢に心を打たれたのか改心に成功している。"
+                                "Particularly, his interrogations \\c of the women he captured\n\\c[27] were outstanding, and many women were moved by Sadi's\nsincere attitude, leading to their successful reform."
                             ]
                         },
                         {
@@ -8273,14 +8035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その数はなんと\\c[14]126\\c人。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼女たちは今もサディを敬愛し、各地で順調に破壊工作を行っている。"
+                                "The number is an astonishing \\c[14]126\\c people. Even now, they\nhold Sadi in high regard and are successfully carrying out\nsabotage operations in various places."
                             ]
                         },
                         {
@@ -8297,14 +8052,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F]これでも無い！やっぱり無いわよ！"
+                                "\\F[10]\\AA[F]It's not this! It's definitely not here!"
                             ]
                         },
                         {
@@ -8672,14 +8427,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[1]\\AA[F]じっくり見るのも嫌なんだけど...。"
+                                "\\F[1]\\AA[F]I don't really like being stared at either...."
                             ]
                         },
                         {
@@ -8708,7 +8463,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "サディには別荘が\\c[14]15\\c個ある"
+                                "Sadi has \\c[14]15\\c villas."
                             ]
                         },
                         {
@@ -8725,7 +8480,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "それらの殆どは\\c[27]彼を愛する資産家の女性達\\cが各々で提供しているもので"
+                                "Most of them are provided by wealthy women who love him."
                             ]
                         },
                         {
@@ -8742,7 +8497,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "サディ主催の\\c[27]パーティー\\cのために使われる。"
+                                "They are used for the \\c[27]parties\\c hosted by Sadi."
                             ]
                         },
                         {
@@ -8759,21 +8514,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[1]\\AA[F]..........必要な情報ってどこかな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[14]数字かしら..\\c"
+                                "\\F\\c[14]\\AA[F]..........I wonder where the necessary information\nis. \\c[14]Could it be a number..\\c"
                             ]
                         },
                         {
@@ -8879,21 +8627,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[3]\\AA[F]手がかり....手がかり...おっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何か分かり易く資料が置かれてあるわね。どれどれ......。"
+                                "\\F[3]\\AA[F]A clue... a clue... Oh! There seems to be some easily\nunderstandable documents placed here. Let's see..."
                             ]
                         },
                         {
@@ -8922,7 +8663,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "サディには別荘が\\c[14]15\\c個ある"
+                                "Sadi has \\c[14]15\\c villas."
                             ]
                         },
                         {
@@ -8939,7 +8680,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "それらの殆どは\\c[27]彼を愛する資産家の女性達\\cが各々で提供しているもので"
+                                "Most of them are provided by wealthy women who love him."
                             ]
                         },
                         {
@@ -8956,7 +8697,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "サディ主催の\\c[27]パーティー\\cのために使われる。"
+                                "They are used for the \\c[27]parties\\c hosted by Sadi."
                             ]
                         },
                         {
@@ -8973,21 +8714,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　セリア"
+                                "　Seria"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[14]\\AA[F].............は？何これ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ゲームと関係あるの？"
+                                "\\F[14]\\AA[F].............Huh? What's this. Is it related to the\ngame?"
                             ]
                         },
                         {
@@ -9104,7 +8838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サディには別荘が\\c[14]15\\c個ある"
+                                "Sadi has \\c[14]15\\c villas."
                             ]
                         },
                         {
@@ -9121,7 +8855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それらの殆どは\\c[27]彼を愛する資産家の女性達\\cが各々で提供しているもので"
+                                "Most of them are provided by wealthy women \\c[27] who love him \\c\nindividually."
                             ]
                         },
                         {
@@ -9138,7 +8872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サディ主催の\\c[27]パーティー\\cのために使われる。"
+                                "They are used for the \\c[27]parties\\c hosted by Sadi."
                             ]
                         },
                         {
@@ -9155,14 +8889,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F]これでも無い！やっぱり無いわよ！"
+                                "\\F[10]\\AA[F]This isn't it either! It's definitely not here!"
                             ]
                         },
                         {
@@ -9239,14 +8973,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルールブック....どれを見ようかしら。"
+                                "Rulebook.... I wonder which one to look at."
                             ]
                         },
                         {
@@ -9287,28 +9021,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "１.セリアは暗証番号4桁を\\c[27]何らかの方法\\cで入手しなくてはならない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "２.１を終えた場合、ハヤトを収監している独房の魔術を解く。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "３.その時点で行ける場所ならどこでも調べて良い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "４.サディからの接触は\\c[27]セリアが許可した場合のみ\\cに限る"
+                                "1. Seria must obtain the 4-digit pin code by \\c[27]some method\\c.\n2. Once 1 is completed, she must dispel the magic of the cell\nwhere Hayato is imprisoned. 3. She can investigate anywhere she\ncan reach at that point. 4. Contact from Sadi is only allowed\n\\c[27]if Seria permits it\\c."
                             ]
                         },
                         {
@@ -9325,14 +9038,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "５.どうしても暗証番号が分からない場合、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[27]サディのお願いを一つ聞く事で、一桁教えて貰える\\c"
+                                "5. If you absolutely cannot figure out the pin code, you can\nlearn one digit by listening to one of Sadi's requests \\c[27]\\c."
                             ]
                         },
                         {
@@ -9349,21 +9055,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "さっさとどこかに隠されている暗号を見つけないと...。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ただノーヒントなのが困るわ。ゲームになってないじゃない。"
+                                "I need to quickly find the code that's hidden somewhere.... But\nit's troublesome with no hints. This isn't even a game."
                             ]
                         },
                         {
@@ -9380,21 +9079,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "とにかく至る所に行って色々調べる！それしか無いわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "...........................。"
+                                "Anyway, I have to go everywhere and investigate various things!\nThat's the only way. ............................"
                             ]
                         },
                         {
@@ -9411,7 +9103,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...........................。"
+                                "............................"
                             ]
                         },
                         {
@@ -9428,21 +9120,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "もしどこに行ってもヒントが無かったら...."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[27]5番のルールを...。"
+                                "If there are no hints no matter where I go.... \\c[27]I'll have to\nuse the 5th rule...."
                             ]
                         },
                         {
@@ -9459,21 +9144,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ハヤト....。わたしちょっと不安になってる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "早く一緒に出なきゃ。"
+                                "Hayato... I'm getting a little anxious. We need to get out of\nhere quickly."
                             ]
                         },
                         {
@@ -9503,28 +9181,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "１.メリルはハヤトの監視を行う"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "２.暗号を解除するまでは檻で待機。好きにしてて良い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "３.ハヤトは檻の中からサポート\\c[27]しても\\c良い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "４.お互いに対する直接攻撃は禁止。"
+                                "1. Merill will monitor Hayato. 2. Wait in the cage until the code\nis decrypted. You can do as you like. 3. Hayato can support\n\\c[27] from inside the cage \\c. 4. Direct attacks on each other\nare prohibited."
                             ]
                         },
                         {
@@ -9541,7 +9198,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "5.\\c[27]メリルから\\cハヤトに直接触れる行為を禁止。"
+                                "5. \\c[27] Any direct physical contact from \\c Merill to Hayato is\nprohibited."
                             ]
                         },
                         {
@@ -9558,14 +9215,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]このルール通りなら\\cハヤトはまだ無事の筈。"
+                                "\\c[27]If we follow these rules, \\cHayato should still be safe."
                             ]
                         },
                         {
@@ -9582,21 +9239,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そもそも力が制限されてるとは言え、一対一ならあんな低俗な淫魔に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "アイツが負ける筈無いもの。なんたって\\c[14]勇者の弟\\cだからね！"
+                                "Even if his power is limited, there's no way he would lose to\nsuch a vulgar succubus in a one-on-one fight. After all, he's the\n\\c[14]hero's younger brother\\c!"
                             ]
                         },
                         {
@@ -9613,21 +9263,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あと最後の5番！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こんなの明示しないとダメだなんてどんだけ淫乱なのよ！"
+                                "And the last rule, number 5! How lewd do you have to be to need\nsuch a rule explicitly stated!"
                             ]
                         },
                         {
@@ -9691,14 +9334,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "今作はオブジェクトを調べるごとにキャラクターの動向や独り言が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "左下のウインドウに表示されます。"
+                                "In this game, as you examine objects, the characters' actions and\nmonologues will be displayed in the window at the bottom left."
                             ]
                         },
                         {
@@ -9715,14 +9351,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "単純な雰囲気だけのコメントだけでなく、実際のステータスや"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[27]心\\cに影響があるモノまで...。"
+                                "Not just comments based on simple atmosphere, but even things\nthat affect actual status and \\c[27]heart\\c...."
                             ]
                         },
                         {
@@ -9791,14 +9420,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]心\\cの変化についてはメニューの[\\c[14]２人の心\\c]から閲覧可能です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（キーボード[←][→]で切り替えできます）"
+                                "Changes in the \\c[27]heart\\c can be viewed from the menu's\n[\\c[14]Two Hearts\\c]. (You can switch with the keyboard's [←][→])"
                             ]
                         },
                         {
@@ -9815,14 +9437,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "セリアが調査をしている間、ハヤトがメリルにたぶらかされている場合が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あるため注意して逐一確認してみて下さい。"
+                                "Please be careful and check regularly, as there may be times when\nHayato is being led astray by Merill while Seria is\ninvestigating."
                             ]
                         },
                         {
@@ -9839,14 +9454,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そして本作は堕落度や受け入れた選択肢次第で、\\c[14]何気ない会話\\c"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "がやや変化します。"
+                                "And in this work, depending on the degree of corruption and the\nchoices accepted, \\c[14]casual conversations\\c will slightly\nchange."
                             ]
                         },
                         {
@@ -9863,7 +9471,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "１周目はなるべくCtrlスキップしない事を推奨しております"
+                                "It is recommended not to use Ctrl skip as much as possible in the\nfirst round."
                             ]
                         },
                         {
@@ -9981,21 +9589,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[1]\\AA[F]んーー何これ、通れない...！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この先に通路があるみたいなんだけど先がよく見えないわ..！"
+                                "\\F[1]\\AA[F]Hmm, what's this, I can't get through...! It seems\nlike there's a passage ahead, but I can't see it clearly..!"
                             ]
                         },
                         {
@@ -10063,14 +9664,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[1]\\AA[F]これさえ無ければ...。"
+                                "\\F[1]\\AA[F]If only this wasn't here...."
                             ]
                         },
                         {
@@ -10099,7 +9700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ピーーーー　ピーーーー　・・・テクダサイ"
+                                "Beep beep ... Please give it to me."
                             ]
                         },
                         {
@@ -10116,14 +9717,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[1]\\AA[F]えっ、今なんて？"
+                                "\\F[1]\\AA[F]Eh, what did you just say?"
                             ]
                         },
                         {
@@ -10140,7 +9741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[27]数字\\cヲ入力シテクダサイ.."
+                                "\\c[27]Please enter the \\c number.."
                             ]
                         },
                         {
@@ -10157,7 +9758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サディ様ノオ陰デ\\c[27]改心した女性の人数\\cヲ入力シテクダサイ.."
+                                "Please enter the number\\c of women who have reformed due to Lord\nSadi's influence\\c[27].."
                             ]
                         },
                         {
@@ -10183,28 +9784,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Seria"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[1]\\AA[F]....!それなら資料にあったと思う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(\\c[14]APを消費して入力します\\c)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（\\c[27]※間違うとペナルティがあります\\c）"
+                                "\\F\\c[14]\\AA[F]....! I think it was in the documents. (\\c[14]You\nwill consume AP to input\\c) (\\c[27]*There is a penalty for\nmistakes\\c)"
                             ]
                         },
                         {
@@ -10309,7 +9896,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "素晴ラシイ　正解デス"
+                                "Wonderful, that's the correct answer."
                             ]
                         },
                         {
@@ -10326,14 +9913,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[6]\\AA[F]ふふん♪"
+                                "\\F[6]\\AA[F]Hehe♪"
                             ]
                         },
                         {
@@ -10350,14 +9937,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\^サディ様ハ他二モ改心サセタ女性ニ対シテ手厚イフォローヲシタリ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "魔王軍に馴染ムヨウ取リ計ラッテ下サッタリs"
+                                "\\^Lord Sadi has also generously followed up with other women who\nhave reformed, and has made arrangements for them to fit into the\nDemon King's army."
                             ]
                         },
                         {
@@ -10374,14 +9954,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[13]\\AA[F]いいからさっさと開けて。"
+                                "\\F[13]\\AA[F]Just hurry up and open it."
                             ]
                         },
                         {
@@ -10436,14 +10016,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[6]\\AA[F]よし！これでどうy.."
+                                "\\F[6]\\AA[F]Alright! How about this y.."
                             ]
                         },
                         {
@@ -10460,7 +10040,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "違イマスノデ\\c[27]オシオキ\\cデス。"
+                                "That's wrong, so it's a \\c[27]punishment\\c."
                             ]
                         },
                         {
@@ -10500,14 +10080,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[7]\\AA[F]...け、けほっ。何よこれ...体があつい..！"
+                                "\\F[7]\\AA[F]...C-cough. What's this... My body is hot..!"
                             ]
                         },
                         {
@@ -10599,14 +10179,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[1]\\AA[F]よし！調べてきましょう！"
+                                "\\F[1]\\AA[F]Alright! Let's go investigate!"
                             ]
                         },
                         {
@@ -10713,7 +10293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サディ様ノオ陰デ\\c[27]改心した女性の人数\\cヲ入力シテクダサイ.."
+                                "Please enter the number of women who have reformed thanks to Lady\nSadi's influence..\\c[27]\\c"
                             ]
                         },
                         {
@@ -10741,14 +10321,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[5]\\AA[F]....だめ。なんだか頭が凄くぼーっとして...。"
+                                "\\F[5]\\AA[F]....No good. Somehow, my head feels really foggy...."
                             ]
                         },
                         {
@@ -10765,14 +10345,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "セリアのAP（特別な行動の際に消費するポイント）が枯渇した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これではもう....。"
+                                "Seria's AP (points consumed during special actions) has been\ndepleted. With this, it's over....."
                             ]
                         },
                         {
@@ -10804,28 +10377,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[1]\\AA[F]よし、入力するわよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(\\c[14]APを消費して入力します\\c)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（\\c[27]※間違うとペナルティがあります\\c）"
+                                "\\F\\c[14]\\AA[F]Alright, I'll input it. (\\c[14]Consumes AP to\ninput\\c) (\\c[27]*There's a penalty for mistakes\\c)"
                             ]
                         },
                         {
@@ -10918,7 +10477,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "素晴ラシイ　正解デス"
+                                "Wonderful, that's the correct answer."
                             ]
                         },
                         {
@@ -10935,14 +10494,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[3]\\AA[F]ふふん♪"
+                                "\\F[3]\\AA[F]Hehe♪"
                             ]
                         },
                         {
@@ -10959,14 +10518,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\^サディ様ハ他二モ改心サセタ女性ニ対シテ手厚イフォローヲシタリ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "魔王軍に馴染ムヨウ取リ計ラッテ下サッタリs"
+                                "\\^Lady Sadi has generously followed up with other women who have\nreformed, and has made arrangements for them to fit into the\nDemon King's army."
                             ]
                         },
                         {
@@ -10983,14 +10535,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[13]\\AA[F]いいからさっさと開けて。"
+                                "\\F[13]\\AA[F]Just hurry up and open it."
                             ]
                         },
                         {
@@ -11045,14 +10597,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[3]\\AA[F]よし！これでどうy.."
+                                "\\F[3]\\AA[F]Alright! How about this.."
                             ]
                         },
                         {
@@ -11069,7 +10621,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "違イマスノデ\\c[27]オシオキ\\cデス。"
+                                "It's wrong, so \\c[27] it's a punishment \\c."
                             ]
                         },
                         {
@@ -11109,14 +10661,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[7]\\AA[F]...け、けほっ。何よこれ...体があつい..！"
+                                "\\F[7]\\AA[F]...C-cough. What's this... My body is hot..!"
                             ]
                         },
                         {
@@ -11208,14 +10760,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[1]\\AA[F]んー正確な数字忘れちゃった...。"
+                                "\\F[1]\\AA[F]Hmm, I forgot the exact number...."
                             ]
                         },
                         {
@@ -11506,21 +11058,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[14]\\AA[F]うぅ...やばい...！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全然手がかり見つからない...！！"
+                                "\\F[14]\\AA[F]Ugh... This is bad...! I can't find any clues at\nall...!!"
                             ]
                         },
                         {
@@ -11537,21 +11082,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[14]どこを見てもアイツを賛美する謎情報ばかり...。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "暗号のヒントになるようなモノなんて無いじゃない！"
+                                "\\F[14]No matter where I look, all I find is mysterious\ninformation praising him... There's nothing that could be a hint\nfor the code!"
                             ]
                         },
                         {
@@ -11568,14 +11106,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\M[noslow]このままじゃ\\c[27]頼む\\cしか....ん？"
+                                "\\F[10]\\M[noslow]At this rate, \\c[27]I have no choice but to ask\nfor help... Hm?"
                             ]
                         },
                         {
@@ -11630,21 +11168,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[1]\\AA[F]さっきも思ったけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの\\c[27]通せんぼしてるバリア\\cみたいなの気になるのよね。"
+                                "\\F\\c[27]\\AA[F]I've been thinking about it since earlier, but that\n\\c[27]barrier-like thing blocking the way \\creally bothers me."
                             ]
                         },
                         {
@@ -12422,7 +11953,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ねえ、サディ気持ちよかった...?♡"
+                                "Hey, did it feel good, Sadi...?♡"
                             ]
                         },
                         {
@@ -12439,14 +11970,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ええ、勿論...♡男の本能を惑わす【\\c[27]堕天使のぱふぱふ\\c】も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "随分馴染みましたねぇ...♡"
+                                "Yes, of course...♡ You've become quite accustomed to the\n【\\c[27]Fallen Angel's Puff Puff\\c】 that bewitches a man's\ninstincts...♡"
                             ]
                         },
                         {
@@ -12463,7 +11987,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "魔王軍に欲しいくらいえっちですよセリア...♡"
+                                "You're so lewd, Seria...♡ The Demon King's army would want\nyou...♡"
                             ]
                         },
                         {
@@ -12480,7 +12004,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "わたし...コレもっと覚えたい♡"
+                                "I... want to learn more about this♡"
                             ]
                         },
                         {
@@ -12497,7 +12021,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "くく...。"
+                                "Hehe...."
                             ]
                         },
                         {
@@ -12514,14 +12038,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "とうとうセリアはルールそっちのけでお互いを気持ちよくさせること事だけを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "目的としたセックスを約束してしまった....。"
+                                "Finally, Seria promised to have sex that disregards the rules and\naims only to make each other feel good....."
                             ]
                         },
                         {
@@ -12623,14 +12140,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[2]\\AA[F]くす.....はいおしまい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "いかがかしら？私のダンス....。"
+                                "\\F[2]\\AA[F]Hehe... Well, that's it. How was it? My dance..."
                             ]
                         },
                         {
@@ -12647,14 +12157,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "英雄でさえ見惚れさせ悪の手籠にしてしまう魅惑の淫技..."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ".....【\\c[27]堕落のセクシーダンス\\c】"
+                                "The bewitching lewd technique that even makes heroes fall in love\nand fall into the hands of evil... .....【\\c[27]Fallen Sexy\nDance\\c】"
                             ]
                         },
                         {
@@ -12671,14 +12174,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "セリアにプロテクトをかけるタイミングを奪い、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "心までも引き離す狡猾な罠とも知らずにハヤトは見惚れてしまい..。"
+                                "Hayato was captivated, unknowingly falling into a cunning trap\nthat stole the timing to protect Seria and even distanced his\nheart..."
                             ]
                         },
                         {
@@ -12707,7 +12203,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "イイ子にしてたらまたしてあげる.....♡"
+                                "If you're a good boy, I'll do it again for you...♡"
                             ]
                         },
                         {
@@ -12771,7 +12267,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ハヤトがメリルのセクシーダンスの虜になってしまった....。"
+                                "Hayato has become a captive of Merill's sexy dance....."
                             ]
                         },
                         {
@@ -12788,21 +12284,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "今後ハヤトの堕落度が上昇するスピードに影響が発生しました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "【メリルへの想い】にも変化が起きやすくなったため、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "逐一確認してみてください。"
+                                "The speed at which Hayato's corruption level increases has been\naffected. Changes are also likely to occur in his Feelings for\nMerill, so please check regularly."
                             ]
                         },
                         {
@@ -13223,14 +12705,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[17]\\AA[F]はぁ...はぁ...。あ、あの。"
+                                "\\F[17]\\AA[F]Haah...haah....uh, um..."
                             ]
                         },
                         {
@@ -13247,14 +12729,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[17]あのね...その...。"
+                                "\\F[17]You see... um...."
                             ]
                         },
                         {
@@ -13271,14 +12753,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　サディ"
+                                "　Sadi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（おお、そのもじもじした姿も愛おしいですねぇセリア...♡）"
+                                "(Oh, your shy demeanor is also adorable, Seria...♡)"
                             ]
                         },
                         {
@@ -13295,21 +12777,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[17]\\AA[F]...\\c[27]暗号を探してみたけど分からない\\c..の。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから...教えてほしくって。"
+                                "\\F[17]\\AA[F]...\\c[27]I tried looking for the code but I don't\nunderstand it\\c..so. That's why... I want you to teach me."
                             ]
                         },
                         {
@@ -13326,14 +12801,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　サディ"
+                                "　Sadi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうでしたか。.............。"
+                                "Is that so..............."
                             ]
                         },
                         {
@@ -13350,14 +12825,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[17]\\AA[F](...なんとでも言いなさいよ...)"
+                                "\\F[17]\\AA[F](...Say whatever you want...)"
                             ]
                         },
                         {
@@ -13383,14 +12858,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　サディ"
+                                "　Sadi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よく頑張りましたね。"
+                                "You did a great job."
                             ]
                         },
                         {
@@ -13407,14 +12882,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[15]\\AA[F]...え。"
+                                "\\F[15]\\AA[F]...Eh."
                             ]
                         },
                         {
@@ -13431,21 +12906,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　サディ"
+                                "　Sadi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私も多少は難解にしましたからねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セリアと言えど解くのは至難の業の筈....。"
+                                "I made it somewhat difficult too. Even for Seria, solving it\nshould be an extremely difficult task....."
                             ]
                         },
                         {
@@ -13462,14 +12930,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　サディ"
+                                "　Sadi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "手掛かりが少ない中でよく頑張った..とワタクシは思っていますよ。"
+                                "I think you did well despite the lack of clues."
                             ]
                         },
                         {
@@ -13486,14 +12954,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　サディ"
+                                "　Sadi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（最後のヒントはワタクシが持ってるんですけどねえ♡）"
+                                "(But I do have the last hint, you know♡)"
                             ]
                         },
                         {
@@ -13510,21 +12978,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F]...そ、そうなの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中々ヒントが見付けられなくって...!わたし困って...。"
+                                "\\F[10]\\AA[F]...I-Is that so! I couldn't find any hints at all...!\nI was troubled...."
                             ]
                         },
                         {
@@ -13541,14 +13002,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Seria"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[16](相手は魔物だし蔑まれると思ってた...。)"
+                                "\\F[16](I thought I would be despised since the other party is a\nmonster...)"
                             ]
                         },
                         {
@@ -13565,21 +13026,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　サディ"
+                                "　Sadi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それではワタクシがセリアを助けてあげなくてはいけませんね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただし\\c[27]お願い\\cを聞いていただきます....出来ますか。"
+                                "Then I must help Seria. However, I will ask you to listen to my\n\\c[27]request\\c.... Can you do it?"
                             ]
                         },
                         {
@@ -13596,21 +13050,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F](ハヤトを助けるためだもの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "取り敢えず聞くだけ聞いてみましょう..。)"
+                                "\\F[10]\\AA[F](It's for the sake of helping Hayato. For now, let's\njust listen to what he has to say...)"
                             ]
                         },
                         {
@@ -13627,21 +13074,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F]え、ええ。でも何をしたら良いの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "痛いのは...嫌。"
+                                "\\F[10]\\AA[F]Eh, yes. But what should I do? I... don't want it to\nhurt."
                             ]
                         },
                         {
@@ -13658,21 +13098,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　サディ"
+                                "　Sadi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "美しいマイレディにそんなことする訳無いではありませんか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\<ワタクシの\\c[27]眼を見てほしい\\cのです。"
+                                "There's no way I would do such a thing to my beautiful lady. I\nwant you to look into my \\c[27] eyes \\c."
                             ]
                         },
                         {
@@ -13689,14 +13122,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[15]\\AA[F]......眼？そんなことでいいの..?"
+                                "\\F[15]\\AA[F]...Eyes? Is that all I need to do..?"
                             ]
                         },
                         {
@@ -13713,21 +13146,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　サディ"
+                                "　Sadi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まあ最初ですしね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このお願いを聞いてくだされば暗号一桁目をお教えしましょう。"
+                                "Well, it's the first time after all. If you listen to this\nrequest, I'll tell you the first digit of the code."
                             ]
                         },
                         {
@@ -13744,14 +13170,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　サディ"
+                                "　Sadi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "但し、まじまじと見るように....♡"
+                                "However, make sure to look intently...♡"
                             ]
                         },
                         {
@@ -13768,21 +13194,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[17]\\AA[F]（相手は魔物。眼を見てる隙に何かするかもしれない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "注意しなきゃ...。）"
+                                "\\F[17]\\AA[F](The other party is a monster. He might do something\nwhile I'm looking into his eyes. I have to be careful....)"
                             ]
                         },
                         {
@@ -13799,14 +13218,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　サディ"
+                                "　Sadi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それではご覧を...♡"
+                                "Then please look...♡"
                             ]
                         },
                         {
@@ -13835,14 +13254,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　サディ"
+                                "　Sadi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[27]【誘惑の眼光】\\c"
+                                "\\c[27]【Tempting Gaze】\\c"
                             ]
                         },
                         {
@@ -13911,14 +13330,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[16]\\AA[F].....あ...♡"
+                                "\\F[16]\\AA[F].....Ah...♡"
                             ]
                         },
                         {
@@ -13935,14 +13354,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[16]\\AA[F](ナニ...これ...さっきより頭がぼーっとして..)"
+                                "\\F[16]\\AA[F](What... is this... My head feels even more foggy\nthan before..)"
                             ]
                         },
                         {
@@ -14003,14 +13422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\c[27]誘惑の眼光\\c】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それは目の前の可憐な女性を恋に盲目にさせる淫技。"
+                                "【\\c[27]Tempting Gaze\\c】 It's a lewd technique that blinds the\nlovely woman in front of him with love."
                             ]
                         },
                         {
@@ -14027,14 +13439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さっきの慰めが警戒心を解く罠とも知らず、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼女の心は淫魔に囚われてしまう.....。"
+                                "Unaware that the previous consolation was a trap to lower her\nguard, her heart ends up being captivated by the succubus..."
                             ]
                         },
                         {
@@ -14051,14 +13456,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　サディ"
+                                "　Sadi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちゃんと...ちゃんと見つめ合いましょうセリア...♡"
+                                "Let's... let's gaze into each other's eyes properly, Seria...♡"
                             ]
                         },
                         {
@@ -14075,21 +13480,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "絶対まずい...これ胸とお腹がきゅーんとする...♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それに...。)"
+                                "This is definitely bad... My chest and stomach are tightening...♡\nAnd also....)"
                             ]
                         },
                         {
@@ -14214,14 +13612,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(コイツの顔とか声とか..なんか、嫌じゃなくなって........"
+                                "(His face, his voice... somehow, I'm not finding them unpleasant\nanymore..."
                             ]
                         },
                         {
@@ -14238,14 +13636,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(よく見たら...イイ♡)"
+                                "(If you look closely... it's nice♡)"
                             ]
                         },
                         {
@@ -14262,14 +13660,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　サディ"
+                                "　Sadi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "くく...良い顔になってきましたねえ♡"
+                                "Hehe... Your face is becoming quite lovely♡"
                             ]
                         },
                         {
@@ -14286,14 +13684,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　サディ"
+                                "　Sadi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "さあマイレディ。ワタクシには2つ出来る事がありますよ。"
+                                "Now, my lady. There are two things I can do."
                             ]
                         },
                         {
@@ -14310,21 +13708,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　サディ"
+                                "　Sadi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "暗号一桁と....\\c[27]頭が空っぽになるようなキス\\c...♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もちろん両方してあげられますが、セリアが望む方から..."
+                                "A single digit code... and a kiss that makes your head feel\nempty...♡ Of course, I can do both, but let's start with what you\ndesire, Seria..."
                             ]
                         },
                         {
@@ -14341,14 +13732,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "淫魔の邪悪な眼によって強制的に恋心を掻き回されてしまう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そしてセリアは当初の目的やルールを忘れ...。"
+                                "Her feelings of love are forcibly stirred by the wicked eyes of\nthe succubus. And Seria forgets her initial purpose and rules..."
                             ]
                         },
                         {
@@ -14365,14 +13749,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "..........き、キスからで.......。"
+                                "..........L-let's start with a kiss..."
                             ]
                         },
                         {
@@ -14389,21 +13773,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　サディ"
+                                "　Sadi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "くく...承知致しました。さあこちら側においでセリア♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[27]あなたから来るのです\\c。"
+                                "Hehe... Understood. Now, come over here, Seria♡ \\c[27]You're the\none to come to me\\c."
                             ]
                         },
                         {
@@ -14602,14 +13979,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "..........あ.......♡"
+                                "..........Ah...♡"
                             ]
                         },
                         {
@@ -14626,14 +14003,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　サディ"
+                                "　Sadi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "セリア♡"
+                                "Seria♡"
                             ]
                         },
                         {
@@ -14838,14 +14215,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "..........やっぱりむりぃ.......♡"
+                                "..........I just can't...♡"
                             ]
                         },
                         {
@@ -14862,14 +14239,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　サディ"
+                                "　Sadi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "セリア♡"
+                                "Seria♡"
                             ]
                         },
                         {
@@ -15117,14 +14494,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　サディ"
+                                "　Sadi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐッゥ.......これは？"
+                                "Guh... What is this?"
                             ]
                         },
                         {
@@ -15150,14 +14527,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ".........はっ。わたし何をして...。"
+                                ".........Ah, what am I doing..."
                             ]
                         },
                         {
@@ -15174,14 +14551,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "眼見てからなんだかふわふわして...。"
+                                "Somehow, after seeing it, I feel light-headed...."
                             ]
                         },
                         {
@@ -15198,14 +14575,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　サディ"
+                                "　Sadi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ハヤトですか.....！）"
+                                "(Is it Hayato.....!)"
                             ]
                         },
                         {
@@ -15231,14 +14608,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　サディ"
+                                "　Sadi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ".......\\c[14]5\\cです。"
+                                ".......It's \\c[14]5\\c."
                             ]
                         },
                         {
@@ -15255,14 +14632,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え？"
+                                "Huh?"
                             ]
                         },
                         {
@@ -15279,21 +14656,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　サディ"
+                                "　Sadi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "暗号ですよ....\\c[14]一桁目は5\\cです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "メモなりすると良いです。"
+                                "It's a code....\\c[14]The first digit is 5\\c. It would be good to\nmake a note of it."
                             ]
                         },
                         {
@@ -15334,7 +14704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう言い残しサディは消えた。"
+                                "With that, Sadi disappeared."
                             ]
                         },
                         {
@@ -15351,21 +14721,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アイツ苦しそうだった.."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ということは\\c[14]ハヤトの魔法が守ってくれたのね\\c!!"
+                                "He seemed to be in pain.. That means Hayato's magic protected\nme\\c!!"
                             ]
                         },
                         {
@@ -15382,14 +14745,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ありがとうハヤト....お陰で一つ目の暗号ゲットよ！"
+                                "Thank you, Hayato... Thanks to you, I got the first code!"
                             ]
                         },
                         {
@@ -15406,14 +14769,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "................。"
+                                "................."
                             ]
                         },
                         {
@@ -15435,14 +14798,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ".....さっきの\\c[27]きもちよくなるヤツ\\c...。"
+                                ".....That thing from earlier that made me feel good..."
                             ]
                         },
                         {
@@ -15459,14 +14822,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また直に喰らっちゃったら........"
+                                "If I take another direct hit..."
                             ]
                         },
                         {
@@ -15483,21 +14846,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヤバい、かも...............♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ハヤト...恐い...。"
+                                "This could be bad...............♡ Hayato... I'm scared...."
                             ]
                         },
                         {
@@ -15684,7 +15040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プレイ中ずっと画像表示されてしまうバグ直しです。"
+                                "It's a fix for the bug where the image is constantly displayed\nduring play."
                             ]
                         },
                         {
@@ -15934,14 +15290,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[13]\\AA[F]これもまた....。"
+                                "\\F[13]\\AA[F]This too is....."
                             ]
                         },
                         {
@@ -15970,7 +15326,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "サディが大戦で陥落させた街は\\c[14]20\\cにも上る。"
+                                "The number of cities that Sadi has captured in the war amounts to\nover \\c[14]20\\c."
                             ]
                         },
                         {
@@ -15987,14 +15343,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "その街々に居た選りすぐりの女性たちを\\c[27]救出し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "魔王軍の素晴らしさに気付かせた\\c"
+                                "He rescued the select women who were in those cities, and made\nthem realize the greatness of the Demon King's army\\c"
                             ]
                         },
                         {
@@ -16011,21 +15360,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[1]\\AA[F]........必要な情報ってどこかな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[14]数字かしら..\\c"
+                                "\\F\\c[14]\\AA[F]........I wonder where the necessary information\nis. \\c[14]Maybe it's a number..\\c"
                             ]
                         },
                         {
@@ -16245,21 +15587,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　セリア"
+                                "　Seria"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[1]\\AA[F]手がかり....手がかり...おっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何か分かり易く資料が置かれてあるわね。どれどれ......。"
+                                "\\F[1]\\AA[F]A clue... a clue... Oh! There seems to be some easily\nunderstandable documents placed here. Let's see..."
                             ]
                         },
                         {
@@ -16288,7 +15623,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "サディが大戦で陥落させた街は\\c[14]20\\cにも上る。"
+                                "The number of cities that Sadi has captured in the war amounts to\nover \\c[14]20\\c."
                             ]
                         },
                         {
@@ -16305,14 +15640,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "その街々に居た選りすぐりの女性たちを\\c[27]救出し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "魔王軍の素晴らしさに気付かせた\\c"
+                                "He rescued the select women who were in those cities, and made\nthem realize the greatness of the Demon King's army\\c"
                             ]
                         },
                         {
@@ -16329,21 +15657,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[14]\\AA[F]........は？何これ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ゲームと関係あるの？"
+                                "\\F[14]\\AA[F]........Huh? What's this. Is it related to the game?"
                             ]
                         },
                         {
@@ -16453,7 +15774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サディが大戦で陥落させた街は\\c[14]20\\cにも上る。"
+                                "The number of cities that Sadi has captured in the war amounts to\nover \\c[14]20\\c."
                             ]
                         },
                         {
@@ -16470,14 +15791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その街々に居た選りすぐりの女性たちを\\c[27]救出し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔王軍の素晴らしさに気付かせた\\c"
+                                "He rescued the select women who were in those cities, and made\nthem realize the greatness of the Demon King's army\\c"
                             ]
                         },
                         {
@@ -16494,14 +15808,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F]これでも無い！やっぱり無いわよ！"
+                                "\\F[10]\\AA[F]It's not this! It's definitely not this!"
                             ]
                         },
                         {
@@ -16640,14 +15954,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[7]\\AA[F]こ..これ罠！？"
+                                "\\F[7]\\AA[F]Th..This is a trap!?"
                             ]
                         },
                         {
@@ -16664,14 +15978,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[9]\\AA[F]避けよう無いじゃない！凄く体が重い...！"
+                                "\\F[9]\\AA[F]There's no way to avoid it! My body feels incredibly\nheavy...!"
                             ]
                         },
                         {
@@ -16697,14 +16011,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何なのよもー！"
+                                "What the heck!"
                             ]
                         },
                         {
@@ -16730,21 +16044,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　メリル"
+                                "　Merrill"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[24]\\AA[F](........たかが小娘が\"あの程度のダメージ\"で済んでる...。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうして...?)"
+                                "\\F[24]\\AA[F](...Just a little girl has survived that level of\ndamage... Why...?)"
                             ]
                         },
                         {
@@ -16761,14 +16068,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　メリル"
+                                "　Merrill"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[24]\\AA[F](........まさか...ね。)"
+                                "\\F[24]\\AA[F](........No way...right.)"
                             ]
                         },
                         {

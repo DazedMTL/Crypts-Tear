@@ -4765,7 +4765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【２人の心】セリアに変化"
+                                "[Two Hearts] Change in Seria"
                             ]
                         },
                         {
@@ -4789,7 +4789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【２人の心】\\c[27]セリアに邪悪な変化が..."
+                                "Two Hearts \\c[27] A wicked change in Seria..."
                             ]
                         },
                         {
@@ -4813,7 +4813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【２人の心】ハヤトに変化"
+                                "Two Hearts] Change in Hayato"
                             ]
                         },
                         {
@@ -4837,7 +4837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【２人の心】\\c[27]ハヤトに邪悪な変化が..."
+                                "Two Hearts \\c[27] A wicked change in Hayato..."
                             ]
                         },
                         {
@@ -5177,14 +5177,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[3]\\AA[F]アン...あなた精霊界に帰ったんじゃなかったの？"
+                                "\\F[3]\\AA[F]Um... Didn't you return to the spirit world?"
                             ]
                         },
                         {
@@ -5221,21 +5221,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アンスリウム"
+                                "　Anthurium"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そのつもりだったのですガ..."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうやらここから出れないように細工が施されてるようなんですノ"
+                                "I intended to, but... It seems like some sort of mechanism is\npreventing me from leaving this place."
                             ]
                         },
                         {
@@ -5261,14 +5254,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[1]\\AA[F]細工？"
+                                "\\F[1]\\AA[F]Mechanism?"
                             ]
                         },
                         {
@@ -5285,21 +5278,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アンスリウム"
+                                "　Anthurium"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "強力な障壁があるんですノ。恐らくサディ様とメリル様以外は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "簡単には出れないかト。"
+                                "There's a powerful barrier in place. Probably, only Lady Sadi and\nLady Merill can leave easily."
                             ]
                         },
                         {
@@ -5316,14 +5302,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F]そうなんだ...解除方法とかは目途ついてるの？"
+                                "\\F[10]\\AA[F]I see... Do you have any idea how to deactivate it?"
                             ]
                         },
                         {
@@ -5340,21 +5326,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アンスリウム"
+                                "　Anthurium"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...分からないんですノ。だからアンは..."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[14]武器の保管室\\cを探していたんですノ。"
+                                "...I don't know. That's why I... \\c[14]was searching for the weapons\nstorage room\\c."
                             ]
                         },
                         {
@@ -5371,21 +5350,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アンスリウム"
+                                "　Anthurium"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アンの古巣である\\c[14]保管室\\cはこの術の影響を受けていない...。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だからそこに脱出の手掛かりがある筈なんですノ。"
+                                "The \\c[14]storage room\\c, which used to be Anthurium's old haunt,\nis not affected by this spell... That's why there should be a\nclue to escape there."
                             ]
                         },
                         {
@@ -5411,14 +5383,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[1]\\AA[F]\\c[14]武器\\c...。"
+                                "\\F\\c\\AA[F]\\c[14]Weapons\\c...."
                             ]
                         },
                         {
@@ -5435,21 +5407,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F](\\c[14]ハヤトが居てくれたら\\c"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その武器も扱えるんでしょうね。そしたら...)"
+                                "\\F[10]\\AA[F](\\c[14]If Hayato were here, \\c he could probably\nhandle those weapons. If that were the case...)"
                             ]
                         },
                         {
@@ -5466,14 +5431,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アンスリウム"
+                                "　Anthurium"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハヤト様に無理矢理突破してもらおうと思ってますノ？"
+                                "Are you thinking of having Lord Hayato forcefully break through?"
                             ]
                         },
                         {
@@ -5490,21 +5455,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[15]\\AA[F]心読まないでってば！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こっちも暗号探しが手詰まりで悶々としてたのよ...。"
+                                "\\F[15]\\AA[F]Don't read my mind! I was also frustrated because I\nwas stuck searching for the code...."
                             ]
                         },
                         {
@@ -5530,14 +5488,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F].....................。"
+                                "\\F[10]\\AA[F]......................"
                             ]
                         },
                         {
@@ -5554,21 +5512,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F]..........ねえアン。一旦図書館行かない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頭冷やしたい。"
+                                "\\F[10]\\AA[F]..........Hey, Anthurium. Shall we go to the library\nfor a bit? I want to clear my head."
                             ]
                         },
                         {
@@ -5594,14 +5545,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アンスリウム"
+                                "　Anthurium"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え、えエ。"
+                                "Eh, eh?"
                             ]
                         },
                         {
@@ -5678,7 +5629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【２人の心】セリアに変化が..."
+                                "[The Hearts of Two] A change in Seria..."
                             ]
                         },
                         {
@@ -5753,14 +5704,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アンスリウム"
+                                "　Anthurium"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "図書館に行きますノ。"
+                                "I'm going to the library."
                             ]
                         },
                         {

@@ -1427,21 +1427,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　兵士2"
+                                "　Soldier 2"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よし..俺は決めた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔物を倒したら...あの子に...。"
+                                "Alright.. I've decided. After defeating the monster... I will...\nto that girl...."
                             ]
                         },
                         {
@@ -2274,7 +2267,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【２人の心】セリアに変化"
+                                "【Two Hearts】Change in Seria"
                             ]
                         },
                         {
@@ -2298,7 +2291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【２人の心】\\c[27]セリアに邪悪な変化が..."
+                                "【Two Hearts】\\c[27]A wicked change in Seria..."
                             ]
                         },
                         {
@@ -2322,7 +2315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【２人の心】ハヤトに変化"
+                                "【Two Hearts】Change in Hayato"
                             ]
                         },
                         {
@@ -2346,7 +2339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【２人の心】\\c[27]ハヤトに邪悪な変化が..."
+                                "【Two Hearts】\\c[27]A wicked change in Hayato..."
                             ]
                         },
                         {

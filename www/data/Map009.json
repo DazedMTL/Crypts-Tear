@@ -1761,14 +1761,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　メリル"
+                                "　Merrill"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[2]\\AA[F]ねえ、退屈なんだけど。"
+                                "\\F[2]\\AA[F]Hey, I'm bored."
                             ]
                         },
                         {
@@ -1794,14 +1794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " 看守リーダー"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふざけないで！アンタのせいで何人殺されたか...。"
+                                " Guard Leader: Don't mess around! Because of you, how many people\nhave been killed...."
                             ]
                         },
                         {
@@ -1818,14 +1811,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　メリル"
+                                "　Merrill"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[24]\\AA[F]知らないわよぉ、私なーんにもしてないけど？"
+                                "\\F[24]\\AA[F]I don't know, I haven't done anything, you know?"
                             ]
                         },
                         {
@@ -1842,14 +1835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " 看守リーダー"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう良いわ...。ここで処刑を待ちなさい！！"
+                                " Guard Leader: Enough already.... Just wait here for your\nexecution!!"
                             ]
                         },
                         {
@@ -2104,14 +2090,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　メリル"
+                                "　Merrill"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[24]\\AA[F]ほ～んと暇。"
+                                "\\F[24]\\AA[F]Really bored."
                             ]
                         },
                         {
@@ -2128,14 +2114,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　メリル"
+                                "　Merrill"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[24]\\AA[F]（女と闘うってなると...、純粋な実力差でたまに負けるのよねェ）"
+                                "\\F[24]\\AA[F](When it comes to fighting women... sometimes I lose\ndue to a pure difference in strength.)"
                             ]
                         },
                         {
@@ -2170,14 +2156,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　メリル"
+                                "　Merrill"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[20]\\AA[F]やっぱり私には\\c[27]守ってくれる殿方\\cが居ないと..ね♡"
+                                "\\F[20]\\AA[F]After all, I need a gentleman\\c[27] to protect me\\c..\nright?♡"
                             ]
                         },
                         {
@@ -2335,7 +2321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　メリル"
+                                "　Merrill"
                             ]
                         },
                         {
@@ -2418,14 +2404,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　メリル"
+                                "　Merrill"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "........ねぇ♡"
+                                "........Hey♡"
                             ]
                         },
                         {
@@ -2516,14 +2502,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　メリル"
+                                "　Merrill"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "恐がらないで...。「仲良し」になりたいだけなの....。"
+                                "Don't be scared.... I just want to be friends....."
                             ]
                         },
                         {
@@ -2590,21 +2576,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　メリル"
+                                "　Merrill"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ".......こっちでえっちなコトして愉しまない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[27]ふたりっきり\\cで..♡"
+                                ".......Won't you have some naughty fun with me over here? Just the two\nof us..♡"
                             ]
                         },
                         {
@@ -2621,7 +2600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見開いた魔眼が男を支配し、目の前に最愛の女性がいると錯覚させる.."
+                                "The wide-open magic eyes dominate the man, making him hallucinate\nthat his beloved woman is in front of him.."
                             ]
                         },
                         {
@@ -2638,7 +2617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　兵士"
+                                "　Soldier"
                             ]
                         },
                         {
@@ -2771,7 +2750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "....あン....はぁん...♡"
+                                "....Ah....haa...♡"
                             ]
                         },
                         {
@@ -2845,14 +2824,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　メリル"
+                                "　Merrill"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほら...もっと....突いて....♡"
+                                "Come on... more... thrust...♡"
                             ]
                         },
                         {
@@ -2869,14 +2848,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　メリル"
+                                "　Merrill"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[27]私を...........愛して...？♡\\c"
+                                "\\c[27]Do you........... love me...?♡\\c"
                             ]
                         },
                         {
@@ -2893,14 +2872,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　メリル"
+                                "　Merrill"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "誰にも盗られたく無いでしょ...？私のコト...♡"
+                                "You don't want anyone else to take me, do you...? Me...♡"
                             ]
                         },
                         {
@@ -2917,7 +2896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　兵士"
+                                "　Soldier"
                             ]
                         },
                         {
@@ -2941,14 +2920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士がどんなに正気に戻ろうとしても、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わざとらしく揺れる乳房が心を掴んで話さない"
+                                "No matter how much the soldier tries to regain his sanity, the\ndeliberately swaying breasts grip his heart and won't let go."
                             ]
                         },
                         {
@@ -2965,14 +2937,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　メリル"
+                                "　Merrill"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なら私を助けて？王子サマみたいに...♡"
+                                "Will you help me then? Like a prince...♡"
                             ]
                         },
                         {

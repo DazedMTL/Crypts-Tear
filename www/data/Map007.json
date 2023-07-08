@@ -1417,21 +1417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あらすじを描いたOPを飛ばしますか...？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(\\c[14]本作はストーリー性が強いため、\\c"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[14]初見では飛ばさない事を強く推奨しています。\\c)"
+                                "Would you like to skip the opening that depicts the synopsis...?\n(\\c[14]This work has a strong story element, \\c \\c[14]it is\nhighly recommended not to skip on the first viewing.\\c)"
                             ]
                         },
                         {
@@ -1471,7 +1457,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "....一年前、人と魔物の「\\c[14]大戦\\c」があった。"
+                                "....A year ago, there was a \\c[14]great war\\c between humans and\nmonsters."
                             ]
                         },
                         {
@@ -1488,14 +1474,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "世界が戦火に包まれる中、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "魔王率いる邪悪な魔物達を「勇者」の軍勢が決死の覚悟で退けた。"
+                                "Amidst the world engulfed in war, the army of the Hero repelled\nthe evil monsters led by the Demon King with a resolve to die."
                             ]
                         },
                         {
@@ -1512,7 +1491,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "勇者の命を犠牲にして......。"
+                                "By sacrificing the life of the Hero......."
                             ]
                         },
                         {
@@ -1529,7 +1508,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "しかし、とある理由で魔王軍を十分に抑えきれず......"
+                                "However, for a certain reason, they couldn't fully suppress the\nDemon King's army..."
                             ]
                         },
                         {
@@ -1546,14 +1525,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "その上何故か\\c[27]魔物がこちらの戦略を見透かしていた\\c事から大損害を受け、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "世界の30%近くが侵略を受けたまま終戦した。"
+                                "Moreover, for some reason, the monsters had seen through our\nstrategy\\c[27], causing us great damage. The war ended with\nnearly 30% of the world still under invasion\\c."
                             ]
                         },
                         {
@@ -1570,7 +1542,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そんなよくある神話のような闘いから一年"
+                                "A year has passed since that common myth-like battle."
                             ]
                         },
                         {
@@ -1611,7 +1583,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[1]\\AA[F]本作の主人公はこの子。名はセリア。"
+                                "\\F[1]\\AA[F]The protagonist of this work is this girl. Her name is\nSeria."
                             ]
                         },
                         {
@@ -1628,7 +1600,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[1]\\AA[F]これは、戦火から避難したセリアがとある町に移住してから一年後のお話。"
+                                "\\F[1]\\AA[F]This is a story set a year after Seria, who had\nevacuated from the war, relocated to a certain town."
                             ]
                         },
                         {
@@ -1645,14 +1617,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そして自分の素性を知らないお転婆娘が、愛する親友を守るため"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "立ち向かった「小さな戦争」のお話───────...。"
+                                "And this is the story of a tomboyish girl, who didn't know her\nown identity, standing up to fight a small war in order to\nprotect her beloved friend───────...."
                             ]
                         },
                         {
@@ -1719,28 +1684,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・\\c[14]主人公はセリア\\cという戦火から逃れてきた女の子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・ハヤト(親友)は勇者の弟、セリアは\\c[14]女神の末裔\\c、であるらしい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・淫魔２匹がセリアを懐柔すべく教会地下室へ攫ってゲームを始める。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・人質になったハヤトと脱出するために\\c[14]暗証番号4桁\\cを探すことに。"
+                                ".\\c[14]The protagonist is a girl named Seria\\c who escaped from\nthe war. Hayato (her best friend) is the younger brother of the\nhero, and it seems that Seria is a \\c[14]descendant of the\ngoddess\\c. Two succubi kidnap Seria to win her over and start a\ngame in the basement of the church. In order to escape with\nHayato, who has become a hostage, they need to find a \\c[14]four-\ndigit password\\c."
                             ]
                         },
                         {

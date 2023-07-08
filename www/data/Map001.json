@@ -18298,14 +18298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[2]\\AA[F]はァいおじさま。"
+                                "？？？ \\F[2]\\AA[F] is a good old man."
                             ]
                         },
                         {
@@ -18331,21 +18324,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　神父"
+                                "　Priest"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おほっ、メっ........メリル....！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日は何の用だ...?"
+                                "Oh, Me...Merill...! What brings you here today...?"
                             ]
                         },
                         {
@@ -18362,21 +18348,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　メリル"
+                                "　Merrill"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[2]\\AA[F]安心なさい、アンタそのものに用は無いわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "前頼んでた例の子は見つかったでしょうね？"
+                                "\\F[2]\\AA[F]Don't worry, I don't need anything from you. You've\nfound the child I asked for before, haven't you?"
                             ]
                         },
                         {
@@ -18393,21 +18372,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　神父"
+                                "　Priest"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐぅ...\\c[14]女神の末裔\\cの捜索か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "し、しかしそれは.....。"
+                                "Guh...\\c[14]Searching for the descendants of the goddess\\c, huh.\nBut, that is..."
                             ]
                         },
                         {
@@ -18424,28 +18396,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　メリル"
+                                "　Merrill"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[24]\\AA[F]言えないならアンタには消えて貰うわよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "散々\\c[27]良くしてあげた\\cのに....。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "恩知らずなのね、聖職者って。"
+                                "\\F[24]\\AA[F]If you can't tell me, then I'll have you disappear.\nAfter all I've \\c[27]done for you\\c... How ungrateful, you\nclergyman."
                             ]
                         },
                         {
@@ -18462,28 +18420,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　神父"
+                                "　Priest"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わかった！言う！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\|..今そこを通って行った金髪の子だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一年前ここに越してきたのだ。"
+                                "I understand! I'll tell you! It's the blonde child who just\npassed by here. They moved here a year ago."
                             ]
                         },
                         {
@@ -18500,21 +18444,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　神父"
+                                "　Priest"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本人は自覚しとらんが、持ってる魔力に神性が宿っている事を確認した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかも破格！間違いなく\\c[14]女神の類\\cだ...。"
+                                "The person themselves is unaware, but I've confirmed that their\nmagic power harbors divinity. Moreover, it's extraordinary!\nThere's no doubt that they are of the \\c[14]goddess class\\c...."
                             ]
                         },
                         {
@@ -18531,14 +18468,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　神父"
+                                "　Priest"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "只な。その子といつも一緒にいる男が、その...."
+                                "However, the man who is always with that child, he is..."
                             ]
                         },
                         {
@@ -18555,7 +18492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　メリル"
+                                "　Merrill"
                             ]
                         },
                         {
@@ -18579,14 +18516,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　神父"
+                                "　Priest"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]大戦時に勇者\\cと呼ばれた男の「弟」なんじゃ....。"
+                                "\\c[14]He's the younger brother of the man who was called a hero\nduring the great war\\c...."
                             ]
                         },
                         {
@@ -18603,21 +18540,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　メリル"
+                                "　Merrill"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[20]\\AA[F]へえ？あの勇者...ねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "直には見れなかったけど、そんな奴の弟クンが付き人だなんて...♡"
+                                "\\F[20]\\AA[F]Oh? That hero... huh. I couldn't see him directly,\nbut to think that such a guy's younger brother is the\nattendant...♡"
                             ]
                         },
                         {
@@ -18641,7 +18571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "勇者・・・ですか。"
+                                "A hero... huh."
                             ]
                         },
                         {
@@ -18676,14 +18606,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　神父"
+                                "　Priest"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...貴様は...!"
+                                "...You...!"
                             ]
                         },
                         {
@@ -18700,21 +18630,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　メリル"
+                                "　Merrill"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[24]\\AA[F]口に気をつけなさい変態神父。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サディ「様」よ。"
+                                "\\F[24]\\AA[F]Watch your mouth, perverted priest. It's Lady Sadi."
                             ]
                         },
                         {
@@ -18731,21 +18654,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　サディ"
+                                "　Sadi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クク..構いませんよ、メリル。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かなり有益な情報を得たのですから。"
+                                "Hehe.. Don't worry, Merill. I've obtained quite valuable\ninformation."
                             ]
                         },
                         {
@@ -18762,21 +18678,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　サディ"
+                                "　Sadi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「勇者」に、「女神」.....。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一気に見つかるとはこれまた僥倖ですね。"
+                                "A 'hero' and a 'goddess'... Finding both at once is quite a\nstroke of luck, isn't it."
                             ]
                         },
                         {
@@ -18793,14 +18702,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　メリル"
+                                "　Merrill"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[2]\\AA[F]あン...寛大ですわサディ様...♡"
+                                "\\F[2]\\AA[F]Oh... Lady Sadi, you're so generous...♡"
                             ]
                         },
                         {
@@ -18885,21 +18794,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　サディ"
+                                "　Sadi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それに加え、女神の子の方はなんと可憐で美しい....。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ワタクシ一目ぼれしてしてしまいました。"
+                                "In addition, the child of the goddess is so lovely and\nbeautiful... I fell in love at first sight."
                             ]
                         },
                         {
@@ -18916,21 +18818,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　サディ"
+                                "　Sadi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "始末などおこがましい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ワタクシの\\c[27]ハーレムの一員\\cにして愛し合わなければ.."
+                                "It's presumptuous to think of an end. They must become a part of\nmy \\c[27]harem\\c and we must love each other.."
                             ]
                         },
                         {
@@ -18947,14 +18842,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　メリル"
+                                "　Merrill"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サディ様ったら...。"
+                                "Lady Sadi, you're such a...."
                             ]
                         },
                         {
@@ -18971,14 +18866,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　サディ"
+                                "　Sadi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "神父。「お願い」があります。"
+                                "Priest: I have a request."
                             ]
                         },
                         {
@@ -18995,14 +18890,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　神父"
+                                "　Priest"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっ、お願いだと...？"
+                                "Oh, a request...?"
                             ]
                         },
                         {
@@ -19019,14 +18914,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　サディ"
+                                "　Sadi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええ。二つあります。"
+                                "Yes, there are two."
                             ]
                         },
                         {
@@ -19119,21 +19014,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　神父"
+                                "　Priest"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちょ、ちょっと待ってくれ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "調査も100％済んでおらんしやはりこの話は..."
+                                "Wait, wait a minute! The investigation isn't 100% complete yet,\nso this discussion is still..."
                             ]
                         },
                         {
@@ -19150,14 +19038,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　サディ"
+                                "　Sadi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メリル。"
+                                "Merill."
                             ]
                         },
                         {
@@ -19188,21 +19076,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　メリル"
+                                "　Merrill"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[25]\\AA[F]はい、サディ様♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "神父...「いつも」の時間よ...♡"
+                                "\\F[25]\\AA[F]Yes, Lady Sadi♡ Father... it's our 'usual' time...♡"
                             ]
                         },
                         {
@@ -19250,14 +19131,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　神父"
+                                "　Priest"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うっ！！！メリ....。"
+                                "Ugh!!! Meri....."
                             ]
                         },
                         {
@@ -19314,7 +19195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気付かぬ内に、神父の下半身が露わになっていた。"
+                                "Unbeknownst to him, the priest's lower half was exposed."
                             ]
                         },
                         {
@@ -19343,7 +19224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "淫魔はそこに手を伸ばし、聖職者を「いつものように」堕落させようとする。"
+                                "The succubus reaches out her hand, trying to corrupt the\nclergyman 'as usual'."
                             ]
                         },
                         {
@@ -19376,14 +19257,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　メリル"
+                                "　Merrill"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふ.....ほら気持ちよくなっちゃいなさい。"
+                                "Hehe... go ahead and feel good."
                             ]
                         },
                         {
@@ -19400,14 +19281,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　メリル"
+                                "　Merrill"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これ大好きだもんねェ..お・じ・さま♡"
+                                "You love this, don't you... Mister♡"
                             ]
                         },
                         {
@@ -19424,14 +19305,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　神父"
+                                "　Priest"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おふっ♡ぬぅっ！め、メリル！激し......"
+                                "Ohh♡Ngh! Me...Merill! It's intense......"
                             ]
                         },
                         {
@@ -19448,14 +19329,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　神父"
+                                "　Priest"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう出ッ...！♡"
+                                "I'm about to...!♡"
                             ]
                         },
                         {
@@ -19472,14 +19353,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　メリル"
+                                "　Merrill"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "出したいのぉ？ならちゃんと言葉で言って...♡"
+                                "Do you want to let it out? Then say it properly with words...♡"
                             ]
                         },
                         {
@@ -19503,14 +19384,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　メリル"
+                                "　Merrill"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[27]私の眼\\cを見てちゃんとイって..？♡"
+                                "\\c[27]Look into my eyes\\c and properly say it...♡"
                             ]
                         },
                         {
@@ -19527,14 +19408,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　神父"
+                                "　Priest"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いっ、イかせ.......ハッ！！"
+                                "I-I'm going to... Ahh!!"
                             ]
                         },
                         {
@@ -19595,14 +19476,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　メリル"
+                                "　Merrill"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\c[27]誘惑の眼光\\c】....♡"
+                                "【\\c[27]Tempting Gaze\\c】....♡"
                             ]
                         },
                         {
@@ -19791,14 +19672,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　神父"
+                                "　Priest"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほあああアアアアアアアアアアア！！♡"
+                                "Haaaahhh!!♡"
                             ]
                         },
                         {
@@ -19843,14 +19724,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　神父"
+                                "　Priest"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "....................メリル様ぁ...でゅふふ♡"
+                                "....................Lady Merill... I'm cumming♡"
                             ]
                         },
                         {
@@ -19867,21 +19748,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　メリル"
+                                "　Merrill"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さあ、言いなりにしましたわサディ様..。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつも通りね...♡"
+                                "Now, I've made you say it, Lady Sadi... Just like always...♡"
                             ]
                         },
                         {
@@ -19898,21 +19772,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　サディ"
+                                "　Sadi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ご苦労。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さて神父、お願いの一つは.........。"
+                                "Good job. Now, Father, about that favor.........."
                             ]
                         },
                         {
@@ -20333,14 +20200,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　大戦から一年"
+                                "　One Year After the Great War"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "勇者の故郷『バリエンテ』"
+                                "The Hero's Hometown Variante"
                             ]
                         },
                         {
@@ -20357,14 +20224,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F]......はあ。いつになったら言おう...。"
+                                "\\F[10]\\AA[F]...Haa. When will I say it..."
                             ]
                         },
                         {
@@ -20401,14 +20268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F]この町に越してきて早一年。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わたしは「人生でとても大事」なことを言うタイミングを待っていた。"
+                                "\\F[10]\\AA[F]It's been a year since I moved to this town. I've\nbeen waiting for the right moment to say something very important\nin my life."
                             ]
                         },
                         {
@@ -20425,14 +20285,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[1]\\AA[F]\\M[yes]ハヤトー！お墓参りの次は神父様の所に行くわよー。"
+                                "\\F[1]\\AA[F]\\M[yes]Hayato! After visiting the grave, we're going\nto the priest's place."
                             ]
                         },
                         {
@@ -20655,14 +20515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[3]\\AA[F]彼はハヤト。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わたしが町に来てから誰よりも優しくしてくれてる人。...親友。"
+                                "\\F[3]\\AA[F]He is Hayato. Since I came to town, he's been kinder\nto me than anyone else... a close friend."
                             ]
                         },
                         {
@@ -20684,21 +20537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[1]\\AA[F]\\c[14]この町自体は私の生まれ故郷\\c。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "けど..物心ついた頃から都市に移住していた自分にとって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見知らぬ地そのもの。"
+                                "\\F\\c\\AA[F]\\c[14]This town itself is my birthplace\\c. But.. for\nme, who had moved to the city since I was conscious, it was an\nunfamiliar land."
                             ]
                         },
                         {
@@ -20715,14 +20554,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[1]\\AA[F]都市に魔物の侵略があってから、十数年ぶりに帰って来たんだけど....."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ハヤトの支えのお陰でわたしはすぐにバリエンテに馴染む事ができた。"
+                                "\\F[1]\\AA[F]It's been over a decade since I returned here due to\nthe monster invasion in the city... Thanks to Hayato's support, I\nwas able to quickly adapt to life in Variante."
                             ]
                         },
                         {
@@ -20739,7 +20571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[1]\\AA[F]彼だって\\c[14]お兄さんを戦争で亡くして\\c大変な次期だった筈なのに..。"
+                                "\\F\\c[14]\\AA[F]Even though he \\c[14]lost his older brother in the\nwar and \\cmust have been going through a tough time..."
                             ]
                         },
                         {
@@ -20761,21 +20593,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(元々わたしって気難しい性格してるし苦労かけたわよね...。)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さ、行きましょ。"
+                                "(I've always had a difficult personality and caused him a lot of\ntrouble... Well, let's go."
                             ]
                         },
                         {
@@ -20938,21 +20763,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ".....って誰かと話してるわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "忙しいのかしら?"
+                                ".....She seems to be talking to someone. I wonder if she's busy?"
                             ]
                         },
                         {
@@ -21016,14 +20834,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "....は？きれいな人だね、ですって？"
+                                "....Huh? You're saying she's a beautiful person?"
                             ]
                         },
                         {
@@ -21040,7 +20858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "........。"
+                                "........."
                             ]
                         },
                         {
@@ -21057,7 +20875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "................................ばか。"
+                                "................................Idiot."
                             ]
                         },
                         {
@@ -21086,21 +20904,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[9]\\AA[F]\\M[shake]\\{ばかばかばーーーーーーーーーーーーーーーーーーーーー"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ーーーーーーーか！！！\\^"
+                                "\\F[9]\\AA[F]\\M[shake]\\{You idiot, idiot, idiot!!!\\^"
                             ]
                         },
                         {
@@ -21722,14 +21533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「人生でとても大事」...。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それは\\c[27]告白\\cの事。"
+                                "Very important in life.... That's about \\c[27]confession\\c."
                             ]
                         },
                         {
@@ -21746,14 +21550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わたしが今こうして難なく生きていられるのはハヤトのお陰。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから気持ちを伝えたい......。でも.......。"
+                                "The reason I can live without difficulty now is thanks to Hayato.\nThat's why I want to convey my feelings.......but........"
                             ]
                         },
                         {
@@ -21770,21 +21567,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "嫌がられたらどうしよう..."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「急におかしくなった？」とか言われたらどうしよう.....!"
+                                "What if he dislikes it... What if he says, You've suddenly become\nstrange...!"
                             ]
                         },
                         {
@@ -21801,14 +21591,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だから言えず終いのまま時が過ぎていく。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしよ、自分の事ここまでコテコテの不器用女だと思わなかった....。"
+                                "That's why time passes without me being able to say it. What\nshould I do, I didn't think I was such a clumsy woman..."
                             ]
                         },
                         {
@@ -21825,7 +21608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]タイミング\\cってどこから降ってくるのかな....。ずっと待ってるんだけど。"
+                                "\\c[14]I wonder where the right \\ctiming comes from..... I've been\nwaiting forever."
                             ]
                         },
                         {
@@ -21847,21 +21630,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[10]\\AA[F]あ、ああ。そうだったわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それはともかく教会に用事があるんだった。"
+                                "\\F[10]\\AA[F]Ah, ah, that's right. Anyway, I had some business at\nthe church."
                             ]
                         },
                         {
@@ -21916,14 +21692,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Seria"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[1]\\AA[F]でも取り込み中だったし....後で良いかな。"
+                                "\\F[1]\\AA[F]But I was in the middle of something.... Maybe later\nwould be better."
                             ]
                         },
                         {
@@ -21940,14 +21716,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[1]\\AA[F]教会にヤバい忘れ物したからそれさえ回収できたらねー..。"
+                                "\\F[1]\\AA[F]I left something important at the church, so if I\ncould just retrieve that..."
                             ]
                         },
                         {
@@ -21964,14 +21740,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ".................。"
+                                ".................."
                             ]
                         },
                         {
@@ -21988,14 +21764,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "というかさっき神父様と話してたのって......　"
+                                "Or rather, was that what you were discussing with the priest\nearlier......"
                             ]
                         },
                         {
@@ -22028,14 +21804,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まさか...........\\c[27]魔物\\cなんじゃ..。"
+                                "Could it be... a \\c[27]monster\\c..."
                             ]
                         },
                         {
@@ -22052,14 +21828,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ".................。"
+                                ".................."
                             ]
                         },
                         {
@@ -22081,21 +21857,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
+                                "　Celia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ま、有り得ないか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "白昼堂々神父様と立ち話してる人なんだから大丈夫でしょ。"
+                                "Well, that's impossible. You were chatting with the priest in\nbroad daylight, so it should be fine."
                             ]
                         },
                         {
