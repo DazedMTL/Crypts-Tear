@@ -2347,7 +2347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Phantom of Merrill:  \\F\\c\\AA[F]Why don't you leave me alone\nand enjoy the game? If you get stuck, \\c[27]Master Sadi will\nhelp you...♡\\c[0]"
+                                "　Phantom of Merrill:  \\F\\c\\AA[F]Why don't you leave me alone\nand enjoy the game? If you get stuck, \\c[27]Lord Sadi will\nhelp you...♡\\c[0]"
                             ]
                         },
                         {
@@ -2866,7 +2866,7 @@
                                 12,
                                 0,
                                 4,
-                                "'Hehe You should have just left it to Master Sadi from the start♡'"
+                                "'Hehe You should have just left it to Lord Sadi from the start♡'"
                             ]
                         },
                         {
@@ -5708,7 +5708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Please enter the number\\c[0] of Master Sadi's\\c[27]\ntreasures.."
+                                "Please enter the number\\c[0] of Lord Sadi's\\c[27]\ntreasures.."
                             ]
                         },
                         {
@@ -6384,7 +6384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Please enter the number\\c[0] of Master Sadi's\\c[27]\ntreasures.."
+                                "Please enter the number\\c[0] of Lord Sadi's\\c[27]\ntreasures.."
                             ]
                         },
                         {
@@ -9642,7 +9642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Please enter the number of women who have reformed thanks to\nMaster Sadi's influence..\\c[27]\\c[0]"
+                                "Please enter the number of women who have reformed thanks to\nLord Sadi's influence..\\c[27]\\c[0]"
                             ]
                         },
                         {
@@ -9846,7 +9846,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\^Master Sadi has generously followed up with other women\nwho have reformed, and has made arrangements for them to fit\ninto the Demon King's army."
+                                "\\^Lord Sadi has generously followed up with other women\nwho have reformed, and has made arrangements for them to fit\ninto the Demon King's army."
                             ]
                         },
                         {
