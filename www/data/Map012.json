@@ -2372,7 +2372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm just here as a messenger for Lady Sadi, leaving a clone\nof myself."
+                                "I'm just here as a messenger for Master Sadi, leaving a clone\nof myself."
                             ]
                         },
                         {
@@ -2396,7 +2396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F\\c\\AA[F]Why don't you leave me alone and enjoy the game?\nIf you get stuck, \\c[27]Lady Sadi will help you...♡\\c[0]"
+                                "\\F\\c\\AA[F]Why don't you leave me alone and enjoy the game?\nIf you get stuck, \\c[27]Master Sadi will help you...♡\\c[0]"
                             ]
                         },
                         {
@@ -3013,7 +3013,7 @@
                                 12,
                                 0,
                                 4,
-                                "'Hehe You should have just left it to Lady Sadi from the start♡'"
+                                "'Hehe You should have just left it to Master Sadi from the start♡'"
                             ]
                         },
                         {
@@ -6044,7 +6044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Please enter the number\\c[0] of Lady Sadi's\\c[27]\ntreasures.."
+                                "Please enter the number\\c[0] of Master Sadi's\\c[27]\ntreasures.."
                             ]
                         },
                         {
@@ -6783,7 +6783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Please enter the number\\c[0] of Lady Sadi's\\c[27]\ntreasures.."
+                                "Please enter the number\\c[0] of Master Sadi's\\c[27]\ntreasures.."
                             ]
                         },
                         {
@@ -10293,7 +10293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Please enter the number of women who have reformed thanks to\nLady Sadi's influence..\\c[27]\\c[0]"
+                                "Please enter the number of women who have reformed thanks to\nMaster Sadi's influence..\\c[27]\\c[0]"
                             ]
                         },
                         {
@@ -10518,7 +10518,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\^Lady Sadi has generously followed up with other women who\nhave reformed, and has made arrangements for them to fit\ninto the Demon King's army."
+                                "\\^Master Sadi has generously followed up with other women who\nhave reformed, and has made arrangements for them to fit\ninto the Demon King's army."
                             ]
                         },
                         {
