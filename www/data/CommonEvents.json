@@ -218,7 +218,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Celia \\F[1]\\AA[F]......sigh. When will I say it...."
+                    "Celia: \\F[1]\\AA[F]......sigh. When will I say it...."
                 ]
             },
             {
@@ -252,7 +252,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Celia \\F[1]\\AA[F]Hayato! After visiting the grave, we're\ngoing to the priest's place."
+                    "Celia: \\F[1]\\AA[F]Hayato! After visiting the grave, we're\ngoing to the priest's place."
                 ]
             },
             {
@@ -771,7 +771,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Celia \\F[1]\\AA[F]\\{Just drop dead, already!!!}"
+                    "Celia: \\F[1]\\AA[F]\\{Just drop dead, already!!!}"
                 ]
             },
             {
@@ -1440,7 +1440,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Celia \\F[1]\\AA[F] Ah, ah, that's right. Anyway, I had some\nbusiness at the church."
+                    "Celia: \\F[1]\\AA[F] Ah, ah, that's right. Anyway, I had some\nbusiness at the church."
                 ]
             },
             {
@@ -1495,7 +1495,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Celia \\F[1]\\AA[F] But she seemed busy, so maybe I'll come\nback later. I left something at the church though...."
+                    "Celia: \\F[1]\\AA[F] But she seemed busy, so maybe I'll come\nback later. I left something at the church though...."
                 ]
             },
             {
@@ -1529,7 +1529,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Celia \\F[1]\\AA[F] Eh, speaking of which, were you talking\nwith the priest earlier...?"
+                    "Celia: \\F[1]\\AA[F] Eh, speaking of which, were you talking\nwith the priest earlier...?"
                 ]
             },
             {

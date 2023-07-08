@@ -18324,14 +18324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Priest"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Oh, Me...Merill...! What brings you here today...?"
+                                "　Priest:  Oh, Me...Merill...! What brings you here today...?"
                             ]
                         },
                         {
@@ -18348,14 +18341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Merrill"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[2]\\AA[F]Don't worry, I don't need anything from you.\nYou've found the child I asked for before, haven't you?"
+                                "　Merrill:  \\F[2]\\AA[F]Don't worry, I don't need anything from\nyou. You've found the child I asked for before, haven't you?"
                             ]
                         },
                         {
@@ -18372,14 +18358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Priest"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Guh...\\c[14]Searching for the descendants of the\ngoddess\\c[0], huh. But, that is..."
+                                "　Priest:  Guh...\\c[14]Searching for the descendants of the\ngoddess\\c[0], huh. But, that is..."
                             ]
                         },
                         {
@@ -18396,14 +18375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Merrill"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[24]\\AA[F]If you can't tell me, then I'll have you\ndisappear. After all I've \\c[27]done for you\\c[0]... How\nungrateful, you clergyman."
+                                "　Merrill:  \\F[24]\\AA[F]If you can't tell me, then I'll have\nyou disappear. After all I've \\c[27]done for you\\c[0]... How\nungrateful, you clergyman."
                             ]
                         },
                         {
@@ -18420,14 +18392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Priest"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "I understand! I'll tell you! It's the blonde child who just\npassed by here. They moved here a year ago."
+                                "　Priest:  I understand! I'll tell you! It's the blonde child\nwho just passed by here. They moved here a year ago."
                             ]
                         },
                         {
@@ -18444,14 +18409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Priest"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "The person themselves is unaware, but I've confirmed that\ntheir magic power harbors divinity. Moreover, it's\nextraordinary! There's no doubt that they are of the\n\\c[14]goddess class\\c[0]...."
+                                "　Priest:  The person themselves is unaware, but I've\nconfirmed that their magic power harbors divinity. Moreover,\nit's extraordinary! There's no doubt that they are of the\n\\c[14]goddess class\\c[0]...."
                             ]
                         },
                         {
@@ -18468,14 +18426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Priest"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "However, the man who is always with that child, he is..."
+                                "　Priest:  However, the man who is always with that child, he\nis..."
                             ]
                         },
                         {
@@ -18492,14 +18443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Merrill"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[24]\\AA[F]？"
+                                "　Merrill:  \\F[24]\\AA[F]？"
                             ]
                         },
                         {
@@ -18516,14 +18460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Priest"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[14]He's the younger brother of the man who was called a\nhero during the great war\\c[0]...."
+                                "　Priest:  \\c[14]He's the younger brother of the man who was\ncalled a hero during the great war\\c[0]...."
                             ]
                         },
                         {
@@ -18540,14 +18477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Merrill"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[20]\\AA[F]Oh? That hero... huh. I couldn't see him\ndirectly, but to think that such a guy's younger brother is\nthe attendant...♡"
+                                "　Merrill:  \\F[20]\\AA[F]Oh? That hero... huh. I couldn't see\nhim directly, but to think that such a guy's younger brother\nis the attendant...♡"
                             ]
                         },
                         {
@@ -18564,14 +18494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "A hero... huh."
+                                "　？？？:  A hero... huh."
                             ]
                         },
                         {
@@ -18606,14 +18529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Priest"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "...You...!"
+                                "　Priest:  ...You...!"
                             ]
                         },
                         {
@@ -18630,14 +18546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Merrill"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[24]\\AA[F]Watch your mouth, perverted priest. It's Lady\nSadi."
+                                "　Merrill:  \\F[24]\\AA[F]Watch your mouth, perverted priest.\nIt's Lady Sadi."
                             ]
                         },
                         {
@@ -18654,14 +18563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Sadi"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Hehe.. Don't worry, Merill. I've obtained quite valuable\ninformation."
+                                "　Sadi:  Hehe.. Don't worry, Merill. I've obtained quite\nvaluable information."
                             ]
                         },
                         {
@@ -18678,14 +18580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Sadi"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "A 'hero' and a 'goddess'... Finding both at once is quite a\nstroke of luck, isn't it."
+                                "　Sadi:  A 'hero' and a 'goddess'... Finding both at once is\nquite a stroke of luck, isn't it."
                             ]
                         },
                         {
@@ -18702,14 +18597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Merrill"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[2]\\AA[F]Oh... Master Sadi, you're so generous...♡"
+                                "　Merrill:  \\F[2]\\AA[F]Oh... Master Sadi, you're so\ngenerous...♡"
                             ]
                         },
                         {
@@ -18794,14 +18682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Sadi"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "In addition, the child of the goddess is so lovely and\nbeautiful... I fell in love at first sight."
+                                "　Sadi:  In addition, the child of the goddess is so lovely\nand beautiful... I fell in love at first sight."
                             ]
                         },
                         {
@@ -18818,14 +18699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Sadi"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "It's presumptuous to think of an end. They must become a\npart of my \\c[27]harem\\c[0] and we must love each other.."
+                                "　Sadi:  It's presumptuous to think of an end. They must\nbecome a part of my \\c[27]harem\\c[0] and we must love each\nother.."
                             ]
                         },
                         {
@@ -18842,14 +18716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Merrill"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Master Sadi, you're such a...."
+                                "　Merrill:  Master Sadi, you're such a...."
                             ]
                         },
                         {
@@ -18866,14 +18733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Sadi"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Priest: I have a request."
+                                "　Sadi:  Priest: I have a request."
                             ]
                         },
                         {
@@ -18890,14 +18750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Priest"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Oh, a request...?"
+                                "　Priest:  Oh, a request...?"
                             ]
                         },
                         {
@@ -18914,14 +18767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Sadi"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Yes, there are two."
+                                "　Sadi:  Yes, there are two."
                             ]
                         },
                         {
@@ -19014,14 +18860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Priest"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Wait, wait a minute! The investigation isn't 100% complete\nyet, so this discussion is still..."
+                                "　Priest:  Wait, wait a minute! The investigation isn't 100%\ncomplete yet, so this discussion is still..."
                             ]
                         },
                         {
@@ -19038,14 +18877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Sadi"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Merill."
+                                "　Sadi:  Merill."
                             ]
                         },
                         {
@@ -19076,14 +18908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Merrill"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[25]\\AA[F]Yes, Master Sadi♡ Father... it's our 'usual'\ntime...♡"
+                                "　Merrill:  \\F[25]\\AA[F]Yes, Master Sadi♡ Father... it's our\n'usual' time...♡"
                             ]
                         },
                         {
@@ -19131,14 +18956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Priest"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Ugh!!! Meri....."
+                                "　Priest:  Ugh!!! Meri....."
                             ]
                         },
                         {
@@ -19257,14 +19075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Merrill"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Hehe... go ahead and feel good."
+                                "　Merrill:  Hehe... go ahead and feel good."
                             ]
                         },
                         {
@@ -19281,14 +19092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Merrill"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "You love this, don't you... Mister♡"
+                                "　Merrill:  You love this, don't you... Mister♡"
                             ]
                         },
                         {
@@ -19305,14 +19109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Priest"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Ohh♡Ngh! Me...Merill! It's intense......"
+                                "　Priest:  Ohh♡Ngh! Me...Merill! It's intense......"
                             ]
                         },
                         {
@@ -19329,14 +19126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Priest"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "I'm about to...!♡"
+                                "　Priest:  I'm about to...!♡"
                             ]
                         },
                         {
@@ -19353,14 +19143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Merrill"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Do you want to let it out? Then say it properly with\nwords...♡"
+                                "　Merrill:  Do you want to let it out? Then say it properly\nwith words...♡"
                             ]
                         },
                         {
@@ -19384,14 +19167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Merrill"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[27]Look into my eyes\\c[0] and properly say it...♡"
+                                "　Merrill:  \\c[27]Look into my eyes\\c[0] and properly say\nit...♡"
                             ]
                         },
                         {
@@ -19408,14 +19184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Priest"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "I-I'm going to... Ahh!!"
+                                "　Priest:  I-I'm going to... Ahh!!"
                             ]
                         },
                         {
@@ -19476,14 +19245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Merrill"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【\\c[27]Tempting Gaze\\c[0]】....♡"
+                                "　Merrill:  【\\c[27]Tempting Gaze\\c[0]】....♡"
                             ]
                         },
                         {
@@ -19672,14 +19434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Priest"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Haaaahhh!!♡"
+                                "　Priest:  Haaaahhh!!♡"
                             ]
                         },
                         {
@@ -19724,14 +19479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Priest"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "....................Lady Merill... I'm cumming♡"
+                                "　Priest:  ....................Lady Merill... I'm cumming♡"
                             ]
                         },
                         {
@@ -19748,14 +19496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Merrill"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Now, I've made you say it, Master Sadi... Just like always...♡"
+                                "　Merrill:  Now, I've made you say it, Master Sadi... Just\nlike always...♡"
                             ]
                         },
                         {
@@ -19772,14 +19513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Sadi"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Good job. Now, Father, about that favor.........."
+                                "　Sadi:  Good job. Now, Father, about that favor.........."
                             ]
                         },
                         {
@@ -20200,14 +19934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　One Year After the Great War"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "The Hero's Hometown Variante"
+                                "　One Year After the Great War:  The Hero's Hometown Variante"
                             ]
                         },
                         {
@@ -20224,14 +19951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[10]\\AA[F]...Haa. When will I say it..."
+                                "　Celia:  \\F[10]\\AA[F]...Haa. When will I say it..."
                             ]
                         },
                         {
@@ -20285,14 +20005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[1]\\AA[F]\\M[yes]Hayato! After visiting the grave, we're\ngoing to the priest's place."
+                                "　Celia:  \\F[1]\\AA[F]\\M[yes]Hayato! After visiting the grave,\nwe're going to the priest's place."
                             ]
                         },
                         {
@@ -20593,14 +20306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(I've always had a difficult personality and caused him a lot\nof trouble... Well, let's go."
+                                "　Celia:  (I've always had a difficult personality and caused\nhim a lot of trouble... Well, let's go."
                             ]
                         },
                         {
@@ -20763,14 +20469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ".....She seems to be talking to someone. I wonder if she's busy?"
+                                "　Celia:  .....She seems to be talking to someone. I wonder if\nshe's busy?"
                             ]
                         },
                         {
@@ -20834,14 +20533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "....Huh? You're saying she's a beautiful person?"
+                                "　Celia:  ....Huh? You're saying she's a beautiful person?"
                             ]
                         },
                         {
@@ -20904,14 +20596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[9]\\AA[F]\\M[shake]\\{You idiot, idiot, idiot!!!\\^"
+                                "　Celia:  \\F[9]\\AA[F]\\M[shake]\\{You idiot, idiot, idiot!!!\\^"
                             ]
                         },
                         {
@@ -21567,14 +21252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "What if he dislikes it... What if he says, You've suddenly\nbecome strange...!"
+                                "　Celia:  What if he dislikes it... What if he says, You've\nsuddenly become strange...!"
                             ]
                         },
                         {
@@ -21630,14 +21308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[10]\\AA[F]Ah, ah, that's right. Anyway, I had some\nbusiness at the church."
+                                "　Celia:  \\F[10]\\AA[F]Ah, ah, that's right. Anyway, I had some\nbusiness at the church."
                             ]
                         },
                         {
@@ -21692,14 +21363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[1]\\AA[F]But I was in the middle of something.... Maybe\nlater would be better."
+                                "　Celia:  \\F[1]\\AA[F]But I was in the middle of something....\nMaybe later would be better."
                             ]
                         },
                         {
@@ -21716,14 +21380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[1]\\AA[F]I left something important at the church, so if I\ncould just retrieve that..."
+                                "　Celia:  \\F[1]\\AA[F]I left something important at the church,\nso if I could just retrieve that..."
                             ]
                         },
                         {
@@ -21740,14 +21397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ".................."
+                                "　Celia:  .................."
                             ]
                         },
                         {
@@ -21764,14 +21414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Or rather, was that what you were discussing with the priest\nearlier......"
+                                "　Celia:  Or rather, was that what you were discussing with\nthe priest earlier......"
                             ]
                         },
                         {
@@ -21804,14 +21447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Could it be... a \\c[27]monster\\c[0]..."
+                                "　Celia:  Could it be... a \\c[27]monster\\c[0]..."
                             ]
                         },
                         {
@@ -21828,14 +21464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ".................."
+                                "　Celia:  .................."
                             ]
                         },
                         {
@@ -21857,14 +21486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Well, that's impossible. You were chatting with the priest\nin broad daylight, so it should be fine."
+                                "　Celia:  Well, that's impossible. You were chatting with the\npriest in broad daylight, so it should be fine."
                             ]
                         },
                         {

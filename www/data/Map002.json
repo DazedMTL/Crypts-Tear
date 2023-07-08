@@ -3139,14 +3139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[17]\\AA[F]This is...\\c[14]the Holy Sword\\c[0]?"
+                                "　Celia:  \\F[17]\\AA[F]This is...\\c[14]the Holy Sword\\c[0]?"
                             ]
                         },
                         {
@@ -3570,14 +3563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[17]\\AA[F]What...here."
+                                "　Celia:  \\F[17]\\AA[F]What...here."
                             ]
                         },
                         {
@@ -3594,14 +3580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[17]\\AA[F]When\\c[14] you said storage room, I thought it\nwould be a more confined place...."
+                                "　Celia:  \\F[17]\\AA[F]When\\c[14] you said storage room, I\nthought it would be a more confined place...."
                             ]
                         },
                         {
@@ -3669,14 +3648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "............Where's Hayato?"
+                                "　Celia:  ............Where's Hayato?"
                             ]
                         },
                         {
@@ -3857,14 +3829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[3]\\AA[F]Hayato!♡"
+                                "　Celia:  \\F[3]\\AA[F]Hayato!♡"
                             ]
                         },
                         {
@@ -3881,14 +3846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Hayato"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "A little...Celia. It's painful...!"
+                                "　Hayato:  A little...Celia. It's painful...!"
                             ]
                         },
                         {
@@ -3905,14 +3863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Anthurium"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Miss Celia! Lord Hayato!"
+                                "　Anthurium:  Miss Celia! Lord Hayato!"
                             ]
                         },
                         {
@@ -3969,14 +3920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[17]\\AA[F]....That is....."
+                                "　Celia:  \\F[17]\\AA[F]....That is....."
                             ]
                         },
                         {
@@ -4159,14 +4103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Anthurium"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "I'm glad you're safe...."
+                                "　Anthurium:  I'm glad you're safe...."
                             ]
                         },
                         {
@@ -4183,14 +4120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[3]\\AA[F]I'm glad you're safe too, An!"
+                                "　Celia:  \\F[3]\\AA[F]I'm glad you're safe too, An!"
                             ]
                         },
                         {
@@ -4207,14 +4137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[3]\\AA[F]Once Hayato crushes those guys with the\n\\c[14]Holy Sword\\c[0]... I'll make sure to return it\nproperly to the Spirit World or something."
+                                "　Celia:  \\F[3]\\AA[F]Once Hayato crushes those guys with the\n\\c[14]Holy Sword\\c[0]... I'll make sure to return it\nproperly to the Spirit World or something."
                             ]
                         },
                         {
@@ -4231,14 +4154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Anthurium"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "That's correct, in the Spirit World."
+                                "　Anthurium:  That's correct, in the Spirit World."
                             ]
                         },
                         {
@@ -4255,14 +4171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Hayato"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "..........."
+                                "　Hayato:  ..........."
                             ]
                         },
                         {
@@ -4330,14 +4239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Anthurium"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Lord Hayato...."
+                                "　Anthurium:  Lord Hayato...."
                             ]
                         },
                         {
@@ -4564,14 +4466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[1]\\AA[F]What's the matter, you're spacing out."
+                                "　Celia:  \\F[1]\\AA[F]What's the matter, you're spacing out."
                             ]
                         },
                         {
@@ -4700,14 +4595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[17]\\AA[F]...Wh, why!?"
+                                "　Celia:  \\F[17]\\AA[F]...Wh, why!?"
                             ]
                         },
                         {
@@ -4724,14 +4612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Anthurium"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "So it was... as I thought."
+                                "　Anthurium:  So it was... as I thought."
                             ]
                         },
                         {
@@ -4748,14 +4629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Anthurium"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[14]When my older brother came in the past...\\c[0]."
+                                "　Anthurium:  \\c[14]When my older brother came in the\npast...\\c[0]."
                             ]
                         },
                         {
@@ -4815,14 +4689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[17]\\AA[F]Anthurium mentioned it before, but \\c[14]what\nexactly is a 'compatible person'\\c[0] in the first place?"
+                                "　Celia:  \\F[17]\\AA[F]Anthurium mentioned it before, but\n\\c[14]what exactly is a 'compatible person'\\c[0] in the\nfirst place?"
                             ]
                         },
                         {
@@ -4839,14 +4706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[17]\\AA[F]On what basis is it determined who is\ncompatible?"
+                                "　Celia:  \\F[17]\\AA[F]On what basis is it determined who is\ncompatible?"
                             ]
                         },
                         {
@@ -4958,14 +4818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[36]\\AA[F]So that's how it was. I'm sorry. I got carried\naway thinking this will somehow work out...."
+                                "　Celia:  \\F[36]\\AA[F]So that's how it was. I'm sorry. I got\ncarried away thinking this will somehow work out...."
                             ]
                         },
                         {
@@ -4982,14 +4835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[36]\\AA[F]............"
+                                "　Celia:  \\F[36]\\AA[F]............"
                             ]
                         },
                         {
@@ -5006,14 +4852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[10]\\AA[F]I misunderstood. It wasn't that your brother's\nlineage was special, but his actions were admirable."
+                                "　Celia:  \\F[10]\\AA[F]I misunderstood. It wasn't that your\nbrother's lineage was special, but his actions were\nadmirable."
                             ]
                         },
                         {
@@ -5218,14 +5057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[36]\\AA[F]............"
+                                "　Celia:  \\F[36]\\AA[F]............"
                             ]
                         },
                         {
@@ -5263,14 +5095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[36]\\AA[F]\\c[14]Alright. Why is this so difficult to\nhandle... this."
+                                "　Celia:  \\F[36]\\AA[F]\\c[14]Alright. Why is this so difficult\nto handle... this."
                             ]
                         },
                         {
@@ -5397,14 +5222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[8]\\AA[F]Were you about to say sex just now? Stop it,\nAnthurium is here, isn't she."
+                                "　Celia:  \\F[8]\\AA[F]Were you about to say sex just now? Stop\nit, Anthurium is here, isn't she."
                             ]
                         },
                         {
@@ -5421,14 +5239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[8]\\AA[F]We can correct that from now on."
+                                "　Celia:  \\F[8]\\AA[F]We can correct that from now on."
                             ]
                         },
                         {
@@ -5500,14 +5311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[1]\\AA[F]Even if you say such a thing...!? Ah, but this is\namazing. This is dangerous. I can feel the power surging."
+                                "　Celia:  \\F[1]\\AA[F]Even if you say such a thing...!? Ah, but\nthis is amazing. This is dangerous. I can feel the power\nsurging."
                             ]
                         },
                         {
@@ -5827,14 +5631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[15]\\AA[F]Eek...."
+                                "　Celia:  \\F[15]\\AA[F]Eek...."
                             ]
                         },
                         {
@@ -5970,14 +5767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[15]\\AA[F]Hayato!!"
+                                "　Celia:  \\F[15]\\AA[F]Hayato!!"
                             ]
                         },
                         {
@@ -6221,14 +6011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Merrill"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Ahaha♡ Mr. Hero♡"
+                                "　Merrill:  Ahaha♡ Mr. Hero♡"
                             ]
                         },
                         {
@@ -6494,14 +6277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Merrill"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Big sis will make you feel all hot and bothered♡♡"
+                                "　Merrill:  Big sis will make you feel all hot and bothered♡♡"
                             ]
                         },
                         {
@@ -6902,14 +6678,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\F[40]\\AA[F]You pervert!!!"
+                                "　Celia:  \\F[40]\\AA[F]You pervert!!!"
                             ]
                         },
                         {
@@ -7017,14 +6786,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\F[15]\\AA[F]Heh, a surprise attack..."
+                                "　Celia:  \\F[15]\\AA[F]Heh, a surprise attack..."
                             ]
                         },
                         {
@@ -7113,14 +6875,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\F[35]\\AA[F]Ah........♡"
+                                "　Celia:  \\F[35]\\AA[F]Ah........♡"
                             ]
                         },
                         {
@@ -7171,14 +6926,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\F[35]\\AA[F]Hayato........♡"
+                                "　Celia:  \\F[35]\\AA[F]Hayato........♡"
                             ]
                         },
                         {
@@ -7351,14 +7099,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "........Haah♡ Haah♡... I can't take it anymore♡♡"
+                                "　Celia:  ........Haah♡ Haah♡... I can't take it anymore♡♡"
                             ]
                         },
                         {
@@ -7375,14 +7116,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　Kurone"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "No, Celia-chan. Bad girls who defy Master Sadi must be\ncorrupted to the bone marrow."
+                                "　Kurone:  No, Celia-chan. Bad girls who defy Master Sadi must\nbe corrupted to the bone marrow."
                             ]
                         },
                         {
@@ -7455,14 +7189,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　Kurone"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "【\\c[27]Charm\\c[0]】"
+                                "　Kurone:  【\\c[27]Charm\\c[0]】"
                             ]
                         },
                         {
@@ -7479,14 +7206,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "Another pleasurable sensation is coming!! Noo♡♡♡"
+                                "　Celia:  Another pleasurable sensation is coming!! Noo♡♡♡"
                             ]
                         },
                         {
@@ -7577,14 +7297,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\F[18]\\AA[F]There's no way I'm going to look now!!!"
+                                "　Celia:  \\F[18]\\AA[F]There's no way I'm going to look now!!!"
                             ]
                         },
                         {
@@ -7682,14 +7395,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\F[40]\\AA[F].........After messing with me so much...!! I'll\nnever forgive you...."
+                                "　Celia:  \\F[40]\\AA[F].........After messing with me so\nmuch...!! I'll never forgive you...."
                             ]
                         },
                         {
@@ -7757,14 +7463,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\{【\\c[14]Inferno\\c[0]】!!!"
+                                "　Celia:  \\{【\\c[14]Inferno\\c[0]】!!!"
                             ]
                         },
                         {
@@ -7840,14 +7539,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "...........Don't... don't come any closer... to the barrier!"
+                                "　Celia:  ...........Don't... don't come any closer... to the\nbarrier!"
                             ]
                         },
                         {
@@ -8249,14 +7941,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\F[40]\\AA[F].........You!!!"
+                                "　Celia:  \\F[40]\\AA[F].........You!!!"
                             ]
                         },
                         {
@@ -8896,7 +8581,7 @@
                                 13,
                                 0,
                                 4,
-                                "`目のやり場に...すごく困っている`"
+                                "`Im really struggling to find a place to look`"
                             ]
                         },
                         {
@@ -8929,7 +8614,7 @@
                                 8,
                                 0,
                                 4,
-                                "`ここから出て、ハヤトに想いを...伝える`"
+                                "`I will leave here and convey my feelings to Hayato`"
                             ]
                         },
                         {

@@ -3139,14 +3139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[17]\\AA[F]This is...\\c[14]the Holy Sword\\c[0]?"
+                                "　Celia:  \\F[17]\\AA[F]This is...\\c[14]the Holy Sword\\c[0]?"
                             ]
                         },
                         {
@@ -3509,14 +3502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[17]\\AA[F]What... is this place."
+                                "　Celia:  \\F[17]\\AA[F]What... is this place."
                             ]
                         },
                         {
@@ -3533,14 +3519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[17]\\AA[F]They said it was a \\c[14]storage \\c[0]room, so I\nthought it would be a more confined place...."
+                                "　Celia:  \\F[17]\\AA[F]They said it was a \\c[14]storage\n\\c[0]room, so I thought it would be a more confined\nplace...."
                             ]
                         },
                         {
@@ -3608,14 +3587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[17]\\AA[F]Huh...\\c[14]Where's \\c[0]Hayato?"
+                                "　Celia:  \\F[17]\\AA[F]Huh...\\c[14]Where's \\c[0]Hayato?"
                             ]
                         },
                         {
@@ -3641,14 +3613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Anthurium"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Miss Celia!"
+                                "　Anthurium:  Miss Celia!"
                             ]
                         },
                         {
@@ -3674,14 +3639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[17]\\AA[F]....What is that....."
+                                "　Celia:  \\F[17]\\AA[F]....What is that....."
                             ]
                         },
                         {
@@ -3826,14 +3784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Anthurium"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "I'm glad you're safe...."
+                                "　Anthurium:  I'm glad you're safe...."
                             ]
                         },
                         {
@@ -3850,14 +3801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[36]\\AA[F]Hey, do you know Hayato?"
+                                "　Celia:  \\F[36]\\AA[F]Hey, do you know Hayato?"
                             ]
                         },
                         {
@@ -3874,14 +3818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Anthurium"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "I don't know... Suddenly, I couldn't track his\nwhereabouts...."
+                                "　Anthurium:  I don't know... Suddenly, I couldn't track his\nwhereabouts...."
                             ]
                         },
                         {
@@ -3898,14 +3835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[36]\\AA[F]No way..."
+                                "　Celia:  \\F[36]\\AA[F]No way..."
                             ]
                         },
                         {
@@ -4121,14 +4051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[17]\\AA[F]This... certainly seems incredibly strong."
+                                "　Celia:  \\F[17]\\AA[F]This... certainly seems incredibly\nstrong."
                             ]
                         },
                         {
@@ -4145,14 +4068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Anthurium"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "That's right. However, as I've mentioned before, if you're\nnot a \\c[14]compatible person\\c[0], you can't even handle\nit."
+                                "　Anthurium:  That's right. However, as I've mentioned before,\nif you're not a \\c[14]compatible person\\c[0], you can't even\nhandle it."
                             ]
                         },
                         {
@@ -4169,14 +4085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[3]\\AA[F]Don't worry! After all, you're the hero's younger\nbrother! \\c[14]Alright... I'll hold it so I can hand it over\nimmediately\\c[0]"
+                                "　Celia:  \\F[3]\\AA[F]Don't worry! After all, you're the hero's\nyounger brother! \\c[14]Alright... I'll hold it so I can hand\nit over immediately\\c[0]"
                             ]
                         },
                         {
@@ -4489,14 +4398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[3]\\AA[F]Well then. Hurry up and come here, that guy."
+                                "　Celia:  \\F[3]\\AA[F]Well then. Hurry up and come here, that\nguy."
                             ]
                         },
                         {
@@ -4513,14 +4415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Anthurium"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "A, a, a, a, no............"
+                                "　Anthurium:  A, a, a, a, no............"
                             ]
                         },
                         {
@@ -4568,14 +4463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Huh? What's... Oh!! Hayato!!"
+                                "　Celia:  Huh? What's... Oh!! Hayato!!"
                             ]
                         },
                         {
@@ -4646,14 +4534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[3]\\AA[F]What took you so long!"
+                                "　Celia:  \\F[3]\\AA[F]What took you so long!"
                             ]
                         },
                         {
@@ -4670,14 +4551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Hayato"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Sorry, Celia. Were you worried?"
+                                "　Hayato:  Sorry, Celia. Were you worried?"
                             ]
                         },
                         {
@@ -4694,14 +4568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[17]\\AA[F]I-I wasn't worried.\\c[14] I trust you, after\nall\\c[0]."
+                                "　Celia:  \\F[17]\\AA[F]I-I wasn't worried.\\c[14] I trust you,\nafter all\\c[0]."
                             ]
                         },
                         {
@@ -4718,14 +4585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[3]\\AA[F]More importantly, look at this! This is the\n\\c[14]holy sword\\c[0] you were talking about, right!? Use\nthis to cut it down!"
+                                "　Celia:  \\F[3]\\AA[F]More importantly, look at this! This is\nthe \\c[14]holy sword\\c[0] you were talking about, right!?\nUse this to cut it down!"
                             ]
                         },
                         {
@@ -4742,14 +4602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[3]\\AA[F]Cut it down with this!"
+                                "　Celia:  \\F[3]\\AA[F]Cut it down with this!"
                             ]
                         },
                         {
@@ -4848,14 +4701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Hayato"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "More importantly, come over here. There's something really\nimportant."
+                                "　Hayato:  More importantly, come over here. There's something\nreally important."
                             ]
                         },
                         {
@@ -4872,14 +4718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[10]\\AA[F].....is that, Hayato?"
+                                "　Celia:  \\F[10]\\AA[F].....is that, Hayato?"
                             ]
                         },
                         {
@@ -4896,14 +4735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Hayato"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Can't you believe me? Hurry up and come."
+                                "　Hayato:  Can't you believe me? Hurry up and come."
                             ]
                         },
                         {
@@ -5150,14 +4982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[15]\\AA[F].......Ah.....!"
+                                "　Celia:  \\F[15]\\AA[F].......Ah.....!"
                             ]
                         },
                         {
@@ -5174,14 +4999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Merrill"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[23]\\AA[F]Nice, Hayato♡ We make a good team, don't we♡"
+                                "　Merrill:  \\F[23]\\AA[F]Nice, Hayato♡ We make a good team,\ndon't we♡"
                             ]
                         },
                         {
@@ -5418,14 +5236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[17]\\AA[F]This... It certainly seems incredibly strong."
+                                "　Celia:  \\F[17]\\AA[F]This... It certainly seems incredibly\nstrong."
                             ]
                         },
                         {
@@ -5442,14 +5253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Anthurium"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "That's right. However, as I mentioned before, if you're not\na \\c[14]compatible person\\c[0]..."
+                                "　Anthurium:  That's right. However, as I mentioned before, if\nyou're not a \\c[14]compatible person\\c[0]..."
                             ]
                         },
                         {
@@ -5466,14 +5270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[3]\\AA[F]Don't worry! After all, you're the hero's younger\nbrother! \\c[14]Alright... I'll hold onto it so I can hand it\nover immediately\\c[0]"
+                                "　Celia:  \\F[3]\\AA[F]Don't worry! After all, you're the hero's\nyounger brother! \\c[14]Alright... I'll hold onto it so I can\nhand it over immediately\\c[0]"
                             ]
                         },
                         {
@@ -5490,14 +5287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[10]\\AA[F]Wow, such incredible power is surging!! This is\ndangerous."
+                                "　Celia:  \\F[10]\\AA[F]Wow, such incredible power is surging!!\nThis is dangerous."
                             ]
                         },
                         {
@@ -5559,14 +5349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[3]\\AA[F]Well then. Hurry up and come here, that guy."
+                                "　Celia:  \\F[3]\\AA[F]Well then. Hurry up and come here, that\nguy."
                             ]
                         },
                         {
@@ -5583,14 +5366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Anthurium"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "A-a-a-aah............"
+                                "　Anthurium:  A-a-a-aah............"
                             ]
                         },
                         {
@@ -5638,14 +5414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[37]\\AA[F]An?"
+                                "　Celia:  \\F[37]\\AA[F]An?"
                             ]
                         },
                         {
@@ -5662,14 +5431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Anthurium"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "That...\\c[14]Holy Sword\\c[0]..."
+                                "　Anthurium:  That...\\c[14]Holy Sword\\c[0]..."
                             ]
                         },
                         {
@@ -5693,14 +5455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Anthurium"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{Only those who are compatible\\c[14] can touch it\\c[0]...."
+                                "　Anthurium:  \\{Only those who are compatible\\c[14] can touch\nit\\c[0]...."
                             ]
                         },
                         {
@@ -5744,14 +5499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[15]\\AA[F]................................. ..........But\nI'm holding it right now."
+                                "　Celia:  \\F[15]\\AA[F].................................\n..........But I'm holding it right now."
                             ]
                         },
                         {
@@ -5768,14 +5516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Anthurium"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "That Holy Sword! It was originally stored here as the\nultimate weapon to defeat the calamity of monsters!"
+                                "　Anthurium:  That Holy Sword! It was originally stored here\nas the ultimate weapon to defeat the calamity of monsters!"
                             ]
                         },
                         {
@@ -5792,14 +5533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Anthurium"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "But if anyone could touch it, it would certainly be misused.\nFrom such a thought, it was designed so that only those of\n'a certain lineage' could touch it...."
+                                "　Anthurium:  But if anyone could touch it, it would certainly\nbe misused. From such a thought, it was designed so that\nonly those of 'a certain lineage' could touch it...."
                             ]
                         },
                         {
@@ -5816,14 +5550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Anthurium"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{Only those who possess the 'Blood of the Hero'\\c[14]\\c[0]\ncan."
+                                "　Anthurium:  \\{Only those who possess the 'Blood of the\nHero'\\c[14]\\c[0] can."
                             ]
                         },
                         {
@@ -5840,14 +5567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[17]\\AA[F]...Huh? A hero?"
+                                "　Celia:  \\F[17]\\AA[F]...Huh? A hero?"
                             ]
                         },
                         {
@@ -5864,14 +5584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[17]\\AA[F]Does that mean... Hayato's older brother?"
+                                "　Celia:  \\F[17]\\AA[F]Does that mean... Hayato's older\nbrother?"
                             ]
                         },
                         {
@@ -5888,14 +5601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Anthurium"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Hayato's older brother...\\c[14] couldn't pull out the\n\\c[0]Holy Sword."
+                                "　Anthurium:  Hayato's older brother...\\c[14] couldn't pull\nout the \\c[0]Holy Sword."
                             ]
                         },
                         {
@@ -5921,14 +5627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[17]\\AA[F]So... that's why \\c[14]he couldn't take it from\nhere\\c[0]...? Then in the war, it wasn't even used to begin\nwith...."
+                                "　Celia:  \\F[17]\\AA[F]So... that's why \\c[14]he couldn't take\nit from here\\c[0]...? Then in the war, it wasn't even used\nto begin with...."
                             ]
                         },
                         {
@@ -6036,14 +5735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Merrill"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[24]\\AA[F]I've just witnessed an incredible sight... No\nwonder I thought it was strange."
+                                "　Merrill:  \\F[24]\\AA[F]I've just witnessed an incredible\nsight... No wonder I thought it was strange."
                             ]
                         },
                         {
@@ -6100,14 +5792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Merrill"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[24]\\AA[F]The young girl emotionally cast [Inferno]. That\nwas an attack far removed from the image of a\n\\c[14]goddess\\c[0]."
+                                "　Merrill:  \\F[24]\\AA[F]The young girl emotionally cast\n[Inferno]. That was an attack far removed from the image of\na \\c[14]goddess\\c[0]."
                             ]
                         },
                         {
@@ -6124,14 +5809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Merrill"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "But still....."
+                                "　Merrill:  But still....."
                             ]
                         },
                         {
@@ -6148,14 +5826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Merrill"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[25]\\AA[F]If you were not a '\\c[14]goddess\\c[0]', but a\n'\\c[14]hero\\c[0]', it would make sense."
+                                "　Merrill:  \\F[25]\\AA[F]If you were not a\n'\\c[14]goddess\\c[0]', but a '\\c[14]hero\\c[0]', it would make\nsense."
                             ]
                         },
                         {
@@ -6172,14 +5843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[37]\\AA[F].....！！"
+                                "　Celia:  \\F[37]\\AA[F].....！！"
                             ]
                         },
                         {
@@ -6196,14 +5860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Merrill"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[25]\\AA[F]I guess we have one more reason to settle this,\ndon't we?♡"
+                                "　Merrill:  \\F[25]\\AA[F]I guess we have one more reason to\nsettle this, don't we?♡"
                             ]
                         },
                         {
@@ -6333,14 +5990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Anthurium"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Miss Celia...!"
+                                "　Anthurium:  Miss Celia...!"
                             ]
                         },
                         {
@@ -6357,14 +6007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[37]\\AA[F].....I'm glad that you were the first one to\nappear when I grasped this sword."
+                                "　Celia:  \\F[37]\\AA[F].....I'm glad that you were the first\none to appear when I grasped this sword."
                             ]
                         },
                         {
@@ -6381,14 +6024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[37]\\AA[F].....Even more than Sadi...."
+                                "　Celia:  \\F[37]\\AA[F].....Even more than Sadi...."
                             ]
                         },
                         {
@@ -6414,14 +6050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[40]\\AA[F]You've made a fool out of me, haven't you!!"
+                                "　Celia:  \\F[40]\\AA[F]You've made a fool out of me, haven't\nyou!!"
                             ]
                         },
                         {
@@ -6560,14 +6189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Here I go!!"
+                                "　Celia:  Here I go!!"
                             ]
                         },
                         {
@@ -6708,14 +6330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[17]\\AA[F]........Huh! Was that just now....."
+                                "　Celia:  \\F[17]\\AA[F]........Huh! Was that just now....."
                             ]
                         },
                         {
@@ -6741,14 +6356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Merrill"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[23]\\AA[F]Nice, Hayato♡ We make a good team, don't we♡"
+                                "　Merrill:  \\F[23]\\AA[F]Nice, Hayato♡ We make a good team,\ndon't we♡"
                             ]
                         },
                         {
@@ -6783,14 +6391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[15]\\AA[F]Hayato!?"
+                                "　Celia:  \\F[15]\\AA[F]Hayato!?"
                             ]
                         },
                         {
@@ -6807,14 +6408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[15]\\AA[F]Why!? Why are you on that side!?"
+                                "　Celia:  \\F[15]\\AA[F]Why!? Why are you on that side!?"
                             ]
                         },
                         {
@@ -6831,14 +6425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Merrill"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[23]\\AA[F]You still don't understand?"
+                                "　Merrill:  \\F[23]\\AA[F]You still don't understand?"
                             ]
                         },
                         {
@@ -6890,14 +6477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Merrill"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "We're in this kind of relationship, you know♡ Right,\nHayato♡?"
+                                "　Merrill:  We're in this kind of relationship, you know♡\nRight, Hayato♡?"
                             ]
                         },
                         {
@@ -6914,14 +6494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Hayato"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "............\\c[27]Big sis\\c[0], it's tough♡"
+                                "　Hayato:  ............\\c[27]Big sis\\c[0], it's tough♡"
                             ]
                         },
                         {
@@ -6938,14 +6511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "No way... Hayato... Hayato!!"
+                                "　Celia:  No way... Hayato... Hayato!!"
                             ]
                         },
                         {
@@ -6978,14 +6544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Hayato"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Celia, drop your weapon. If you do, I guarantee your life!"
+                                "　Hayato:  Celia, drop your weapon. If you do, I guarantee\nyour life!"
                             ]
                         },
                         {
@@ -7002,14 +6561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Hayato"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Big sis wants that.."
+                                "　Hayato:  Big sis wants that.."
                             ]
                         },
                         {
@@ -7114,14 +6666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[39]\\AA[F]Shut up, shut up, shut up!!"
+                                "　Celia:  \\F[39]\\AA[F]Shut up, shut up, shut up!!"
                             ]
                         },
                         {
@@ -7393,14 +6938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Ha...ya...to..."
+                                "　Celia:  Ha...ya...to..."
                             ]
                         },
                         {
@@ -7494,14 +7032,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Sadi"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Both of you have worked hard."
+                                "　Sadi:  Both of you have worked hard."
                             ]
                         },
                         {
@@ -7518,14 +7049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Sadi"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Especially Hayato... It seems he has acquired a new skill."
+                                "　Sadi:  Especially Hayato... It seems he has acquired a new\nskill."
                             ]
                         },
                         {
@@ -7559,14 +7083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Sadi"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Leave the rest to me...♡♡"
+                                "　Sadi:  Leave the rest to me...♡♡"
                             ]
                         },
                         {
@@ -7842,14 +7359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[17]\\AA[F]This... certainly seems incredibly strong."
+                                "　Celia:  \\F[17]\\AA[F]This... certainly seems incredibly\nstrong."
                             ]
                         },
                         {
@@ -7866,14 +7376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Anthurium"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "That's right. However, as I've mentioned before, if you're\nnot a \\c[14]compatible person\\c[0]..."
+                                "　Anthurium:  That's right. However, as I've mentioned before,\nif you're not a \\c[14]compatible person\\c[0]..."
                             ]
                         },
                         {
@@ -7902,14 +7405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[3]\\AA[F]Don't worry! After all, you're the hero's younger\nbrother! \\c[14]Alright... I'll hold onto it so I can hand it\nover immediately\\c[0]"
+                                "　Celia:  \\F[3]\\AA[F]Don't worry! After all, you're the hero's\nyounger brother! \\c[14]Alright... I'll hold onto it so I can\nhand it over immediately\\c[0]"
                             ]
                         },
                         {
@@ -7935,14 +7431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[10]\\AA[F]Wow, such incredible power is surging!! This is\ndangerous."
+                                "　Celia:  \\F[10]\\AA[F]Wow, such incredible power is surging!!\nThis is dangerous."
                             ]
                         },
                         {
@@ -8004,14 +7493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[3]\\AA[F]Well then. Hurry up and come here, that guy."
+                                "　Celia:  \\F[3]\\AA[F]Well then. Hurry up and come here, that\nguy."
                             ]
                         },
                         {
@@ -8028,14 +7510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Anthurium"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "A-a-a-aah............"
+                                "　Anthurium:  A-a-a-aah............"
                             ]
                         },
                         {
@@ -8083,14 +7558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[37]\\AA[F]An?"
+                                "　Celia:  \\F[37]\\AA[F]An?"
                             ]
                         },
                         {
@@ -8107,14 +7575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Anthurium"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "That...\\c[14]Holy Sword\\c[0]..."
+                                "　Anthurium:  That...\\c[14]Holy Sword\\c[0]..."
                             ]
                         },
                         {
@@ -8138,14 +7599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Anthurium"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{Only those who are compatible\\c[14] can touch it\\c[0]...."
+                                "　Anthurium:  \\{Only those who are compatible\\c[14] can touch\nit\\c[0]...."
                             ]
                         },
                         {
@@ -8189,14 +7643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[15]\\AA[F]................................. ..........But\nI'm holding it right now."
+                                "　Celia:  \\F[15]\\AA[F].................................\n..........But I'm holding it right now."
                             ]
                         },
                         {
@@ -8213,14 +7660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Anthurium"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "That Holy Sword! It was originally stored here as the\nultimate weapon to defeat the calamity of monsters!"
+                                "　Anthurium:  That Holy Sword! It was originally stored here\nas the ultimate weapon to defeat the calamity of monsters!"
                             ]
                         },
                         {
@@ -8237,14 +7677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Anthurium"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "But if anyone could touch it, it would definitely be\nmisused. From such a thought, it was designed so that only\nthose of 'a certain lineage' could touch it...."
+                                "　Anthurium:  But if anyone could touch it, it would\ndefinitely be misused. From such a thought, it was designed\nso that only those of 'a certain lineage' could touch it...."
                             ]
                         },
                         {
@@ -8261,14 +7694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Anthurium"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Only those who are of 'the lineage of the hero who saved the\nworld in ancient times' can touch it!"
+                                "　Anthurium:  Only those who are of 'the lineage of the hero\nwho saved the world in ancient times' can touch it!"
                             ]
                         },
                         {
@@ -8294,14 +7720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[17]\\AA[F]...Huh? A hero?"
+                                "　Celia:  \\F[17]\\AA[F]...Huh? A hero?"
                             ]
                         },
                         {
@@ -8318,14 +7737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[17]\\AA[F]Does that mean... Hayato's older brother?"
+                                "　Celia:  \\F[17]\\AA[F]Does that mean... Hayato's older\nbrother?"
                             ]
                         },
                         {
@@ -8351,14 +7763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Anthurium"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Hayato's older brother...\\c[14] couldn't pull out the\n\\c[0]Holy Sword."
+                                "　Anthurium:  Hayato's older brother...\\c[14] couldn't pull\nout the \\c[0]Holy Sword."
                             ]
                         },
                         {
@@ -8375,14 +7780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Anthurium"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "I believe... it's not about lineage, but perhaps he was\ncalled a hero because of his wonderful deeds...."
+                                "　Anthurium:  I believe... it's not about lineage, but perhaps\nhe was called a hero because of his wonderful deeds...."
                             ]
                         },
                         {
@@ -8399,14 +7797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[15]\\AA[F]Wait, wait, wait... I can't quite grasp the\nsituation!"
+                                "　Celia:  \\F[15]\\AA[F]Wait, wait, wait... I can't quite grasp\nthe situation!"
                             ]
                         },
                         {
@@ -8423,14 +7814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[15]\\AA[F](I'm...\\c[14]the compatible one\\c[0]!?)"
+                                "　Celia:  \\F[15]\\AA[F](I'm...\\c[14]the compatible one\\c[0]!?)"
                             ]
                         },
                         {
@@ -8456,14 +7840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[17]\\AA[F]But, I see... The mystery of the story I heard\nin Ann's room has been solved.... After using it in the war,\nsomeone didn't come here to return the \\c[14]Holy\nSword\\c[0]...."
+                                "　Celia:  \\F[17]\\AA[F]But, I see... The mystery of the story I\nheard in Ann's room has been solved.... After using it in\nthe war, someone didn't come here to return the \\c[14]Holy\nSword\\c[0]...."
                             ]
                         },
                         {
@@ -8480,14 +7857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[17]\\AA[F]To begin with, \\c[14]they couldn't take \\c[0]it.\nSuch a powerful weapon...."
+                                "　Celia:  \\F[17]\\AA[F]To begin with, \\c[14]they couldn't take\n\\c[0]it. Such a powerful weapon...."
                             ]
                         },
                         {
@@ -8504,14 +7874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[10]\\AA[F](The human side was fighting in the war with\nquite a handicap, huh...)"
+                                "　Celia:  \\F[10]\\AA[F](The human side was fighting in the war\nwith quite a handicap, huh...)"
                             ]
                         },
                         {
@@ -8636,14 +7999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Merrill"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[24]\\AA[F]I ended up seeing quite an amazing\nsight...\\c[14]Touching the Holy Sword\\c[0]. No wonder I\nthought it was strange."
+                                "　Merrill:  \\F[24]\\AA[F]I ended up seeing quite an amazing\nsight...\\c[14]Touching the Holy Sword\\c[0]. No wonder I\nthought it was strange."
                             ]
                         },
                         {
@@ -8700,14 +8056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Merrill"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[24]\\AA[F]The young girl emotionally cast [Inferno]. That\nwas an aggressiveness far removed from the image of a\n\\c[14]goddess\\c[0]."
+                                "　Merrill:  \\F[24]\\AA[F]The young girl emotionally cast\n[Inferno]. That was an aggressiveness far removed from the\nimage of a \\c[14]goddess\\c[0]."
                             ]
                         },
                         {
@@ -8724,14 +8073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Merrill"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "But still....."
+                                "　Merrill:  But still....."
                             ]
                         },
                         {
@@ -8809,14 +8151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Merrill"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[25]\\AA[F]If you were not the '\\c[14]goddess\\c[0]', but\nthe '\\c[14]hero\\c[0]', it would make sense."
+                                "　Merrill:  \\F[25]\\AA[F]If you were not the\n'\\c[14]goddess\\c[0]', but the '\\c[14]hero\\c[0]', it would\nmake sense."
                             ]
                         },
                         {
@@ -8833,14 +8168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[37]\\AA[F].....！！"
+                                "　Celia:  \\F[37]\\AA[F].....！！"
                             ]
                         },
                         {
@@ -8857,14 +8185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Merrill"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[25]\\AA[F]I guess we have one more reason to settle this,\ndon't we?♡"
+                                "　Merrill:  \\F[25]\\AA[F]I guess we have one more reason to\nsettle this, don't we?♡"
                             ]
                         },
                         {
@@ -8994,14 +8315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Anthurium"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Miss Celia...!"
+                                "　Anthurium:  Miss Celia...!"
                             ]
                         },
                         {
@@ -9018,14 +8332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[37]\\AA[F].....I'm glad that you were the first one to\nappear when I grasped this sword."
+                                "　Celia:  \\F[37]\\AA[F].....I'm glad that you were the first\none to appear when I grasped this sword."
                             ]
                         },
                         {
@@ -9042,14 +8349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[37]\\AA[F].....Even more than Sadi...."
+                                "　Celia:  \\F[37]\\AA[F].....Even more than Sadi...."
                             ]
                         },
                         {
@@ -9075,14 +8375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[40]\\AA[F]You did make a fool out of me, didn't you!!"
+                                "　Celia:  \\F[40]\\AA[F]You did make a fool out of me, didn't\nyou!!"
                             ]
                         },
                         {
@@ -9221,14 +8514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Here I go!!"
+                                "　Celia:  Here I go!!"
                             ]
                         },
                         {
@@ -9385,14 +8671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[17]\\AA[F]........Huh! Was that just now....."
+                                "　Celia:  \\F[17]\\AA[F]........Huh! Was that just now....."
                             ]
                         },
                         {
@@ -9418,14 +8697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Merrill"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[23]\\AA[F]Nice, Hayato♡ We make a good team, don't we♡"
+                                "　Merrill:  \\F[23]\\AA[F]Nice, Hayato♡ We make a good team,\ndon't we♡"
                             ]
                         },
                         {
@@ -9460,14 +8732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[15]\\AA[F]Hayato!?"
+                                "　Celia:  \\F[15]\\AA[F]Hayato!?"
                             ]
                         },
                         {
@@ -9484,14 +8749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[15]\\AA[F]Why!? Why are you on that side!?"
+                                "　Celia:  \\F[15]\\AA[F]Why!? Why are you on that side!?"
                             ]
                         },
                         {
@@ -9528,14 +8786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Merrill"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[23]\\AA[F]You still don't understand?"
+                                "　Merrill:  \\F[23]\\AA[F]You still don't understand?"
                             ]
                         },
                         {
@@ -9587,14 +8838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Merrill"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "We're in this kind of relationship, aren't we♡ Right,\nHayato♡"
+                                "　Merrill:  We're in this kind of relationship, aren't we♡\nRight, Hayato♡"
                             ]
                         },
                         {
@@ -9611,14 +8855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Hayato"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "............\\c[27]Big sister\\c[0], it's painful♡"
+                                "　Hayato:  ............\\c[27]Big sister\\c[0], it's painful♡"
                             ]
                         },
                         {
@@ -9635,14 +8872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "No way... Hayato... Hayato!!"
+                                "　Celia:  No way... Hayato... Hayato!!"
                             ]
                         },
                         {
@@ -9675,14 +8905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Hayato"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Celia, drop your weapon. If you do, I guarantee your life!"
+                                "　Hayato:  Celia, drop your weapon. If you do, I guarantee\nyour life!"
                             ]
                         },
                         {
@@ -9699,14 +8922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Hayato"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Big sister, that's what she desires.."
+                                "　Hayato:  Big sister, that's what she desires.."
                             ]
                         },
                         {
@@ -9802,14 +9018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[39]\\AA[F]Shut up, shut up, shut up!!"
+                                "　Celia:  \\F[39]\\AA[F]Shut up, shut up, shut up!!"
                             ]
                         },
                         {
@@ -9826,14 +9035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[39]\\AA[F]While I was working hard searching for the code,\nwhat kind of relationship were you building, you idiot!!!"
+                                "　Celia:  \\F[39]\\AA[F]While I was working hard searching for\nthe code, what kind of relationship were you building, you\nidiot!!!"
                             ]
                         },
                         {
@@ -9850,14 +9052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Haah....haah..."
+                                "　Celia:  Haah....haah..."
                             ]
                         },
                         {
@@ -9874,14 +9069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[39]\\AA[F]\\{I hate you! I hate all of you!!"
+                                "　Celia:  \\F[39]\\AA[F]\\{I hate you! I hate all of you!!"
                             ]
                         },
                         {
@@ -10195,14 +9383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Hayato"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "......."
+                                "　Hayato:  ......."
                             ]
                         },
                         {
@@ -10219,14 +9400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Merrill"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Ahahaha! Hayato, you're so merciless♡"
+                                "　Merrill:  Ahahaha! Hayato, you're so merciless♡"
                             ]
                         },
                         {
@@ -10243,14 +9417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Merrill"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Even if she has the holy sword, there's no way a little girl\nwho hasn't trained could be a match for us, right?♡"
+                                "　Merrill:  Even if she has the holy sword, there's no way a\nlittle girl who hasn't trained could be a match for us,\nright?♡"
                             ]
                         },
                         {
@@ -10267,14 +9434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Ha...ya...to..."
+                                "　Celia:  Ha...ya...to..."
                             ]
                         },
                         {
@@ -10291,14 +9451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Anthurium"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Miss Celia! You're bleeding..."
+                                "　Anthurium:  Miss Celia! You're bleeding..."
                             ]
                         },
                         {
@@ -10315,14 +9468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Ugh... I'm sorry..... An.... I'm sorry...."
+                                "　Celia:  Ugh... I'm sorry..... An.... I'm sorry...."
                             ]
                         },
                         {
@@ -10339,14 +9485,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "I couldn't... return you... to the free world outside..."
+                                "　Celia:  I couldn't... return you... to the free world\noutside..."
                             ]
                         },
                         {
@@ -10464,14 +9603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Sadi"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Both of you have worked hard."
+                                "　Sadi:  Both of you have worked hard."
                             ]
                         },
                         {
@@ -10488,14 +9620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Sadi"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Anthurium: You also did a great job playing the fool♡"
+                                "　Sadi:  Anthurium: You also did a great job playing the fool♡"
                             ]
                         },
                         {
@@ -10512,14 +9637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Anthurium"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Tch, that's not true!! I'm not a... clown..."
+                                "　Anthurium:  Tch, that's not true!! I'm not a... clown..."
                             ]
                         },
                         {
@@ -10536,14 +9654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Sadi"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "I'll... take care of you... properly later, okay?"
+                                "　Sadi:  I'll... take care of you... properly later, okay?"
                             ]
                         },
                         {
@@ -10560,14 +9671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Sadi"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "..............."
+                                "　Sadi:  ..............."
                             ]
                         },
                         {
@@ -10584,14 +9688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Sadi"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Hayato... It seems you've acquired a new technique. I felt a\nwonderful aura of evil♡"
+                                "　Sadi:  Hayato... It seems you've acquired a new technique. I\nfelt a wonderful aura of evil♡"
                             ]
                         },
                         {
@@ -10625,14 +9722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Merrill"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Hey, Master Sadi♡ Can I have a \\c[27]victory celebration\\c[0]\nwith Hayato?♡"
+                                "　Merrill:  Hey, Master Sadi♡ Can I have a \\c[27]victory\ncelebration\\c[0] with Hayato?♡"
                             ]
                         },
                         {
@@ -10649,14 +9739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Sadi"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Yes, of course. I'll leave the rest to you...♡♡"
+                                "　Sadi:  Yes, of course. I'll leave the rest to you...♡♡"
                             ]
                         },
                         {
@@ -11106,7 +10189,7 @@
                                 13,
                                 0,
                                 4,
-                                "`目のやり場に...すごく困っている`"
+                                "`Im really struggling with where to look`"
                             ]
                         },
                         {
@@ -11139,7 +10222,7 @@
                                 8,
                                 0,
                                 4,
-                                "`ここから出て、ハヤトに想いを...伝える`"
+                                "`Leave here and convey your feelings to Hayato`"
                             ]
                         },
                         {

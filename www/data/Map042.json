@@ -1551,14 +1551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Let's go home, Hayato."
+                                "　Celia:  Let's go home, Hayato."
                             ]
                         },
                         {
@@ -2742,7 +2735,7 @@
                                 12,
                                 0,
                                 4,
-                                "'Ill leave the management of this child to you Lord Sadi..♡'"
+                                "'Leave this childs management to me Lord Sadi..♡'"
                             ]
                         },
                         {
@@ -2753,7 +2746,7 @@
                                 13,
                                 0,
                                 4,
-                                "`目のやり場に...すごく困っている`"
+                                "`Im really struggling to find a place to look`"
                             ]
                         },
                         {
@@ -2786,7 +2779,7 @@
                                 8,
                                 0,
                                 4,
-                                "`ここから出て、ハヤトに想いを...伝える`"
+                                "`I will leave here and convey my feelings to Hayato`"
                             ]
                         },
                         {

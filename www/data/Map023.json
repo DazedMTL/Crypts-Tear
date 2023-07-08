@@ -1427,14 +1427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Soldier 2"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Alright.. I've decided. After defeating the monster... I\nwill... to that girl...."
+                                "　Soldier 2:  Alright.. I've decided. After defeating the\nmonster... I will... to that girl...."
                             ]
                         },
                         {
@@ -2074,7 +2067,7 @@
                                 13,
                                 0,
                                 4,
-                                "`目のやり場に...すごく困っている`"
+                                "`Im really struggling with where to look`"
                             ]
                         },
                         {
@@ -2107,7 +2100,7 @@
                                 8,
                                 0,
                                 4,
-                                "`ここから出て、ハヤトに想いを...伝える`"
+                                "`I will leave here and convey my feelings to Hayato`"
                             ]
                         },
                         {

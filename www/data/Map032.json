@@ -3662,7 +3662,7 @@
                                 8,
                                 0,
                                 4,
-                                "`頼みの千里眼も不発...どうしたら。`"
+                                "`My reliable clairvoyance has failed what should I do?`"
                             ]
                         },
                         {
@@ -3673,7 +3673,7 @@
                                 21,
                                 0,
                                 4,
-                                "`親友以上恋人未満`"
+                                "`More than friends, less than lovers`"
                             ]
                         },
                         {
@@ -3684,7 +3684,7 @@
                                 22,
                                 0,
                                 4,
-                                "`変な気分にさせる魔物`"
+                                "`A monster that makes you feel strange`"
                             ]
                         },
                         {
@@ -3708,7 +3708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【２人の心】セリアに変化"
+                                "[Two Hearts] Changes in Celia"
                             ]
                         },
                         {
@@ -3725,14 +3725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[10]\\AA[F]でも...最後の暗号はどうやったら見つかるんだろう。"
+                                "　Celia: \\F[10]\\AA[F] But... I wonder how we can find the last\ncode."
                             ]
                         },
                         {
@@ -3749,21 +3742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[36]\\AA[F]【クレヤボアンス（千里眼）】も結局身に付けられなかったし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か無駄な時間過ごした気がするわ。"
+                                "　Celia: \\F[36]\\AA[F] I couldn't manage to acquire the\n【Clairvoyance】 in the end, it feels like I've wasted my\ntime."
                             ]
                         },
                         {
@@ -3780,7 +3759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\}.....セリア嬢"
+                                "\\}.....Miss Celia"
                             ]
                         },
                         {
@@ -3806,14 +3785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　セリア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[17]\\AA[F]こ、この声って...！！"
+                                "　Celia: \\F[17]\\AA[F]Th-this voice...!!"
                             ]
                         },
                         {
@@ -3848,14 +3820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アンスリウム"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こちらですノ"
+                                "　Anthurium: Here it is."
                             ]
                         },
                         {
@@ -4335,7 +4300,7 @@
                                 8,
                                 0,
                                 4,
-                                "`ここから出て、ハヤトに想いを...伝える`"
+                                "`I will leave here and convey my feelings to Hayato`"
                             ]
                         },
                         {
@@ -4379,7 +4344,7 @@
                                 12,
                                 0,
                                 4,
-                                "'Ill leave the management of this child to you Lord Sadi..♡'"
+                                "'Leave this childs management to me Lord Sadi..♡'"
                             ]
                         },
                         {
@@ -4390,7 +4355,7 @@
                                 13,
                                 0,
                                 4,
-                                "`目のやり場に...すごく困っている`"
+                                "`Im really struggling with where to look`"
                             ]
                         },
                         {
@@ -4423,7 +4388,7 @@
                                 8,
                                 0,
                                 4,
-                                "`ここから出て、ハヤトに想いを...伝える`"
+                                "`I will leave here and convey my feelings to Hayato`"
                             ]
                         },
                         {
@@ -5177,14 +5142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[3]\\AA[F]Um... Didn't you return to the spirit world?"
+                                "　Celia:  \\F[3]\\AA[F]Um... Didn't you return to the spirit\nworld?"
                             ]
                         },
                         {
@@ -5221,14 +5179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Anthurium"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "I intended to, but... It seems like some sort of mechanism\nis preventing me from leaving this place."
+                                "　Anthurium:  I intended to, but... It seems like some sort of\nmechanism is preventing me from leaving this place."
                             ]
                         },
                         {
@@ -5254,14 +5205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[1]\\AA[F]Mechanism?"
+                                "　Celia:  \\F[1]\\AA[F]Mechanism?"
                             ]
                         },
                         {
@@ -5278,14 +5222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Anthurium"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "There's a powerful barrier in place. Probably, only Lady\nSadi and Lady Merill can leave easily."
+                                "　Anthurium:  There's a powerful barrier in place. Probably,\nonly Lady Sadi and Lady Merill can leave easily."
                             ]
                         },
                         {
@@ -5302,14 +5239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[10]\\AA[F]I see... Do you have any idea how to deactivate\nit?"
+                                "　Celia:  \\F[10]\\AA[F]I see... Do you have any idea how to\ndeactivate it?"
                             ]
                         },
                         {
@@ -5326,14 +5256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Anthurium"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "...I don't know. That's why I... \\c[14]was searching for the\nweapons storage room\\c[0]."
+                                "　Anthurium:  ...I don't know. That's why I... \\c[14]was\nsearching for the weapons storage room\\c[0]."
                             ]
                         },
                         {
@@ -5350,14 +5273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Anthurium"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "The \\c[14]storage room\\c[0], which used to be Anthurium's\nold haunt, is not affected by this spell... That's why there\nshould be a clue to escape there."
+                                "　Anthurium:  The \\c[14]storage room\\c[0], which used to be\nAnthurium's old haunt, is not affected by this spell...\nThat's why there should be a clue to escape there."
                             ]
                         },
                         {
@@ -5383,14 +5299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F\\c\\AA[F]\\c[14]Weapons\\c[0]...."
+                                "　Celia:  \\F\\c\\AA[F]\\c[14]Weapons\\c[0]...."
                             ]
                         },
                         {
@@ -5407,14 +5316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[10]\\AA[F](\\c[14]If Hayato were here, \\c[0] he could\nprobably handle those weapons. If that were the case...)"
+                                "　Celia:  \\F[10]\\AA[F](\\c[14]If Hayato were here, \\c[0] he\ncould probably handle those weapons. If that were the\ncase...)"
                             ]
                         },
                         {
@@ -5431,14 +5333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Anthurium"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Are you thinking of having Lord Hayato forcefully break\nthrough?"
+                                "　Anthurium:  Are you thinking of having Lord Hayato\nforcefully break through?"
                             ]
                         },
                         {
@@ -5455,14 +5350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[15]\\AA[F]Don't read my mind! I was also frustrated\nbecause I was stuck searching for the code...."
+                                "　Celia:  \\F[15]\\AA[F]Don't read my mind! I was also\nfrustrated because I was stuck searching for the code...."
                             ]
                         },
                         {
@@ -5488,14 +5376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[10]\\AA[F]......................"
+                                "　Celia:  \\F[10]\\AA[F]......................"
                             ]
                         },
                         {
@@ -5512,14 +5393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Celia"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[10]\\AA[F]..........Hey, Anthurium. Shall we go to the\nlibrary for a bit? I want to clear my head."
+                                "　Celia:  \\F[10]\\AA[F]..........Hey, Anthurium. Shall we go to\nthe library for a bit? I want to clear my head."
                             ]
                         },
                         {
@@ -5545,14 +5419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Anthurium"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Eh, eh?"
+                                "　Anthurium:  Eh, eh?"
                             ]
                         },
                         {
@@ -5605,7 +5472,7 @@
                                 8,
                                 0,
                                 4,
-                                "`知ってるヒトに会うと安心するわね...。アンはヒトじゃないけど...。`"
+                                "`Its comforting to meet someone you know Even though Ann isnt a person`"
                             ]
                         },
                         {
@@ -5704,14 +5571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Anthurium"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "I'm going to the library."
+                                "　Anthurium:  I'm going to the library."
                             ]
                         },
                         {
